@@ -1,0 +1,28 @@
+C:\Users\Hans\Dropbox\Experts
+Brad Westfall, Css, https://github.com/bradwestfall, bradwestfall.com 
+Rachael Andrew, Css workshop, https://thecssworkshop.com gridbyexample.com, rachelandrew.co.uk 
+igalia, https://github.com/igalia, css, igalia.com 
+Rebecca Murphey, Js, https://github.com/rmurphey/js-assessment 
+Manuel Rego, Css grid layout, https://github.com/igalia 
+Bocoup LLC, Data Visualization, https://bocoup.com 
+Speros Misirlakis, Angular 2 Todo, https://www.github.com/keephopealive 
+Andrew Conway, Statistics with R, https://www.datacamp.com/courses/intro-to-statistics-with-r-introduction  
+Microsoft Virtual Academy, Online Learning, https://www.github.com/MicrosoftLearning 
+tobias sahlin, jekyll animated menu, tobiasahlin.com 
+chris thielen, angular 1.5 ui router, https://www.github.com/christopherthielen, C:\Users\Hans\Web\frontend\platform\js\angular15\ngair-2016-07-12-chris-thielen
+andres dominguez, angular 2 protractor,https://www.github.com/andresdominguez,angular2-band-app ,C:\Users\Hans\Web\frontend\platform\js\angular20\guest-card-app-andres-dominguez, https://www.youtube.com/watch?v=aK3BWiK2Tek&list=PLfjwPwD4buB6uOFMe_7d9FS0JIBq5MC9V
+jake ginnivan, react-universal urban-plan,https://github.com/jakeginnivan/webpack-react-starter 
+angularcamo.org 2016 
+maxim salnikov, anguar2 css grid layout, https://github.com/webmaxru 
+angular 2 mobile, mobile offline progressive web app, mobile.angular.io 
+raganwald braithwaite, javascript allonge es6,C:\Users\Hans\Web\frontend\platform\js\es6\javascript-allonge-es6 
+bulma.io, flexbox framework, bulma.io 
+Todd McLoyd, web bootcamp, https://github.com/GoesToEleven/SummerBootCamp 
+ari lerner, fullstack.io fullstackreact, https://github.com/fullstackreact 
+henrik joreteg, webpack react,https://github.com/HenrikJoreteg 
+gerard sans, rxjs 5 angular2, https://gitbhub.com/gsans 
+alex booker, react poll app andvote,https://github.com/alexbooker 
+brian muenzenmeyer, css patterns pattern-lab-node,https://github.com/bmuenzenmeyer 
+dan abramov, redux redux-tools,https://github.com/gaearon/ 
+francisco ferreira,functional programming typescript functional, https://github.com/fmsf 
+Peleke Sengstacke, typescript es6,https://github.com/Peleke 
