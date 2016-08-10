@@ -26,3 +26,13 @@ brian muenzenmeyer, css patterns pattern-lab-node,https://github.com/bmuenzenmey
 dan abramov, redux redux-tools,https://github.com/gaearon/ 
 francisco ferreira,functional programming typescript functional, https://github.com/fmsf 
 Peleke Sengstacke, typescript es6,https://github.com/Peleke 
+modernwebui.org, react rx ember, 
+create-react-app, dan abramov cli for react 
+arvind ravalavaru, ionic 2 angular eduonix,https://github.com/arvindr21 
+indermohan singh, ionic,https://github.com/imsingh 
+andrew mcgivery, ionic, http://mcgivery.com/ 
+horizon, real-time opensource backend for js apps,https://github.com/mlynch/horizon 
+Ashteya Biharisingh, ionic 2, Ashteya Biharisingh  
+max lynch,ionic co-creator,https://github.com/mlynch 
+fabio bondi, angular 2 milanojs,https://github.com/fabiobiondi 
+mark dalgleish, css modules, git://github.com/markdalgleish 

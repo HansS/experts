@@ -1,0 +1,3 @@
+C:\Users\Hans\Dropbox\Experts 
+disdb, file json db mongodb like api, https://github.com/arvindr21/diskDB 
+ionic-adventures,ionic resources,https://github.com/juarezpaf/ionic-adventures 
