@@ -36,3 +36,4 @@ Ashteya Biharisingh, ionic 2, Ashteya Biharisingh
 max lynch,ionic co-creator,https://github.com/mlynch 
 fabio bondi, angular 2 milanojs,https://github.com/fabiobiondi 
 mark dalgleish, css modules, git://github.com/markdalgleish 
+christian alfoni, webpack, www.christianalfoni.com 

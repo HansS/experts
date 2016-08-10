@@ -1,3 +1,4 @@
 react tooling, http://avxhome.in/ebooks/eLearning/naag6421.html,[1,2,3,4,5,6] 
 modern react with redux, http://avxhome.in/ebooks/eLearning/c2u2016127.html,[1,2,3] 
 javascript modules fundamentals, http://avxhome.in/ebooks/naag10724.html, [1,2,3] 
+babel get started, http://avxhome.in/ebooks/pt-babel-get_started.html,[1,2,3] 
