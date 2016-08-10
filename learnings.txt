@@ -1,1 +1,3 @@
 "typescript react and webpack setup,https://www.typescriptlang.org/docs/handbook/react-&-webpack.html" 
+angular2 webpack boilerplate,https://angularclass.github.io/angular2-webpack-starter/ 
+webpack lite,sean larkin, https://github.com/larkinn 
