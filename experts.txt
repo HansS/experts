@@ -37,3 +37,15 @@ max lynch,ionic co-creator,https://github.com/mlynch
 fabio bondi, angular 2 milanojs,https://github.com/fabiobiondi 
 mark dalgleish, css modules, git://github.com/markdalgleish 
 christian alfoni, webpack, www.christianalfoni.com 
+tikal,israel fullstack, https://github.com/tikalk/react-workshop 
+fullstack.io, fullstack react, fullstack.io 
+firebase console, https://console.firebase.google.com/ 
+angular education, C:\Users\Hans\Web\frontend\platform\js\angular20\angular2-education 
+json-server,https://github.com/tsm91/json-server 
+awesome angular2, https://github.com/tsm91/awesome-angular2  
+underscore-db,lodash functions for db,https://github.com/tsm91/underscore-db 
+ionic material, https://github.com/gabfiocchi/ionic-material 
+node experess angular, https://github.com/gabfiocchi/NodeAngularWorkshop-Express.git 
+public apis todd motto,https://github.com/toddmotto/public-apis 
+angular2 todo with cli tutorial todd motto, https://www.sitepoint.com/angular-2-tutorial/ 
+gumroad clone, angular 1.3 stripe aws, https://github.com/growlybear/gumroad-clone.git 
