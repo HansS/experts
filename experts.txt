@@ -50,3 +50,29 @@ public apis todd motto,https://github.com/toddmotto/public-apis
 angular2 todo with cli tutorial todd motto, https://www.sitepoint.com/angular-2-tutorial/ 
 gumroad clone, angular 1.3 stripe aws, https://github.com/growlybear/gumroad-clone.git 
 Angular2 Weekly Meeting Notes, https://docs.google.com/document/d/1rC5dz7AkCZP813daT_bccbS-20OLmXgBVi50CSKx148/pub 
+todo mobile tobias bosch, https://github.com/tbosch/todo-mobile.git 
+angular2 periscope tobias bosch, https://github.com/tbosch/periscope.git 
+juri strumpflohner, angular2 ionic d3 universal,C:\Users\Hans\Web\frontend\platform\js\angular20\angular2-directives-juri-strumpflohner\Updated code files\source-files\section 7\7.2 
+ajden Towfeek, Angular2 Material, https://github.com/ajtowf 
+maxim salnikov, angular2 material guide https://github.com/webmaxru 
+justin du jardin, angular2 material2 sample, https://github.com/justindujardin/ng2-material 
+Todd McLoyd, web bootcamp, https://github.com/GoesToEleven/SummerBootCamp 
+joshua slate, young self starter tips for entrepreneur,http://blog.slatepeak.com/  
+gong yibo, angular 2 auth app, https://github.com/gongybable/Angular2.git 
+gion kunz, angular2 mastering components book,https://github.com/gionkunz/angular-2-components.git 
+juri strumpflohner, angular2 Directives packtpub video,https://github.com/juristr/learning-angular2-directives-course 
+julie ralph, angular2 testing google core team member, https://github.com/juliemr/ng2-test-seed.git 
+tracy lee, angular2 material2 article,https://github.com/ladyleet/angular-material-2 ng2-tattoo, 
+tracey lee,ng2 tattoo,https://medium.com/@ladyleet/setting-up-and-testing-angular-material-2-components-in-your-angular-2-angular-cli-application-6d1824ed9d81#.7dncloszh 
+angular2 update from rc4 to rc5, https://angular.io/docs/ts/latest/cookbook/rc4-to-rc5.html 
+angularclass angular2 fundamentals course scott mosss, http://courses.angularclass.com/courses/angular-2-fundamentals/lectures/1304177 
+quiz angular, C:\Users\Hans\Web\projects\_quiz\quiz-angular-saurabh-odhyan 
+angular2 materializecss, https://github.com/InfomediaLtd/angular2-materialize 
+webpack react babel font loader, https://ajsharp.gitbooks.io/webpack-react-and-babel-the-next-gen-frontend-too/content/images_and_fonts.html 
+michael herman, frontend teacher, http://mherman.org/ 
+geoff filippi, angular 2 ,https://github.com/geofffilippi/pres-ng2-cli.git 
+scott davis, mastering mean stack, https://github.com/scottdavis99 
+oasis digital, angular training angularbootcamp, https://github.com/OasisDigital/angular2-firebase-demo 
+gschool, galvanize fullstack on github, https://github.com/gSchool 
+benjamin coe, node dev, https://github.com/bcoe/sample-website 
+stephan b”nnemann, npm expert, https://github.com/boennemann/github-change-remote-file 
