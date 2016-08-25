@@ -76,3 +76,8 @@ oasis digital, angular training angularbootcamp, https://github.com/OasisDigital
 gschool, galvanize fullstack on github, https://github.com/gSchool 
 benjamin coe, node dev, https://github.com/bcoe/sample-website 
 stephan b”nnemann, npm expert, https://github.com/boennemann/github-change-remote-file 
+kyle robinson young, js expert on youtube, https://www.youtube.com/channel/UCpqYfSWEcyBGorRGvPsHkgg, 
+daniel zen, angular ionic, https://github.com/danielzen 
+max stoiber, postcss future of css,http://mxstbr.com/?# 
+jess telford, general assembly teacher js, https://github.com/jesstelford/slides-intro-to-js 
+peter kroener, html5, css spa evangelist, peterkroener.de 
