@@ -81,3 +81,19 @@ daniel zen, angular ionic, https://github.com/danielzen
 max stoiber, postcss future of css,http://mxstbr.com/?# 
 jess telford, general assembly teacher js, https://github.com/jesstelford/slides-intro-to-js 
 peter kroener, html5, css spa evangelist, peterkroener.de 
+tim caswwell, node expert creator of connect base for server web express framework 
+ken whinnery, node expert, 
+christophe coenraets, ionic2 angular2 adobe, http://coenraets.org/blog/2016/02/angular2-ionic2-data-services-promises-observables/ 
+pinki jain, ionic angular d3, https://github.com/pjain11 
+Ashteya Biharisingh, ionic2 tutorial serie,http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2/ 
+minko gechev, angular 2 expert, Switching to Angular 2 book 
+jared hanson, node authentication library, https://github.com/jaredhanson/oauth2orize.git 
+a sharif, react redux ramda functional programmer, http://busypeoples.github.io/ 
+bianca gandolfo, hack reactor teeacher 
+florian rappl, jquery uni teacher, 
+markus a huber, uni regesburg teacher webapp, https://github.com/Markus-A-Huber 
+http://web.stanford.edu/class/cs142/lectures.html, web applications course 
+luke wroblewski, web form design, http://www.lukew.com/ff/ 
+torgeir helgoland, angular 2 expert webworkers, 
+Web Development Lehrbuch Deutsch,http://web-development.github.io/ 
+tj van toll, angular2 cli app groeries,https://github.com/tjvantoll/groceries.git 

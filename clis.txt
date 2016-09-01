@@ -1,0 +1,17 @@
+angular-cli, ng 
+ionic mobile framework, ionic 
+cordova mobile, cordova 
+firebase tools, firebase 
+git commandline, git 
+node cli , node node 
+npm cli, npm, 
+http json cli, http 
+http-server, hs 
+live-server , live-server 
+jekyll static website generator, jekyll 
+graphicsmagick for node ,npm i -g gm 
+sequelize-cli, sequelize 
+yeoman generator, yo 
+grunt task runner , grunt 
+webpack bundler, webpack 
+gulp task runner, gulp 
