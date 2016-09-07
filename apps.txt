@@ -1,0 +1,1 @@
+block slider, slide images from right to left,https://github.com/rbrtsmith/BlockSlider 

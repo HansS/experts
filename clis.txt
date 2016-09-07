@@ -15,3 +15,6 @@ yeoman generator, yo
 grunt task runner , grunt 
 webpack bundler, webpack 
 gulp task runner, gulp 
+rollup, js build tool, rollup --help 
+codeceptjs, codecept.io, user acceptance testing 
+yo angular2-module, angular2 module with gh-pages deploy,https://www.npmjs.com/package/generator-angular2-module 

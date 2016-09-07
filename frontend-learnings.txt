@@ -1,0 +1,10 @@
+web app mit html5 css3 javascript,https://github.com/webapplecture, http://www.physik.uni-regensburg.de/studium/edverg/webappkurs/ 
+protypical inheritance talk jordan kasper midwestjs, https://www.youtube.com/watch?v=15L-Ov3Rylk 
+git tutorial with jordan kasper , https://www.youtube.com/watch?v=luNBStMZ_ms 
+funfunfunctions, youtube video series,https://www.youtube.com/watch?v=YkoelSTUy7A 
+Web Development Lehrbuch Deutsch,http://web-development.github.io/ 
+sindre sorhus frontend book,https://github.com/tooling/book-of-modern-frontend-tooling 
+plan for modern web dev workshop, C:\Users\Hans\Web\projects\frontend-interview\modern-web-dev-workshop-dbouwman 
+frontend masters frontendhandbook.com, http://www.frontendhandbook.com/ 
+bootcamp ironyard, https://github.com/theironyard 
+bootcamp galvanize, https://github.com/gschool 

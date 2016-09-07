@@ -97,3 +97,23 @@ luke wroblewski, web form design, http://www.lukew.com/ff/
 torgeir helgoland, angular 2 expert webworkers, 
 Web Development Lehrbuch Deutsch,http://web-development.github.io/ 
 tj van toll, angular2 cli app groeries,https://github.com/tjvantoll/groceries.git 
+Christos Koutsiaris, angular 2 firebase auth, https://github.com/unseen1980, http://devacron.com 
+mark nutter, firebase authorization, https://github.com/marknutter?tab=repositories 
+david east, firebase expert 
+ryan christiani, hackeryou teacher, https://github.com/Rchristiani/functional-exercises 
+vuejs firebase quiz admin and play, https://github.com/afropolymath/SixTests 
+brian holt, react redux rxjs, https://github.com/btholt/react-redux-workshop 
+funfunfunctions, youtube video series,https://www.youtube.com/watch?v=YkoelSTUy7A 
+Sami Suo-Heikki, angular 2 progressive web apps, Sami Suo-Heikki 
+Aderinokun african girl is nanodegree senior developer, bitsofcode.de, https://github.com/ireade 
+chris sevilleja, angular2 starter with systemjs rc5, 
+matt lewis, angular2 rc5 sample tv-tracker, https://github.com/mattlewis92/angular2-tv-tracker 
+javascript group, https://github.com/midwestjs, 
+tessa thornton, web components talk, https://www.youtube.com/watch?v=iW3dLrLGFi4 
+midwestjs youtube channel, https://www.youtube.com/channel/UCg09l6pJcp2DdCcsSrJmQng 
+protypical inheritance talk jordan kasper midwestjs, https://www.youtube.com/watch?v=15L-Ov3Rylk 
+git tutorial with jordan kasper , https://www.youtube.com/watch?v=luNBStMZ_ms 
+node testing with jordan kasper, https://www.youtube.com/watch?v=u2XCdkL4bWI 
+js generators with jordan kasper, https://www.youtube.com/watch?v=jG0141gfxzY 
+getting started with expressjs with jordan kasper, https://www.youtube.com/watch?v=54zvhU5Y4pM 
+js and node fundamentals with jordan kasper, https://www.youtube.com/watch?v=iHcEZ5z7G-M 
