@@ -2,3 +2,9 @@
 angular2 webpack boilerplate,https://angularclass.github.io/angular2-webpack-starter/ 
 webpack lite,sean larkin, https://github.com/larkinn 
 http://avxhome.in/ebooks/eLearning/OReilly_A_Practical_Introduction_to_React_js.html 
+polymer material design, D:\_downloads\Pluralsight - Building a Web Application with Polymer.js and Material Design 
+handlebars learning, http://avxhome.in/ebooks/eLearning/naag3589.html 
+gulp for beginners , csstricks.com 
+api design in node with express - frontendmasters scott moss, https://www.safaribooksonline.com/library/view/api-design-in/9781491967485/ 
+api design in node with express - frontendmasters scott moss, https://www.safaribooksonline.com/library/view/api-design-in/9781491967485/ 
+michael cheng, quizapp with backbone 

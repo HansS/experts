@@ -1,0 +1,1 @@
+angular2 webpack typescript,sean larkin,https://github.com/TheLarkInn/angular2-webpack-lite 

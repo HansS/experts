@@ -117,3 +117,9 @@ node testing with jordan kasper, https://www.youtube.com/watch?v=u2XCdkL4bWI
 js generators with jordan kasper, https://www.youtube.com/watch?v=jG0141gfxzY 
 getting started with expressjs with jordan kasper, https://www.youtube.com/watch?v=54zvhU5Y4pM 
 js and node fundamentals with jordan kasper, https://www.youtube.com/watch?v=iHcEZ5z7G-M 
+amos haviv, mean expert, https://github.com/amoshaviv/mean.git 
+sean larkin, webpack core team,https://github.com/TheLarkInn 
+kara erickson, angular2 expert material expert, https://github.com/kara/puppy-love 
+fernando monteiro, jekyll expert 
+krasimir tsonev, node and frontend expert 
+rich finelli, mustache learning, richfinelli.com 

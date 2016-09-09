@@ -7,3 +7,4 @@ check next update,https://www.npmjs.com/package/npm-check-updates
 imagemagick npm i gm , node library for image resize,rotate.. 
 tonicdev, node repl loop with all npm modules, https://tonicdev.com 
 css.cool, color picker 
+solo jekyll template 

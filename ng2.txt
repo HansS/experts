@@ -1,3 +1,7 @@
 patrick stapleton, angularclass.com 
 scott moss,angularclass.com 
 viktor savkin,angular 2 team 
+kara erickson, angular core 
+rob wormald, angular core 
+pascal precht, angular expert 
+todd motto, angular expert 
