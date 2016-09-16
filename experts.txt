@@ -123,3 +123,10 @@ kara erickson, angular2 expert material expert, https://github.com/kara/puppy-lo
 fernando monteiro, jekyll expert 
 krasimir tsonev, node and frontend expert 
 rich finelli, mustache learning, richfinelli.com 
+jeremy fairbank, es6 functional programming 
+huseyn babal, token based auth with angular, https://github.com/huseyinbabal/token-based-auth-frontend 
+angular2 expert brad traversy, https://github.com/bradtraversy/githubsearch.git 
+sebastian eschweiler, codingthesmartway.com,https://github.com/seeschweiler?tab=repositories 
+jussi kinnula, mean 2 starter, https://github.com/jussikinnula/angular2-mean-starter 
+webpack book, http://survivejs.com/webpack/introduction/ 
+Vlado Tesanovic, angular2 typescript es6 express,  

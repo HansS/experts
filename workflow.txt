@@ -1,1 +1,2 @@
 js tdd mocha chai setup, https://github.com/afropolymath/javascript-tdd-setup 
+webpack book, http://survivejs.com/webpack/introduction/ 

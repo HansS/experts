@@ -4,3 +4,4 @@ javascript modules fundamentals, http://avxhome.in/ebooks/naag10724.html, [1,2,3
 babel get started, http://avxhome.in/ebooks/pt-babel-get_started.html,[1,2,3] 
 http://avxhome.in/ebooks/eLearning/naag2812.html 
 web projekte mit mean andre kraemer video2brain, http://uploaded.net/f/nnycpq 
+building stronger frontend practices, http://www.ausfiledownload.pw/tut/2631-building-stronger-front-end-practices-2016.html 

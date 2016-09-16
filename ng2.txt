@@ -5,3 +5,6 @@ kara erickson, angular core
 rob wormald, angular core 
 pascal precht, angular expert 
 todd motto, angular expert 
+angular2 expert brad traversy, https://github.com/bradtraversy/githubsearch.git 
+sebastian eschweiler, codingthesmartway.com,https://github.com/seeschweiler?tab=repositories 
+Vlado Tesanovic, angular2 typescript es6 express,  

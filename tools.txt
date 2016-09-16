@@ -8,3 +8,11 @@ imagemagick npm i gm , node library for image resize,rotate..
 tonicdev, node repl loop with all npm modules, https://tonicdev.com 
 css.cool, color picker 
 solo jekyll template 
+mongo-express 
+placehold.it, image placeholder creation 
+placeimg.com 
+unsplash.it 
+atom 
+emmet 
+html 5 outliner online, https://gsnedders.html5.org/outliner/ 
+editorconfig, editorconfig.org 

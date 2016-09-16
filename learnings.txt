@@ -8,3 +8,4 @@ gulp for beginners , csstricks.com
 api design in node with express - frontendmasters scott moss, https://www.safaribooksonline.com/library/view/api-design-in/9781491967485/ 
 api design in node with express - frontendmasters scott moss, https://www.safaribooksonline.com/library/view/api-design-in/9781491967485/ 
 michael cheng, quizapp with backbone 
+funtional programming, https://github.com/travisgorman/Functional_Programming.git 
