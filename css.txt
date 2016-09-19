@@ -53,3 +53,12 @@ table	Table
 ul	Unordered list
 
 block-level elements refernce, http://reference.sitepoint.com/html/block-level# 
+rachel andrews css flexbox grid layout expert 
+https://cssanimation.rocks/transition-vs-animation/ 
+css-tricks flexbox guide 
+nick walsch flexbox carousel 
+github envylabs sass web design experts 
+scotchio flexbox playground 
+https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties 
+Css Flexible Box Layout Module W3C w3.org, https://www.w3.org/TR/css-flexbox/ 
+Mozilla Developer Network MDN on Flexbox, https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox 

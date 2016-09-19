@@ -1,0 +1,8 @@
+marc wright marcwrightdesign.com, flexbox expert  expert 
+rachel andrews, gridbyexample.com, flexbox expert 
+flexibelwebbook.com , flexbox expert , 
+solved-by-flexbox, flexbox expert, 
+polymer-cli , polymer init, flexbox starter layout, 
+angular2-material2, flexbox layout 
+brad westfall, css designer and teacher, 
+flexbox layout Gil Hernandez Treehouse, D:\_downloads\CSS Flexbox Layout\4. Exercises 
