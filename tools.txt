@@ -16,3 +16,4 @@ atom
 emmet 
 html 5 outliner online, https://gsnedders.html5.org/outliner/ 
 editorconfig, editorconfig.org 
+in2csv, python tool, csv to json, json to csv 

@@ -6,3 +6,9 @@ polymer-cli , polymer init, flexbox starter layout,
 angular2-material2, flexbox layout 
 brad westfall, css designer and teacher, 
 flexbox layout Gil Hernandez Treehouse, D:\_downloads\CSS Flexbox Layout\4. Exercises 
+philip walton, flexbox solved, https://philipwalton.github.io/solved-by-flexbox/ 
+ken mazes, 
+itani css flexbox implementer 
+karen menezes, teacher on digitaltutors.com 
+flexbox course gary simon,C:\Users\Hans\Downloads\10 projects\css\flexbox\Digital-Tutors\Digital Tutors - CSS Flexbox Fundamentals 
+flexbox book,C:\Users\Hans\Downloads\10 projects\css\flexbox\Flexbox-rwd-book 

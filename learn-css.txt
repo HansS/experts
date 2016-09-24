@@ -68,3 +68,4 @@ Center elements vertically
 ---------------------------------------------------------------------------------------------------------------------------------------
 set position of element to absolute
 
+learn angular2 in 21 days angular group canberra glenn smith, http://blogs.bytecode.com.au/glen/2016/08/16/why-angular2.html 

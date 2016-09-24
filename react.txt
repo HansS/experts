@@ -1,0 +1,1 @@
+react intro lessons, https://github.com/tylermcginnis/github-notetaker-egghead 

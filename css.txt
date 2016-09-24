@@ -62,3 +62,20 @@ scotchio flexbox playground
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties 
 Css Flexible Box Layout Module W3C w3.org, https://www.w3.org/TR/css-flexbox/ 
 Mozilla Developer Network MDN on Flexbox, https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox 
+flexbox playground online, http://the-echoplex.net/flexyboxes/ 
+philip walton, flexbox solved, https://philipwalton.github.io/solved-by-flexbox/ 
+sass flexbox mixins , https://github.com/mastastealth/sass-flex-mixin 
+https://sass-guidelin.es/ 
+css workshop with rachel andrew, https://thecssworkshop.com/ 
+chris wright css expert 
+
+layout mode
+A layout mode is a set of rules that determine the size and position of web
+elements, based on their relationships with siblings and ancestors.several types of layout modes:
+
+block.	Designed	for	laying	out	documents.
+inline.	Designed	for	laying	out	text.
+table.	Designed	for	laying	out	tables.
+positioned.	Designed	for	positioning	elements	independent	of	other elements.
+flex.	Designed	for	laying	out	web	components	that	can	be	resized	smoothly.
+

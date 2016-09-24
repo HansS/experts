@@ -11,3 +11,13 @@ andre krämer express download fertig
 
 
 node express basic auth learning 
+date 
+Aktuelles Datum: 21.09.2016 
+Geben Sie das neue Datum ein: (TT-MM-JJ) Aktuelles Datum: 24.09.2016 
+Geben Sie das neue Datum ein: (TT-MM-JJ) install csvkit, tool csv to json , json to csv, storat with in2csv data.xls 
+install typescript declaration files with npm, npm i -S @types/lodash 
+typescript 2.0 install, tsc 2.0 rlease 
+install csvkit 
+hero 2 tutorial on angular.io 
+angularconnect 206 live link in outlook webinar 
+monthly postfinance sent 
