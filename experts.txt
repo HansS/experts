@@ -130,3 +130,8 @@ sebastian eschweiler, codingthesmartway.com,https://github.com/seeschweiler?tab=
 jussi kinnula, mean 2 starter, https://github.com/jussikinnula/angular2-mean-starter 
 webpack book, http://survivejs.com/webpack/introduction/ 
 Vlado Tesanovic, angular2 typescript es6 express,  
+lars rye jeppesen , angular2 material 2 expert,https://github.com/AngularClass/angular2-webpack-starter.git 
+tobias bosch, angular core 
+martin probst , angular core 
+angular2 from the ground up, http://avxhome.in/ebooks/angular-2-from-the-ground-up.html 
+cory rylan, angular2 expert digital ocean teacher, https://coryrylan.com/blog/introduction-to-angular-2-ngclass-and-ngstyle 

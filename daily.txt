@@ -21,3 +21,5 @@ install csvkit
 hero 2 tutorial on angular.io 
 angularconnect 206 live link in outlook webinar 
 monthly postfinance sent 
+greensock, js animation library 
+functional programming , christian johansen 

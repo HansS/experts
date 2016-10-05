@@ -9,3 +9,6 @@ angular2 expert brad traversy, https://github.com/bradtraversy/githubsearch.git
 sebastian eschweiler, codingthesmartway.com,https://github.com/seeschweiler?tab=repositories 
 Vlado Tesanovic, angular2 typescript es6 express,  
 Angular2 Deep Dive Mathieu Chauvinc, 
+lars rye jeppesen , angular2 material 2 expert,https://github.com/AngularClass/angular2-webpack-starter.git 
+cory rylan, angular2 expert digital ocean teacher, https://coryrylan.com/blog/introduction-to-angular-2-ngclass-and-ngstyle 
+angular 2 does property binding, which binding to a dom property 
