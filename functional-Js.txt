@@ -1,0 +1,2 @@
+jeremy fairbank , funcional javascript expert 
+jeremy fairbank , funcional javascript expert,https://github.com/jfairbank/rise-of-async-js-talk.git 

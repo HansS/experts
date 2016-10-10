@@ -135,3 +135,5 @@ tobias bosch, angular core
 martin probst , angular core 
 angular2 from the ground up, http://avxhome.in/ebooks/angular-2-from-the-ground-up.html 
 cory rylan, angular2 expert digital ocean teacher, https://coryrylan.com/blog/introduction-to-angular-2-ngclass-and-ngstyle 
+james churchill, typescript expert,https://github.com/smashdevcode 
+evan you, creator of vue.js, vuejs.org 

@@ -11,3 +11,7 @@ michael cheng, quizapp with backbone
 funtional programming, https://github.com/travisgorman/Functional_Programming.git 
 jim cooper, javascript objects and prototypes 
 progressive web apps intro, https://classroom.udacity.com/courses/ud811/lessons/8086102617/concepts/80897065540923 
+james churchill, typescript expert,https://github.com/smashdevcode 
+youtube playlist of Utah 2016 conference, https://www.youtube.com/playlist?list=PLljE--h2MyaJBHxrEU59ExJVqpw-yRZfU 
+tools of the trade, http://tott-meetup.readthedocs.io/en/latest/sessions/git.html 
+tools of the trade on github, https://github.com/parente/tott 
