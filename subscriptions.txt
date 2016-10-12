@@ -1,9 +1,11 @@
-udemy , Learn Reactivex from Ground Up ,$10
-udemy, Mean Stack 2 ,10$
-udemy, Learn OAuth2 ,25$
-udemy, NodeJs in Action ,25$
-eduonix, Learn Angular 2 by Building 12 Apps , 10$
-packpub, jun 2016 jun 2017 66$/yr 
-vimeo thoughtram 5$/mo, 10.10.2016 bus 10.11.2016 
-codeschool, quizzes , 30/mo, 1.10.2016 
-sitepoint , 99$/yr 1.10.2016 
+provider	title				subscription	date		valid		email		password
+udemy		Learn Reactivex from Ground Up	$10/mo				lifetime
+udemy		Mean Stack 2 			10$				lifetime
+udemy		Learn OAuth2			25$				lifetime
+udemy		NodeJs in Action		25$				lifetime
+eduonix		Learn Angular 2 12 Apps		10$				lifetime
+packpub		Packtpub yearly subscription	66$/yr				2017-04 
+vimeo 		thoughtram 			5$/mo           		2016-05 
+codeschool	quizzes 			30/mo		1.10.2016 	2016-11-01
+sitepoint	css				99$/yr 		1.10.2016       2017-10-01
+scotch.io	Angular 2			10$/mo

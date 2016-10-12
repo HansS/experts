@@ -137,3 +137,7 @@ angular2 from the ground up, http://avxhome.in/ebooks/angular-2-from-the-ground-
 cory rylan, angular2 expert digital ocean teacher, https://coryrylan.com/blog/introduction-to-angular-2-ngclass-and-ngstyle 
 james churchill, typescript expert,https://github.com/smashdevcode 
 evan you, creator of vue.js, vuejs.org 
+rainer stropek, microsoft expert open to new stuff, 
+dave partner, ionic2 firebase2 material fireblogger 
+angular-university.io , firebase2 angular2 
+shavran kumar, angular 2 expert hyderabad 

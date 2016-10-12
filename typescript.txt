@@ -1,1 +1,4 @@
 james churchill, typescript expert,https://github.com/smashdevcode 
+bowden kelly, typescript team, https://github.com/bowdenk7/sf-meetup-demos.git 
+james churchill, typescript expert 
+doris chen, microsoft typescript, https://github.com/doristchen/teaching-materials.git 
