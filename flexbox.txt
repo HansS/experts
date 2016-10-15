@@ -12,3 +12,7 @@ itani css flexbox implementer
 karen menezes, teacher on digitaltutors.com 
 flexbox course gary simon,C:\Users\Hans\Downloads\10 projects\css\flexbox\Digital-Tutors\Digital Tutors - CSS Flexbox Fundamentals 
 flexbox book,C:\Users\Hans\Downloads\10 projects\css\flexbox\Flexbox-rwd-book 
+stephen hay, web designer flexbox expert 
+ Zoe M. Gillenwater, flexbox expert 
+tab atkins, flexbox expert 
+landon schropp, unvraveling flexbox book 

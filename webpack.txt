@@ -1,2 +1,4 @@
 sean larkin, webpack expert 
 kent c dodds, webpack expert 
+glenn maddern, webpack expert 
+sean larkin , webpack core team 

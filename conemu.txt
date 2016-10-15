@@ -1,0 +1,10 @@
+alias cwf= cd c:\users\hans\web\files 
+alias cwa=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20 
+alias cwaf=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-firebase20 
+alias cwm=cd C:\Users\Hans\Web\mobile alias cwmi=cd C:\Users\Hans\Web\mobile\ionic2 
+alias cwac=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\angularclass 
+alias cwah=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\hans 
+alias cwp=cd C:\Users\Hans\Web\projects 
+alias cfee= cd C:\Users\Hans\Web\frontend\bootcamps\hsr\cas-fee-2016\course\team\hans 
+alias cws=cd C:\Users\Hans\Web\frontend\platform\css 
+alias cwbe=cd C:\Users\Hans\Web\backend 

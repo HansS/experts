@@ -10,3 +10,5 @@ ract intro, http://avxhome.in/ebooks/build-your-first-react-js-application.html
 angular2 from the ground up, http://avxhome.in/ebooks/angular-2-from-the-ground-up.html 
 vue.js course , http://avxhome.in/ebooks/naag12254.html 
 hack your first vscode extension, http://avxhome.in/ebooks/naag10722.html 
+frontend code trouble shoot, http://avxhome.in/ebooks/naag12438.html 
+testing javascript with jasmine and typescript ,http://avxhome.in/ebooks/naag12922.html 

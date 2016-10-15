@@ -42,3 +42,4 @@ js, lexical environment - In order to enable lexical scoping, functions remember
 js, axel rauschmayer, javascript expert 2ality.com 
 quizapp in oo style, https://github.com/moteutsch/Practical-OOP.git 
 lewagon quizzes ,https://github.com/lewagon/quizzes.git 
+shelley benhof, frontend tools debugging expert, 

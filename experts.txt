@@ -141,3 +141,4 @@ rainer stropek, microsoft expert open to new stuff,
 dave partner, ionic2 firebase2 material fireblogger 
 angular-university.io , firebase2 angular2 
 shavran kumar, angular 2 expert hyderabad 
+guy routledge, css expert atoz css, https://github.com/guyroutledge 
