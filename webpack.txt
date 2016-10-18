@@ -2,3 +2,7 @@ sean larkin, webpack expert
 kent c dodds, webpack expert 
 glenn maddern, webpack expert 
 sean larkin , webpack core team 
+juho veps„l„inen, survivejs.com,http://survivejs.com/webpack/introduction/ 
+johannes edwald, webpack core team 
+christian alfoni, webpack expert 
+tobias koppers, webpack inventor 
