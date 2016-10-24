@@ -1,0 +1,10 @@
+ractivejs, new reactive site 
+intro rxjs, udemy brad traversy 
+egghead rx courses local 
+ngrx , rob wormald 
+bart de smet ,reactive extension core team 
+erik meyer , reactive extensions creator, mathematical dual of iterator 
+ben lesh, rxjs v5 creator 
+jafar hussain , frontendmasters course rxjs 
+netflix , rx user company 
+rx falcor  hussain 

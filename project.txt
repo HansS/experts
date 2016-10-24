@@ -8,3 +8,4 @@ angular-university.io
 courses = quizzes 
 lessons = questions 
 insomnia installation ,C:\Users\Hans\AppData\Local\insomnia\app-3.5.13 
+simple js quiz question choices app, C:\Users\Hans\Web\projects\quiz-me\quiz-js\, 

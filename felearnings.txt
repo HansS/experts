@@ -1,0 +1,33 @@
+web app, web app mit html5 css3 javascript,https://github.com/webapplecture, http://www.physik.uni regensburg.de/studium/edverg/webappkurs/ 
+js prototype, protypical inheritance talk jordan kasper midwestjs, https://www.youtube.com/watch?v=15L-Ov3Rylk 
+git, git tutorial with jordan kasper , https://www.youtube.com/watch?v=luNBStMZ_ms 
+js functional, funfunfunctions, youtube video series,https://www.youtube.com/watch?v=YkoelSTUy7A 
+frontend, Web Development Lehrbuch Deutsch,http://web-development.github.io/ 
+frontend, sindre sorhus frontend book,https://github.com/tooling/book-of-modern-frontend-tooling 
+frontend, plan for modern web dev workshop, C:\Users\Hans\Web\projects\frontend-interview\modern-web-dev-workshop-dbouwman 
+frontend masters frontendhandbook.com, http://www.frontendhandbook.com/ 
+frontend, bootcamp ironyard, https://github.com/theironyard 
+frontend, bootcamp galvanize, https://github.com/gschool 
+frontend quiz, quizapp in oo style, https://github.com/moteutsch/Practical-OOP.git 
+frontend quiz, lewagon quizzes ,https://github.com/lewagon/quizzes.git 
+frontend, shelley benhof, frontend tools debugging expert, 
+json, createjsonall 
+json, C:\Program Files (x86)\Company\MS Access to Json\ 
+react, typescript react and webpack setup,https://www.typescriptlang.org/docs/handbook/react-&-webpack.html" 
+angular2 webpack boilerplate,https://angularclass.github.io/angular2-webpack-starter/ 
+angular2, webpack lite,sean larkin, https://github.com/larkinn 
+react, http://avxhome.in/ebooks/eLearning/OReilly_A_Practical_Introduction_to_React_js.html 
+frontend, polymer material design, D:\_downloads\Pluralsight - Building a Web Application with Polymer.js and Material Design 
+frontend, handlebars learning, http://avxhome.in/ebooks/eLearning/naag3589.html 
+js build, gulp for beginners , csstricks.com 
+mean, api design in node with express - frontendmasters scott moss, https://www.safaribooksonline.com/library/view/api-design-in/9781491967485/ 
+mean, api design in node with express - frontendmasters scott moss, https://www.safaribooksonline.com/library/view/api-design-in/9781491967485/ 
+quiz, michael cheng, quizapp with backbone 
+js functional, funtional programming, https://github.com/travisgorman/Functional_Programming.git 
+js prototype, jim cooper, javascript objects and prototypes 
+frontend pwa, progressive web apps intro, https://classroom.udacity.com/courses/ud811/lessons/8086102617/concepts/80897065540923 
+typescript, james churchill, typescript expert,https://github.com/smashdevcode 
+angular2, youtube playlist of Utah 2016 conference, https://www.youtube.com/playlist?list=PLljE--h2MyaJBHxrEU59ExJVqpw-yRZfU 
+frontend tools, tools of the trade, http://tott-meetup.readthedocs.io/en/latest/sessions/git.html 
+frontend tools, tools of the trade on github, https://github.com/parente/tott 
+

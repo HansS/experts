@@ -21,3 +21,8 @@ lq a linq implementation in js, https://github.com/chuckjaz/lq
 nodegit 
 insomnia installation ,C:\Users\Hans\AppData\Local\insomnia\app-3.5.13 
 cli tool ms db to json , cli jsontoall 
+wallaby.js , js testing tool ward bell 
+RoboMongo, MongoDb Helper 
+Postgress, local postgress 
+MongoLab 
+firebase.google.com 

@@ -3,3 +3,5 @@ thomas burleson , angular material expert
 kara erickson , material expert 
 jeremy elbourn , material core  team 
 ajden towfeek , angular material expert 
+aron frost , angular material expert 
+maxim salnikov, github.com/webmaxru 

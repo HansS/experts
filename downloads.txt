@@ -12,3 +12,5 @@ vue.js course , http://avxhome.in/ebooks/naag12254.html
 hack your first vscode extension, http://avxhome.in/ebooks/naag10722.html 
 frontend code trouble shoot, http://avxhome.in/ebooks/naag12438.html 
 testing javascript with jasmine and typescript ,http://avxhome.in/ebooks/naag12922.html 
+angular getting started,http://avxhome.se/ebooks/naag13207.html 
+rx htttp play by play john papa dan wahlin, http://avxhome.se/ebooks/naag12253.html 
