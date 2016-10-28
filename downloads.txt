@@ -14,3 +14,6 @@ frontend code trouble shoot, http://avxhome.in/ebooks/naag12438.html
 testing javascript with jasmine and typescript ,http://avxhome.in/ebooks/naag12922.html 
 angular getting started,http://avxhome.se/ebooks/naag13207.html 
 rx htttp play by play john papa dan wahlin, http://avxhome.se/ebooks/naag12253.html 
+revealing flexbox book 
+react redux from beginner to prof, http://avxhome.se/ebooks/naag13006.html 
+ionic2 angular2 typescript2 steve michelotti, "http://avxsearch.se/search?q=Building+Mobile+Apps+with+Ionic+2&a=&exact=0&c=all&l=any&sort_by=" 

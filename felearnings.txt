@@ -31,3 +31,4 @@ angular2, youtube playlist of Utah 2016 conference, https://www.youtube.com/play
 frontend tools, tools of the trade, http://tott-meetup.readthedocs.io/en/latest/sessions/git.html 
 frontend tools, tools of the trade on github, https://github.com/parente/tott 
 
+http://fakesynchhub.azurewebsites.net/api/ 

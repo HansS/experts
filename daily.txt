@@ -13,8 +13,7 @@ andre kr‰mer express download fertig
 node express basic auth learning 
 date 
 Aktuelles Datum: 21.09.2016 
-Geben Sie das neue Datum ein: (TT-MM-JJ) Aktuelles Datum: 24.09.2016 
-Geben Sie das neue Datum ein: (TT-MM-JJ) install csvkit, tool csv to json , json to csv, storat with in2csv data.xls 
+ install csvkit, tool csv to json , json to csv, storat with in2csv data.xls 
 install typescript declaration files with npm, npm i -S @types/lodash 
 typescript 2.0 install, tsc 2.0 rlease 
 install csvkit 
@@ -23,3 +22,44 @@ angularconnect 206 live link in outlook webinar
 monthly postfinance sent 
 greensock, js animation library 
 functional programming , christian johansen 
+wallaby.js, test tool ward bell 
+21.09.2016  
+ractivejs, simple elegant mvc library 
+rich harris, author of ractivejs, ramjet, 
+fetch api for json load 
+rollup javascriptjabber episode, rich harris 
+mental model for angular2, misko hevery 
+play by paly john papa ward bell angular 2 
+varun vachhar rangle article, flatten compoent tree with functional programming 
+angular2 components border, tabs, zippy 
+block-slider sample for quiz 
+thoughtram how to tab component in a2 
+play by play rx john papap dan wahlin download 
+Eingegebenes Datum kann nicht Åbernommen werden.
+Geben Sie das neue Datum ein: (TT-MM-JJ) Aktuelles Datum: 24.10.2016 
+Geben Sie das neue Datum ein: (TT-MM-JJ) Eingegebenes Datum kann nicht Åbernommen werden.
+Geben Sie das neue Datum ein: (TT-MM-JJ) helptalks devang shah, yoga exercises for your eyes 
+scott moss has given already reactive native course on frontendmasters before finishing his own already sold course 
+deactivate windows update services (windows-key + r + 'services.msc 
+soctchio angular2 routing 
+funfunfunctions video playlist download 
+deepak chopra email, inspired for yoga videos and patanjali download 
+martha beck and deepak chopra giving an online course see chopra.com 
+telerikacademy bootcamp, html basics js 2016 
+ngclassieds1 angular2 classifieds with angular material 
+helpful youtube channel , slides on slideshare 
+devangh shah video, Total Health for Age 50plus 
+helpful youtube channel , slides on slideshare 
+spa in handlebars (telerikacademy course video) 
+spa with sammy.js, jquery and 
+modular javascript book serie with nicolas bevacqua 
+
+28.10.2016
+brad westfall, react redux 
+redux expert tomas weiss, youtube video 
+scotchio subscription 12$ 28.10. 27.11 
+swiss mobile adliswil schwyz retour 20.- 
+tel billag doppelte zahlung ok, nÑachste zahlung ende jan 112.- 
+reactconf 2016 day 1, day 2 
+angular 2 routing course scotch.io, angular2/hans/ng2-routing 
+working on , C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\hans\angular2-routing 

@@ -1,0 +1,15 @@
+local path, 	Project2, C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\hans\quizzes 
+cloud,		firebase.google.com 
+install,	npm i -S firebase anguarfire2 
+createjsonall, 	export access db to json 
+database,	Quizzes.md at D:\A10-projects\frontend-interview\00 Database 
+db export,	Quizzes Exports at D:\A10-projects\frontend-interview\00 Database\_export 
+firebase learn	angular-university.io 
+copy		courses = quizzes 
+copy		lessons = questions 
+rest client,	insomnia installation ,C:\Users\Hans\AppData\Local\insomnia\app-3.5.13 
+ui library	angular-material2
+ui sample,	kara erickson, angular-connect 2016, leashed, sidebar - image grid, 
+ui slider	block-slider
+ui slider	flexbox-slider
+
