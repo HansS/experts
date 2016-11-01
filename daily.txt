@@ -63,3 +63,36 @@ tel billag doppelte zahlung ok, n„achste zahlung ende jan 112.-
 reactconf 2016 day 1, day 2 
 angular 2 routing course scotch.io, angular2/hans/ng2-routing 
 working on , C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\hans\angular2-routing 
+react redux downlaod 2 
+
+Sa 29.10.2016
+-----------------------------------------------------------------------------------------------------------------------
+inner fish, the evolution history of men in your body, 
+scott moss announced angular2 fundamentals course 
+javascriptjabber tobias bosch on angular 2 compiler 
+Mo.31.10.2016 
+---------------------------------------------------------------------------------------------------------------------------------- 
+\\ nl 
+text 
+daniel rosenewasser, typescript 2 ngeurope 2016 
+learnangular2.com 
+minko gechev talks october 2016 
+juri strumpflohner ngContent select="title" 
+atoz css serie guy routeledge, https://www.sitepoint.com/premium/screencasts/atoz-css-the-css-supports-rule 
+brecht billiet, angular redux ngrx/store expert, winecellar workshop 
+angular-university.io Routing 
+kwinten pisman, angular redux with brecht billiet winecellar workshop 
+
+Di. 1.11.2016
+manfred steyer, angular 2 intro on the example option-box 
+kara erickson, material 2 talk 19-20
+option-box start with firebase, angularfire2, material2 
+tero parviainen, ngeurope ngrx music play
+manfred steyer, samples on githun, oauth2,
+manfred steyer, option-box blog and sample
+kindle-app, 1 month
+amazon, 1 month premium
+greg woiwode, johannes heppe, manfred steyer angular 2 buch
+unraveling flexbox, landon schropp, written in ruby, not working in windows
+flexible boxes book estelle
+ms access db , quizzes.mdb, export in ExportModule

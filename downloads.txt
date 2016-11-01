@@ -17,3 +17,4 @@ rx htttp play by play john papa dan wahlin, http://avxhome.se/ebooks/naag12253.h
 revealing flexbox book 
 react redux from beginner to prof, http://avxhome.se/ebooks/naag13006.html 
 ionic2 angular2 typescript2 steve michelotti, "http://avxsearch.se/search?q=Building+Mobile+Apps+with+Ionic+2&a=&exact=0&c=all&l=any&sort_by=" 
+react redux downlaod 2 

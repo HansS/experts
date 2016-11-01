@@ -13,3 +13,7 @@ ui sample,	kara erickson, angular-connect 2016, leashed, sidebar - image grid,
 ui slider	block-slider
 ui slider	flexbox-slider
 
+erich haddad, angularfire2 sample,youtube ngeurope2016 
+pavel kozlowski, ngbootstrap angular2 bs4, carousel 
+daniel rosenwasser typescript 2 
+option-box sample from manfred steyer, 

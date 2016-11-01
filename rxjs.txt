@@ -8,3 +8,4 @@ ben lesh, rxjs v5 creator
 jafar hussain , frontendmasters course rxjs 
 netflix , rx user company 
 rx falcor  hussain 
+richard park, angularfire2 expert 

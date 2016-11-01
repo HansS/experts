@@ -1,10 +1,27 @@
-alias cwf= cd c:\users\hans\web\files 
-alias cwa=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20 
-alias cwaf=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-firebase20 
-alias cwm=cd C:\Users\Hans\Web\mobile alias cwmi=cd C:\Users\Hans\Web\mobile\ionic2 
-alias cwac=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\angularclass 
-alias cwah=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\hans 
-alias cwp=cd C:\Users\Hans\Web\projects 
-alias cfee= cd C:\Users\Hans\Web\frontend\bootcamps\hsr\cas-fee-2016\course\team\hans 
-alias cws=cd C:\Users\Hans\Web\frontend\platform\css 
-alias cwbe=cd C:\Users\Hans\Web\backend 
+set PATH=%ConEmuBaseDir%\Scripts;%PATH%
+alias cwf= cd c:\users\hans\web\files
+alias cwp= cd c:\users\hans\web\projects
+alias cwpwa=cd C:\Users\Hans\Web\frontend\progresssive-web-apps
+alias cwa=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20
+alias cwr=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\react
+alias cwrx=cd C:\Users\Hans\Web\frontend\platform\js\libraries\rx
+alias cwfw=cd C:\Users\Hans\Web\frontend\platform\js\frameworks
+alias cwl=cd C:\Users\Hans\Web\frontend\platform\js\libraries
+alias cwau=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\angular-university\courses\01-getting-started-with-angular2\final-project
+alias cwaf=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-firebase20
+alias cwam=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular2-material2
+alias cwm=cd C:\Users\Hans\Web\mobile
+alias cwmi=cd C:\Users\Hans\Web\mobile\ionic2
+alias cwac=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\angularclass
+alias cwah=cd C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\hans
+alias cwp=cd C:\Users\Hans\Web\projects
+alias cfee= cd C:\Users\Hans\Web\frontend\bootcamps\hsr\cas-fee-2016\course\team\hans
+alias cws=cd C:\Users\Hans\Web\frontend\platform\css
+alias cwpw=cd C:\Users\Hans\Web\frontend\progresssive-web-apps
+alias cwbe=cd C:\Users\Hans\Web\backend
+alias cwfu=cd C:\Users\Hans\Web\fullstack
+alias ni=npm i
+alias nis= npm i -S
+alias nid=npm i -D
+alias cwmo=cd C:\Users\Hans\Mobile\Ionic2
+ 
