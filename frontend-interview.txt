@@ -1,8 +1,24 @@
-flexbox-slider, C:\Users\Hans\Web\frontend\platform\css\flexbox\flexbox-slider 
-angular-cli-webpack material2 ,... 
-angular2 material 2, C:\Users\Hans\Web\projects\angularclass-angular2-material2-scott-moss (video: c:\users\hans\videos
-scott moss angularclass angular2 material2 app, retain (rc4!!!), github.com/angularclass/retain-app 
-https://github.com/JamesRandall/AngularJS-OAuth2-Sample.git 
-yo rest generator for mean express heroku deploy 
-https://github.com/diegohaz/generator-rest 
-carlos souza teacher on codeschool, https://github.com/caike?tab=repositories 
+01 	http 					6.11.2016
+02 	html 
+03 	css 
+03a 	css frameworks 
+03b 	css preprocessors
+03c	css layout techniques
+04	javascript
+04a	javascript unit testing
+04b	javascript patterns
+04c	javascript modules
+04d 	typescript
+04e	es 2015
+05	jquery
+06	single page application
+07	angular 2
+08	react
+09	node npm
+10 	express
+11a	gulp
+11b	webpacck	
+12	build process
+13	deployment
+14a	continuous integration
+14b	git and github 

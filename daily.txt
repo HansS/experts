@@ -2,6 +2,7 @@ rich finelli, mustache learning, richfinelli.com
 2016-09-08 
 
 2016-09-09 Freitag 
+-----------------------------------------------------------------------------------------------------------
 codeacademy quiz for pro samples for your project mothly 20$
 vs code update v1.5 
 coursera web application architecture mexico intersting parts on it 
@@ -13,6 +14,7 @@ andre krämer express download fertig
 node express basic auth learning 
 date 
 Aktuelles Datum: 21.09.2016 
+--------------------------------------------------------------------------------------------------------------------------------
  install csvkit, tool csv to json , json to csv, storat with in2csv data.xls 
 install typescript declaration files with npm, npm i -S @types/lodash 
 typescript 2.0 install, tsc 2.0 rlease 
@@ -23,7 +25,9 @@ monthly postfinance sent
 greensock, js animation library 
 functional programming , christian johansen 
 wallaby.js, test tool ward bell 
+
 21.09.2016  
+------------------------------------------------------------------------------------------------------
 ractivejs, simple elegant mvc library 
 rich harris, author of ractivejs, ramjet, 
 fetch api for json load 
@@ -84,6 +88,7 @@ angular-university.io Routing
 kwinten pisman, angular redux with brecht billiet winecellar workshop 
 
 Di. 1.11.2016
+---------------------------------------------------------------------------------------------------------------------
 manfred steyer, angular 2 intro on the example option-box 
 kara erickson, material 2 talk 19-20
 option-box start with firebase, angularfire2, material2 
@@ -96,3 +101,63 @@ greg woiwode, johannes heppe, manfred steyer angular 2 buch
 unraveling flexbox, landon schropp, written in ruby, not working in windows
 flexible boxes book estelle
 ms access db , quizzes.mdb, export in ExportModule
+
+Do 3.11.2016 
+------------------------------------------------------------------------------------------------ 
+little boxes, flexbox video2brain 
+vscode 1.7.1 install 
+vscode editor , wade anderson, utahjs, vscode team member 
+radtour hausen am albis albis pass 
+manfred steyer lieferoption beispiel video 
+angular question-card basierend auf manfred steyer video und clips 
+ngeurope video angular-team 1std 
+
+Fr 4.11.2016
+--------------------------------------------------------------------------------------------------- 
+angularcamp barcelona, youtube list download 
+angular 2 transclusion, rangle seth davenport 
+angular transclusin, scotchio article 
+uetliberg run 
+angular 2 transclusion article 
+
+Sa 5.11.2016 
+--------------------------------------------------------------------------------------------------------- 
+tero parviainen, ngrx/store with observables - app  
+frontendmasters course angular2, mo 15:00 - 22:30, di, mi, do 
+todd motto presentation , angular2 platform -
+ngbook2 chat-app with rxjs 
+todd motto, you do not need jquery video
+minko gechev, scalable angular2 architecture , plug for swithching to angular2 book
+todd motto blog, is jekyll blog, copy it on github
+echo rxjs course lukas ruebbelke on  todd motto with github exercises 
+minko gechev sample app, quick typer, chat app 
+minko gechev, game component 
+
+So 6.11.206
+-------------------------------------------------------------------------------------------------------------
+nir kaufmann, angular 2 learning
+nptel course , internet technologies, extract questions
+analyze hsr networking http 
+add questons in quizzes.mdb
+
+Mo 7.11.2016
+-------------------------------------------------------------------------------------------------------------
+frontendmasters, angular2 fundamentals lukas ruebbelke , ng2-rest-app with json server
+quizzes.mdb , 
+
+Di 8.11.2016
+---------------------------------------------------------------------------------------------------------------
+jacob wenger, firebase expert 
+sebastian eschweiler, angularfire2 intro
+firebase dev-summit-2016 youtube
+frank van puffelen , firebase expert
+kat fanng, firebase expert
+firebase-ui, auth across all social providers
+thomas bouldin, firebase expert
+ali abdelhadi , firebase expert 
+observable specification for js 
+firebase auth, firebaseui.com 
+js observable specification 
+sihltal albis rundfahrt 
+scotch.io Routing Angular2 Applications 
+frontendmaseters day 2 Angular2 Fundamentals Lukas Ruebbelke 

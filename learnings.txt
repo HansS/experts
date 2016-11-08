@@ -2,3 +2,6 @@ http://fakesynchhub.azurewebsites.net/api/
 atoz css serie guy routeledge, https://www.sitepoint.com/premium/screencasts/atoz-css-the-css-supports-rule 
 react series, brad westfall 
 flexbox intro, https://www.sitepoint.com/premium/screencasts/learning-about-flexbox-layouts-with-flex-containers 
+jecelyn-yeen-scotchio , C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\jecelyn-yeen-scotchio 
+ultimate angular, ryan chenkie 
+flexible boxes video2brain 

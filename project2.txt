@@ -17,3 +17,4 @@ erich haddad, angularfire2 sample,youtube ngeurope2016
 pavel kozlowski, ngbootstrap angular2 bs4, carousel 
 daniel rosenwasser typescript 2 
 option-box sample from manfred steyer, 
+question-card,C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\hans\question-card 
