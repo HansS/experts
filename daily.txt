@@ -161,3 +161,36 @@ js observable specification
 sihltal albis rundfahrt 
 scotch.io Routing Angular2 Applications 
 frontendmaseters day 2 Angular2 Fundamentals Lukas Ruebbelke 
+chatting on frontendmasters course: Angular2 Fundamentals Lukas Ruebbelke 
+day 2 video link, https://livestream.com/accounts/4894689/events/6592257/videos/141350626 
+
+Mi 9.11.2016
+--------------------------------------------------------------------------------------------------
+Connectlive 2016 Julie Kremer , Brad Frost keynote on youtube
+Angular Architecture Summary
+Sihlwald-Langnau Tierpark Run
+100 days angular 2 on http://www.netinstructions.com/ 
+angular 2 basics lynda villalobs planetoftheweb 
+oren farhi, angular 2 ngrx expert 
+nikas praninskas, angular 2 expert, youtube : the new angular router 
+frontendmasters video links, https://livestream.com/accounts/4894689 
+ngRex discusion ward bell with lukas ruebbelke ,https://devchat.tv/adv-in-angular/111-aia-redux-and-angular-2-with-nate-murray 
+johannes hoppe, angular-buch.com 
+angular2 unit testing receipes, https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584#.s3xb3jsy1 
+
+Do 10.11.2016 - The Day when AngularClass should deliver their first Course
+---------------------------------------------------------------------------------------------------------------------------
+Rob Wormold , your top 3 questions for Angular 2, youtube video (explain dynamic components, structural directives:ngFor
+NgSyndey, JavascricptMick, ngRx sample ,https://github.com/JavascriptMick/ng2-state-talk 
+aysegul yonet, d3 expert 
+curran kelleher, excellent presenter on spa 
+add data-visualization-d3.txt 
+aysegul yonet training material,C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\aysegul-yonet 
+aysegul yonet, angular2 interview questions 
+mail to angularclass, what's up? 
+issue on github.com/angularclass, 'What's up? 
+add ngrx youtube, github.com/javascriptMagik 
+multi layout slideshow 
+reacttraining.com 
+teachable online content provider for teachers 
+populate-db.ts almost working  in angular 2 quizzes 

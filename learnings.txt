@@ -5,3 +5,6 @@ flexbox intro, https://www.sitepoint.com/premium/screencasts/learning-about-flex
 jecelyn-yeen-scotchio , C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\jecelyn-yeen-scotchio 
 ultimate angular, ryan chenkie 
 flexible boxes video2brain 
+aysegul yonet training material, angular20/aysegul-yonet 
+reacttraining.com 
+teachable online content provider for teachers 

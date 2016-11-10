@@ -6,3 +6,5 @@ seth davenport, rangleio
 varun vachhar, rangle 
 juri strumpflohner, angular directives 
 geko mingchev 
+oren farhi, angular 2 ngrx expert 
+nikas praninskas, angular 2 expert, youtube : the new angular router 
