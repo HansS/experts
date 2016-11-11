@@ -194,3 +194,15 @@ multi layout slideshow
 reacttraining.com 
 teachable online content provider for teachers 
 populate-db.ts almost working  in angular 2 quizzes 
+put association in populate-db inside loop 
+angularclass solution refund bundle 525 $ 
+
+Fr 11.11.2016
+--------------------------------------------------------------------------------------------------------------------------
+todd motto video on components chat sapmpe
+idee chat app mit 6 frameworks angular20, react, react-redux,vuejs,rxjs-store,javascript 
+todd motto components sample with chat app (based on .component to @component video 
+ngrx sample und video notes sample javascriptmick (ngsydney) 
+code populate-db.ts in quizzes 
+format quizzes json in quizzes.mdb 
+7 videos Firebase App on angular-university.io 
