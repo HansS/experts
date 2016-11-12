@@ -9,3 +9,6 @@ geko mingchev
 oren farhi, angular 2 ngrx expert 
 nikas praninskas, angular 2 expert, youtube : the new angular router 
 dan wellman 
+Bertrand Karerangabo 
+christopher noring, angular 2 expert , https://github.com/softchris/angular_meetup.git 
+jad joubran, progressive web apps expert,https://github.com/jadjoubran/ 

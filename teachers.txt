@@ -12,3 +12,4 @@ karen menezes, teacher on digitaltutors.com
 nick walsh sass expert on codeschool. 
 marc wright , general assembly web technology teacher, https://www.youtube.com/watch?v=juD0jdMx-FE 
 sebastian eschweiler, angular 2 teacher, codingthesmartway.com, https://github.com/seeschweiler 
+ Boris Paillard, le wagon teacher 

@@ -1,3 +1,4 @@
 modern-web.org, jay 
 frontend conference zurich,frontendconf.ch 
 angularconnect september, angularconnect.com 
+connect-tech conference, http://connect.tech/index.html#sessions 

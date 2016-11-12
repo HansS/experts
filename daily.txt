@@ -1,5 +1,3 @@
-rich finelli, mustache learning, richfinelli.com 
-2016-09-08 
 
 2016-09-09 Freitag 
 -----------------------------------------------------------------------------------------------------------
@@ -206,3 +204,23 @@ ngrx sample und video notes sample javascriptmick (ngsydney)
 code populate-db.ts in quizzes 
 format quizzes json in quizzes.mdb 
 7 videos Firebase App on angular-university.io 
+jesse warden on redux 
+redux-segment, redux analytics,https://github.com/rangle/redux-segment 
+evan schultz, rangleio 
+
+
+Sa 12.11.2016
+---------------------------------------------------------------------
+wade anderson, vscode tips, https://github.com/Microsoft/vscode-tips-and-tricks.git
+
+Geoff Filippi,angular 2 observables youtube 
+christopher noring, angular 2 expert , https://github.com/softchris/angular_meetup.git 
+C:\Users\Hans\Web\frontend\platform\js\frontend-goeteborg-christopher-noring 
+christopher noring, angular 2 course, https://github.com/softchris/angular_2_day_course.git 
+christopher noring angular training material, C:\Users\Hans\Web\static-websites\softchris.github.io 
+flipkart, leader in progressive web app technology 
+progressive web apps on googel web fundamentals 
+jad joubran, progressive web apps expert 
+jad joubran, progressive web apps expert,https://github.com/jadjoubran/ 
+le wagon , web bootcamp jad joubran 
+ Boris Paillard, le wagon teacher 
