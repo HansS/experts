@@ -12,3 +12,4 @@ dan wellman
 Bertrand Karerangabo 
 christopher noring, angular 2 expert , https://github.com/softchris/angular_meetup.git 
 jad joubran, progressive web apps expert,https://github.com/jadjoubran/ 
+brian holt, react redux expert 

@@ -4,3 +4,7 @@ manfred steyer, lieferconditon component video
 youtube player sample (google education) 
 ngrx sample lukas ruebbelke mit json-server 
 ngrx sample und video notes sample javascriptmick (ngsydney) 
+typeahead with rob wormald video 
+firebase app , anguarl-university 
+anguarl2 routing course, scotch.io 
+angular2 forms course, scotch.io 

@@ -1,0 +1,55 @@
+01      http                                    6.11.2016
+
+02      html
+
+03      css
+
+Sitepoint - Html Intro copy questions (sitthetest.com)
+-----------------------------------
+ok, Html Intro, https://www.sitepoint.com/premium/courses/introduction-to-html-2897 
+	write 15 questions for html intro
+
+	Html Intermediate, getting started with html  media, https://www.sitepoint.com/premium/courses/getting-started-with-html-media-2904 
+	html intermediate, build your first website, https://www.sitepoint.com/premium/courses/build-your-first-website-html-css-2891 
+	write 15 questions for html intermediate
+
+	html advanced, intro to RWD, https://www.sitepoint.com/premium/courses/introduction-to-responsive-web-design-2889 
+	html advanced, html5 and js in motion, https://www.sitepoint.com/premium/courses/html5-and-javascript-in-motion-2880 
+	write 15 questions for html advanced
+
+Sitepoint - Css Intro copy questions (sitthetest.com)
+-----------------------------
+write 15 css-intermediate questions 
+
+write 15 css-foundation questions 
+write 15 css-advanced questions 
+
+Sitepoint - Javascript Intro copy questions (sitthetest.com)
+-----------------------------------
+write 15 javascript-intermediate questions 
+
+write 15 javascript-foundation questions 
+write 15 javascript-advanced questions 
+
+
+03a     css frameworks
+03b     css preprocessors
+03c     css layout techniques
+04      javascript
+04a     javascript unit testing
+04b     javascript patterns
+04c     javascript modules
+04d     typescript
+04e     es 2015
+05      jquery
+06      single page application
+07      angular 2
+08      react
+09      node npm
+10      express
+11a     gulp
+11b     webpacck
+12      build process
+13      deployment
+14a     continuous integration
+14b     git and github

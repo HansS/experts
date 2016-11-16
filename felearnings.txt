@@ -32,3 +32,4 @@ frontend tools, tools of the trade, http://tott-meetup.readthedocs.io/en/latest/
 frontend tools, tools of the trade on github, https://github.com/parente/tott 
 
 http://fakesynchhub.azurewebsites.net/api/ 
+aysegul yonet learning 

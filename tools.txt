@@ -30,3 +30,5 @@ json service api, jsonplaceholder.typicode.com
 json-server 
 firebase auth, firebaseui.com 
 jsonplaceholder.typicode.com json api 
+google webmasters tools 
+google search console 

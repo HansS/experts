@@ -223,4 +223,58 @@ progressive web apps on googel web fundamentals
 jad joubran, progressive web apps expert 
 jad joubran, progressive web apps expert,https://github.com/jadjoubran/ 
 le wagon , web bootcamp jad joubran 
- Boris Paillard, le wagon teacher 
+Boris Paillard, le wagon teacher 
+
+So 13.11.2016
+-----------------------------------------------------------------------------------------------------------------
+video single page application intro mit curran kelleher,*****
+google webmasters tools 
+google search console 
+progressive-web-app article 
+rachel andrew flexbox video 
+nicholas zachas video Scalable Javascript Application Architecture 
+Module is unit who can live on its own (html, css, js) 
+
+Mo 14.11.2016
+--------------------------------------------------------------------
+javascript israel on youtube
+json server for fetch api 
+kris kowal, reactive theory, Hans@HP-HANS C:\Users\Hans\Web\frontend\platform\js\reactive\reactive-theory\kris-kowal 
+kris kowal , gtor - general theory of reactivity 
+reactive extensions, unified model (abstraction) for handling asynchronous events (event: data point in time: stock ticks, temperature sensor,email...) 
+codeschool subscription ends 3.12.2016 
+a2zcss on codeschool (video download) 
+front-end foundations course: build a receipe site 
+front-end foundations course: build a receipe site 
+html5 history api for the new generation of spa, http://diveintohtml5.info/history.html 
+personal notes in localstorage, C:\Users\Hans\Web\frontend\platform\js\samples\eznotes 
+tony holdstock, redux expert, https://github.com/tonyhb 
+tony holdstock, redux gitbook 
+learn on superagent on client and server 
+firebase app sample on tutspuls, https://github.com/jay3dec/AngularJS_Firebase_Part1.git 
+firebase app sample , C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-angularfire20\jay-tutsplus 
+jsconf iceland 2016, https://www.youtube.com/playlist?list=PL37ZVnwpeshGtbb-i7WJqtxZhoe5AGIw4 
+
+Di 15.11.2016
+--------------------------------------------------------------------------------------------------------------------------------------------
+Stephen Fluin, angular2 expertgit tutorials, https://www.atlassian.com/git/tutorials 
+i7 8MB 1TB 900 Fr 
+atlassian git tutorials pdf 
+linux commandline video downlaod 
+craig buckler, do you really need jquery 
+guy routledge a2zcss download 
+kara erickson sample material 
+manfred steyer a2 intro 
+
+Mi 16.11.2016
+------------------------------------------------------------------------------------------------------------------------------------------------
+Upgrade Angular-University to yearly subscription: 99$
+Engadiner skimarathon 2017 anmelduung 100.-
+Upgrade scotch.io from monthly 12 to yeaarly subscription: 120$
+Refund Angularclass 525.-
+notebook i7 8Gb 1 TB,400.-, http://www.tutti.ch/zuerich/computer-zubehoer/computer/angebote/hp-envy-x360-i7-8gb-ram-1tb-disk-win10_12771126.htm
+current subscriptions: frontendmasters, angular-univsersity.io, scotch.io, packtpub.com, sitepoint.com, udemy, codeschool.com 
+brian holt, react redux expert 
+commandline tab on: cmd.exe /F:ON 
+lynda up and running with slack, http://avxhome.se/ebooks/eLearning/lc-uar_slack.html 
+tutorials online and downlod,http://tut-dl.com 

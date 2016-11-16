@@ -1,3 +1,5 @@
 dave partner, ionic2 firebase2 material fireblogger 
 angular-university.io , firebase2 angular2 
 https://questions-51f36.firebaseio.com/ 
+firebase app sample on tutspuls, https://github.com/jay3dec/AngularJS_Firebase_Part1.git 
+firebase app sample , C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-angularfire20\jay-tutsplus 

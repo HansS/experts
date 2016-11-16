@@ -21,3 +21,5 @@ react redux downlaod 2
 little boxes, layout per flexbox video2brain de,http://avxhome.se/ebooks/Li.Bo.La.p.Fl.html 
 material design book,http://avxhome.se/ebooks/1484221893-repost.html 
 rayan chenkie, angular firebase material,http://avxhome.se/ebooks/eLearning/naag78072.html 
+lynda up and running with slack, http://avxhome.se/ebooks/eLearning/lc-uar_slack.html 
+tutorials online and downlod,http://tut-dl.com/item/lynda-building-a-responsive-single-page-design-with-sass/68745 
