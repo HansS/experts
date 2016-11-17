@@ -13,3 +13,9 @@ Bertrand Karerangabo
 christopher noring, angular 2 expert , https://github.com/softchris/angular_meetup.git 
 jad joubran, progressive web apps expert,https://github.com/jadjoubran/ 
 brian holt, react redux expert 
+jessica kerr, elm for functional programmers 
+james churchill, typescript rx expert ,https://github.com/smashdevcode 
+gerard sans, rxjs redux expert 
+lea veralou , css coder 
+hugo giraudel, css modules js expert, 
+bennett feely, creator of flexplorer, live flexbox properties, 

@@ -32,3 +32,5 @@ firebase auth, firebaseui.com
 jsonplaceholder.typicode.com json api 
 google webmasters tools 
 google search console 
+codepen.io 
+slack 

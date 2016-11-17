@@ -278,3 +278,28 @@ brian holt, react redux expert
 commandline tab on: cmd.exe /F:ON 
 lynda up and running with slack, http://avxhome.se/ebooks/eLearning/lc-uar_slack.html 
 tutorials online and downlod,http://tut-dl.com 
+sitepoint, css getting started, 13:00-18:00 
+typeahead sample, in ngBootstrap (Pavel Koslovski), https://github.com/KilianSSL/ng2-bootstrap 
+payments list, current payments to do when how much 
+nailed down learning providers: angular-university.io, scotch.io, rachel-andrew css-workshop 
+
+Do 17.11.2016
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Css Advanced Layout Look into
+
+kansas dev conf 2016,c:\Users\Hans\Web\conferences\2016\kcdc2016Presentations 
+jonathan mills, angular 2 workflow pluaralsight 
+jessica kerr, elm for functional programmers 
+james churchill, typescript rx expert ,https://github.com/smashdevcode 
+Publish your achievements on the internet,https://openbadges.org/get-started/earning-badges.git 
+openbadges, publish your learnings on internet 
+gerard sans, rxjs redux expert, video infoq.com jul 2016,https://www.infoq.com/presentations/rxjs-5  
+working with slack, thecssworksho.slack.com/messages 
+working with codepen.io 
+flexplorer, playground for flexbox,http://bennettfeely.com/flexplorer/ 
+lea veralou , css coder 
+http://flexboxin5.com/ 
+futurelearn.com, new open online learning platform, https://www.futurelearn.com/courses/online-business-success-planning/2/welcome 
+openbadges, open standards for certificates , 
+hugo giraudel, css modules js expert, 
+bennett feely, creator of flexplorer, live flexbox properties, 

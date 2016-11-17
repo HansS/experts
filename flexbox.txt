@@ -16,3 +16,7 @@ stephen hay, web designer flexbox expert
  Zoe M. Gillenwater, flexbox expert 
 tab atkins, flexbox expert 
 landon schropp, unvraveling flexbox book 
+rachel andrew, flexbox flexgrid expert 
+flexplorer, playground for flexbox,http://bennettfeely.com/flexplorer/ 
+http://flexboxin5.com/ 
+bennett feely, creator of flexplorer, live flexbox properties, 
