@@ -9,3 +9,11 @@ jafar hussain , frontendmasters course rxjs
 netflix , rx user company 
 rx falcor  hussain 
 richard park, angularfire2 expert 
+intro to reactive programming, andre staltz,https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 
+gitbook,http://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/ 
+rxjs intro, scott allen, http://avxhome.se/ebooks/naag13612.html 
+are you ready for a paradigm shift with RxJs,http://avxhome.se/ebooks/naag8204.html 
+functional reactive programming book, http://nitroflare.com/view/C0E0A8B2FE629CD/1633430103.pdf 
+rxjs immutability julia gao, https://www.youtube.com/watch?v=kqT1rwxOpHs 
+brian holt 
+rxjs intro, scott allen, D:\A10-projects\rxjs\RxJs-Scott-Allan-2016\Getting Started with Reactive Programming Using RxJS 

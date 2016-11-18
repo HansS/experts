@@ -19,3 +19,9 @@ gerard sans, rxjs redux expert
 lea veralou , css coder 
 hugo giraudel, css modules js expert, 
 bennett feely, creator of flexplorer, live flexbox properties, 
+andre staltz , rx expert 
+jeremy fairbank, functional coder 
+christian johansen, functional coder 
+eric elliot , js expert 
+braithwidth, es6 functional programmer 
+sara robinson, firebase 

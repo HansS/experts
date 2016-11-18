@@ -23,3 +23,6 @@ material design book,http://avxhome.se/ebooks/1484221893-repost.html
 rayan chenkie, angular firebase material,http://avxhome.se/ebooks/eLearning/naag78072.html 
 lynda up and running with slack, http://avxhome.se/ebooks/eLearning/lc-uar_slack.html 
 tutorials online and downlod,http://tut-dl.com/item/lynda-building-a-responsive-single-page-design-with-sass/68745 
+rxjs intro, scott allen, http://avxhome.se/ebooks/naag13612.html 
+are you ready for a paradigm shift with RxJs,http://avxhome.se/ebooks/naag8204.html 
+functional reactive programming book, http://nitroflare.com/view/C0E0A8B2FE629CD/1633430103.pdf 

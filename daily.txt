@@ -303,3 +303,24 @@ futurelearn.com, new open online learning platform, https://www.futurelearn.com/
 openbadges, open standards for certificates , 
 hugo giraudel, css modules js expert, 
 bennett feely, creator of flexplorer, live flexbox properties, 
+
+Fr 18.11.2016
+-------------------------------------------------------------------------------------------------------------------------------------------
+read the source, youtube, https://www.youtube.com/watch?v=ZynZdGqxT7Quri shaked , Angular 2 Compiler 
+gitbook,http://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/ 
+intro to reactive programming, andre staltz,https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 
+frontend interview prepartion, https://github.com/epibook/epibook.github.io.git 
+https://www.toptal.com/javascript/interview-questions 
+web app lecture uni regensburg,florian rappl,https://github.com/WebAppLecture/webapplecture.github.io,C:\Users\Hans\Web\frontend\bootcamps\uni-regensburg 
+css3generator.com 
+diventohtml3.info 
+echo html5demos.com 
+rxjs intro, scott allen, http://avxhome.se/ebooks/naag13612.html 
+jsbin.com 
+firebase game javascript israel 
+packpub learning to program - certificate Web developer 
+are you ready for a paradigm shift with RxJs,http://avxhome.se/ebooks/naag8204.html 
+angular 2 Codelab - Embedded YouTube Playder,http://plnkr.co/edit/aizosOqp096Bo0zmWXcW?p=info 
+braithwidth, es6 functional programmer 
+rxjs immutability julia gao, https://www.youtube.com/watch?v=kqT1rwxOpHs 
+rxjs intro, scott allen, D:\A10-projects\rxjs\RxJs-Scott-Allan-2016\Getting Started with Reactive Programming Using RxJS 

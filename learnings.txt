@@ -12,3 +12,13 @@ kcdc videos 2016 on infoq.com
 es6 workshop todd motto 
 futurelearn.com, new open online learning platform, https://www.futurelearn.com/courses/online-business-success-planning/2/welcome 
 openbadges, open standards for certificates , 
+web app lecture uni regensburg,florian rappl,https://github.com/WebAppLecture/webapplecture.github.io,C:\Users\Hans\Web\frontend\bootcamps\uni-regensburg 
+css3generator.com 
+diventohtml3.info 
+echo html5demos.com 
+packpub learning to program - certificate Web developer 
+are you ready for a paradigm shift with RxJs,http://avxhome.se/ebooks/naag8204.html 
+eric elliot , js expert 
+braithwidth, es6 functional programmer 
+jason green , intro javascript + Next Stpes on sitepoint,https://www.sitepoint.com/premium/courses/javascript-next-steps-2921 
+rxjs intro, scott allen, D:\A10-projects\rxjs\RxJs-Scott-Allan-2016\Getting Started with Reactive Programming Using RxJS 

@@ -23,4 +23,4 @@ alias cwsd=cd C:\Users\Hans\Web\frontend\platform\css\flexbox
 alias cwbe=cd C:\Users\Hans\Web\backend
 alias cwfu=cd C:\Users\Hans\Web\fullstack
 alias cwfe=cd C:\Users\Hans\Web\frontend
-alias cwfb=cd C:\Users\Hans\Web\frontend\bootcamps
+alias cwfb=cd C:\Users\Hans\Web\frontend\bootcampsngeurop 

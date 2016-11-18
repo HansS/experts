@@ -11,3 +11,5 @@
 			typeahead, ng2-bootstrap, pavel kozlowski 
 			webpack deep dive, frontendmasters.com , kent c dodds 
 			es6 workshop kent c dodds 
+code your own template language, string.replace 
+angular 2 Codelab - Embedded YouTube Playder,http://plnkr.co/edit/aizosOqp096Bo0zmWXcW?p=info 

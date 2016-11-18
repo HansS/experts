@@ -21,4 +21,5 @@
 12	build process
 13	deployment
 14a	continuous integration
-14b	git and github 
+14b	git and github frontend interview prepartion, https://github.com/epibook/epibook.github.io.git 
+https://www.toptal.com/javascript/interview-questions 

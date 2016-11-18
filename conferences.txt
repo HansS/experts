@@ -3,3 +3,6 @@ frontend conference zurich,frontendconf.ch
 angularconnect september, angularconnect.com 
 connect-tech conference, http://connect.tech/index.html#sessions 
 jsconf iceland 2016, https://www.youtube.com/playlist?list=PL37ZVnwpeshGtbb-i7WJqtxZhoe5AGIw4 
+ngeurop 
+reacteurop 
+Utah JS Conference 2016 
