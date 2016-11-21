@@ -22,3 +22,6 @@ eric elliot , js expert
 braithwidth, es6 functional programmer 
 jason green , intro javascript + Next Stpes on sitepoint,https://www.sitepoint.com/premium/courses/javascript-next-steps-2921 
 rxjs intro, scott allen, D:\A10-projects\rxjs\RxJs-Scott-Allan-2016\Getting Started with Reactive Programming Using RxJS 
+sitepoint premium github, https://github.com/learnable-content 
+frontend-intro playlist download 
+ui-kit learning playlist download 

@@ -20,3 +20,6 @@ rachel andrew, flexbox flexgrid expert
 flexplorer, playground for flexbox,http://bennettfeely.com/flexplorer/ 
 http://flexboxin5.com/ 
 bennett feely, creator of flexplorer, live flexbox properties, 
+css flexbox library, cutestrap, https://github.com/tylerchilds/cutestrap 
+sitepoint premium github, https://github.com/learnable-content 
+sitepoint css flexbox guy routeledge videos 

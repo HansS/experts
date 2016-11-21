@@ -19,3 +19,4 @@ daniel rosenwasser typescript 2
 option-box sample from manfred steyer, 
 question-card,C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\hans\question-card 
 quizz app, C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-angularfire20\hans\quizzes 
+codeschool ember quiz app 

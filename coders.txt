@@ -25,3 +25,7 @@ christian johansen, functional coder
 eric elliot , js expert 
 braithwidth, es6 functional programmer 
 sara robinson, firebase 
+michael herman,node js expert 
+michael herman,node express expert 
+oren farhi, angular2 expert, angular2 infinite scrolling 
+oren farhi, ngrx-store expert 

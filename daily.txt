@@ -324,3 +324,40 @@ angular 2 Codelab - Embedded YouTube Playder,http://plnkr.co/edit/aizosOqp096Bo0
 braithwidth, es6 functional programmer 
 rxjs immutability julia gao, https://www.youtube.com/watch?v=kqT1rwxOpHs 
 rxjs intro, scott allen, D:\A10-projects\rxjs\RxJs-Scott-Allan-2016\Getting Started with Reactive Programming Using RxJS 
+
+Sa 19.11.2016
+------------------------------------------------------------------------------------------------------------------------
+lewagon bootcamp
+reactive css animations 
+scott allen , es6 the dragons, video download 
+reactive css, video download 
+codeschool this weekend all courses free 
+codeschool ember quiz app 
+css flexbox library, cutestrap, https://github.com/tylerchilds/cutestrap 
+css variables or css custom properties ,https://www.w3.org/TR/css-variables/ 
+sitepoint premium github, https://github.com/learnable-content 
+sitepoint css flexbox guy routeledge videos 
+this is bound at call time 
+
+So 20.11.2016
+--------------------------------------------------------------------------------------------------------------------------
+michael herman,node js expert, mherman.org 
+
+Mo 21.11.2016
+----------------------------------------------------------------------------------------------------------------------------
+solve javascript problems site, https://www.hackerrank.com 
+fullstack academy anmeldung und hackerrank fizzbuzz problem (15min!) 
+repl.it , on line editor 
+javascript semicolon rule 
+fullstack js lint rules on github 
+oren farhi, angular2 expert, angular2 infinite scrolling 
+oren farhi, ngrx-store expert 
+http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/ 
+tikalk, company oren farhi 
+https://getuikit.com/, ui framework 
+frontend-intro playlist download 
+ui-kit learning playlist download 
+your inner fish, book and youtube video 
+angular-university, a2 forms course completed 
+fullstackacademy.com, online training 
+learn.fullstackacademy.com/workshops 

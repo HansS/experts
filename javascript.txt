@@ -1,0 +1,2 @@
+javascript semicolon rule 
+fullstack js lint rules on github 
