@@ -361,3 +361,19 @@ your inner fish, book and youtube video
 angular-university, a2 forms course completed 
 fullstackacademy.com, online training 
 learn.fullstackacademy.com/workshops 
+
+Di 22.11.2012
+------------------------------------------------------------------------------------------------------
+
+
+
+stephen fluin angular 2 evangelist 
+rob wormald a2 evangelist 
+google firebase codelabs, https://codelabs.developers.google.com/ 
+firebaseUi, firebase auth provider helper, https://github.com/firebase/firebaseui 
+jeff cross, firebase expert 
+firebase sample friendly chat, https://codelabs.developers.google.com/codelabs/firebase-web/index.html?index=..%2F..%2Findex#0 
+place for javascript labs, https://www.hackerrank.com/domains?h_r=logo 
+@material/flex-layouts 
+robin b”hm, angular2 testing 
+questions-jeff-cross-me: load 16 questions from fe-questons on firebase 

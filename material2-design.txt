@@ -5,3 +5,4 @@ jeremy elbourn , material core  team
 ajden towfeek , angular material expert 
 aron frost , angular material expert 
 maxim salnikov, github.com/webmaxru 
+@material/flex-layouts 

@@ -20,3 +20,5 @@ option-box sample from manfred steyer,
 question-card,C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\hans\question-card 
 quizz app, C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-angularfire20\hans\quizzes 
 codeschool ember quiz app 
+current dev: C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-angularfire20\hans\questions-jeff-cross-me 
+questions-jeff-cross-me: load 16 questions from fe-questons on firebase 

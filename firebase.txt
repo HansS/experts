@@ -5,3 +5,7 @@ firebase app sample on tutspuls, https://github.com/jay3dec/AngularJS_Firebase_P
 firebase app sample , C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-angularfire20\jay-tutsplus 
 firebase game javascript israel 
  sara robinson 
+google firebase codelabs, https://codelabs.developers.google.com/ 
+firebaseUi, firebase auth provider helper, https://github.com/firebase/firebaseui 
+jeff cross, firebase expert 
+firebase sample friendly chat, https://codelabs.developers.google.com/codelabs/firebase-web/index.html?index=..%2F..%2Findex#0 
