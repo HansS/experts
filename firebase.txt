@@ -9,3 +9,5 @@ google firebase codelabs, https://codelabs.developers.google.com/
 firebaseUi, firebase auth provider helper, https://github.com/firebase/firebaseui 
 jeff cross, firebase expert 
 firebase sample friendly chat, https://codelabs.developers.google.com/codelabs/firebase-web/index.html?index=..%2F..%2Findex#0 
+aaron k saunders, angularfire2 
+ng2 firebase auth,https://github.com/manekinekko/angular2-firebase-authentication.git 

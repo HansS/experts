@@ -25,3 +25,7 @@ rxjs intro, scott allen, D:\A10-projects\rxjs\RxJs-Scott-Allan-2016\Getting Star
 sitepoint premium github, https://github.com/learnable-content 
 frontend-intro playlist download 
 ui-kit learning playlist download 
+sitepoint premium content on github, github.com/learnable-content 
+nodeschool.io console learnings 
+assim hussainl, codecraftpro.com 
+kickstarter.com 

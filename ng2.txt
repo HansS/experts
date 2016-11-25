@@ -24,3 +24,5 @@ aysegul yonet angular2 interview questions
 christopher noring angular training material, C:\Users\Hans\Web\static-websites\softchris.github.io 
 angular 2 Codelab - Embedded YouTube Playder,http://plnkr.co/edit/aizosOqp096Bo0zmWXcW?p=info 
 @material/flex-layouts 
+david barreto rangleio, angular 2 expert 
+wassim chegham , angular2 expert, https://github.com/manekinekko/google-interview-university 

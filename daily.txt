@@ -364,9 +364,6 @@ learn.fullstackacademy.com/workshops
 
 Di 22.11.2012
 ------------------------------------------------------------------------------------------------------
-
-
-
 stephen fluin angular 2 evangelist 
 rob wormald a2 evangelist 
 google firebase codelabs, https://codelabs.developers.google.com/ 
@@ -377,3 +374,48 @@ place for javascript labs, https://www.hackerrank.com/domains?h_r=logo
 @material/flex-layouts 
 robin b”hm, angular2 testing 
 questions-jeff-cross-me: load 16 questions from fe-questons on firebase 
+
+Mi 23.11.2016
+---------------------------------------------------------------------------------------------------------------------------
+angularfire2
+ng2-bootstrap
+@angular/material
+flexbox
+@angular/core
+webpack2
+rxjs/Observable
+ngRx/store
+
+nicholas kennedy rangle.io, react functional programmer,https://github.com/NicholasGWK/FunctionalJSDemo.git 
+subscription rangleio webinar angular2 intro day 2 
+intro to elm, nicholas kennedy, rangleio,https://github.com/NicholasGWK/IntroToElm.git 
+reginald braithwaite , es6 in functional javascript 
+jeremy fairbank, es6 in functional javascript 
+Javascript Allonge Six Edition,Reginald Braithwaite,https://leanpub.com/javascriptallongesix/read 
+sitepoint premium content on github, github.com/learnable-content 
+flexbox fluid sidenav lindfeldt 
+basic flexbox layout in jeff-cross-me 
+rangle io , Angular 2 Day 2
+
+Mi 24.11.2016
+----------------------------------------------------------------------------------------------------------------------------
+material2 design on p2, md-toolbar, md-sidenav, md-main-content 
+check jeremy elbourn material 2 sample in angular20-material20 
+david barreto rangleio, angular 2 expert 
+nodeschool.io console learnings 
+
+Do 24.11.2016
+--------------------------------------------------------------------------------------------------------------------------
+Doaaron k saunders, angularfire2 
+ng2 firebase auth,https://github.com/manekinekko/angular2-firebase-authentication.git 
+wassim chegham , angular2 expert, https://github.com/manekinekko/google-interview-university 
+justin duJardin, material2 expert 
+uninstall norton security,uninstall for new install on other system 
+use alt + space for launchy 
+uninstall cyberlink 
+clx-paymaker new liccense? 
+frontendmaster cancel? 
+
+Fr 25.11.2016
+----------------------------------------------------------------------------------------------------------------------------
+justin meyer Javascript guru, frontendmasters jquery js, javascript is a dynamic, weakly-typed, prototype based language with first-class functions 

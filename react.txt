@@ -1,1 +1,2 @@
 react intro lessons, https://github.com/tylermcginnis/github-notetaker-egghead 
+nicholas kennedy rangle.io, react functional programmer,https://github.com/NicholasGWK/FunctionalJSDemo.git 

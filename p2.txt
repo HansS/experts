@@ -19,6 +19,11 @@ daniel rosenwasser typescript 2
 option-box sample from manfred steyer, 
 question-card,C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\hans\question-card 
 quizz app, C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-angularfire20\hans\quizzes 
-codeschool ember quiz app 
-current dev: C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-angularfire20\hans\questions-jeff-cross-me 
-questions-jeff-cross-me: load 16 questions from fe-questons on firebase 
+--------------------------------------------------------------------------------------------
+ok		codeschool ember quiz app 
+ok		current dev: C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-angularfire20\hans\questions-jeff-cross-me 
+ok		questions-jeff-cross-me: load 16 questions from fe-questons on firebase 
+----------------------------------------------------------------------------------------------------
+		check jeremy elbourn material 2 sample in angular20-material20 
+		material2 design on p2, md-toolbar, md-sidenav, md-main-content 
+		study flexbox-slider -> no jquery in componentng2 firebase auth,https://github.com/manekinekko/angular2-firebase-authentication.git 

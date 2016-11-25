@@ -6,3 +6,5 @@ ajden towfeek , angular material expert
 aron frost , angular material expert 
 maxim salnikov, github.com/webmaxru 
 @material/flex-layouts 
+justin duJardin, material2 expert 
+kara erickson angularconnect, LeashedIn Demo 

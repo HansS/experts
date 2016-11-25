@@ -30,3 +30,11 @@ michael herman,node express expert
 oren farhi, angular2 expert, angular2 infinite scrolling 
 oren farhi, ngrx-store expert 
 @material/flex-layouts 
+nicholas kennedy rangle.io, react functional programmer,https://github.com/NicholasGWK/FunctionalJSDemo.git 
+intro to elm, nicholas kennedy, rangleio,https://github.com/NicholasGWK/IntroToElm.git 
+david barreto rangleio, angular 2 expert 
+aaron k saunders, angularfire2 
+wassim chegham , angular2 expert, https://github.com/manekinekko/google-interview-university 
+justin duJardin, material2 expert 
+ justin meyer Javascript guru, frontendmasters jquery 
+assim hussainl, codecraftpro.com 
