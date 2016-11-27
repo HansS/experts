@@ -419,3 +419,14 @@ frontendmaster cancel?
 Fr 25.11.2016
 ----------------------------------------------------------------------------------------------------------------------------
 justin meyer Javascript guru, frontendmasters jquery js, javascript is a dynamic, weakly-typed, prototype based language with first-class functions 
+asim hussain, javascript expert, codecraftpro.com 
+
+Sa 26.11.2016
+--------------------------------------------------------------------------------------------------------------------------------------------------
+igor  minar, ReactConf 2016 slovakia, Angular 2 influenced by Communityandre staltz, ReactConf 2016 slovakia, Vizualizing Streams, tool for making a mental model of complex Apps 
+firebase blog sample in quickstart database, C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-angularfire20\google\quickstart-js\database 
+jesus conde, firebase coder 
+jesus conde, ng2 task sample, https://github.com/0utKast/vt20ca2Completo.git 
+kyle cordes oasis digital , https://github.com/OasisDigital/angular2-firebase-demo.git 
+rachel willmer, firebase expert , https://github.com/rwillmer/firebase-javascript-poll-demo.git 
+jon bonso, angular2 crud sample app, https://github.com/jsbonso/angular2-crudapp.git 

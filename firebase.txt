@@ -11,3 +11,7 @@ jeff cross, firebase expert
 firebase sample friendly chat, https://codelabs.developers.google.com/codelabs/firebase-web/index.html?index=..%2F..%2Findex#0 
 aaron k saunders, angularfire2 
 ng2 firebase auth,https://github.com/manekinekko/angular2-firebase-authentication.git 
+firebase blog sample in quickstart database, C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-angularfire20\google\quickstart-js\database 
+jesus conde, firebase coder 
+kyle cordes oasis digital , https://github.com/OasisDigital/angular2-firebase-demo.git 
+rachel willmer, firebase expert , https://github.com/rwillmer/firebase-javascript-poll-demo.git 

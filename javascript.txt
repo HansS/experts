@@ -6,3 +6,4 @@ Javascript Allonge Six Edition,Reginald Braithwaite,https://leanpub.com/javascri
  justin meyer Javascript guru, frontendmasters jquery 
 js, javascript is a dynamic, weakly-typed, prototype based language with first-class functions 
 assim hussainl, codecraftpro.com 
+asim hussain, javascript expert, codecraftpro.com 

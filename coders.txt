@@ -38,3 +38,5 @@ wassim chegham , angular2 expert, https://github.com/manekinekko/google-intervie
 justin duJardin, material2 expert 
  justin meyer Javascript guru, frontendmasters jquery 
 assim hussainl, codecraftpro.com 
+asim hussain, javascript expert, codecraftpro.com 
+kyle cordes oasis digital , https://github.com/OasisDigital/angular2-firebase-demo.git 

@@ -26,3 +26,6 @@ angular 2 Codelab - Embedded YouTube Playder,http://plnkr.co/edit/aizosOqp096Bo0
 @material/flex-layouts 
 david barreto rangleio, angular 2 expert 
 wassim chegham , angular2 expert, https://github.com/manekinekko/google-interview-university 
+igor  minar, ReactConf 2016 slovakia, Angular 2 influenced by Community 
+jesus conde, ng2 task sample, https://github.com/0utKast/vt20ca2Completo.git 
+jon bonso, angular2 crud sample app, https://github.com/jsbonso/angular2-crudapp.git 
