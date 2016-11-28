@@ -430,3 +430,10 @@ jesus conde, ng2 task sample, https://github.com/0utKast/vt20ca2Completo.git
 kyle cordes oasis digital , https://github.com/OasisDigital/angular2-firebase-demo.git 
 rachel willmer, firebase expert , https://github.com/rwillmer/firebase-javascript-poll-demo.git 
 jon bonso, angular2 crud sample app, https://github.com/jsbonso/angular2-crudapp.git 
+
+Mo 28.11.2016
+----------------------------------------------------------------------------------------------------------------------------------
+Juan Suarez , Firebase Ionic Angular Sample$
+Wassim Chegham, Firebase Auth Article and sampple
+Jon Bonso, Angular 2 Crud Sample and Udemy course
+rachel willmer firebase gitbook
