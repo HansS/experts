@@ -45,3 +45,4 @@ angualar 2 depenencies graph, ngd
 visual code expert, wade anderson 
 jsonEdit json editor
 bugger, devtools binding in debugging  
+capture qrcode mobile, https://github.com/udacity/qrcode  

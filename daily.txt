@@ -579,3 +579,10 @@ mathias niemala new blog
 general assembly school preparation site, http://fundamentals.generalassemb.ly/  
 heroku , heroku tools on cli,  
 bugger, chrome extension for node debugging,  
+torgeir helgevold, angular expert, http://www.syntaxsuccess.com/angular-2-samples/#/demo/http  
+torgeir helgevold, angular expert example articles ,http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples  
+jason lengstorf, expert, https://code.lengstorf.com/learn-rollup-js/  
+google web fundamentals, https://developers.google.com/web/fundamentals/  
+capture qrcode mobile, https://github.com/udacity/qrcode  
+practical javascript course, https://watchandcode.com/courses/practical-javascript/lectures/896960  
+jorge vergera, ionic 2 firebase 3 angularfire expert , https://github.com/javebratt  

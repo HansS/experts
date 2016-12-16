@@ -1,0 +1,8 @@
+  "<script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script> <script>   // Initialize Firebase   
+var config = {     apiKey: "AIzaSyBsnCgDf_8YKfqr1NeiAjjAJXHDdP9uoiE",     
+authDomain: "friendly-chat-bafe4.firebaseapp.com",     
+databaseURL: "https://friendly-chat-bafe4.firebaseio.com",     
+storageBucket: "friendly-chat-bafe4.appspot.com",     
+messagingSenderId: "1034292943055"   };   
+
+firebase.initializeApp(config); </script>" 

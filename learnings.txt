@@ -35,3 +35,5 @@ js, daniel shiffman, shiffman.net
 stenver jerkku, interactive js,https://courses.cs.ut.ee/2016/react/spring/  
 interactive js, training videos with stenfer jerkku, http://www.uttv.ee/naita?id=23700,  
 general assembly school preparation site, http://fundamentals.generalassemb.ly/  
+google web fundamentals, https://developers.google.com/web/fundamentals/  
+practical javascript course, https://watchandcode.com/courses/practical-javascript/lectures/896960  
