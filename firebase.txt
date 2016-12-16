@@ -15,3 +15,10 @@ firebase blog sample in quickstart database, C:\Users\Hans\Web\frontend\platform
 jesus conde, firebase coder 
 kyle cordes oasis digital , https://github.com/OasisDigital/angular2-firebase-demo.git 
 rachel willmer, firebase expert , https://github.com/rwillmer/firebase-javascript-poll-demo.git 
+firebase expert, juarez filho
+firebase expert, frank van puffelen
+firebase expert, david east
+firebase expert, matt boutell
+firebase expert, chris esplin, firebase learning and youtube videos
+christoffer noring, firebase expert 
+angular-university firebase app author, https://github.com/jhades, vasco cavalheiro 

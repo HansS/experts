@@ -145,3 +145,4 @@ guy routledge, css expert atoz css, https://github.com/guyroutledge
 houssain hdjirdeh, angular redux expert 
 oren farhi, angular 2 ngrx expert 
 nikas praninskas, angular 2 expert, youtube : the new angular router 
+js, daniel shiffman, shiffman.net

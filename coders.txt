@@ -40,3 +40,8 @@ justin duJardin, material2 expert
 assim hussainl, codecraftpro.com 
 asim hussain, javascript expert, codecraftpro.com 
 kyle cordes oasis digital , https://github.com/OasisDigital/angular2-firebase-demo.git 
+tarun sharma , angular 2 expert,https://github.com/tkssharma 
+https://www.omdbapi.com/, vidoe rest api 
+asim hussain, angular 2 expert 
+juri strumpflohner, angular 2 expert 
+christoffer noring, firebase expert 

@@ -29,3 +29,9 @@ sitepoint premium content on github, github.com/learnable-content
 nodeschool.io console learnings 
 assim hussainl, codecraftpro.com 
 kickstarter.com 
+flatiron-school javascript trial, https://learn.co/tracks/introduction-to-javascript/introduction/getting-started-with-javascript/introduction-to-javascript-course-overview 
+js, daniel shiffman, shiffman.net
+, programming a to z , daniel shiffman, shiffman.net, codingrainbow.com
+stenver jerkku, interactive js,https://courses.cs.ut.ee/2016/react/spring/  
+interactive js, training videos with stenfer jerkku, http://www.uttv.ee/naita?id=23700,  
+general assembly school preparation site, http://fundamentals.generalassemb.ly/  

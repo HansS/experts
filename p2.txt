@@ -27,3 +27,4 @@ ok		questions-jeff-cross-me: load 16 questions from fe-questons on firebase
 		check jeremy elbourn material 2 sample in angular20-material20 
 		material2 design on p2, md-toolbar, md-sidenav, md-main-content 
 		study flexbox-slider -> no jquery in componentng2 firebase auth,https://github.com/manekinekko/angular2-firebase-authentication.git 
+'~/web/frontend/javascript/frameworks/angular-firebase/hans/questions'  

@@ -437,3 +437,145 @@ Juan Suarez , Firebase Ionic Angular Sample$
 Wassim Chegham, Firebase Auth Article and sampple
 Jon Bonso, Angular 2 Crud Sample and Udemy course
 rachel willmer firebase gitbook
+visual code expert, wade anderson 
+
+Di 29.11.2016
+--------------------------------------------------------------------------------------------------------------------------------------
+install calibre epub reader
+install mongodb
+install 7zip
+install bittorrent
+install 4kdownloader
+install Chrome extension: AdBlock
+youtube rob wormald , it is all streams
+youtube rob wormald , reactive forms
+vscode node debugging 
+tarun sharma , angular 2 expert,https://github.com/tkssharma 
+
+Mi 30.11.2016
+--------------------------------------------------------------------------------------------------------------------------------------
+firebase expert, juarez filho
+firebase expert, frank van puffelen
+firebase expert, david east
+firebase expert, matt boutell
+firebase expert, chris esplin, firebase learning and youtube videos
+markus karsch, angular kochbuch
+jsonEdit json editor
+
+Fr 2.12.2016
+-------------------------------------------------------------------------------------------------------------------------------------
+gothinkster.com angular 2, angularfire2 courses 20$/mo
+set davenport angular component archtiecture
+article vuejs, angular2, react, polymer component samples (dropbox -> webcomponents)
+rob warmald,patrick stapleton angular component sample, card , videobox, videoserach
+
+https://www.omdbapi.com/, vidoe rest api 
+component articles, https://jeremenichelli.github.io/ 
+bittorrent sync - HansSync FilioSync 
+sync vs cloud 
+
+Sa 3.12.2016
+-----------------------------------------------------------------------------------------------------------------------------------------
+scotch.io routing course (create multiple modules -> enables lazy loading, components, components -> create a login compontent
+jason watmore login component samplerangle-stater command-line Angular2 Typescript Webpack 
+getting started reactive scott allen download 
+seth davenport introm to Angular 2 components video download 
+ngmodule create modules in your project , rangle-starter create hello module 
+scotch.io angular2 routing course sample download 
+make an essentials.txt file for essential learning for frontend dev 
+augury, angular 2 dev tool 
+christoffer noring, firebase expert 
+angular-university firebase app author, https://github.com/jhades, vasco cavalheiro 
+
+So 4.12.2016
+------------------------------------------------------------------------------------------------------------------------------------------
+install json-server
+install svelte: npm install -g svelte-cli
+svelte a leightweight javascript framework wich compiles to javascript (like typescript)
+svelte on todomvc.comcss-variables in rangle-starter 
+hans sprecher , 1ok slide framework  
+10k projects at , 10kb appp contest  
+
+Mo 5.12.2016
+_________________________________________________________________________________________________________________________________________
+json-server questions Http Foundation 1 to 16
+insmonia + json server = json quickstart
+jq-node json queries
+gron - gre for json
+typicode json server, lowdb (json db for json server)
+json-patch, http patch for json
+starcounter.io , creator of json-patch
+json-pach: part of json object update, small updates on json structure
+
+Di 5.12.2016
+----------------------------------------------------------------------------------------------------------------------------------------------
+advanced typescript http://avxhome.se/ebooks/naag13659.html
+javascript is sexy, http://javascriptissexy.com/category/16-important-javascript-concepts/  
+flatiron school subscription, https://learn.co/tracks/javascript-building-interactive-websites/functional-javascript/higher-order-functions/first-class-functions  
+
+Mi 6.12.2012
+---------------------------------------------------------------------------------------------------------------------------------------------------
+brecht billiet, ngrx expert, /web/frontend/javascript/frameworks/angular-ngrx/brecht-billiet/reactive_apps_workshop
+juri strumpflohner, angular 2 intro sampel, people module, people components: new-people, people-list, youtube video
+juri strumpflohner, angular 2 directives packtpub  videos, angular 2 -> juri strumpflohner
+project2 quizzes, quiz questions on quiz-details, material design for question listjuri strumpflohner, binding-list sample for questions-card project2  
+flatiron-school javascript trial, https://learn.co/tracks/introduction-to-javascript/introduction/getting-started-with-javascript/introduction-to-javascript-course-overview  
+
+Do 7.12.2012
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+css day 2016 conference june 2016 amsterdam , videos on vimeo.com ,cssday 
+css expert lea verou, conference speaker, css expert
+css secrets, book author lea verou, all code on github or dabblet.com (links from book)
+juri strumpflohner youtube video angular 2 intro people service , -> module approach
+angular 2 profiles sample based on yuri strumpflohner video
+
+Fr 8.12.2016
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wes bos, javascript30.com, 30 days js training 
+angular-university, firebase app course finished
+angular 2 module app sample, C:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\angular-cli after people sample of juri strumpflohneer
+ngpoland 2016 speakers
+angular 2 coding, step by step, with each step a test
+postfinance 12 + 15.-
+mastercard: -45
+firebase-tools: firbase init, firebase deploy, firebase login, firebase list
+ryan chenkie , angularcasts.io
+chris sevilayaha, school.scotch.io
+vs-code extensions install, ts-lint, auto-import, john-papa-ng2-snippets, path-resolve
+ryan chenkie, angular1-jwt-authorization -> fem course
+javascript-jabber: Angular2 Routing
+
+Sa 9.12.2016
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+programming from A to Z, Daniel Shiffman, teacher at university, shiffman.net
+
+So 11.12.2016
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Udemy Angular 2 Course: From Theory to Practice, Asim Hussain
+
+Mo. 12.12.2016
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+asim hussain, github
+rxdb, reactive db with offline first, https://github.com/pubkey/rxdb  
+
+Di 13.12.2016
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+javascript learning , https://github.com/iam-peekay?tab=repositoriesben lesh, subject on rxjs subject, https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93#.zfd399t6b  
+
+Mi 14.12.2016
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+shmuela jacobs, angular 2 expert, youtube video codemotion
+gisto, git snippets app
+ng-girls.org, website shmuela jacobs
+stenver sterkku, rxjs expert, talk at codemotion, youtube video,  
+stenver jerkku, interactive js,https://courses.cs.ut.ee/2016/react/spring/  
+interactive js, training videos with stenfer jerkku, http://www.uttv.ee/naita?id=23700,  
+
+Do 15.12.2016
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+hack reactor prep meetup exercises on github, https://github.com/TechnicalInterviewPrep
+cas rapperswil finished - should pass
+mathias niemala new blog  
+general assembly school preparation site, http://fundamentals.generalassemb.ly/  
+heroku , heroku tools on cli,  
+bugger, chrome extension for node debugging,  

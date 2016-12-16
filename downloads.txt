@@ -26,3 +26,5 @@ tutorials online and downlod,http://tut-dl.com/item/lynda-building-a-responsive-
 rxjs intro, scott allen, http://avxhome.se/ebooks/naag13612.html 
 are you ready for a paradigm shift with RxJs,http://avxhome.se/ebooks/naag8204.html 
 functional reactive programming book, http://nitroflare.com/view/C0E0A8B2FE629CD/1633430103.pdf 
+getting started with reactive programming, http://avxhome.se/ebooks/naag13612.html 
+advanced typescript, http://avxhome.se/ebooks/naag13659.html  

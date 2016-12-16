@@ -29,3 +29,13 @@ wassim chegham , angular2 expert, https://github.com/manekinekko/google-intervie
 igor  minar, ReactConf 2016 slovakia, Angular 2 influenced by Community 
 jesus conde, ng2 task sample, https://github.com/0utKast/vt20ca2Completo.git 
 jon bonso, angular2 crud sample app, https://github.com/jsbonso/angular2-crudapp.git 
+tarun sharma , angular 2 expert,https://github.com/tkssharma 
+markus karsch, angular kochbuch
+https://www.omdbapi.com/, vidoe rest api 
+component articles, https://jeremenichelli.github.io/ 
+ngmodule create modules in your project , rangle-starter create hello module 
+scotch.io angular2 routing course sample download 
+asim hussain, angular 2 expert 
+juri strumpflohner, angular 2 expert 
+augury, angular 2 dev tool 
+Udemy Angular 2 Course: From Theory to Practice, Asim Hussain  

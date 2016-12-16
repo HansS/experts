@@ -17,3 +17,5 @@ functional reactive programming book, http://nitroflare.com/view/C0E0A8B2FE629CD
 rxjs immutability julia gao, https://www.youtube.com/watch?v=kqT1rwxOpHs 
 brian holt 
 rxjs intro, scott allen, D:\A10-projects\rxjs\RxJs-Scott-Allan-2016\Getting Started with Reactive Programming Using RxJS 
+rxdb, reactive db with offline first, https://github.com/pubkey/rxdb  
+stenfer jerkku, rxjs expert  
