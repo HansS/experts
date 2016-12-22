@@ -42,3 +42,5 @@ Udemy Angular 2 Course: From Theory to Practice, Asim Hussain
 torgeir helgevold, angular expert, http://www.syntaxsuccess.com/angular-2-samples/#/demo/http  
 torgeir helgevold, angular expert example articles ,http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples  
 jorge vergera, ionic 2 firebase 3 angularfire expert , https://github.com/javebratt  
+pavel kozlowski, ng-be 2016 presentation, deep dive into dynamic view creation  
+minko gechev, angualar 2 scalable architecture, ng-be 2016 presentation  

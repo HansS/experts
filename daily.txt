@@ -586,3 +586,43 @@ google web fundamentals, https://developers.google.com/web/fundamentals/
 capture qrcode mobile, https://github.com/udacity/qrcode  
 practical javascript course, https://watchandcode.com/courses/practical-javascript/lectures/896960  
 jorge vergera, ionic 2 firebase 3 angularfire expert , https://github.com/javebratt  
+
+Mo 19.12.2016
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Manfred Steyer, angular expert, angular components deep dive video jax 2016, github jax2016 workshop , flight-booking
+Igor Minar, Ngconf belgium , 2016-11, Angular release cycles: patch every week, minor, every month, major every half year
+Typescript 2.1, breaking change for Angular 2, strictNullChecks
+Angular Universal moved into Angular Group (Patrick Stapleton, Jeff Whelpy)
+Angular 2017 moves towards Progressive Web App
+Juri Strumplohner Google Hangout AngularBeer, Angular 2017?
+Manfred Steyer, Flight-Booking Exercise
+
+Manfred Steyer , Options Components Intro Sample
+Asim Hussain, Joke Sample Exercise
+Asim Hussain, Exercises
+Frontend-Interview move to Mobile Angular App
+Firebase ESM-Pics Solution
+
+Di 20.12.2012
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Angular 2 Advanced, Udemy Course Mosh Hamedani, 10$
+Ionic 2, udemy
+stephen grider, react redux expert , udemy teacher  
+almero steyn, react rx expert, teacher thoghtram, react course ,https://online.reacttraining.com/courses/reactjsfundamentals/lectures/762538#/questions/1  
+
+Mi 21.12.2012
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Angular 2, Ben Lesh RxJs, NgPoland
+Angular 2 Naviagation
+timathon liu, rxjs playlist  
+bookly, create books in different formats from markdown, https://github.com/aminmeyghani/bookly  
+amin meyghani, author of bookly,http://frontendgods.com/  
+
+Do 22.12.2012
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+ionic 2, justin james on dotnetrocks.com
+ng-bg, Angular Belgium , Dez 2016
+Terlerik academy github
+Firefox install, firefox payment 10$
+pavel kozlowski, ng-be 2016 presentation, deep dive into dynamic view creation  
+minko gechev, angualar 2 scalable architecture, ng-be 2016 presentation  

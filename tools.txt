@@ -46,3 +46,8 @@ visual code expert, wade anderson
 jsonEdit json editor
 bugger, devtools binding in debugging  
 capture qrcode mobile, https://github.com/udacity/qrcode  
+bookly, create books in different formats from markdown, https://github.com/aminmeyghani/bookly  
+phatomjs install  
+pandoc install  
+amazon kindlegen install  
+latex install for pdf creation  
