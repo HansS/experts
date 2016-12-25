@@ -1,0 +1,2 @@
+D3 Intro to D3, Curran Kelleher 
+D3 Swizec Teller, D3 Expert  

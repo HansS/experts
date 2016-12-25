@@ -51,3 +51,5 @@ phatomjs install
 pandoc install  
 amazon kindlegen install  
 latex install for pdf creation  
+create snippet ng2-form-group in vscode for html.json  
+install itani create snippet vscode extension  

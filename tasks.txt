@@ -27,3 +27,5 @@ Javascript Questions
 
 study flexbox-slider 
 study flexplorer 
+opendata.ch food hacker day preparation, 10.jan 2017 registration 
+esm-pics, firebase ionic app  

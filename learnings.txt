@@ -37,3 +37,5 @@ interactive js, training videos with stenfer jerkku, http://www.uttv.ee/naita?id
 general assembly school preparation site, http://fundamentals.generalassemb.ly/  
 google web fundamentals, https://developers.google.com/web/fundamentals/  
 practical javascript course, https://watchandcode.com/courses/practical-javascript/lectures/896960  
+scotchio , angular 2 forms course  
+interactive es6 cheatsheet, swizec teller,"https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&__s=rztmjyq7mzvie3gxegzp"  

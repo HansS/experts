@@ -1,2 +1,0 @@
-intro to progressive web apps, https://github.com/IncredibleWeb/pwa-tutorial.git 
-simple js quiz question choices app, C:\Users\Hans\Web\projects\quiz-me\quiz-js\, 

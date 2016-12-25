@@ -146,3 +146,4 @@ houssain hdjirdeh, angular redux expert
 oren farhi, angular 2 ngrx expert 
 nikas praninskas, angular 2 expert, youtube : the new angular router 
 js, daniel shiffman, shiffman.net
+raja yogan, angular2 ionic authentication OAuth, https://github.com/rajayogan?tab=repositories

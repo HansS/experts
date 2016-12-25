@@ -626,3 +626,38 @@ Terlerik academy github
 Firefox install, firefox payment 10$
 pavel kozlowski, ng-be 2016 presentation, deep dive into dynamic view creation  
 minko gechev, angualar 2 scalable architecture, ng-be 2016 presentation  
+opendata.ch food hacker day preparation, 10.jan 2017 registration  
+google course , statistical aspects of data mining, https://www.youtube.com/playlist?list=PLFE776F2C513A744E  
+esm-pics, firebase ionic app  
+create snippet ng2-form-group in vscode for html.json  
+install itani create snippet vscode extension  
+scotchio , angular 2 forms course  
+
+Fr 23.12.2012
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Angular 2 Testing, Gerard Sans medium article,https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0#.rgvu8ymp8
+ciro nunes, progressive web apps , ngpoland 2016 ,https://www.youtube.com/watch?v=rH8D8OsPpXg  
+r stats expert, http://hadley.nz/  
+r advanced , online book, http://adv-r.had.co.nz/  
+ggplot, online book, http://had.co.nz/ggplot2/  
+opendata school of data, http://schoolofdata.org/  
+a2zcss serie, https://www.sitepoint.com/tag/atoz-css/  
+
+Sa 24.12.2016
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+swizec teller, react d3 book
+manfred steyer, ng-bg 2016 Lazy Loading Preloading Strategy Talk
+todd motto, A2 Forms sample , PizzaApp
+Angular-University.io, RxJs Course
+Stepeh Grider, Udemy Course , React Intro and React Advanced subscription
+telerik-academy A2 course material, folio downloads  
+thecssworkshop - flexbox intro  
+a2zcss-series 2-5  
+tero parviainen, talk ng-be 2016, svg and canvas in angular  
+
+So 25.12.2016
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+D3 Intro to D3, Curran Kelleher
+D3 Swizec Teller, D3 Expert
+handlebar training youtubelist, finelli  
+d3 would be a good possibilty for js beginners to start programming with shapes  
