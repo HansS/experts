@@ -1,0 +1,16 @@
+
+// esm-pics
+
+<script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyA2LQiLbBy06OnP4w1rZojVvoFI1KUADL8",
+    authDomain: "esm-pics.firebaseapp.com",
+    databaseURL: "https://esm-pics.firebaseio.com",
+    storageBucket: "esm-pics.appspot.com",
+    messagingSenderId: "825819439190"
+  };
+  firebase.initializeApp(config);
+</script>
+

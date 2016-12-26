@@ -661,3 +661,6 @@ D3 Intro to D3, Curran Kelleher
 D3 Swizec Teller, D3 Expert
 handlebar training youtubelist, finelli  
 d3 would be a good possibilty for js beginners to start programming with shapes  
+
+Mo 26.12.2016
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
