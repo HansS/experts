@@ -691,3 +691,18 @@ javascript essenttials to become a js subperhero, http://superherojs.com/
 javascript security , tom van cutsem  
 meta programming, es6 proxies  
 articles on javascript metaprogramming on dropbox  
+
+Do 29.12.2012
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+echo asim hussain, angular 2 repetition
+echo pony foo es6 proxies
+echo firebase ngpolandwrite your own framework, http://nx-framework.com/?status=all  
+gitbook: javascript learning, https://www.gitbook.com/book/gitbookio/javascript/details  
+gitbook site, gitbook.com, https://www.gitbook.com/@gitbookio  
+nick nisi, javascript metaprogramming expert  
+victor savkin, jeff cross, startup,https://nrwl.io/  
+aot starter in angular hans  
+
+  \{^_^}/ hi!
+
+  Loading for

@@ -11,3 +11,5 @@ js, daniel shiffman, shiffman.net
 javascript essenttials to become a js subperhero, http://superherojs.com/ 
 javascript security , tom van cutsem  
 meta programming, es6 proxies  
+write your own framework, http://nx-framework.com/?status=all  
+nick nisi, javascript metaprogramming expert  

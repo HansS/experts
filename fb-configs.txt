@@ -29,3 +29,19 @@
   firebase.initializeApp(config);
 </script>
 
+// notes on bustracker
+
+
+<script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBwrYWDdXlmEXX6LnGdUKeHHYGBt4eeTHg",
+    authDomain: "bustracker-2ef93.firebaseapp.com",
+    databaseURL: "https://bustracker-2ef93.firebaseio.com",
+    storageBucket: "bustracker-2ef93.appspot.com",
+    messagingSenderId: "781527228228"
+  };
+  firebase.initializeApp(config);
+</script>
+
