@@ -28,3 +28,5 @@ are you ready for a paradigm shift with RxJs,http://avxhome.se/ebooks/naag8204.h
 functional reactive programming book, http://nitroflare.com/view/C0E0A8B2FE629CD/1633430103.pdf 
 getting started with reactive programming, http://avxhome.se/ebooks/naag13612.html 
 advanced typescript, http://avxhome.se/ebooks/naag13659.html  
+http://avxhome.se/ebooks/naag13095.html  
+adding angular registration, lynda ,http://avxhome.se/ebooks/lc-angularjs_1-add_reg_yo_app.html  

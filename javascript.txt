@@ -8,3 +8,6 @@ js, javascript is a dynamic, weakly-typed, prototype based language with first-c
 assim hussainl, codecraftpro.com 
 asim hussain, javascript expert, codecraftpro.com 
 js, daniel shiffman, shiffman.net
+javascript essenttials to become a js subperhero, http://superherojs.com/ 
+javascript security , tom van cutsem  
+meta programming, es6 proxies  

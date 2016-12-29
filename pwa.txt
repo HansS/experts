@@ -1,2 +1,3 @@
 ciro nunes, progressive web apps , ngpoland 2016 ,https://www.youtube.com/watch?v=rH8D8OsPpXg 
 intro to progressive web apps, https://github.com/IncredibleWeb/pwa-tutorial.gitintro to progressive web apps, https://github.com/IncredibleWeb/pwa-tutorial.git  
+progressive web apps  2017  

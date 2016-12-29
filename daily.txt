@@ -664,3 +664,30 @@ d3 would be a good possibilty for js beginners to start programming with shapes
 
 Mo 26.12.2016
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Di 27.12.2016
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pascal Precht, Compare React with Angular 2
+Phillip de Ryck, Web Security on Angular 2, NG-BE 2016
+secappdev.org, site for web security  
+tom van cutsem , javascript expert and tc39 member  
+tom van cutsem youtube download  
+phillip de Ryck, youtube download  
+phillip de Ryck, youtube download  
+javascript security talk, tom van cutsem, bis 30min of 90min  
+bootcamps, viking prep course free, general assembly (backend:node), galvanize  
+firebase youtube channel subscription  
+firecasts videos david east  
+addy osmani, total tooling tips show  
+progressive web apps  2017  
+
+Mi 28.12.2016
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+hristo georgiev, angular 2 expert, pluralsight author
+hacker-guides, pluralsight sponsor, guides in markdown on github typescript definition files writing tool install, typescript core team member  
+hacker-guide, angular 2 redux,Building a Redux application with Angular 2 Read more at https://www.pluralsight.com/guides/front-end-javascript/building-a-redux-application-with-angular-2-part-2?status=in-review#IMHFoEPEiTfIaQEc.99  
+javascript essenttials to become a js subperhero, http://superherojs.com/  
+javascript security , tom van cutsem  
+meta programming, es6 proxies  
+articles on javascript metaprogramming on dropbox  

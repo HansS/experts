@@ -39,3 +39,5 @@ google web fundamentals, https://developers.google.com/web/fundamentals/
 practical javascript course, https://watchandcode.com/courses/practical-javascript/lectures/896960  
 scotchio , angular 2 forms course  
 interactive es6 cheatsheet, swizec teller,"https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&__s=rztmjyq7mzvie3gxegzp"  
+ionic 2 angular 2, steve michelotti  
+ionic 2 angular 2, steve michelotti  ionic.txt

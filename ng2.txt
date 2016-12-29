@@ -46,3 +46,4 @@ pavel kozlowski, ng-be 2016 presentation, deep dive into dynamic view creation
 minko gechev, angualar 2 scalable architecture, ng-be 2016 presentation  
 gerard sans, angular testing, https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0#.rgvu8ymp8  
 tero parviainen, talk ng-be 2016, svg and canvas in angular  
+hristo georgiev, angular 2 expert  

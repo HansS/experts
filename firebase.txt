@@ -23,3 +23,4 @@ firebase expert, chris esplin, firebase learning and youtube videos
 christoffer noring, firebase expert 
 angular-university firebase app author, https://github.com/jhades, vasco cavalheiro 
 jorge vergera, ionic 2 firebase 3 angularfire expert , https://github.com/javebratt 
+firecasts videos david east 
