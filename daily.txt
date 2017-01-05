@@ -706,3 +706,49 @@ aot starter in angular hans
   \{^_^}/ hi!
 
   Loading for
+
+Fr 30.12.2016
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+polymer 2 day madrid on youtube
+polymer 2.0 released
+polymer 2.0 codelab exercise for carouselgoogle plus collections, https://plus.google.com/collections/  
+nice photos ,  
+nice photos , https://plus.google.com/+CharlotteMariaMoroni14  
+rob dodson, polymercasts on youtube, https://github.com/Polymer/polycasts.git  
+tracy lee ngpoland demo  
+brecht billiet, angular 2 and redux expert  
+
+Sa 31.12.2016
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+james churchill, javascript decorators
+youtube lists , javascript decorators, javascript metaprogramming
+addy osmany javascript decorator article
+andrew burgess, web apps with angular 2 course youtube list
+
+Di 3.1.2017
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+tom van cutsem, javscript 39 committee member, javascript proxies, javascript security videos
+mark miller, javascripöt 39 committee member, google techtalk
+brendan eich, javascript proxies
+michael greve, forever-healthy.org
+sens.org, cure aging
+coursera, hongkong university, jogesh muppala, Frontend Frameworks on github
+
+Mi 4.1.2017
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ionic 2, mohesh mohani, udemy course ng2 angularfire2 firebase
+ionic 2 , tutsplus
+ionic 2, steve michelotti
+angularair.com , tips and tricks , TIL Episonde (Host Binding)
+learning redux, packtpub
+mapt.io, 125 Euro for one year packtpub
+C:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\scotchio-routing-bootstrap\src\app\accordian\accordian.component.html  
+
+Do 5.2.2017
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Progressive Web Apps is the central Theme 2017
+PWA Angular 2; Weather PWA
+Addy Osmani , PWA Expert, Tips and Tooling Podcast
+DotNetRocks, PWA with Christian Heilmann
+Pwarocks.com , PWA samples -> Google.io PWA with Codelabs Collection
+web security youtube list ocw.mit.edu  

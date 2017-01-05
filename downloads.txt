@@ -30,3 +30,6 @@ getting started with reactive programming, http://avxhome.se/ebooks/naag13612.ht
 advanced typescript, http://avxhome.se/ebooks/naag13659.html  
 http://avxhome.se/ebooks/naag13095.html  
 adding angular registration, lynda ,http://avxhome.se/ebooks/lc-angularjs_1-add_reg_yo_app.html  
+web apps with angular 2 , andrew burgess, avaxsearch  
+web apps with angular 2  
+web apps with angular 2, http://avxhome.se/ebooks/modern-web-apps-with-angular-2.html  

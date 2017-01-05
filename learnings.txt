@@ -42,3 +42,4 @@ interactive es6 cheatsheet, swizec teller,"https://es6cheatsheet.com/?key=mailin
 ionic 2 angular 2, steve michelotti  
 ionic 2 angular 2, steve michelotti  ionic.txt
 write your own framework, http://nx-framework.com/?status=all  
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/lecture-notes/  

@@ -49,3 +49,5 @@ tero parviainen, talk ng-be 2016, svg and canvas in angular
 hristo georgiev, angular 2 expert  
 victor savkin, jeff cross, startup,https://nrwl.io/  
 aot starter in angular hans  
+tracy lee ngpoland demo  
+brecht billiet, angular 2 and redux expert  
