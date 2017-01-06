@@ -752,3 +752,19 @@ Addy Osmani , PWA Expert, Tips and Tooling Podcast
 DotNetRocks, PWA with Christian Heilmann
 Pwarocks.com , PWA samples -> Google.io PWA with Codelabs Collection
 web security youtube list ocw.mit.edu  
+daily 3 a2z-css videos  
+pwa codelab  
+udacity pwa course  
+mit web fundamentals course material download d\bootcamps\mit  
+D:\_downloads\Web - Security MIT Fall 2014,  
+D:\A10-projects\bootcamps\Ocw.mit.edu, MIT Web Fundamentals  
+
+Fr 6.1.2017
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Angular v4 release
+Angular 2 routing course, https://avxhome.se/ebooks/angular-2-routing.html
+
+google paul lewis, swipeable cards live coding, http://googlechrome.github.io/ui-element-samples/  
+git release tool ,  
+food data meeting, https://zurich.impacthub.ch/ Sihlqaui 131 4stock  
+web security course ocw mit edu, https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/lecture-notes/  

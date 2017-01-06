@@ -43,3 +43,8 @@ ionic 2 angular 2, steve michelotti
 ionic 2 angular 2, steve michelotti  ionic.txt
 write your own framework, http://nx-framework.com/?status=all  
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/lecture-notes/  
+mit web fundamentals course material download d\bootcamps\mit  
+D:\_downloads\Web - Security MIT Fall 2014,  
+D:\A10-projects\bootcamps\Ocw.mit.edu, MIT Web Fundamentals  
+google paul lewis, swipeable cards live coding, http://googlechrome.github.io/ui-element-samples/  
+web security course ocw mit edu, https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/lecture-notes/  
