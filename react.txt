@@ -2,3 +2,4 @@ react intro lessons, https://github.com/tylermcginnis/github-notetaker-egghead
 nicholas kennedy rangle.io, react functional programmer,https://github.com/NicholasGWK/FunctionalJSDemo.git 
 stephen grider, react redux expert , udemy teacher 
 almero steyn, react rx expert, teacher thoghtram, react course ,https://online.reacttraining.com/courses/reactjsfundamentals/lectures/762538#/questions/1 
+react-training, the react gurus, https://github.com/ReactTraining 

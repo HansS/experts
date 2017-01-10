@@ -768,3 +768,29 @@ google paul lewis, swipeable cards live coding, http://googlechrome.github.io/ui
 git release tool ,  
 food data meeting, https://zurich.impacthub.ch/ Sihlqaui 131 4stock  
 web security course ocw mit edu, https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/lecture-notes/  
+
+So 8.1.2017
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+jesse pinho, redux talk, redux sample
+jack hsu, react redux typescript sample
+jack hsu, blog functional js programming
+youtube readthesource. dan abrahmov
+tim griesser, explaining redux, creator of javascript orm
+alain sutter, drs1 sonntalk, tuch yoga, stehe zu eigenen schwächen ist eine stärke, achtsamkeit, verurteile einen menschen nicht aufgrund von einer erfahrung
+alain sutter, buch 1.11.2016 herzensangelegenheit
+alain sutter, smoosi week in maillorca, 1500 chf
+
+Mo 9.1.2017
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://redux-observable.js.org/
+jay phelps,netflix, redux observable
+modern react redux, udemy,https://www.udemy.com/react-redux/learn/v4/overview  
+react with cris coyer, css-tricks  
+react westphal  
+react-training, the react gurus, https://github.com/ReactTraining  
+dropbox client, https://github.com/mjackson/dropbox-client.git  
+
+Di 10.1.2017
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+open data, dr. matthias stürmer, http://www.digitale-nachhaltigkeit.unibe.ch/opend data digitale-nachhaltigkeit uni bern, http://opendata.iwi.unibe.ch/?orderBy=-date_publish  
+how to data journalism, http://howto.ddjdach.de/  
