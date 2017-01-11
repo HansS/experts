@@ -794,3 +794,13 @@ Di 10.1.2017
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 open data, dr. matthias st¸rmer, http://www.digitale-nachhaltigkeit.unibe.ch/opend data digitale-nachhaltigkeit uni bern, http://opendata.iwi.unibe.ch/?orderBy=-date_publish  
 how to data journalism, http://howto.ddjdach.de/  
+
+Mi 11.1.2017
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+impcat hub z¸rich, http://www.startupticker.ch/en/news/september-2015/kick-foundation-bundelt-krafte-im-startup-bereich 
+organic farming in switzerland, urs niggli, fibl.org
+migros, swisscom,  beteiligt Impact Hub ZÅrich Colab, http://www.startupticker.ch/en/news/september-2015/kick-foundation-bundelt-krafte-im-startup-bereich  
+migros aus der region, https://aus-der-region.migros.ch/aus-der-region/de/ihre-region/zuerich.html?ADR_REGION_SELECT=zh  
+nptel web dev course, https://onlinecourses.nptel.ac.in/noc17_cs06/announcements  
+nptel web dev course web site, http://www.imad.tech/#course-outline  
+migipedia, https://migipedia.migros.ch/de/sortiment/supermarkt/lebensmittel  
