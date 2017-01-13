@@ -804,3 +804,14 @@ migros aus der region, https://aus-der-region.migros.ch/aus-der-region/de/ihre-r
 nptel web dev course, https://onlinecourses.nptel.ac.in/noc17_cs06/announcements  
 nptel web dev course web site, http://www.imad.tech/#course-outline  
 migipedia, https://migipedia.migros.ch/de/sortiment/supermarkt/lebensmittel  
+
+Do 12.01.2017
+-------------------------------------------------------------------------------------------------------------------------
+angular 2 weekly notes, https://docs.google.com/document/d/1rC5dz7AkCZP813daT_bccbS-20OLmXgBVi50CSKx148/pub
+
+Fr 13.01.2017
+-------------------------------------------------------------------------------------------------------------------------
+clean javascript code, https://github.com/ryanmcdermott/clean-code-javascript.gitclean code js git clone, c:\Users\Folio\web\frontend\javascript\clean-code-javascript  
+webpack 2 docs, https://webpack.js.org/  
+d3 intro swizec teller, https://avxhome.se/ebooks/Packtpub_Mastering_D3_js.html  
+d3 expert, swizec teller, c:\Users\Folio\web\frontend\react-d3\swizec-teller  

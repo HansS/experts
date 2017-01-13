@@ -51,3 +51,4 @@ victor savkin, jeff cross, startup,https://nrwl.io/
 aot starter in angular hans  
 tracy lee ngpoland demo  
 brecht billiet, angular 2 and redux expert  
+angular 2 weekly notes, https://docs.google.com/document/d/1rC5dz7AkCZP813daT_bccbS-20OLmXgBVi50CSKx148/pub   

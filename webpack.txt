@@ -6,3 +6,4 @@ juho veps„l„inen, survivejs.com,http://survivejs.com/webpack/introduction/
 johannes edwald, webpack core team 
 christian alfoni, webpack expert 
 tobias koppers, webpack inventor 
+webpack 2 docs, https://webpack.js.org/  

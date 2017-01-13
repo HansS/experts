@@ -13,3 +13,4 @@ javascript security , tom van cutsem
 meta programming, es6 proxies  
 write your own framework, http://nx-framework.com/?status=all  
 nick nisi, javascript metaprogramming expert  
+clean code js git clone, c:\Users\Folio\web\frontend\javascript\clean-code-javascript  

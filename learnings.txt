@@ -50,3 +50,4 @@ google paul lewis, swipeable cards live coding, http://googlechrome.github.io/ui
 web security course ocw mit edu, https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/lecture-notes/  
 nptel web dev course, https://onlinecourses.nptel.ac.in/noc17_cs06/announcements  
 nptel web dev course web site, http://www.imad.tech/#course-outline  
+d3 intro swizec teller, https://avxhome.se/ebooks/Packtpub_Mastering_D3_js.html  
