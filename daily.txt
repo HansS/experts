@@ -815,3 +815,37 @@ clean javascript code, https://github.com/ryanmcdermott/clean-code-javascript.gi
 webpack 2 docs, https://webpack.js.org/  
 d3 intro swizec teller, https://avxhome.se/ebooks/Packtpub_Mastering_D3_js.html  
 d3 expert, swizec teller, c:\Users\Folio\web\frontend\react-d3\swizec-teller  
+wes bos , flexbox, react, redux training  
+react-training.com, michael jackson, ryan florence  
+install cli nodemon  
+install cli nodemon  installs.txt
+react redux, kurt weiberth, D:\_downloads\React + Redux + Webpack - Kurt Weiberth  
+react redux course, kurt weiberth,c:\Users\Folio\web\frontend\javascript\frameworks\react\kurt-weiberth\react-todo-list  
+react uni course, stenver jerkku, https://github.com/stenver/interactive_frontend_development  
+
+Sa 14.01.2017
+------------------------------------------------------------------------------------------------------------------------------
+ETCS Bologna-Prozess Schweiz, https://www.sbfi.admin.ch/sbfi/de/home/themen/hochschulen/bologna-prozess.html
+
+So 15.01.2017
+-------------------------------------------------------------------------------------------------------------------------------
+react redux router, https://avxhome.se/ebooks/naag13006.html
+react update to newest version, https://avxhome.se/ebooks/UdemyTheCompleteReactWebAppDeveloperCourseUpdate2016.html
+
+Di 17.01.2017
+---------------------------------------------------------------------------------------------------------------------------------
+developer documentation online, devdocs.io, http://devdocs.io/http-request-header-fields/
+scotch.io , christian nwamba, devbeast, angular universal
+scotch.io, react intro course
+The complete redux book  
+scotchio , react redux course   
+
+Mi 18.01.2017
+-------------------------------------------------------------------------------------------------------------------------------
+scotchio, soon will have a webpack course
+sebastian mueller, angular pwa
+sayanee basu, javascript on microcomputer, singleprocessor board, on computer
+kirupa, learning react book
+kirupa blog, react stuff
+angular university, chat app in flux architecture , with rxjs ecosystem
+Learning React.js Data Visualization course, see downloads  

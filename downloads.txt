@@ -34,3 +34,4 @@ web apps with angular 2 , andrew burgess, avaxsearch
 web apps with angular 2  
 web apps with angular 2, http://avxhome.se/ebooks/modern-web-apps-with-angular-2.html  
 angular 2 routing, https://avxhome.se/ebooks/angular-2-routing.html  
+react data visualization, https://avxhome.se/ebooks/Le.Re.Js.Da.Vi.html  

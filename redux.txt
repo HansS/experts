@@ -1,2 +1,5 @@
 tomas weiss, redux expert, https://github.com/tomkis1 
 hacker-guide, angular 2 redux,Building a Redux application with Angular 2 Read more at https://www.pluralsight.com/guides/front-end-javascript/building-a-redux-application-with-angular-2-part-2?status=in-review#IMHFoEPEiTfIaQEc.99  
+react redux, kurt weiberth, D:\_downloads\React + Redux + Webpack - Kurt Weiberth  
+react redux course, kurt weiberth,c:\Users\Folio\web\frontend\javascript\frameworks\react\kurt-weiberth\react-todo-list 
+react uni course, stenver jerkku, https://github.com/stenver/interactive_frontend_development  

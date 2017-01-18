@@ -51,3 +51,5 @@ web security course ocw mit edu, https://ocw.mit.edu/courses/electrical-engineer
 nptel web dev course, https://onlinecourses.nptel.ac.in/noc17_cs06/announcements  
 nptel web dev course web site, http://www.imad.tech/#course-outline  
 d3 intro swizec teller, https://avxhome.se/ebooks/Packtpub_Mastering_D3_js.html  
+wes bos , flexbox, react, redux training  
+react-training.com, michael jackson, ryan florence  
