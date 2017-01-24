@@ -849,3 +849,30 @@ kirupa, learning react book
 kirupa blog, react stuff
 angular university, chat app in flux architecture , with rxjs ecosystem
 Learning React.js Data Visualization course, see downloads  
+learning react reusable components, https://avxhome.se/ebooks/Lea.Re.Re.Co.html  
+react deep dive, tutsplus pavan podila, https://avxhome.se/ebooks/c2u2016531.html  
+
+Do 19.01.2017
+---------------------------------------------------------------------------------------------------------------------------------
+brian tronecone, rxjs expert, http://briantroncone.com/  
+angular flexbox layout, https://tburleson-layouts-demos.firebaseapp.com/#/docs  
+angular flexbox wiki ,https://tburleson-layouts-demos.firebaseapp.com/#/docs  
+brian lonsdorf, intro to functional programming,https://avxhome.se/ebooks/EggheadProfessorFrisbyIntroducesComposableFunctionalJavaScript2016.html  
+d3 egghead, https://avxhome.se/ebooks/EggheadD3Lessons2014.html  
+jonas felix, letsboot.com, angular 2 training in zh  
+essential angular 2 book, victor savkin,nrwl.io,https://leanpub.com/essential_angular  
+
+Fr 20.01.2017
+---------------------------------------------------------------------------------------------------------------------------------------------
+victor savkin, essential angular 2 book
+jonas felix, letsboot.com, angular 2 in zh
+functional javascript course sitepoint, d:\functional-javascript\sitepoint
+
+Di 24.01.2017
+------------------------------------------------------------------------------------------------------------------------------------------------
+nptel intro to web app dev,
+email rippin adliswil mit protonmail.ch
+react, michael chan
+react, max stoiber, react boilerplate with offline support
+react, tagtree, hendrik swanepoel
+ 

@@ -35,3 +35,7 @@ web apps with angular 2
 web apps with angular 2, http://avxhome.se/ebooks/modern-web-apps-with-angular-2.html  
 angular 2 routing, https://avxhome.se/ebooks/angular-2-routing.html  
 react data visualization, https://avxhome.se/ebooks/Le.Re.Js.Da.Vi.html  
+learning react reusable components, https://avxhome.se/ebooks/Lea.Re.Re.Co.html  
+react deep dive, tutsplus pavan podila, https://avxhome.se/ebooks/c2u2016531.html  
+brian lonsdorf, intro to functional programming,https://avxhome.se/ebooks/EggheadProfessorFrisbyIntroducesComposableFunctionalJavaScript2016.html  
+d3 egghead, https://avxhome.se/ebooks/EggheadD3Lessons2014.html  

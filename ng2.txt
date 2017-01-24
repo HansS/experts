@@ -52,3 +52,7 @@ aot starter in angular hans
 tracy lee ngpoland demo  
 brecht billiet, angular 2 and redux expert  
 angular 2 weekly notes, https://docs.google.com/document/d/1rC5dz7AkCZP813daT_bccbS-20OLmXgBVi50CSKx148/pub   
+angular flexbox layout, https://tburleson-layouts-demos.firebaseapp.com/#/docs  
+angular flexbox wiki ,https://tburleson-layouts-demos.firebaseapp.com/#/docs  
+jonas felix, letsboot.com, angular 2 training in zh  
+essential angular 2 book, victor savkin,nrwl.io,https://leanpub.com/essential_angular  

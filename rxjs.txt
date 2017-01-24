@@ -21,3 +21,4 @@ rxdb, reactive db with offline first, https://github.com/pubkey/rxdb
 stenfer jerkku, rxjs expert  
 timathon liu, rxjs playlist  
 rxjs leraning, https://github.com/stenver/interactive_frontend_development  
+brian tronecone, rxjs expert, http://briantroncone.com/  
