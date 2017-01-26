@@ -875,4 +875,4 @@ email rippin adliswil mit protonmail.ch
 react, michael chan
 react, max stoiber, react boilerplate with offline support
 react, tagtree, hendrik swanepoel
- 
+ 10 steps to learn anything, john somez, https://avxhome.se/ebooks/10_Steps_To_Learn.html  

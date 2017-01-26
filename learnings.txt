@@ -54,3 +54,4 @@ d3 intro swizec teller, https://avxhome.se/ebooks/Packtpub_Mastering_D3_js.html
 wes bos , flexbox, react, redux training  
 react-training.com, michael jackson, ryan florence  
 react deep dive, tutsplus pavan podila, https://avxhome.se/ebooks/c2u2016531.html  
+10 steps to learn anything, john somez, https://avxhome.se/ebooks/10_Steps_To_Learn.html  
