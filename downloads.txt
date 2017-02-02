@@ -40,3 +40,7 @@ react deep dive, tutsplus pavan podila, https://avxhome.se/ebooks/c2u2016531.htm
 brian lonsdorf, intro to functional programming,https://avxhome.se/ebooks/EggheadProfessorFrisbyIntroducesComposableFunctionalJavaScript2016.html  
 d3 egghead, https://avxhome.se/ebooks/EggheadD3Lessons2014.html  
 jekyll ninja, https://avxhome.se/ebooks/naag6871.html  
+setup a js dev env, https://avxhome.se/ebooks/naag13589.html  
+lynda, learning redux ,https://avxhome.se/ebooks/lc-learn_redux.html  
+graphql with flux, https://avxhome.se/ebooks/react-apps-with-relay-graphql-flux.html  
+graphql book samer buna, http://nitroflare.com/view/7895C16295E213A/1786465752.pdf/free  

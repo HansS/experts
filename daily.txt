@@ -876,3 +876,60 @@ react, michael chan
 react, max stoiber, react boilerplate with offline support
 react, tagtree, hendrik swanepoel
  10 steps to learn anything, john somez, https://avxhome.se/ebooks/10_Steps_To_Learn.html  
+
+Fr 27.01.2016
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Platik Planet, youtube
+Kartoffelkombinat, 2012, Regionale und Saisonale Nahrungsproduktion und -konsumation
+Genossenschaftliche Produktion von Landwirtschaftlichen Produkten, Sozial orientiert nicht Gewinn orientiert (Fokus on Konsument, nicht auf Investor)
+Beispiel Tomate
+Plastikverweigerer
+Geldverweigerer
+Practical Redux, Dropbox
+Redux Sample, Tic-Tac-Toe, Dropbox, Code, Artikel, Slides, Youtube Video
+Spaghetti Tour Monte Rosa, 5 Tage 8 4000er (inspiriert Ueli Steck, Sommerchallenge 2016)
+Spaghetti Tour zum 60igsten, ca 2000.- Ende Juni bis Ende August
+setup a js dev env, https://avxhome.se/ebooks/naag13589.html  
+
+Mo 30.01.2017
+------------------------------------------------------------------------------------------------------------------------------------------------------
+javascript starterkit
+Angular 2, udemy, bonso
+Ayurveda, udemy
+
+Di 31.01.2017
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Bengt Weiss, Ionic 2 Workshop
+Oliver Zeigermann, React Workshop
+lynda, learning redux ,https://avxhome.se/ebooks/lc-learn_redux.html  
+
+Mi 01.02.2017
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+daniel rosenwasser, typescript 2
+basarat ali syed, typescript book, typed-style for css
+marius schultz, typescript expert
+gary simon, angular material youtube video
+gary simon, courses on coursetro
+ariya hidayat, js expert
+gary simon , angular 2 fundamentals, D:\_downloads\Angular 2 Fundamentals - YouTube  
+gary simion, ionic 2 intro, youtube vidoes  
+
+Do 02.02.2017
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+gary simon, coursetro.com, angular 2 fundamentals
+nir kaufmann , redux in action
+nir kauman, github , hp-todo, todo with own module
+gary simon, github account, https://github.com/designcourse  
+learn apollo,https://github.com/learnapollo  
+graphql with flux, https://avxhome.se/ebooks/react-apps-with-relay-graphql-flux.html  
+learn relay, https://www.learnrelay.org/  
+graphql expert, facebook steve luscher , https://github.com/steveluscher/zero-to-graphql.git  
+graphql book samer buna, http://nitroflare.com/view/7895C16295E213A/1786465752.pdf/free  
+parasil, flexbox sass framework  
+youtube video, yoga darshan  
+jekyll site of gary simon  
+cas-fee project 1 project 2 patrick bonetti  
+samer buna , graphql expert  
+uri goldshtein, graphql, apollo and angular 2 expert  
+samer buna, jscomplete.com, graphql redux flux expert  
+indian philosophy youtube playlist, https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2peNt_XPOq0qtLR5NMv4R  

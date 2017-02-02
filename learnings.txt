@@ -55,3 +55,14 @@ wes bos , flexbox, react, redux training
 react-training.com, michael jackson, ryan florence  
 react deep dive, tutsplus pavan podila, https://avxhome.se/ebooks/c2u2016531.html  
 10 steps to learn anything, john somez, https://avxhome.se/ebooks/10_Steps_To_Learn.html  
+gary simon , angular 2 fundamentals, D:\_downloads\Angular 2 Fundamentals - YouTube  
+gary simion, ionic 2 intro, youtube vidoes  
+gary simon, github account, https://github.com/designcourse  
+learn apollo,https://github.com/learnapollo  
+learn relay, https://www.learnrelay.org/  
+graphql expert, facebook steve luscher , https://github.com/steveluscher/zero-to-graphql.git  
+graphql book samer buna, http://nitroflare.com/view/7895C16295E213A/1786465752.pdf/free  
+parasil, flexbox sass framework  
+cas-fee project 1 project 2 patrick bonetti  
+uri goldshtein, graphql, apollo and angular 2 expert  
+indian philosophy youtube playlist, https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2peNt_XPOq0qtLR5NMv4R  
