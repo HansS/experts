@@ -920,7 +920,7 @@ gary simon, coursetro.com, angular 2 fundamentals
 nir kaufmann , redux in action
 nir kauman, github , hp-todo, todo with own module
 gary simon, github account, https://github.com/designcourse  
-learn apollo,https://github.com/learnapollo  
+learn apollo,https://github.com/learnapollo  sa
 graphql with flux, https://avxhome.se/ebooks/react-apps-with-relay-graphql-flux.html  
 learn relay, https://www.learnrelay.org/  
 graphql expert, facebook steve luscher , https://github.com/steveluscher/zero-to-graphql.git  
@@ -935,3 +935,33 @@ samer buna, jscomplete.com, graphql redux flux expert
 indian philosophy youtube playlist, https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2peNt_XPOq0qtLR5NMv4R  
 lee byron, graphql expert  
 react flux graphql relay course video , samer buna, jscomplete.com, graphiql tool for composing queries with autocomplete  
+
+Sa 04.04.2017
+--------------------------------------------------------------------------------------------------------------------------
+learn graphql, https://learngraphql.com/
+antoine cellier, graphql expert
+graphql vs falcor, devnantes 2015, antoine cellier, hugo woodrxdb, react db  
+arangodb, new nosql db  
+falcor, graphql, rest , 3 ways to access data, devnantes 2015 antoine cellier, hugo wood (falcor)  
+
+So 05.02.2017
+----------------------------------------------------------------------------------------------------------------------------
+scotch.io, React Redux
+
+Mo 06.02.2017
+----------------------------------------------------------------------------------------------------------------------------
+enki.com, enki dev continuous learning
+enkidevs, github account for enki
+enki react search component
+satchitananda, vedic-wisdom.in, arsha vidyha vedanta
+dayananda, object is not the source of happiness
+mantra, anything that makes your mind steady is mantra, satchitananda
+node hackaton-starter  
+
+Mi 08.02.2017
+----------------------------------------------------------------------------------------------------------------------------
+richard feynman , genial physisist, feynman lectures download
+everything in nature depends on elektromagnetism
+from newton physiscs to quantum physics (everything is elektromagnetism), the position of a particle is uncertain
+angular 2 routing, angular-university, ng2 book, rangle io training videos, day 2 after 59min, angular io naviagtion and routinng , dropbox
+angular 2 routing, crisis-center sample, angular\samples\routing\crisis-center
