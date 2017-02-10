@@ -45,3 +45,5 @@ lynda, learning redux ,https://avxhome.se/ebooks/lc-learn_redux.html
 graphql with flux, https://avxhome.se/ebooks/react-apps-with-relay-graphql-flux.html  
 graphql book samer buna, http://nitroflare.com/view/7895C16295E213A/1786465752.pdf/free  
 feynman lectures on physics, https://avxhome.se/ebooks/Ri_Fe-Lec_on_Ph.html  
+Angular 2 with Booststrap 4 Typescript 2, http://www.kickasstorrent.tech/ultimate-angular-2-developer-bootstrap-4-typescript-2016.html  
+Angular 2 Fluent Video Collection, http://www.kickasstorrent.tech/angular-2-video-collection.html  
