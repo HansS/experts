@@ -972,3 +972,43 @@ Di.14.02.2017
 win hof, activate your potential with conscious breathing and expose body to ice water
 lama lesha, death experience in daily life, sleep, orgasm, meditation
 angular 2 todo crud app with cli feature module todos  
+
+Mi 15.02.2017
+-------------------------------------------------------------------------------------------------------------------------------
+Angular Confererence Dänemark 2017, ngvikings.org, see speaker list
+Manfred Steyer, Lazyloading
+Maximilian Schwarzmueller, Angular 2, The Complete Guide, Routing
+Angular 2 Material install 
+Angular 2 Feature Module, Precondition for lazy loading
+lars bilde, courseplanner angular 2 app with material  
+
+Do 16.02.2017
+--------------------------------------------------------------------------------------------------------------------------------
+opendata feedback, foodly sample, ionic angular 2, paper.ch in brugg
+langlauf klassisch, http://www.tutti.ch/graubuenden/sport-outdoor/wintersport/angebote/langlauf-ski-schuhe-stoeck_14065560.htm  
+
+Sa 18.02.2017
+-----------------------------------------------------------------------------------------------------------------------------------
+vasant lad, ayurvedic cooking,
+ionic 2, steve michelotti
+
+Mo 20.02.2017
+---------------------------------------------------------------------------------------------------------------------------------------
+angular-cli new version
+forwardjs.com
+asegyl yonet , training material
+aseyl yonet, angular 2 workshop, forwardjs
+ girl develop it gdi teachinng materials, https://github.com/Yonet/teaching-materials.git  
+teaching-materials.org  
+john papa, story-line tracker  
+asegyl yonet, event viewer  
+
+Di 21.02.2017
+---------------------------------------------------------------------------------------------------------------------------------------
+dayananda, pys 01 30min
+pranayama, youtube video
+pranayama, mudra yoga book
+mosh hamedanin, angular 2 course
+mosh hamedani, angular 2 enterprise apps, udemy.comflexbox form layout, codepen  
+rangle a2 training day 2 routing 1std bis 1std 30  
+contacts sample mit list details und form  

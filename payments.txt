@@ -1,5 +1,13 @@
-16.11.2016	echo css advanced layout course		rachel andrew		129	396
-16.11.206	scotch.io course yearly			scotch.io		120 	276
-16.11.2016	angular-university.io yearly		vasco cavaliehro	99 	175
-16.11.2016	unraveling flexbox book			landroop		39 	136
-16.11.2016	Engadiner Skimarathon 2017		Hans			100 	36
+03-2017		ekz		  60 
+03-2017		radio		 103  
+
+
+
+
+04-2017		radio		 103  
+
+
+
+
+
+05-2017		radio		 104  

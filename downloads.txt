@@ -47,3 +47,6 @@ graphql book samer buna, http://nitroflare.com/view/7895C16295E213A/1786465752.p
 feynman lectures on physics, https://avxhome.se/ebooks/Ri_Fe-Lec_on_Ph.html  
 Angular 2 with Booststrap 4 Typescript 2, http://www.kickasstorrent.tech/ultimate-angular-2-developer-bootstrap-4-typescript-2016.html  
 Angular 2 Fluent Video Collection, http://www.kickasstorrent.tech/angular-2-video-collection.html  
+ionic 2 intro, https://github.com/AndreasGassmann/foodly.git  
+ionic 2 intro, https://avxhome.se/ebooks/naag7771.html  
+yoga vinyasa, https://avxhome.se/ebooks/1611802792.html  

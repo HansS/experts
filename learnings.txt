@@ -66,3 +66,5 @@ parasil, flexbox sass framework
 cas-fee project 1 project 2 patrick bonetti  
 uri goldshtein, graphql, apollo and angular 2 expert  
 indian philosophy youtube playlist, https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2peNt_XPOq0qtLR5NMv4R  
+ girl develop it gdi teachinng materials, https://github.com/Yonet/teaching-materials.git  
+teaching-materials.org  
