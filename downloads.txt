@@ -50,3 +50,5 @@ Angular 2 Fluent Video Collection, http://www.kickasstorrent.tech/angular-2-vide
 ionic 2 intro, https://github.com/AndreasGassmann/foodly.git  
 ionic 2 intro, https://avxhome.se/ebooks/naag7771.html  
 yoga vinyasa, https://avxhome.se/ebooks/1611802792.html  
+angular 2 data forms, justin schwartzenberger, lynda , https://avxhome.se/ebooks/lc-angular_2_frms-dt_bnd_vld.html  
+angular 2 essential training, justin schwartzenberger, https://avxhome.se/ebooks/lc-angular_2_esst.html  
