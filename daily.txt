@@ -1026,3 +1026,10 @@ Do 23.02.2017
 krishnamurti on death, talk with dr w anderson, youtoube
 justin schwartzenberger, angular 2 reactive forms, video download
 justin schwartzenberger, angular 2 essential training, video download
+
+Fr 24.02.2017
+------------------------------------------------------------------------------------------------------------------------------------------------------
+krishnamurti, on meditation
+justin schwartzenberger, essentail angular 2
+angular template syntax, medium post and victor savkin post on dropbox  
+video 36 on angular 2 essentials  

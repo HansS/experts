@@ -23,3 +23,5 @@ clound foundry cd,
 bugger, devtools binding in debugging  
 heroku , heroku tools on cli,  
 bugger, chrome extension for node debugging,  
+json-server 
+broserify  
