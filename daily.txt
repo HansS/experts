@@ -1033,3 +1033,27 @@ krishnamurti, on meditation
 justin schwartzenberger, essentail angular 2
 angular template syntax, medium post and victor savkin post on dropbox  
 video 36 on angular 2 essentials  
+
+Sa 25.02.2017
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+angular 2 essentials, justin schwartzenberger forms, routing
+
+Mo 27.02.2017
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+youtube playlist, angularup, israel angular conf 2016
+nir kaufmann, angular universal , angular up conf
+ori calvo, angular universal , angular up conf
+uri shaked, angular universal , angular up conf
+elad bezalel, , angular universal , angular up conf
+angular 2 material
+angular 2 ng2-bootstrap
+angular 2 bootstrap for angular forms (scotch.io)
+angular 2 forms , scotch.io
+angular 2 hans, users (scotch.io - angular 2 forms)
+
+Di 28.02.2017
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+udemy course, ionic 2, mirko nasato, 10.-
+udemy course, angular 2 for enterprise, mosh hamedani , 10.-
+mosh hamedani, programmingwithmosh.com  
+angular 2 forms in ng-book2: s130-150  
