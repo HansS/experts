@@ -59,3 +59,4 @@ essential angular 2 book, victor savkin,nrwl.io,https://leanpub.com/essential_an
 john papa, story-line tracker  
 asegyl yonet, event viewer  
 kara erickson , angular 2 forms expert  
+scotchio, angular 2 forms finished, realy reusable code for Model Driven Validation  

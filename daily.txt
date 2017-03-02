@@ -1057,3 +1057,18 @@ udemy course, ionic 2, mirko nasato, 10.-
 udemy course, angular 2 for enterprise, mosh hamedani , 10.-
 mosh hamedani, programmingwithmosh.com  
 angular 2 forms in ng-book2: s130-150  
+
+Mi 1.3.2017
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular 2 animations, ngAir, Matias Niemela (yearofmoo)
+scotchio, angular 2 forms finished, realy reusable code for Model Driven Validation
+ng cli update to 1.0.rc-1 release, Angular 4.0 release
+ng cli docs, cli.angular.io
+
+Do 2.3.2017
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular-cli javascriptjabber.com
+gerard sans angular 2 animations
+gary simon , github.com/designcourse, angular 2 firebase authentication with angular 2 animations
+angular 2 hans, c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\firebase-auth
+c:\Users\Folio\web\frontend\javascript\frameworks\angular\gary-simon-designcourse\angular-auth-demo
