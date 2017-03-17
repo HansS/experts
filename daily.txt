@@ -1072,3 +1072,23 @@ gerard sans angular 2 animations
 gary simon , github.com/designcourse, angular 2 firebase authentication with angular 2 animations
 angular 2 hans, c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\firebase-auth
 c:\Users\Folio\web\frontend\javascript\frameworks\angular\gary-simon-designcourse\angular-auth-demo
+
+Fr 3.3.2017
+------------------------------------------------------------------------------------------------------
+angular 2 animations, gerard sans
+angular 2 animations, youtube designcourse
+
+Mi 15.03.2017
+--------------------------------------------------------------------------------------------------------
+scotch.io, VS Code Editor Commands
+
+Do 16.03.2017
+----------------------------------------------------------------------------------------------------------
+Rob Wormald, NgRx Youtube
+Webpack 2 video course, stephen grider on udemy
+VSCode extensioon, ext install Angular-BeastCode
+learn the command line, https://avxhome.se/ebooks/LinuxComandLine.html  
+
+Fr 17-03-2017
+--------------------------------------------------------------------------------------------------------
+git essentials course, lynda  

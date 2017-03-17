@@ -9,3 +9,11 @@ ul#items>li[name=item$]{item$}*5
         <li name="item4">item4</li>
         <li name="item5">item5</li>
     </ul>
+> : nested
++ : siblings
+^ : climb up (new group)
+(): grouping
+[]: attributes: div[data-id="50"]
+* : mulitply: li*5
+{}: text 
+lorem2: 2 lorem words
