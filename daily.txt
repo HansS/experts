@@ -1101,3 +1101,26 @@ ayurveda.com, ayurveda conference people
 git essentials, 05 - 10
 Command Line Beginning
 Scotch.io, beautiful website
+Doctoroz.com  
+
+Mo 20.03.2017
+--------------------------------------------------------------------------------------------------------
+patanjali yoga sutras , with yogananda , sutra 01
+css layout techniques, https://avxhome.se/ebooks/css-layout-techniques.html
+
+Di 21.03.2017
+--------------------------------------------------------------------------------------------------------------------------------------------
+esm-pix based on erik haddad github fireplace, https://github.com/erikhaddad/fireplace.git
+asim hussain, mental model for rxjs, ng-nl 2017online course trial 15 days, https://forwardcourses.com/  
+online course trial 15 days, https://forwardcourses.com/ 
+ checkout forwardcourses.com , react focused, redux, node, javascript  
+rxjs mental model, asim husain, ng-nl 2017  
+angularfire2, erik haddad, ng-nl 2017, fireplace.social.com  
+ngrx gitbook, https://hongbo-miao.gitbooks.io/angular2-server/content/part1/dataflow.html  
+oren farhi, ng-rx expert  
+geoff filippi, angular 2 expert, https://github.com/geofffilippi  
+freddy rangel, react redux d3 expert  
+freddy rangel, react redux d3 expert  
+ng-nl 2017, https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw  
+ learn redux, D:\A10-projects\redux\Lynda-Learn-Redux  
+ngrx youtube-player, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\oren-farhi\echoes-ng2  

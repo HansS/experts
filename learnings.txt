@@ -71,3 +71,8 @@ teaching-materials.org
 es6 and beyond, kent c dodds , video download  
 reactjs workshop, kent c doodss, video download  
 kara erickson , angular 2 forms expert  
+online course trial 15 days, https://forwardcourses.com/  
+ css layout techniques, local  
+ngrx gitbook, https://hongbo-miao.gitbooks.io/angular2-server/content/part1/dataflow.html  
+freddy rangel, react redux d3 expert  $
+ng-nl 2017, https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw  

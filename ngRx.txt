@@ -1,3 +1,5 @@
 https://github.com/JavascriptMick/ng2-state-talk 
 mike ryan, rob wormald, ngrx creators 
 ngrx talk, "https://www.youtube.com/watch?v=pjwVq8B-ZAw&t=2123s" 
+oren farhi, ng-rx expert  
+ngrx youtube-player, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\oren-farhi\echoes-ng2  

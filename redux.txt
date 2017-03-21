@@ -7,3 +7,5 @@ Kwinten Pinsman, winecellar workshop
 Erich W Greene, redux rxjs expert, github.com/training4developers
 TheNewBoston Playlist
 Wes Bos, React Redux Training
+freddy rangel, react redux d3 expert  
+ learn redux, D:\A10-projects\redux\Lynda-Learn-Redux  
