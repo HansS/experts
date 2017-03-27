@@ -1,11 +1,2 @@
-C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20-firebase20\hans\questions
-firebase.google.com 
-npm i -S firebase anguarfire2 
-createjsonall, export access db to json 
-Quizzes.md at D:\A10-projects\frontend-interview\00 Database 
-Quizzes Exports at D:\A10-projects\frontend-interview\00 Database\_export 
-angular-university.io 
-courses = quizzes 
-lessons = questions 
-insomnia installation ,C:\Users\Hans\AppData\Local\insomnia\app-3.5.13 
-simple js quiz question choices app, C:\Users\Hans\Web\projects\quiz-me\quiz-js\, 
+css flexbox layout for dices, C:\Users\Folio\web\frontend\css\flexbox\dices
+ 

@@ -1124,3 +1124,31 @@ freddy rangel, react redux d3 expert
 ng-nl 2017, https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw  
  learn redux, D:\A10-projects\redux\Lynda-Learn-Redux  
 ngrx youtube-player, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\oren-farhi\echoes-ng2  
+
+Mi 22.03.2017
+--------------------------------------------------------------------------------------------------------------------------------------------
+javascriptjabber.com, angular/flex-layout, thomas burleson
+youtube, flexbox layout
+angular ngrx book, oren fahri  
+Fortgeschrittenes Pranayama, Yoga-Vidya.de, download  
+
+Sa 25.03.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+ngvikings, manfred styer, tracy lee, sean landsman, brecht billiet, wasim chegham
+ng-nl, filip bech
+ reactive programming, https://avxhome.se/ebooks/naag8204.html  
+rx, angular-university  
+, angular 2 reactive forms, deborah kuratha, https://downeu.usunblock.download/tutorials/137724-angular-2-reactive-forms.html  
+ getting started with rxjs, scott allen, https://avxhome.se/ebooks/naag13612.html  
+
+Mo 27.03.2017
+----------------------------------------------------------------------------------------------------------------------------------------------
+Pontresina, Fisher Skating 195cm (150.-) mit Stöcken 172 (30.-) schicken als Sperrgut B (29.-) gesamt als Rechung  220.-
+Ultimate Angular 2 Starter: Fundamtentals und Advanced, 140.-
+Ultimate Angular 2 Fundamentals 50% finished
+Einkauf Oerlikon, 45.-
+Cash 120 für Essen (40.-) pro Woche
+
+Di 28.03.2017
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Ultimate Angular 2 Fundamentals

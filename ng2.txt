@@ -62,3 +62,4 @@ kara erickson , angular 2 forms expert
 scotchio, angular 2 forms finished, realy reusable code for Model Driven Validation  
 geoff filippi, angular 2 expert, https://github.com/geofffilippi  
 ng-nl 2017, https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw  
+angular ngrx book, oren fahri  
