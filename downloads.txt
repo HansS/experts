@@ -64,3 +64,5 @@ css layout techniques , https://avxhome.se/ebooks/css-layout-techniques.html
  getting started with rxjs, scott allen, https://avxhome.se/ebooks/naag13612.html  
  getting started with rxjs, scott allen, https://avxhome.se/ebooks/naag13612.html  
  getting started with rxjs, scott allen, https://avxhome.se/ebooks/naag13612.html  
+pluaralsight angular 2 fundamethttp://pcdownload.in/2017/03/10/packt-publishing-learning-path-angular-fundamentals-of-angular-2-second-edition/  
+uploaded, angular 2 responsive spa, http://e-blackhat.ws/showthread.php?41180-Building-a-Responsive-SPA-Framework-with-Angular  

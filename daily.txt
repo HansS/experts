@@ -1151,4 +1151,11 @@ Cash 120 für Essen (40.-) pro Woche
 
 Di 28.03.2017
 -----------------------------------------------------------------------------------------------------------------------------------------------
-Ultimate Angular 2 Fundamentals
+Ultimate Angular 2 Fundamentalspluaralsight angular 2 fundamethttp://pcdownload.in/2017/03/10/packt-publishing-learning-path-angular-fundamentals-of-angular-2-second-edition/  
+uploaded, angular 2 responsive spa, http://e-blackhat.ws/showthread.php?41180-Building-a-Responsive-SPA-Framework-with-Angular  
+
+Mi 29.03.2017
+------------------------------------------------------------------------------------------------------------------------------------------------
+angularair, Angular-cli 1.0. Hans Larson
+cli , --routing for creating a routing file (ng  new or ng g c mymodule)
+ultimateangular, Form - Template Driven
