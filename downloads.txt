@@ -66,3 +66,9 @@ css layout techniques , https://avxhome.se/ebooks/css-layout-techniques.html
  getting started with rxjs, scott allen, https://avxhome.se/ebooks/naag13612.html  
 pluaralsight angular 2 fundamethttp://pcdownload.in/2017/03/10/packt-publishing-learning-path-angular-fundamentals-of-angular-2-second-edition/  
 uploaded, angular 2 responsive spa, http://e-blackhat.ws/showthread.php?41180-Building-a-Responsive-SPA-Framework-with-Angular  
+Angular 2 Redux, Tagtree, http://gallery27.com/tutorials/1305132-using-redux-to-manage-state-in-angular-2.html  
+angular 2 routing, deboroah kuratha,  http://nitroflare.com/folder/10203/Lz5IwMTdQVC9NYXJjaC8yMDE3TWFyMzFBbmd1bGFyIFJvdXRpbmc=  
+angular 2 wintellectnow, http://pcdownload.in/2017/03/05/wintellectnow-mastering-angular-part-1-components/  
+angular 2 wintellectnow, http://pcdownload.in/2017/03/05/wintellectnow-mastering-angular-part-1-components/  
+styling angular 2 apps, http://pcdownload.in/2017/02/09/pluralsight-styling-angular-applications/  
+angular with node, http://pcdownload.in/2017/01/31/pluralsight-integrating-angular-with-node-js-restful-services/  

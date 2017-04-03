@@ -63,3 +63,4 @@ scotchio, angular 2 forms finished, realy reusable code for Model Driven Validat
 geoff filippi, angular 2 expert, https://github.com/geofffilippi  
 ng-nl 2017, https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw  
 angular ngrx book, oren fahri  
+google keith hall tutorial on Angular 2, Youtube Player, http://plnkr.co/PjyCwOxYcaiudT6iEFVY  

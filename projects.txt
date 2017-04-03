@@ -1,2 +1,3 @@
 css flexbox layout for dices, C:\Users\Folio\web\frontend\css\flexbox\dices
  
+google keith hall tutorial on Angular 2, Youtube Player, http://plnkr.co/PjyCwOxYcaiudT6iEFVY  
