@@ -72,3 +72,15 @@ angular 2 wintellectnow, http://pcdownload.in/2017/03/05/wintellectnow-mastering
 angular 2 wintellectnow, http://pcdownload.in/2017/03/05/wintellectnow-mastering-angular-part-1-components/  
 styling angular 2 apps, http://pcdownload.in/2017/02/09/pluralsight-styling-angular-applications/  
 angular with node, http://pcdownload.in/2017/01/31/pluralsight-integrating-angular-with-node-js-restful-services/  
+angular 2 core concepts packt,http://pcdownload.in/2017/03/10/packt-publishing-angular-2-core-concepts/  
+angular 2 widget based architecture,http://pcdownload.in/2017/02/22/lynda-angular-2-widget-based-architectures/  
+angular 2 testing and debugging, http://pcdownload.in/2017/02/22/lynda-angular-2-testing-and-debugging/  
+css flexbox, http://pcdownload.in/2016/11/06/stone-river-learning-css-flexbox-build-modern-web-layouts-with-flexbox/  
+wintellect mastering a2 part 2, http://pcdownload.in/2017/03/05/wintellectnow-mastering-angular-part-2-pipes/  
+wintellect mastering a2 part 3, http://pcdownload.in/2017/03/15/wintellectnow-mastering-angular-part-3-services/  
+wintellect mastering a2 part 4, http://pcdownload.in/2017/03/15/wintellectnow-mastering-angular-part-3-services/  
+rx programming packt , http://pcdownload.in/2017/03/31/packt-publishing-reactive-javascript-programming/  
+functional js in ramdajs, http://pcdownload.in/2017/01/12/pluralsight-writing-functional-javascript-using-ramda/  
+you do not need jquery, http://pcdownload.in/2016/11/28/tutsplus-javascript-without-jquery/  
+john papa, angular-cli, http://uploaded.net/folder/cvt9gr  
+starting with angular 4, http://oranapp.com/tutorials/60781-starting-with-angular-4.html 

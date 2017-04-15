@@ -1,0 +1,1 @@
+functional js in ramdajs, http://pcdownload.in/2017/01/12/pluralsight-writing-functional-javascript-using-ramda/ 

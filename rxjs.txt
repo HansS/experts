@@ -25,3 +25,4 @@ brian tronecone, rxjs expert, http://briantroncone.com/
 rxdb, react db  
 ngrx gitbook, https://hongbo-miao.gitbooks.io/angular2-server/content/part1/dataflow.html  
 The rise of Async in Js, Jeremy Fairbank, https://github.com/jfairbank/rise-of-async-js-talk.git  
+rx programming packt , http://pcdownload.in/2017/03/31/packt-publishing-reactive-javascript-programming/  

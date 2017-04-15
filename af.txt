@@ -1,0 +1,2 @@
+workshop for angularfire cloud functions 
+workshop for angularfire cloud functions, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/#0  

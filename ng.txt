@@ -64,3 +64,9 @@ geoff filippi, angular 2 expert, https://github.com/geofffilippi
 ng-nl 2017, https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw  
 angular ngrx book, oren fahri  
 google keith hall tutorial on Angular 2, Youtube Player, http://plnkr.co/PjyCwOxYcaiudT6iEFVY  
+ultimate-angular, course a2 pro advanced  
+lars bilde, web and prog languages eduction, https://www.youtube.com/playlist?list=PL8jcXf-CLpxo0-bIWrGTc99ryOEdp3XA4  
+victor savkin essential angular  
+workshop for angularfire cloud functions  
+workshop for angularfire cloud functions, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/#0  
+victor savkin, essential-angular-app with talks and rating  

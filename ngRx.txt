@@ -4,3 +4,4 @@ ngrx talk, "https://www.youtube.com/watch?v=pjwVq8B-ZAw&t=2123s"
 oren farhi, ng-rx expert  
 ngrx youtube-player, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\oren-farhi\echoes-ng2  
 angular ngrx book, oren fahri  
+angular 2 article collection, http://ngdoc.io/  

@@ -1188,3 +1188,63 @@ deborah kuratha, a2 routing
 gechev, angular 2 reverse engineer tool
 john papa, one angular, cli talk ngconf 2017
 project, deborah-products
+ayurveda, pitta diet  
+ultimate-angular, course a2 pro advanced  
+
+Di 4.4.2017
+----------------------------------------------------------------------------------------------------------------------------------------
+deborah kuratha, angular routing, route resolver, child routes, feature module
+10-12 einkauf oerlikon, reiterstrasse, velo dusche
+pitta dosha youtube  
+
+Mi 5.4.2017
+----------------------------------------------------------------------------------------------------------------------------------------
+erich gamma, vscode and typescript
+flexbox, timo korinth, basta 2016
+ultimate angular 2, Advanced
+17:00 ng2conf 2017 keynote conf igor minar, stephen fluin
+angular 2 article collection, http://ngdoc.io/  
+
+Fr 7.4.2017
+----------------------------------------------------------------------------------------------------------------------------------------
+ngconf 2017 salt lake city , videos: Material Workshop, Animations, Directives - Mike Brocchi, Compiler - Bosch, , Mobile Toolkit - Salnikov,
+a2 cli, john papa
+a2 mastering, eric greene
+a2 getting started, reactive forms, routing - deborah kuratha
+reactive programming
+material design workshop
+
+Sa 8.4.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+ngConf, Keynote Rob Wormald: App Shell, Angular Universal, AMP + PWA (the best of both worlds: Static + progressive enhancements) ngconf 2017 , kara erickson, new features in form validation, async pipe for validation (firebase bidder with push validation)  
+lars bilde, web and prog languages eduction, https://www.youtube.com/playlist?list=PL8jcXf-CLpxo0-bIWrGTc99ryOEdp3XA4  
+
+Mo 10.04.2017
+-----------------------------------------------------------------------------------------------------------------------------------------
+ngconf 2017, jason aden, angular package format 4
+ngconf 2017, stephen fluin best practices, aot, source-map-explorer, import only what needed not whole MaterialModule
+ngconf 2017, team questions and answers
+
+Do 13.04.2017
+----------------------------------------------------------------------------------------------------------------------
+Heavenly cooking with Ayurveda, lotz
+async await, simon sturmer
+playlist, js basics repetition freecodecamp, D:\_downloads\Beau teaches JavaScript - YouTube  
+asynch.txt  
+asynch , jeremy fairbank  
+asnch, kyle getify, asychrony  
+starting with angular 4, http://oranapp.com/tutorials/60781-starting-with-angular-4.html 
+
+Fr 14.04.2017
+--------------------------------------------------------------------------------------------------------------------------
+starting with angular 4, http://oranapp.com/tutorials/60781-starting-with-angular-4.html
+essential angular , viktor savkin, leanpub, gumroad
+
+Sa 15.04.2017
+--------------------------------------------------------------------------------------------------------------------------
+starting with angular 4,http://oranapp.com/tutorials/60781-starting-with-angular-4.htmlangularfire2 now in ngModule format  
+victor savkin essential angular  
+mobilesport.ch, online bewegungsideen platform  
+workshop for angularfire cloud functions  
+workshop for angularfire cloud functions, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/#0  
+victor savkin, essential-angular-app with talks and rating  
