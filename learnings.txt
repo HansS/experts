@@ -77,3 +77,5 @@ ngrx gitbook, https://hongbo-miao.gitbooks.io/angular2-server/content/part1/data
 freddy rangel, react redux d3 expert  $
 ng-nl 2017, https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw  
 playlist, js basics repetition freecodecamp, D:\_downloads\Beau teaches JavaScript - YouTube  
+angular 2 courseplanner with firebase, lars bilde, youtube playlist download  
+10 node projects youtube-list, https://www.youtube.com/playlist?list=PLNiY_2deiFonNh1IoXmQZVeCYQQHXlmnf  

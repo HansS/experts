@@ -1248,3 +1248,48 @@ mobilesport.ch, online bewegungsideen platform
 workshop for angularfire cloud functions  
 workshop for angularfire cloud functions, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/#0  
 victor savkin, essential-angular-app with talks and rating  
+
+Mo 17.04.2017
+-----------------------------------------------------------------------------------------------------------------------------
+kent c dodds , testing workshop, https://github.com/kentcdodds/testing-workshop.git
+
+Di 18.04.2017
+-----------------------------------------------------------------------------------------------------------------------------
+angularair, mike brochi, directive selector, juri strumpflohner, angular universal
+ngconf 2017, jeff cross, angular universal, rob wormald - angular universal sample on github
+manfred steyer , angular universal tutorial on blog
+project yourself, https://avxhm.se/ebooks/project-yourself.html  
+redux angular, http://uploaded.net/folder/l8rtyg  
+modern apps with angular 2 andrew burgess tutsplus, http://pcdownload.in/2016/12/08/tutsplus-modern-web-apps-with-angular-2/  
+styling angular applications, http://pcdownload.in/2017/02/09/pluralsight-styling-angular-applications/  
+
+Do 20.04.2017
+---------------------------------------------------------------------------------------------------------------------------------
+indian cook on journey in india
+angular 2 asim hussain udemy repetiton  
+angular 2 animations, https://avxhm.se/ebooks/naag14215.html  
+
+Fr 21.04.2017
+---------------------------------------------------------------------------------------------------------------------------------
+angular 2 courseplanner with firebase, lars bilde, youtube playlist download 
+
+Sa 22.04.2017
+---------------------------------------------------------------------------------------------------------------------------------
+ionic 2 angularfire 2 course, http://pcdownload.in/2017/02/14/lynda-ionic-2-and-angularfire2-building-mobile-apps/sangularfire joe eames , http://oneddl.org/tutorials/6664-building-applications-with-angular-firebase-and-angularfire.html  
+paul halliday, ionic 2, 3 expert, https://github.com/PWHSoftware/Ionic2_YouTube_Embed  
+angular 2 with nodejs, http://webrls.net/1721698-integrating-angular-with-nodejs-restful-services.html  
+10 node projects youtube-list, https://www.youtube.com/playlist?list=PLNiY_2deiFonNh1IoXmQZVeCYQQHXlmnf  
+
+Di 25.04.2017
+---------------------------------------------------------------------------------------------------------------------------------
+angular-cli john papa  
+angular 4 template driven and reactive forms  
+
+Mi 26.04.2017
+---------------------------------------------------------------------------------------------------------------------------------
+medium article, angular firebase cloud functions in sample contact form, https://github.com/markgoho/functions-samples.git
+angular 4 bootstrap 4 sample, http://angular.geekyants.com/, https://github.com/start-angular/SB-Admin-BS4-Angular-4  
+
+Do 27.04.2017
+--------------------------------------------------------------------------------------------------------------------------------
+Victor Savkin , Essential Angular Book, 10$ (Gumroad)

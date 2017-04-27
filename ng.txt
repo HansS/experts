@@ -70,3 +70,6 @@ victor savkin essential angular
 workshop for angularfire cloud functions  
 workshop for angularfire cloud functions, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/#0  
 victor savkin, essential-angular-app with talks and rating  
+angular 2 animations, https://avxhm.se/ebooks/naag14215.html  
+angular 2 courseplanner with firebase, lars bilde, youtube playlist download  
+angular 4 bootstrap 4 sample, http://angular.geekyants.com/, https://github.com/start-angular/SB-Admin-BS4-Angular-4  

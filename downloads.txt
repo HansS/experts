@@ -84,3 +84,15 @@ functional js in ramdajs, http://pcdownload.in/2017/01/12/pluralsight-writing-fu
 you do not need jquery, http://pcdownload.in/2016/11/28/tutsplus-javascript-without-jquery/  
 john papa, angular-cli, http://uploaded.net/folder/cvt9gr  
 starting with angular 4, http://oranapp.com/tutorials/60781-starting-with-angular-4.html 
+project yourself, https://avxhm.se/ebooks/project-yourself.html  
+project yourself, https://avxhm.se/ebooks/project-yourself.html  
+redux angular, http://uploaded.net/folder/l8rtyg  
+modern apps with angular 2 andrew burgess tutsplus, http://pcdownload.in/2016/12/08/tutsplus-modern-web-apps-with-angular-2/  
+styling angular applications, http://pcdownload.in/2017/02/09/pluralsight-styling-angular-applications/  
+angular 2 animations, https://avxhm.se/ebooks/naag14215.html  
+ionic 2 solutions, http://pcdownload.in/2017/02/08/packt-publishing-ionic-2-solutions/  
+ionic 2 angularfire 2 ionic 2 angularfire 2 course, http://pcdownload.in/2017/02/14/lynda-ionic-2-and-angularfire2-building-mobile-apps/s  
+angularfire joe eames , http://oneddl.org/tutorials/6664-building-applications-with-angular-firebase-and-angularfire.html  
+paul halliday, ionic 2, 3 expert, https://github.com/PWHSoftware/Ionic2_YouTube_Embed  
+angular 2 with nodejs, http://webrls.net/1721698-integrating-angular-with-nodejs-restful-services.html  
+10 node projects youtube-list, https://www.youtube.com/playlist?list=PLNiY_2deiFonNh1IoXmQZVeCYQQHXlmnf  
