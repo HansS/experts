@@ -1,1 +1,2 @@
 bootstrap cheat sheet with snippets and preview, https://hackerthemes.com/bootstrap-cheatsheet/ 
+bootstrap4 samples, https://bootstrapcreative.com/pattern/  

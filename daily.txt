@@ -1383,3 +1383,6 @@ mobile first angularjs sass, http://pcdownload.in/2015/04/21/digital-tutors-crea
 ionic 2 angularfire , http://pcdownload.in/2017/02/14/lynda-ionic-2-and-angularfire2-building-mobile-apps/  
 ionic 2 steve michelotti, http://pcdownload.in/2016/10/14/pluralsight-building-mobile-apps-with-ionic-2-angular-2-and-typescript/  
 offline with service worker, http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/  
+lynda , learning graphql  
+lynda, bootstrap 4 migration, http://pcdownload.in/2017/03/31/lynda-bootstrap-4-migration/  
+bootstrap4 samples, https://bootstrapcreative.com/pattern/  

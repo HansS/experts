@@ -117,3 +117,7 @@ ionic 2 steve michelotti, http://pcdownload.in/2016/10/14/pluralsight-building-m
 offline with service worker, http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/  
 lynda postcss and cssnext , http://pcdownload.in/2017/04/28/lynda-next-generation-css-design-with-postcss-and-cssnext/  
 lynda learn webpack, http://pcdownload.in/2016/06/17/cgp-1321/  
+lynda , learning graphql  
+lynda css and frameworks , http://pcdownload.in/2016/09/07/lynda-css-frameworks-grids/  
+lynda, bootstrap 4 migration, http://pcdownload.in/2017/03/31/lynda-bootstrap-4-migration/  
+bootstrap4 samples, https://bootstrapcreative.com/pattern/  
