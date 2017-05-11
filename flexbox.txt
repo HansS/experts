@@ -24,3 +24,4 @@ css flexbox library, cutestrap, https://github.com/tylerchilds/cutestrap
 sitepoint premium github, https://github.com/learnable-content 
 sitepoint css flexbox guy routeledge videos 
 flexboxfroggy.com, exercise flexbox properties  
+advanced flexbox with lynda, http://pcdownload.in/2015/07/30/lynda-advanced-responsive-layouts-with-css-flexbox/  

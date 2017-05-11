@@ -6,3 +6,4 @@ sassbites on youtube, https://www.youtube.com/watch?v=H6Y9r49InXo
 sass boilerplate hugo giraudel, https://github.com/HugoGiraudel/sass-boilerplate 
 sass guidelines hugo giraudel, https://github.com/HugoGiraudel/sass-guidelines 
 nick walsh sass expert on codeschool. 
+ana tudor, sass expert, https://thebabydino.github.io/pages/posts+talks.html 

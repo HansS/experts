@@ -96,3 +96,24 @@ angularfire joe eames , http://oneddl.org/tutorials/6664-building-applications-w
 paul halliday, ionic 2, 3 expert, https://github.com/PWHSoftware/Ionic2_YouTube_Embed  
 angular 2 with nodejs, http://webrls.net/1721698-integrating-angular-with-nodejs-restful-services.html  
 10 node projects youtube-list, https://www.youtube.com/playlist?list=PLNiY_2deiFonNh1IoXmQZVeCYQQHXlmnf  
+Responsive CSS Workflow with Sass, Bourbon, and Susy ,  
+ lynda essential bootstrap 4, pci download  
+Visual Studio Code for Web Developers, pcdownload.in  
+lynda, sass with bourbone  
+mastering bootstrap 4, http://pcdownload.in/2017/04/14/packt-publishing-mastering-bootstrap-4/  
+udemy full javascript and es6 ,http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tutorial/  
+17 day meditation, https://avxhm.se/ebooks/Udemy_17_Day_Radiant_Meditation_Cleanse.html  
+progressive web app, http://alfafile.net/folder/KtS  
+lynda progressive web apps, http://pcdownload.in/2016/12/13/lynda-building-a-progressive-web-app/  
+writing testable code, http://uploaded.net/folder/ns4ygs  
+pluralsight, offline first, http://pcdownload.in/2017/04/25/pluralsight-creating-offline-first-mobile-apps-with-html5/  
+6 flexbox projects for designers, http://pcdownload.in/2016/10/26/tutsplus-6-flexbox-projects-for-web-designers/  
+6 flexbox projects for designers, http://pcdownload.in/2016/10/26/tutsplus-6-flexbox-projects-for-web-designers/  
+flexbox for forms, http://pcdownload.in/2016/01/09/cgp-77/  
+advanced flexbox with lynda, http://pcdownload.in/2015/07/30/lynda-advanced-responsive-layouts-with-css-flexbox/  
+mobile first angularjs sass, http://pcdownload.in/2015/04/21/digital-tutors-creating-a-mobile-first-website-with-angularjs-and-sass/  
+ionic 2 angularfire , http://pcdownload.in/2017/02/14/lynda-ionic-2-and-angularfire2-building-mobile-apps/  
+ionic 2 steve michelotti, http://pcdownload.in/2016/10/14/pluralsight-building-mobile-apps-with-ionic-2-angular-2-and-typescript/  
+offline with service worker, http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/  
+lynda postcss and cssnext , http://pcdownload.in/2017/04/28/lynda-next-generation-css-design-with-postcss-and-cssnext/  
+lynda learn webpack, http://pcdownload.in/2016/06/17/cgp-1321/  

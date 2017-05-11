@@ -79,3 +79,10 @@ ng-nl 2017, https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw
 playlist, js basics repetition freecodecamp, D:\_downloads\Beau teaches JavaScript - YouTube  
 angular 2 courseplanner with firebase, lars bilde, youtube playlist download  
 10 node projects youtube-list, https://www.youtube.com/playlist?list=PLNiY_2deiFonNh1IoXmQZVeCYQQHXlmnf  
+google progressive web apps course, https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN  
+progressive web apps course from google, D:\_downloads\Progressive Web Apps course - YouTube  
+learn angular with me, D:\_downloads\Learn Angular 2 With Me - YouTube  
+patrick schroeder mongoose, D:\_downloads\Mongoose JS Tutorial - YouTube  
+patrick schroeder, node scraping, D:\_downloads\Web Scraping with Node js - YouTube  
+devskiller.com, test your web knowledge  
+bootstrap 4 cheat sheet with snippets and preview,  https://hackerthemes.com/bootstrap-cheatsheet/  

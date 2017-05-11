@@ -1292,4 +1292,94 @@ angular 4 bootstrap 4 sample, http://angular.geekyants.com/, https://github.com/
 
 Do 27.04.2017
 --------------------------------------------------------------------------------------------------------------------------------
-Victor Savkin , Essential Angular Book, 10$ (Gumroad)
+Victor Savkin , Essential Angular Book, 10$ (Gumroad)Essential Angular, page 1 to 20  
+Essential Angular sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\victor-talks  
+Angular Talks 2017-03 , ngviking.org  
+angular 2 lazy loading , manfred steyer  
+angular 2 webpack 2, thomas horvath  
+angular 2 webpack 2, thomas horvath  
+Angular Routing , Deborah Kurata, end video 44, Route required parameters, optioanl ps, Route Resolver Service  
+
+Fr 28.7.2017
+---------------------------------------------------------------------------------------------------------------------------------
+wilson hobbs, angular forms, https://github.com/wbhob/angular-forms-demo.gitgoogle progressive web apps course, https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN  
+Essential Angular page 20 to 40, extract all the recaps  
+progressive web apps course from google, D:\_downloads\Progressive Web Apps course - YouTube  
+Angular Tutorial with Bootstrap, ryan chenkie, https://github.com/chenkie/material-contact-form.git  
+learn angular with me, D:\_downloads\Learn Angular 2 With Me - YouTube  
+
+Mo 1.5.2017
+-----------------------------------------------------------------------------------------------------------------------------------
+yakov fain, youtube videos, observables
+ngAarhus, angular dynamic components
+packpub , bootstrap 4, aaron vanston
+
+Di 2.5.2017
+-------------------------------------------------------------------------------------------------------------------------------------
+patrick schroeder, udemy teacher, node, mongoose, express, mean, https://github.com/jakblak?tab=repositories
+patrick schroeder mongoose, D:\_downloads\Mongoose JS Tutorial - YouTube  
+patrick schroeder, node scraping, D:\_downloads\Web Scraping with Node js - YouTube  
+ana tudor, sass expert, https://thebabydino.github.io/pages/posts+talks.html  
+
+Mi 3.5.2017
+---------------------------------------------------------------------------------------------------------------------------------------
+net ninja bootstrap 4 tutorial, https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlistsResponsive CSS Workflow with Sass, Bourbon, and Susy ,  
+ lynda essential bootstrap 4, pci download  
+Visual Studio Code for Web Developers, pcdownload.in  
+lynda, sass with bourbone  
+
+Do 4.5.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+lynda essential bootstrap 4 vid 01 bis vid30listen to k”rperweisheit  
+yoga and siddhies, helptalks on youtube  
+bootrap4 cheat sheet on dropbox  
+
+Fr 5.5.2017
+-----------------------------------------------------------------------------------------------------------------------------------------
+2 hours run: 0600-800
+lidl einkauf
+morgen essen 0900
+morgen schlaf 0930-1030
+helptalks,  body and mind talks
+12.30 mittag essen
+13:30 youtube just developer, bootstrap 4 intro playlist
+
+Sa 6.5.2017
+-----------------------------------------------------------------------------------------------------------------------------------------
+Brian Bell, Sass Architecture, Frontend-Standards, https://github.com/thenerdery/html-css-standards.gitsidenav sample w3school, https://www.w3schools.com/code/tryit.asp?filename=FFBOO52K7T9I  
+lynda essential bootstrap 4, vid 30 to vid 45  
+material 2 sidenav jeremy elbourn sample  
+chris sauve, lemonmade on codepen, good flexbox intro and samples, see on codepen  
+
+So 7.5.2017
+--------------------------------------------------------------------------------------------------------------------------------------------
+ueli steck , kondolenzbuch eintrag: Long normal life or short intense life?
+packtpub , Mastering Bootstrap 4, downloads, http://pcdownload.in/2017/04/14/packt-publishing-mastering-bootstrap-4/ udemy full javascript and es6 ,http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tutorial/  
+17 day meditation, https://avxhm.se/ebooks/Udemy_17_Day_Radiant_Meditation_Cleanse.html  
+
+Di 9.5.2017
+--------------------------------------------------------------------------------------------------------------------------------------------
+devops, http://pcdownload.in/2017/04/13/packt-publishing-devops-for-web-developers/ 
+bootstrap 3, hongkong courserabootstrap cheat sheet with snippets and preview, https://hackerthemes.com/bootstrap-cheatsheet/  
+devskiller.com, test your web knowledge  
+packtpub, bootstrap 4 projects, download, social site - 
+bootstrap 4 cheat sheet with snippets and preview,  https://hackerthemes.com/bootstrap-cheatsheet/  
+
+Mi 10.5.2017
+---------------------------------------------------------------------------------------------------------------------------------------------
+bootstrap 4 hackerthemes.com bootstrap-cheatsheet
+ng 2 github api, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\toan\angular2.github.api  
+
+Do 11.5.2017
+---------------------------------------------------------------------------------------------------------------------------------------------
+progressive web app download, http://alfafile.net/folder/KtS
+ngaarhus conf 2017 ytlynda progressive web apps, http://pcdownload.in/2016/12/13/lynda-building-a-progressive-web-app/  
+writing testable code, http://uploaded.net/folder/ns4ygs  
+pluralsight, offline first, http://pcdownload.in/2017/04/25/pluralsight-creating-offline-first-mobile-apps-with-html5/  
+6 flexbox projects for designers, http://pcdownload.in/2016/10/26/tutsplus-6-flexbox-projects-for-web-designers/  
+flexbox for forms, http://pcdownload.in/2016/01/09/cgp-77/  
+advanced flexbox with lynda, http://pcdownload.in/2015/07/30/lynda-advanced-responsive-layouts-with-css-flexbox/  
+mobile first angularjs sass, http://pcdownload.in/2015/04/21/digital-tutors-creating-a-mobile-first-website-with-angularjs-and-sass/  
+ionic 2 angularfire , http://pcdownload.in/2017/02/14/lynda-ionic-2-and-angularfire2-building-mobile-apps/  
+ionic 2 steve michelotti, http://pcdownload.in/2016/10/14/pluralsight-building-mobile-apps-with-ionic-2-angular-2-and-typescript/  
+offline with service worker, http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/  

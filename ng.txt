@@ -73,3 +73,11 @@ victor savkin, essential-angular-app with talks and rating
 angular 2 animations, https://avxhm.se/ebooks/naag14215.html  
 angular 2 courseplanner with firebase, lars bilde, youtube playlist download  
 angular 4 bootstrap 4 sample, http://angular.geekyants.com/, https://github.com/start-angular/SB-Admin-BS4-Angular-4  
+Essential Angular sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\victor-talks  
+Angular Talks 2017-03 , ngviking.org  
+angular 2 lazy loading , manfred steyer  
+angular 2 webpack 2, thomas horvath  
+Essential Angular page 20 to 40, extract all the recaps  
+Angular Tutorial with Bootstrap, ryan chenkie, https://github.com/chenkie/material-contact-form.git  
+learn angular with me, D:\_downloads\Learn Angular 2 With Me - YouTube  
+ng 2 github api, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\toan\angular2.github.api  

@@ -1,3 +1,7 @@
 ciro nunes, progressive web apps , ngpoland 2016 ,https://www.youtube.com/watch?v=rH8D8OsPpXg 
 intro to progressive web apps, https://github.com/IncredibleWeb/pwa-tutorial.gitintro to progressive web apps, https://github.com/IncredibleWeb/pwa-tutorial.git  
 progressive web apps  2017  
+google progressive web apps course, https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN 
+jake archibald, web worker guru,  
+progressive web apps course from google, D:\_downloads\Progressive Web Apps course - YouTube  
+offline with service worker, http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/  
