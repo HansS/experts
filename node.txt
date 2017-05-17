@@ -1,2 +1,3 @@
 michael herman,node js expert, mherman.org 
 node hackaton-starter  
+complete node course, andrew mead, https://avxhm.se/ebooks/UdemyTheCompleteNodejsDeveloperCourse202016.html 

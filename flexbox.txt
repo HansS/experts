@@ -25,3 +25,6 @@ sitepoint premium github, https://github.com/learnable-content
 sitepoint css flexbox guy routeledge videos 
 flexboxfroggy.com, exercise flexbox properties  
 advanced flexbox with lynda, http://pcdownload.in/2015/07/30/lynda-advanced-responsive-layouts-with-css-flexbox/  
+flexbox forms , https://avxhm.se/ebooks/c2u2016195.html  
+flexbox for forms, lynda james williams,D:\A10-projects\css\flexbox\lynda-building-responsive-forms-with-flexbox  
+flexbox samples, http://www.quackit.com/css/flexbox/examples/  

@@ -86,3 +86,5 @@ patrick schroeder mongoose, D:\_downloads\Mongoose JS Tutorial - YouTube
 patrick schroeder, node scraping, D:\_downloads\Web Scraping with Node js - YouTube  
 devskiller.com, test your web knowledge  
 bootstrap 4 cheat sheet with snippets and preview,  https://hackerthemes.com/bootstrap-cheatsheet/  
+flexbox for forms, lynda james williams,D:\A10-projects\css\flexbox\lynda-building-responsive-forms-with-flexbox  
+bootstrap 4 tutorial, http://www.quackit.com/bootstrap/bootstrap_4/tutorial/bootstrap_containers.cfm  

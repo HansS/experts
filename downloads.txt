@@ -109,7 +109,7 @@ writing testable code, http://uploaded.net/folder/ns4ygs
 pluralsight, offline first, http://pcdownload.in/2017/04/25/pluralsight-creating-offline-first-mobile-apps-with-html5/  
 6 flexbox projects for designers, http://pcdownload.in/2016/10/26/tutsplus-6-flexbox-projects-for-web-designers/  
 6 flexbox projects for designers, http://pcdownload.in/2016/10/26/tutsplus-6-flexbox-projects-for-web-designers/  
-flexbox for forms, http://pcdownload.in/2016/01/09/cgp-77/  
+flexbox for forms, https://avxhm.se/ebooks/c2u2016195.html
 advanced flexbox with lynda, http://pcdownload.in/2015/07/30/lynda-advanced-responsive-layouts-with-css-flexbox/  
 mobile first angularjs sass, http://pcdownload.in/2015/04/21/digital-tutors-creating-a-mobile-first-website-with-angularjs-and-sass/  
 ionic 2 angularfire , http://pcdownload.in/2017/02/14/lynda-ionic-2-and-angularfire2-building-mobile-apps/  
@@ -121,3 +121,13 @@ lynda , learning graphql
 lynda css and frameworks , http://pcdownload.in/2016/09/07/lynda-css-frameworks-grids/  
 lynda, bootstrap 4 migration, http://pcdownload.in/2017/03/31/lynda-bootstrap-4-migration/  
 bootstrap4 samples, https://bootstrapcreative.com/pattern/  
+bootstrap 4 modern websites, https://avxhm.se/ebooks/naag13958.html  
+flexbox forms , https://avxhm.se/ebooks/c2u2016195.html  
+service worker , http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/  
+tooling with npm , http://pcdownload.in/2016/09/29/lynda-tooling-npm-scripts/  
+mastering express web apps, http://pcdownload.in/2016/10/06/lynda-mastering-express-web-application-development/  
+lynda node express website,http://pcdownload.in/2016/08/19/lynda-building-website-node-js-express-js/  
+packt bootstrap 4 learning path, http://pcdownload.in/2017/02/27/packt-publishing-learning-path-bootstrap-4-application-development/  
+packt react components building, http://pcdownload.in/2016/11/24/packt-publishing-learning-react-reusable-components/  
+udemy, complect react web app, andrew mead, https://avxhm.se/ebooks/the-complete-react-web-app-developer-course.html  
+complete node course, andrew mead, https://avxhm.se/ebooks/UdemyTheCompleteNodejsDeveloperCourse202016.html  

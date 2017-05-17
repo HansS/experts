@@ -1,2 +1,3 @@
 js tdd mocha chai setup, https://github.com/afropolymath/javascript-tdd-setup 
 webpack book, http://survivejs.com/webpack/introduction/ 
+tooling with npm , http://pcdownload.in/2016/09/29/lynda-tooling-npm-scripts/ 

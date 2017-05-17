@@ -81,3 +81,5 @@ Essential Angular page 20 to 40, extract all the recaps
 Angular Tutorial with Bootstrap, ryan chenkie, https://github.com/chenkie/material-contact-form.git  
 learn angular with me, D:\_downloads\Learn Angular 2 With Me - YouTube  
 ng 2 github api, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\toan\angular2.github.api  
+search sample app, c:\Users\Folio\web\frontend\javascript\frameworks\angular\brad-traversy\ngspotify  
+ngrx or redux ng formcontrol freaks, D:\_downloads  

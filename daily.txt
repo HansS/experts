@@ -1386,3 +1386,57 @@ offline with service worker, http://pcdownload.in/2017/01/25/pluralsight-buildin
 lynda , learning graphql  
 lynda, bootstrap 4 migration, http://pcdownload.in/2017/03/31/lynda-bootstrap-4-migration/  
 bootstrap4 samples, https://bootstrapcreative.com/pattern/  
+
+Fr 12.5.2017
+----------------------------------------------------------------------------------------------------------------------------------------------
+webpack-cli, npm install -g webpack-cli
+flexbox layout yt list
+webpack bootstrap start, c:\Users\Folio\web\frontend\css\bootstrap\webpack-101-bootstrap  
+bootstrap 4 modern websites, https://avxhm.se/ebooks/naag13958.html  
+flexbox for forms download  
+flexbox forms , https://avxhm.se/ebooks/c2u2016195.html  
+service worker , http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/  
+tooling with npm , http://pcdownload.in/2016/09/29/lynda-tooling-npm-scripts/  
+mastering express web apps, http://pcdownload.in/2016/10/06/lynda-mastering-express-web-application-development/  
+lynda node express website,http://pcdownload.in/2016/08/19/lynda-building-website-node-js-express-js/  
+
+Sa 13.05.2017
+------------------------------------------------------------------------------------------------
+Build 2017, Anders Hejlsberg, What is new in Typescript
+Typescript , the functional way, https://hackernoon.com/functional-programming-the-examples-series-851421e7ae5b  
+Typescript compiler is written in functional style (no classes)  
+packt bootstrap 4 learning path, http://pcdownload.in/2017/02/27/packt-publishing-learning-path-bootstrap-4-application-development/  
+
+So 14.5.2017
+------------------------------------------------------------------------------------------------------------------------------------
+Typescript the functional way, 
+Funcitonal Javascript, 
+
+Mo 15.05.2017
+-------------------------------------------------------------------------------------------------------------------------------------
+chrüterhäx,  bio ghee
+brennnessel
+essbare wildpflanzen
+bananne, super food, brain food
+bannane, schokolade, chilli, nüsse, beeren, broccoli -> brain food
+functional programming with ramdajs
+briebug, redux youtube  
+flexbox for forms, lynda james williams,D:\A10-projects\css\flexbox\lynda-building-responsive-forms-with-flexbox  
+search sample app, c:\Users\Folio\web\frontend\javascript\frameworks\angular\brad-traversy\ngspotify  
+ngrx or redux ng formcontrol freaks, D:\_downloads  
+
+Di 16.05.2017
+----------------------------------------------------------------------------------------------------------------------------------------
+react training, rangle.io
+angular trainging, 19:00bootstrap 4 tutorial, http://www.quackit.com/bootstrap/bootstrap_4/tutorial/bootstrap_containers.cfm  
+flexbox samples, http://www.quackit.com/css/flexbox/examples/  
+
+
+Mi 17.05.2017
+-----------------------------------------------------------------------------------------------------------------------------------------
+packt react components building, http://pcdownload.in/2016/11/24/packt-publishing-learning-react-reusable-components/
+npm module publishing, andrew mead
+
+udemy, complect react web app, andrew mead, https://avxhm.se/ebooks/the-complete-react-web-app-developer-course.html  
+complete node course, andrew mead, https://avxhm.se/ebooks/UdemyTheCompleteNodejsDeveloperCourse202016.html  
+evan schultz, rangle, angular 2 redux sample, http://blog.rangle.io/getting-started-with-redux-and-angular-2/  

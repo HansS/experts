@@ -5,3 +5,4 @@ google progressive web apps course, https://www.youtube.com/playlist?list=PLNYkx
 jake archibald, web worker guru,  
 progressive web apps course from google, D:\_downloads\Progressive Web Apps course - YouTube  
 offline with service worker, http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/  
+service worker , http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/  

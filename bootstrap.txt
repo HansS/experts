@@ -1,2 +1,7 @@
 bootstrap cheat sheet with snippets and preview, https://hackerthemes.com/bootstrap-cheatsheet/ 
 bootstrap4 samples, https://bootstrapcreative.com/pattern/  
+webpack bootstrap start, c:\Users\Folio\web\frontend\css\bootstrap\webpack-101-bootstrap  
+bootstrap 4 modern websites, https://avxhm.se/ebooks/naag13958.html  
+packt bootstrap 4 learning path, http://pcdownload.in/2017/02/27/packt-publishing-learning-path-bootstrap-4-application-development/  
+bootstrap 4 tutorial, http://www.quackit.com/bootstrap/bootstrap_4/tutorial/bootstrap_containers.cfm  
+flexbox samples, http://www.quackit.com/css/flexbox/examples/  
