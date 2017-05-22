@@ -1440,3 +1440,32 @@ npm module publishing, andrew mead
 udemy, complect react web app, andrew mead, https://avxhm.se/ebooks/the-complete-react-web-app-developer-course.html  
 complete node course, andrew mead, https://avxhm.se/ebooks/UdemyTheCompleteNodejsDeveloperCourse202016.html  
 evan schultz, rangle, angular 2 redux sample, http://blog.rangle.io/getting-started-with-redux-and-angular-2/  
+
+Do 18.05.2017
+----------------------------------------------------------------------------------------------------------------------------------------
+Typescript 2.0. 2.1 2.2 Daniel Rosenwasser yt
+Bootstrap 4, netninja yt, https://github.com/iamshaunjp/sass-playlist.git
+Sass, netninja, ytlynda web design workflow , http://pcdownload.in/2016/12/22/lynda-efficient-web-design-workflow/  
+le wagon, technical workflow, "https://www.youtube.com/watch?v=iZkP9rcEJEM&index=7&list=PLkbmdtbypn7TwufH3veAJ6dweRvTw57tO"  
+git workflow with waffle, https://www.youtube.com/playlist?list=PLw5h0DiJ-9PCxol0Vc2506iRG1R-NhayS  
+le wagon , web 101 on yt, https://ondemand.lewagon.org/courses/web-101-266152e4-12f5-49a1-a9c9-3c59ea7a73f8?t=0  
+brian troncone, rxjs expert, https://github.com/btroncone/ngrx-store-localstorage.git  
+richard park, r-park, ngrx expert, https://github.com/r-park/soundcloud-ngrx.git  
+egghead 2017 all , http://behighbro.com/egghead-all-courses-2017/  
+, learn ionic 3 ng firebase , https://www.udemy.com/learn-ionic-3-from-scratch/?couponCode=IONIC3MAY  
+paul taylor, netflix, creator of rxjs5  
+
+Fr 19.05.2017
+--------------------------------------------------------------------------------------------------------------------------------------------
+build 2017 vscode chris
+vscode , 5 to extensions, ihatetomatoes, yt
+github vscode-tips-and-tricks,C:\Users\Folio\web\tools\vs-code\vscode-tips-and-tricksatoz css serie on sitepoint guy routeledge, https://www.sitepoint.com/tag/atoz-css/  
+google io2017, progressive web apps , alex rickabaugh, https://github.com/alxhub/io17.git  
+
+So 21.05.2017
+----------------------------------------------------------------------------------------------------------------
+
+Mo 22.05.2017
+-----------------------------------------------------------------------------------------------------------------
+redux, coding-the-smartway,
+npm install -g create-react-apptim griesser, redux talk, https://www.youtube.com/watch?v=okdC5gcD-dM  

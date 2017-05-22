@@ -88,3 +88,9 @@ devskiller.com, test your web knowledge
 bootstrap 4 cheat sheet with snippets and preview,  https://hackerthemes.com/bootstrap-cheatsheet/  
 flexbox for forms, lynda james williams,D:\A10-projects\css\flexbox\lynda-building-responsive-forms-with-flexbox  
 bootstrap 4 tutorial, http://www.quackit.com/bootstrap/bootstrap_4/tutorial/bootstrap_containers.cfm  
+le wagon, technical workflow, "https://www.youtube.com/watch?v=iZkP9rcEJEM&index=7&list=PLkbmdtbypn7TwufH3veAJ6dweRvTw57tO"  
+git workflow with waffle, https://www.youtube.com/playlist?list=PLw5h0DiJ-9PCxol0Vc2506iRG1R-NhayS  
+le wagon , web 101 on yt, https://ondemand.lewagon.org/courses/web-101-266152e4-12f5-49a1-a9c9-3c59ea7a73f8?t=0  
+brian troncone, rxjs expert, https://github.com/btroncone/ngrx-store-localstorage.git  
+richard park, r-park, ngrx expert, https://github.com/r-park/soundcloud-ngrx.git  
+atoz css serie on sitepoint guy routeledge, https://www.sitepoint.com/tag/atoz-css/  

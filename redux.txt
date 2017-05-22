@@ -10,3 +10,4 @@ Wes Bos, React Redux Training
 freddy rangel, react redux d3 expert  
  learn redux, D:\A10-projects\redux\Lynda-Learn-Redux  
 evan schultz, rangle, angular 2 redux sample, http://blog.rangle.io/getting-started-with-redux-and-angular-2/ 
+tim griesser, redux talk, https://www.youtube.com/watch?v=okdC5gcD-dM  

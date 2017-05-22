@@ -131,3 +131,6 @@ packt bootstrap 4 learning path, http://pcdownload.in/2017/02/27/packt-publishin
 packt react components building, http://pcdownload.in/2016/11/24/packt-publishing-learning-react-reusable-components/  
 udemy, complect react web app, andrew mead, https://avxhm.se/ebooks/the-complete-react-web-app-developer-course.html  
 complete node course, andrew mead, https://avxhm.se/ebooks/UdemyTheCompleteNodejsDeveloperCourse202016.html  
+lynda web design workflow , http://pcdownload.in/2016/12/22/lynda-efficient-web-design-workflow/  
+egghead 2017 all , http://behighbro.com/egghead-all-courses-2017/  
+, learn ionic 3 ng firebase , https://www.udemy.com/learn-ionic-3-from-scratch/?couponCode=IONIC3MAY  
