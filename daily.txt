@@ -1469,3 +1469,37 @@ Mo 22.05.2017
 -----------------------------------------------------------------------------------------------------------------
 redux, coding-the-smartway,
 npm install -g create-react-apptim griesser, redux talk, https://www.youtube.com/watch?v=okdC5gcD-dM  
+
+Di 23.05.2017
+---------------------------------------------------------------------------------------------------------------
+scotch.io, angular 2 forms
+ngrx javascript mick
+angular-university, ngrx
+
+Mi.24.05.2017
+----------------------------------------------------------------------------------------------------------------
+
+Do. 25.05.2017
+--------------------------------------------------------------------------------------------------------------------------
+
+Fr. 26.05.2017
+---------------------------------------------------------------------------------------------------------------------------
+microsoft flow
+pluralsigt pwa fundamentals, http://pcdownload.in/2017/05/09/pluralsight-progressive-web-app-fundamentals/  
+ngrx intro rob wormald, everything is a stream, ng2016 NgrX Intro  
+Reactive Programming with Angular and ngrx, oren fahri book on amazon, apress  
+angular styling and animations, http://pokeman.biz/tutorials/3051520-udemy-angular-styling-animations-for-angular-2-and-angular-4-2017.html  
+rxjs 4 github book , https://xgrommx.github.io/rx-book/index.html  
+responsive layout in angular, https://github.com/blove/angular-reactive-authentication.git  
+brandon roberts and mike ryan, ng2017, ngrx sample Google Book Search  
+brandon roberts and mike ryan, ng2017, ngrx sample Google Book Search  rxjs.txt 
+brandon roberts and mike ryan, ng2017, ngrx sample Google Book Search  learnings.txt 
+
+Sa 27.05.2017
+-------------------------------------------------------------------------------------------------------------------------
+
+So 28.05.2017
+-----------------------------------------------------------------------------------------------------------------------
+
+Di 30.01.2017
+----------------------------------------------------------------------------------------------------------------------------

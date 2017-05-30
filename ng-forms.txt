@@ -1,0 +1,40 @@
+Template Driven  - build from Template
+Reactive - build - build model in component
+
+TD
+import { NgForm }   from '@anglar/forms'
+
+div class="form-group"
+
+template variable #name gets access to {{ name.className }} // all assigned classes
+
+advanced validation
+#name = "ngModel" gets access to input validation states: name.valid, name.touched, name.dirty, name.pristine
+
+bootstrap classses for validation
+---------------------------------
+.has-error
+.has-success
+
+[ngClass]="{'has-error': name.invalid && name.touched,
+            'has-success': name.valid && name.touched
+ }"
+
+check for forms validity:
+------------------------------
+create template variable for form: #form="ngForm"
+
+{{form.valid}}
+
+Reactive Forms (Model driven, model in class)
+------------------------------------------------------------
+AbstractControl
+  FormGroup
+  FormControl
+  FormArray
+name;FormControl()
+
+.form-group>label+input[name=username].form-control
+.form-group>buttton[type=submit].btn.btn-danger
+
+

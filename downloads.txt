@@ -134,3 +134,5 @@ complete node course, andrew mead, https://avxhm.se/ebooks/UdemyTheCompleteNodej
 lynda web design workflow , http://pcdownload.in/2016/12/22/lynda-efficient-web-design-workflow/  
 egghead 2017 all , http://behighbro.com/egghead-all-courses-2017/  
 , learn ionic 3 ng firebase , https://www.udemy.com/learn-ionic-3-from-scratch/?couponCode=IONIC3MAY  
+pluralsigt pwa fundamentals, http://pcdownload.in/2017/05/09/pluralsight-progressive-web-app-fundamentals/  
+angular styling and animations, http://pokeman.biz/tutorials/3051520-udemy-angular-styling-animations-for-angular-2-and-angular-4-2017.html  

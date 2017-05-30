@@ -94,3 +94,5 @@ le wagon , web 101 on yt, https://ondemand.lewagon.org/courses/web-101-266152e4-
 brian troncone, rxjs expert, https://github.com/btroncone/ngrx-store-localstorage.git  
 richard park, r-park, ngrx expert, https://github.com/r-park/soundcloud-ngrx.git  
 atoz css serie on sitepoint guy routeledge, https://www.sitepoint.com/tag/atoz-css/  
+rxjs 4 github book , https://xgrommx.github.io/rx-book/index.html  
+brandon roberts and mike ryan, ng2017, ngrx sample Google Book Search  
