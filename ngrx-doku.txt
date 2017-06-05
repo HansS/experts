@@ -1,0 +1,11 @@
+ngRx libraries: ngrx/core, ngrx/store, ngrx/effects, ngrx/router 
+
+Library -Parts: 
+
+store, 		single source of truth, in the form of a single object (think database) 			{store}
+action, 	is a object with with a type property and an obtional payload: 				{ type , payload} , type is required and of type string
+state, 		is an argument of the action and is the actual state                                                         payload is of type any
+reducer fn	the fn is immuatable, it copies the old state and adds the new state			return copy of old state + add new state
+
+
+event -> dispatch action

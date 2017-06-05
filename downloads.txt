@@ -136,3 +136,36 @@ egghead 2017 all , http://behighbro.com/egghead-all-courses-2017/
 , learn ionic 3 ng firebase , https://www.udemy.com/learn-ionic-3-from-scratch/?couponCode=IONIC3MAY  
 pluralsigt pwa fundamentals, http://pcdownload.in/2017/05/09/pluralsight-progressive-web-app-fundamentals/  
 angular styling and animations, http://pokeman.biz/tutorials/3051520-udemy-angular-styling-animations-for-angular-2-and-angular-4-2017.html  
+Complete Guide for Webpack,  
+oreilly github, http://pcdownload.in/2016/09/07/oreilly-learning-path-github/  
+Packt Publishing - Learning Path: JavaScript: Reactive and Functional JavaScript,Packt Publishing - http://pcdownload.in/2017/05/15/packt-publishing-learning-path-javascript-reactive-and-functional-javascript/  
+deep dive into functional js, http://pcdownload.in/2017/05/10/packt-publishing-deep-dive-into-functional-javascript/  
+web projekte mit mean, video2brain, http://uploaded.net/f/nnycpq  
+bootstrap 4 quickstart, https://avxhm.se/ebooks/naag13958.html  
+wintellect form validation, http://pcdownload.in/2017/05/04/wintellectnow-mastering-angular-part-6-form-validation/  
+form validation, http://pcdownload.in/2017/05/04/wintellectnow-mastering-angular-part-8-displaying-form-validation-information/  
+custom form validation, http://pcdownload.in/2017/05/04/wintellectnow-mastering-angular-part-7-custom-form-validation/  
+part 6 form validation , http://pcdownload.in/2017/05/04/wintellectnow-mastering-angular-part-6-form-validation/  
+part 5 template forms, http://pcdownload.in/2017/05/04/wintellectnow-mastering-angular-part-5-template-forms/  
+part 3 services, http://pcdownload.in/2017/03/15/wintellectnow-mastering-angular-part-3-services/  
+part 2 pipes, http://pcdownload.in/2017/03/05/wintellectnow-mastering-angular-part-2-pipes/  
+part 1 components, http://pcdownload.in/2017/03/05/wintellectnow-mastering-angular-part-1-components/  
+part 8 form validation information, http://pcdownload.in/2017/05/04/wintellectnow-mastering-angular-part-8-displaying-form-validation-information/  
+react with redux, wintellectnow, http://pcdownload.in/2017/01/13/wintellectnow-using-react-with-redux/  
+vscode getting started, wintellectnow, http://pcdownload.in/2016/12/14/wintellectnow-getting-started-with-visual-studio-code/  
+redux intro, wintellectnow, http://pcdownload.in/2016/09/30/wintellectnow-introduction-redux/ 
+mastering node, wintellectnow, http://pcdownload.in/2016/08/24/wintellectnow-mastering-node-js/  
+node intro, wintellectnow, http://pcdownload.in/2016/06/09/cgp-1275/  
+packt reactivie js programming, http://pcdownload.in/2017/03/31/packt-publishing-reactive-javascript-programming/  
+lynda realtime node web dev, http://pcdownload.in/2017/01/31/lynda-real-time-web-with-node-js/  
+node on azure, scott allen, http://pcdownload.in/2017/03/31/pluralsight-developing-with-node-js-on-microsoft-azure-getting-started/  
+lynda css essential, http://pcdownload.in/2017/03/page/2/  
+lynda css essentials 2, http://pcdownload.in/2017/03/31/lynda-css-essential-training-2/  
+lynda enterprise node , http://pcdownload.in/2017/03/30/lynda-architecting-enterprise-scale-node-js-applications/  
+lynda cms for the web intro, http://pcdownload.in/2017/03/29/lynda-considering-a-cms-for-web-design/  
+lynda postcss, csssnext, http://pcdownload.in/2017/04/28/lynda-next-generation-css-design-with-postcss-and-cssnext/  
+oreilly , ci jenkins, http://pcdownload.in/2017/04/28/oreilly-continuous-integration-ci-with-jenkins-configuration/  
+packt functional js intro, http://pcdownload.in/2017/05/31/packt-publishing-learn-to-write-functional-javascript/  
+elasticsearcch intro, http://pcdownload.in/2017/05/30/packt-publishing-learning-path-the-road-to-elasticsearch/  
+packt, react redux node, http://pcdownload.in/2017/05/29/packt-publishing-learning-react-application-development-with-redux-and-node-js/  
+typescript 2.x, http://pcdownload.in/2017/06/04/packt-publishing-rapid-web-application-development-with-typescript-2-x/  

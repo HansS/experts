@@ -58,3 +58,36 @@ coders project:
   firebase.initializeApp(config);
 </script>
 -----------------------------------------------------------------------------------------------------------------------------, learn ionic 3 ng firebase , https://www.udemy.com/learn-ionic-3-from-scratch/?couponCode=IONIC3MAY  
+
+blog app:
+-----------------------------------------------------------------------------------------------------------------------------
+
+<script src="https://www.gstatic.com/firebasejs/4.1.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyC6OwRDfOje9lmVnRf-N3pjX2yi1sXSddg",
+    authDomain: "blog-2964e.firebaseapp.com",
+    databaseURL: "https://blog-2964e.firebaseio.com",
+    projectId: "blog-2964e",
+    storageBucket: "blog-2964e.appspot.com",
+    messagingSenderId: "782817102187"
+  };
+  firebase.initializeApp(config);
+</script>
+-------------------------------------------------------------------------------------------------------------------------------firebase db for posts, https://blog-2964e.firebaseio.com/  
+links app:
+
+<script src="https://www.gstatic.com/firebasejs/4.1.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCuXROegVvVbV3jZvNobdxJNxoPNBQA8xc",
+    authDomain: "links-d64d7.firebaseapp.com",
+    databaseURL: "https://links-d64d7.firebaseio.com",
+    projectId: "links-d64d7",
+    storageBucket: "links-d64d7.appspot.com",
+    messagingSenderId: "883595618164"
+  };
+  firebase.initializeApp(config);
+</script>

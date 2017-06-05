@@ -1,0 +1,5 @@
+angularfirebase.com, expert site for angularfire2 
+jorge vergara, ionic angularfire2  
+josh morooni, ionic angularfire expert  
+steve michelotti, angularfire  
+workshop for angularfire cloud functions, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/#0  

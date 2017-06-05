@@ -5,3 +5,5 @@ bootstrap 4 modern websites, https://avxhm.se/ebooks/naag13958.html
 packt bootstrap 4 learning path, http://pcdownload.in/2017/02/27/packt-publishing-learning-path-bootstrap-4-application-development/  
 bootstrap 4 tutorial, http://www.quackit.com/bootstrap/bootstrap_4/tutorial/bootstrap_containers.cfm  
 flexbox samples, http://www.quackit.com/css/flexbox/examples/  
+v4 alpha scripts and styles, c:\Users\Folio\web\frontend\css\bootstrap\v-4\bs4-template  
+Bootstrap 4 Tutorial Site, https://www.quackit.com/bootstrap/bootstrap_4/tutorial/bootstrap_forms.cfm  
