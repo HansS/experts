@@ -31,3 +31,8 @@ richard park, r-park, ngrx expert, https://github.com/r-park/soundcloud-ngrx.git
 paul taylor, netflix, creator of rxjs5  
 rxjs 4 github book , https://xgrommx.github.io/rx-book/index.html  
 brandon roberts and mike ryan, ng2017, ngrx sample Google Book Search  
+rxjs intro, andre saltz, ngeurope 2016  
+rxjs operators, yt playlist, max schwarzmÅller  
+github stephen fluin melbourne workshop sample  
+rxjs mvc todo  
+, deep dive rxjs, tutsplus, D:\A10-projects\rxjs\Tutsplus-Rxjs-Deep-Dive  

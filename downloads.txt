@@ -169,3 +169,12 @@ packt functional js intro, http://pcdownload.in/2017/05/31/packt-publishing-lear
 elasticsearcch intro, http://pcdownload.in/2017/05/30/packt-publishing-learning-path-the-road-to-elasticsearch/  
 packt, react redux node, http://pcdownload.in/2017/05/29/packt-publishing-learning-react-application-development-with-redux-and-node-js/  
 typescript 2.x, http://pcdownload.in/2017/06/04/packt-publishing-rapid-web-application-development-with-typescript-2-x/  
+pluralsight, advanced redux, http://pcdownload.in/2017/06/03/pluralsight-advanced-redux/  
+lynda, motion design with css, http://pcdownload.in/2017/06/02/lynda-motion-design-with-css/  
+lynda, angular template design, gary simon, http://pcdownload.in/2017/06/02/lynda-angular-template-design-and-implementation/  
+lynda express sites with sockets, http://pcdownload.in/2017/06/page/4/  
+functional js testing, http://pcdownload.in/2017/06/06/packt-publishing-implementing-and-testing-applications-using-functional-javascript/  
+Packt Publishing - Learning Path: JavaScript: Reactive and Functional JavaScript, http://pcdownload.in/2017/05/15/packt-publishing-learning-path-javascript-reactive-and-functional-javascript/  
+Packt Publishing - Deep Dive into Functional JavaScript, http://pcdownload.in/2017/05/10/packt-publishing-deep-dive-into-functional-javascript/  
+Pluralsight - Writing Functional JavaScript Using Ramda, http://pcdownload.in/2017/01/12/pluralsight-writing-functional-javascript-using-ramda/  
+Packt Publisher - Learning Path: Next Level JavaScript, http://pcdownload.in/2016/09/07/packt-publisher-learning-path-next-level-javascript/  

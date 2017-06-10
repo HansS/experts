@@ -1521,3 +1521,35 @@ todd motto, angular fundamentals forms
 
 Mo 05.06.2017
 -----------------------------------------------------------------------------------------------------------------------------------------
+
+Di 06.06.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+mantak chia, sexual energy
+
+Mi 07.06-2017
+--------------------------------------------------------------------------------------------------------------------------------------------
+firebase videos google io 2017
+firebase app, stories with google function emojificatioin
+
+Fr 09.06.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+schwarzk¸mmel, allerheilmittle
+kr‰uterfrau im aaragau, brunegg, kursfilm youtube
+lebenskraft
+lovegan.ch, schwarzk¸mmel kaufen
+
+angularcamp.org, agenda  
+es6 features, article, zell Liew  
+
+Sa 10.06.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+Stephen Fluin, Melbourn Workshop, AngularFire2
+AngularMix, 10.-12.Okt Microsoft + Google Guys, Angular Enterprise (Asp.net)
+firebase auth, http://codewithstyle.info/firebase-authentication-angular2-application-angularfire2/  
+rxjs intro, andre saltz, ngeurope 2016  
+rxjs operators, yt playlist, max schwarzmÅller  
+stephen fluin , ngsydney  
+stephen fluin , ngsydney  
+github stephen fluin melbourne workshop sample  
+rxjs mvc todo  
+, deep dive rxjs, tutsplus, D:\A10-projects\rxjs\Tutsplus-Rxjs-Deep-Dive  

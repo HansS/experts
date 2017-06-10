@@ -91,3 +91,20 @@ links app:
   };
   firebase.initializeApp(config);
 </script>
+
+------------------------------------------------------------------------------------------
+activities app , stephen fluin , melbourne workshop
+<script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBC2NiAoY3pPelFs12Gvtfpe3WC4fQ3d4M",
+    authDomain: "activities-88ddc.firebaseapp.com",
+    databaseURL: "https://activities-88ddc.firebaseio.com",
+    projectId: "activities-88ddc",
+    storageBucket: "activities-88ddc.appspot.com",
+    messagingSenderId: "681444636913"
+  };
+  firebase.initializeApp(config);
+</script>
+------------------------------------------------------------------------------
