@@ -1553,3 +1553,25 @@ stephen fluin , ngsydney
 github stephen fluin melbourne workshop sample  
 rxjs mvc todo  
 , deep dive rxjs, tutsplus, D:\A10-projects\rxjs\Tutsplus-Rxjs-Deep-Dive  
+
+
+Mo 12.06.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+Firebase Blog
+Angular Universal, BrieBug
+angular styling and animatins, http://pokeman.biz/tutorials/3051520-udemy-angular-styling-animations-for-angular-2-and-angular-4-2017.html  
+codecraft.tv, asim hussain, https://codecraft.tv/courses/angular/es6-typescript/classinterface/  
+
+Di 13.06.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+yt Blog
+Rx Scott Allan
+Rx Deep Dive , Tutsplus, Andrew Burgess
+Paul Halliday Ionic Expert on Udemy  
+Lynda - API Design in Node.js Using Express and Mongo  
+
+Mi 14.05.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+rxjs intro, poland2017
+talk Getting Things Done
+angular styles and animations  

@@ -1,0 +1,5 @@
+create project with cli
+Styling
+with normal css
+application wide: styles.scss
+link in index.html
