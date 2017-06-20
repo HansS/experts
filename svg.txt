@@ -1,1 +1,2 @@
 d3 would be a good possibilty for js beginners to start programming with shapes 
+svg expert, sarah drasner 

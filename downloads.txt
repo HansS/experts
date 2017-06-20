@@ -179,3 +179,11 @@ Packt Publishing - Deep Dive into Functional JavaScript, http://pcdownload.in/20
 Pluralsight - Writing Functional JavaScript Using Ramda, http://pcdownload.in/2017/01/12/pluralsight-writing-functional-javascript-using-ramda/  
 Packt Publisher - Learning Path: Next Level JavaScript, http://pcdownload.in/2016/09/07/packt-publisher-learning-path-next-level-javascript/  
 angular styling and animatins, http://pokeman.biz/tutorials/3051520-udemy-angular-styling-animations-for-angular-2-and-angular-4-2017.html  
+creating web animations, kirupa, http://uploaded.net/file/od5dtw0p  
+transitons and animations, https://avxhm.se/ebooks/LearnCSSTransiandAnimation.html  
+trannsiton and animations, book esteylle w, https://avxhm.se/ebooks/149192988X.html  
+ key transitions in evolution, http://nitroflare.com/view/F41A5C27B8738D6/1578086957.pdf  
+lynda responsive forms with flexbox, http://pcdownload.in/2016/01/09/cgp-77/,  
+svg animaations, https://avaxhome.unblocker.xyz/ebooks/lc-web_icons_svg.html  
+lynda animations with css, http://pcdownload.in/2016/01/22/cgp-178/  
+lynda motion design with css, http://pcdownload.in/2017/06/02/lynda-motion-design-with-css/ part2  

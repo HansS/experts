@@ -3,3 +3,5 @@ jorge vergara, ionic angularfire2
 josh morooni, ionic angularfire expert  
 steve michelotti, angularfire  
 workshop for angularfire cloud functions, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/#0  
+ionic firebase book, https://javebratt.com/ionic-firebase-book/  
+learn ionic3 with firebase, paul halliday on udemy.com, https://www.udemy.com/learn-ionic-3-from-scratch/?couponCode=IONIC3MAY  

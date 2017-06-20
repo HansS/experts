@@ -1575,3 +1575,36 @@ Mi 14.05.2017
 rxjs intro, poland2017
 talk Getting Things Done
 angular styles and animations  
+
+Do 15.05.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+angular styles and animations
+creating web animations, kirupa, http://uploaded.net/file/od5dtw0p  
+
+Sa 17.06.2017
+--------------------------------------------------------------------------------------------------------------------------------------------
+shmuela jacaobs, angular and firebase sample, openfirebook, transitons and animations, https://avxhm.se/ebooks/LearnCSSTransiandAnimation.html  
+trannsiton and animations, book esteylle w, https://avxhm.se/ebooks/149192988X.html  
+angular ionic firebase chat sample on yt, D:\_downloads\Chat app using Ionic 3 and Firebase - YouTube  
+css properties list  
+js write your own quiz, "https://www.sitepoint.com/simple-javascript-quiz/?utm_source=sitepoint&utm_medium=relatedsidebar&utm_term=html-css#demo"  
+
+Mo 19.06.2017
+---------------------------------------------------------------------------------------------------------------------------------------------
+angular 2 registration sample, https://github.com/cornflourblue/angular2-registration-login-example.git  
+svg animation  
+svg expert, sarah drasner  
+hoka one one speedgoat, 144.-, http://de.sarenza.ch/hoka-one-one-speedgoat-s846658-p0000150678  
+triathlon startplatz, http://www.triathlon.de/community/archive/f-94.html  
+
+Di 20.06.2017
+-----------------------------------------------------------------------------------------------------------------------------------------------
+jorge vergara, ionic angularfire expert, 
+ionic firebase book, https://javebratt.com/ionic-firebase-book/  
+ionicacademy, https://ionicacademy.com/  
+learn ionic3 with firebase, paul halliday on udemy.com, https://www.udemy.com/learn-ionic-3-from-scratch/?couponCode=IONIC3MAY  
+packt map 100$ /year, https://mapt.io/  
+lynda animations with css, http://pcdownload.in/2016/01/22/cgp-178/  
+lynda motion design with css, http://pcdownload.in/2017/06/02/lynda-motion-design-with-css/ part2  
+curran kelleher base yt list, Frontend Developer Intro,D:\_downloads\Frontend - Developer Intro - YouTube  
+curran kelleher bootcamp, C:\Users\Folio\web\bootcamps\curran-kelleher  

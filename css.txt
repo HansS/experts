@@ -86,3 +86,4 @@ css-variables in rangle-starter
 lynda postcss and cssnext , http://pcdownload.in/2017/04/28/lynda-next-generation-css-design-with-postcss-and-cssnext/ 
 lynda, bootstrap 4 migration, http://pcdownload.in/2017/03/31/lynda-bootstrap-4-migration/  
 atoz css serie on sitepoint guy routeledge, https://www.sitepoint.com/tag/atoz-css/  
+lynda animations with css, http://pcdownload.in/2016/01/22/cgp-178/  
