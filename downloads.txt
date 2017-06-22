@@ -187,3 +187,4 @@ lynda responsive forms with flexbox, http://pcdownload.in/2016/01/09/cgp-77/,
 svg animaations, https://avaxhome.unblocker.xyz/ebooks/lc-web_icons_svg.html  
 lynda animations with css, http://pcdownload.in/2016/01/22/cgp-178/  
 lynda motion design with css, http://pcdownload.in/2017/06/02/lynda-motion-design-with-css/ part2  
+webpack deep dive, http://pcdownload.in/2017/06/15/lynda-webpack-deep-dive/  

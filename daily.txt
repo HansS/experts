@@ -1608,3 +1608,13 @@ lynda animations with css, http://pcdownload.in/2016/01/22/cgp-178/
 lynda motion design with css, http://pcdownload.in/2017/06/02/lynda-motion-design-with-css/ part2  
 curran kelleher base yt list, Frontend Developer Intro,D:\_downloads\Frontend - Developer Intro - YouTube  
 curran kelleher bootcamp, C:\Users\Folio\web\bootcamps\curran-kelleher  
+simple javascript router from krasimir tsonev, https://github.com/krasimir/navigo  
+
+Do 22.06.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+webpack for beginners, nguyen
+webpack for beginners, yt netninja, github iamshaunjpwebpack typescript starter from Juri Strumpflohner, C:\Users\Folio\web\frontend\module-bundlers\webpack-typescript\juri-strumpflohner\webpack-typescript-starter  
+webpack deep dive, http://www.mechosoftware.com/threads/lynda-webpack-deep-dive.264503/#post-264577  
+krasimir tsonev webpack article, http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6  
+stephan grider webpack course, video 14, D:\A10-projects\Webpack-2\Webpack-Complete-Guide\Udemy - Webpack 2 the complete developers guide  
+juri strumpflohner, webpack typescript starter, C:\Users\Folio\web\frontend\module-bundlers\webpack-typescript\juri-strumpflohner\webpack-typescript-starter  
