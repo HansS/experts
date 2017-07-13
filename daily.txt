@@ -1618,3 +1618,46 @@ webpack deep dive, http://www.mechosoftware.com/threads/lynda-webpack-deep-dive.
 krasimir tsonev webpack article, http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6  
 stephan grider webpack course, video 14, D:\A10-projects\Webpack-2\Webpack-Complete-Guide\Udemy - Webpack 2 the complete developers guide  
 juri strumpflohner, webpack typescript starter, C:\Users\Folio\web\frontend\module-bundlers\webpack-typescript\juri-strumpflohner\webpack-typescript-starter  
+
+Fr 23.06.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+webpack stephen grider, video 14 - 
+bittorrent 5.75 chf for adfree torrent , gmail  
+safari trial with cintia baniola, https://www.safaribooksonline.com/library/view/learning-path-javascript/9781788472562/video2_1.html 
+
+Sa 24.06.2017
+--------------------------------------------------------------------------------------------------------------------------------------------
+webpack with typescript, juri strumpflohner starter
+webpack.config.ts, webpack with typescript definition support, devon zuegel
+
+So 25.06.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+webpack sean larkin qcon, video download, slides
+webpack juha vespaelaeinen, survivejs.com, from novice to..
+webpack egghead Kent c Dodds
+webpack , module and asset bundling, oreilly
+
+Di 27.06.2017
+----------------------------------------------------------------------------------------------------------------------------------------------
+single page application principles, curran kelleher, detail step by step samples
+theodore anderson, yt playlist, simple router, simple binding
+
+Mi 28.07.2017
+----------------------------------------------------------------------------------------------------------------------------------------------
+angular 4 testing, udemy, mosh hamedani
+frontend workflow
+
+Do 29.07.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+pandoc, markdown, latex, katex
+angular katex
+npm katex
+markdown as start for pandoc  
+
+Fr 30.06.2017
+-----------------------------------------------------------------------------------------------------------------------------------------
+typescript, webpack, https://github.com/Treeloop/ModernWebStack.git
+deborah kurata , es2015 modules
+scotch.io, js intro  
+What's new in Typescript 2.0. 2.1, 2.2, 2.3  
+Typescript CSS Webpack Webpack-Dev-Server Workflow  
