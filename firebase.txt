@@ -108,3 +108,20 @@ activities app , stephen fluin , melbourne workshop
   firebase.initializeApp(config);
 </script>
 ------------------------------------------------------------------------------
+chat app
+
+
+<script src="https://www.gstatic.com/firebasejs/4.1.3/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDbrp-Qkg23oHYNwVx2ZCb_lsTzC0KOKU8",
+    authDomain: "chat-7f19f.firebaseapp.com",
+    databaseURL: "https://chat-7f19f.firebaseio.com",
+    projectId: "chat-7f19f",
+    storageBucket: "",
+    messagingSenderId: "311156187146"
+  };
+  firebase.initializeApp(config);
+</script>
+......................................................................................
