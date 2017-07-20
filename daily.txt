@@ -1661,3 +1661,22 @@ deborah kurata , es2015 modules
 scotch.io, js intro  
 What's new in Typescript 2.0. 2.1, 2.2, 2.3  
 Typescript CSS Webpack Webpack-Dev-Server Workflow  
+
+Mi 19.07.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+graham hutton
+erik meijer
+fisher (angular firebase)
+category theory, university
+composition is only possible with side effect free functions
+monad is a special case of category theory
+math in programming
+
+Do 20.07.2017
+---------------------------------------------------------------------------------------------------------------------------------------------
+simon reimler, ionicacademy, https://ionicacademy.com/
+manuel rauber, node expert, thinktecture
+christian liebel, angular expert, thinktecture
+anjana vakil, functional programmer, immutabeljs, mori (immutable from scala)
+rand dusing, author cordova plugin for bluetooth lowenery, http://randdusing.com/ 
+nic rabboy, cordova expert, https://www.thepolyglotdeveloper.com/ 
