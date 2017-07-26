@@ -1680,3 +1680,27 @@ christian liebel, angular expert, thinktecture
 anjana vakil, functional programmer, immutabeljs, mori (immutable from scala)
 rand dusing, author cordova plugin for bluetooth lowenery, http://randdusing.com/ 
 nic rabboy, cordova expert, https://www.thepolyglotdeveloper.com/ 
+simon reimler, devdactic.com 
+android sdk install with android studio, https://www.androidcentral.com/installing-android-sdk-windows-mac-and-linux-tutorial 
+samarth agarwal, ionic expert, course on udemy 
+don coleman, ionic bluetooth low energy expert 
+gps lora tracker for alp, 10 pieces 70euro, https://market.thingpark.com/iot-devices/geolocation-sensors/ztrack-mini-lora-gps-tracker 
+lora expert andreas spiess, swiss guy,https://github.com/sensorsiot 
+
+Mo 24.07.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+L-Arginin
+Pycnogenol
+Panax ginseng
+Maca
+Tongkat Ali
+Safran 
+Yohimbe
+Grüner Tee
+Heilpilze
+organotrope Präparate
+Regenaplexejquery fullcalendar plugin, https://github.com/driftingruby/042-fullcalendar 
+matt liewis , angular 4 calendar,https://github.com/driftingruby/042-fullcalendar 
+ionic2-calendar, https://github.com/twinssbc/Ionic2-Calendar 
+pluralsight phonegap build fundamentals, http://alfafile.net/folder/88VR 
+complete git hands on udemmy course, http://pcdownload.in/2017/05/16/udemy-git-complete-hands-on-training-for-web-developers/ 
