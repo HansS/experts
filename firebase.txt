@@ -124,4 +124,4 @@ chat app
   };
   firebase.initializeApp(config);
 </script>
-......................................................................................
+......................................................................................chris esplin, firebase expert, yt list, https://www.youtube.com/playlist?list=PLdssc-pDiZ7OD78kJVp4habTynj-Etwhm 

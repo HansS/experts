@@ -206,3 +206,7 @@ arduino prototyping, http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping
 iot fundamentals livelessons, http://pcdownload.in/2017/06/25/livelessons-internet-of-things-iot-fundamentals/ 
 InfiniteSkills - Introduction to the ESP8266 and the IoT Training , http://pcdownload.in/2016/09/02/infiniteskills-introduction-esp8266-iot-training/ 
 complete git hands on udemmy course, http://pcdownload.in/2017/05/16/udemy-git-complete-hands-on-training-for-web-developers/ 
+js dynamic quiz json, http://xme7.com/tutorial/1405108-javascript-dynamic-quiz-application-from-scratch-json-ajax.html 
+samer buma, build a qrapgql api, https://avxhm.se/ebooks/naag11902.html 
+udemy, graphql relay react, https://ebookee.unblocked.team/Udemy-GraphQL-with-React-The-Complete-Developers-Guide-2017_3151444.html 
+angularfire football manager, http://pcdownload.in/2017/06/28/football-manager-2017/ 

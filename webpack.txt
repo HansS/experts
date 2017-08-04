@@ -13,3 +13,5 @@ johannes ewald, core team member
 webpack typescript starter from Juri Strumpflohner, C:\Users\Folio\web\frontend\module-bundlers\webpack-typescript\juri-strumpflohner\webpack-typescript-starter  
 krasimir tsonev webpack article, http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6  
 juri strumpflohner, webpack typescript starter, C:\Users\Folio\web\frontend\module-bundlers\webpack-typescript\juri-strumpflohner\webpack-typescript-starter  
+ryan lewis, webpack node expert, http://ryanhlewis.com/ 
+webpack-cli init, new cli scaffolding in webpack 3.x 
