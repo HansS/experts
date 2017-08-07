@@ -15,3 +15,6 @@ krasimir tsonev webpack article, http://krasimirtsonev.com/blog/article/javascri
 juri strumpflohner, webpack typescript starter, C:\Users\Folio\web\frontend\module-bundlers\webpack-typescript\juri-strumpflohner\webpack-typescript-starter  
 ryan lewis, webpack node expert, http://ryanhlewis.com/ 
 webpack-cli init, new cli scaffolding in webpack 3.x 
+webpack-contrib, contribs to webpack 
+webpack-defaults, webpack defaults repos, npm i -D webpack-defaults 
+webpack-cli, webpack-cli init 

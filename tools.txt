@@ -55,3 +55,5 @@ create snippet ng2-form-group in vscode for html.json
 install itani create snippet vscode extension  
 git release tool ,  
 gofer, ?gofer a haskell editor 
+pwabuilder, tool to build a manifest file from website , https://www.pwabuilder.com/ 
+httpie, http from commandline 

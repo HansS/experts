@@ -1725,3 +1725,18 @@ ryan lewis, webpack node expert, http://ryanhlewis.com/
 serverless.com, new js framework, ryan lewis 
 webpack-cli init, new cli scaffolding in webpack 3.x 
 ngHouston yt list has essential talks, ngrx, serverless, unit testing... 
+angualar breezjs 
+
+Sa 05.08.2017
+-------------------------------------------------------------------------------------------------------------------------------------
+brian noyes, angular breezejspwabuilder, tool to build a manifest file from website , https://www.pwabuilder.com/ 
+lynda, building a pwa,  http://pcdownload.in/2016/12/13/lynda-building-a-progressive-web-app/ 
+
+Mo 07.08.2017
+---------------------------------------------------------------------------------------------------------------------------------------
+es6 allonge, reginald braithwaite,
+webpack, Juho Vepsäläinen in munich webpack meetup july 2017,
+webpack, Tobias kopper in munich webpack meetup july 2017
+chris courses, webpack intro ytwebpack-contrib, contribs to webpack 
+webpack-defaults, webpack defaults repos, npm i -D webpack-defaults 
+webpack-cli, webpack-cli init 
