@@ -214,3 +214,20 @@ angular template design
  angular fullstack with node, http://pcdownload.in/2017/05/16/lynda-building-a-simple-full-stack-app-with-angular-2-and-node-js/ 
 angular 2 end to end, http://rapidgator.net/folder/4251352/2017Apr18Angular%202%20End%20to%20end%20L.html 
 lynda, building a pwa,  http://pcdownload.in/2016/12/13/lynda-building-a-progressive-web-app/ 
+es6 lynda, http://pcdownload.in/2017/06/09/lynda-es6-the-right-parts/ 
+lynda webpack deep dive, http://pcdownload.in/2017/06/15/lynda-webpack-deep-dive/ 
+lynda js fullstack, http://pcdownload.in/2016/11/23/lynda-learning-full-stack-javascript-development-mongodb-node-and-react/
+wintellect eric green , mastering node, http://pcdownload.in/2016/08/24/wintellectnow-mastering-node-js/
+lynda, node api express mongo, http://pcdownload.in/2017/05/12/lynda-api-design-in-node-js-using-express-and-mongo/ 
+packt, mean web dev, http://pcdownload.in/2016/11/27/packt-publishing-learning-path-mean-web-development/ 
+wintellectnow, mastering node, http://pcdownload.in/2016/08/24/wintellectnow-mastering-node-js/ 
+packt, mastering mode, http://pcdownload.in/2017/02/10/packt-publishing-mastering-node-js/ 
+packtpub, complete guide to node, http://pcdownload.in/2016/11/24/packt-publishing-the-complete-guide-to-node-js/ 
+pluralsight, using redux to manage state in angular, http://pcdownload.in/2017/03/21/pluralsight-using-redux-to-manage-state-in-angular-2/ 
+stackblitz.con , online editor for ionic, angular, react 
+pluralsight, angular 2 redux, http://pcdownload.in/2017/03/21/pluralsight-using-redux-to-manage-state-in-angular-2/ 
+lynda, node fullstack react, http://pcdownload.in/2016/11/23/lynda-learning-full-stack-javascript-development-mongodb-node-and-react/ 
+lynda, node fullstack angular, http://pcdownload.in/2017/05/16/lynda-building-a-simple-full-stack-app-with-angular-2-and-node-js/ 
+lynda, node api express, http://pcdownload.in/2017/05/12/lynda-api-design-in-node-js-using-express-and-mongo/ 
+udemy, git complete guide, http://pcdownload.in/2017/05/16/udemy-git-complete-hands-on-training-for-web-developers/ 
+udemy, learn app dev with docker, http://pcdownload.in/2017/03/15/udemy-learn-app-development-with-docker/ 

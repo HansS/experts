@@ -1740,3 +1740,43 @@ webpack, Tobias kopper in munich webpack meetup july 2017
 chris courses, webpack intro ytwebpack-contrib, contribs to webpack 
 webpack-defaults, webpack defaults repos, npm i -D webpack-defaults 
 webpack-cli, webpack-cli init 
+es6 lynda, http://pcdownload.in/2017/06/09/lynda-es6-the-right-parts/ 
+lynda webpack deep dive, http://pcdownload.in/2017/06/15/lynda-webpack-deep-dive/ 
+
+Mi 09.08-2017
+-----------------------------------------------------------------------------------------------------------------------------------------
+tony sneed , vscode debugging on ngAir, blog.tonysneed.com, vscode-ng, vscode-recipes
+bash liquid prompt
+linuxacademy.com trial 7 days, 16.08.2018, cancel trial
+vs code extensions, yt
+vs code debugging
+vs code tips tricks
+node 8.x
+ng 1.2.7 ?
+typescript what'new
+trial, linuxacademy.com, 16-08 
+trial, pluralsight, 16.08- 
+advanced node.js, samer buna, pluralsight 
+node.js Global, require, module, 
+
+Do 10.08.2017
+--------------------------------------------------------------------------------------------------------------------------------------------
+lynda, node api express mongo, http://pcdownload.in/2017/05/12/lynda-api-design-in-node-js-using-express-and-mongo/ 
+packt, mean web dev, http://pcdownload.in/2016/11/27/packt-publishing-learning-path-mean-web-development/ 
+wintellectnow, mastering node, http://pcdownload.in/2016/08/24/wintellectnow-mastering-node-js/ 
+packt, mastering mode, http://pcdownload.in/2017/02/10/packt-publishing-mastering-node-js/ 
+packtpub, complete guide to node, http://pcdownload.in/2016/11/24/packt-publishing-the-complete-guide-to-node-js/ 
+pluralsight, using redux to manage state in angular, http://pcdownload.in/2017/03/21/pluralsight-using-redux-to-manage-state-in-angular-2/ 
+stackblitz.con , online editor for ionic, angular, react 
+pluralsight, angular 2 redux, http://pcdownload.in/2017/03/21/pluralsight-using-redux-to-manage-state-in-angular-2/ 
+ionic2-calendar control 
+
+Fr 11.10.2017
+----------------------------------------------------------------------------------------------------------------------------
+lynda, node fullstack react
+lynda, mode fullstack angular
+lynda, node fullstack react, http://pcdownload.in/2016/11/23/lynda-learning-full-stack-javascript-development-mongodb-node-and-react/ 
+lynda, node fullstack angular, http://pcdownload.in/2017/05/16/lynda-building-a-simple-full-stack-app-with-angular-2-and-node-js/ 
+lynda, node api express, http://pcdownload.in/2017/05/12/lynda-api-design-in-node-js-using-express-and-mongo/ 
+udemy, git complete guide, http://pcdownload.in/2017/05/16/udemy-git-complete-hands-on-training-for-web-developers/ 
+udemy, learn app dev with docker, http://pcdownload.in/2017/03/15/udemy-learn-app-development-with-docker/ 

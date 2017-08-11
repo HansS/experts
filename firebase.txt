@@ -125,3 +125,19 @@ chat app
   firebase.initializeApp(config);
 </script>
 ......................................................................................chris esplin, firebase expert, yt list, https://www.youtube.com/playlist?list=PLdssc-pDiZ7OD78kJVp4habTynj-Etwhm 
+
+angular reactive calendar , brecht billiet
+
+<script src="https://www.gstatic.com/firebasejs/4.2.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyClu7D7M_BEri0iCJM60DrfSet6p6e8Xzo",
+    authDomain: "calendar-d9661.firebaseapp.com",
+    databaseURL: "https://calendar-d9661.firebaseio.com",
+    projectId: "calendar-d9661",
+    storageBucket: "",
+    messagingSenderId: "459545971400"
+  };
+  firebase.initializeApp(config);
+</script>
