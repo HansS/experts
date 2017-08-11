@@ -1780,3 +1780,8 @@ lynda, node fullstack angular, http://pcdownload.in/2017/05/16/lynda-building-a-
 lynda, node api express, http://pcdownload.in/2017/05/12/lynda-api-design-in-node-js-using-express-and-mongo/ 
 udemy, git complete guide, http://pcdownload.in/2017/05/16/udemy-git-complete-hands-on-training-for-web-developers/ 
 udemy, learn app dev with docker, http://pcdownload.in/2017/03/15/udemy-learn-app-development-with-docker/ 
+angular universal, nir kaufmann, Holes on Lawn App 
+udacity , http client server, offline, asynch javascript 
+sitepoint , atoz sass, guy routeledge 
+sitepoint , atoz sass, guy routeledge 
+universal-cli, ung new myapp --universal 

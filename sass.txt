@@ -7,3 +7,4 @@ sass boilerplate hugo giraudel, https://github.com/HugoGiraudel/sass-boilerplate
 sass guidelines hugo giraudel, https://github.com/HugoGiraudel/sass-guidelines 
 nick walsh sass expert on codeschool. 
 ana tudor, sass expert, https://thebabydino.github.io/pages/posts+talks.html 
+sitepoint , atoz sass, guy routeledge 
