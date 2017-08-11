@@ -1785,3 +1785,4 @@ udacity , http client server, offline, asynch javascript
 sitepoint , atoz sass, guy routeledge 
 sitepoint , atoz sass, guy routeledge 
 universal-cli, ung new myapp --universal 
+new shortccuts for conemu 
