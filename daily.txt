@@ -1787,3 +1787,48 @@ sitepoint , atoz sass, guy routeledge
 universal-cli, ung new myapp --universal 
 new shortccuts for conemu 
 test gitgo 
+
+Sa 12.08.2017
+-----------------------------------------------------------------------------------------------------------------------------
+typescript webpack, dropbox
+egghead all 2017, http://bestgfx.org/tutorial/programing-tuts/354257-egghead-all-courses-2017.html 
+lynda, arduino prototyping ble, http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
+github.con/don , ionic ble sample 
+ web ble api , https://webbluetoothcg.github.io/web-bluetooth/ 
+philip ackermann , fraunhofer institut, ble expert, 
+pluralsight, node and iot, http://pcdownload.in/2015/06/25/pluralsight-node-js-and-the-internet-of-things-using-intel-edison/ 
+livelessons , fundamentals iot, http://pcdownload.in/2017/06/25/livelessons-internet-of-things-iot-fundamentals/ 
+livelessons , fundamentals iot, http://pcdownload.in/2017/06/25/livelessons-internet-of-things-iot-fundamentals/ 
+andreas spiess , iot esp8266 arduino wifi expert 
+the https://www.thethingsnetwork.org/docs/applications/nodejs/, 
+stackblitz.com, vscode ionic angular online, 
+small fast js framework, svelte, "https://svelte.technology/repl?version=1.29.1&example=hello-world" 
+pwa-camp-2017 in yt 
+svelte.technology fast leightweight framework 
+lynda, wifi networking, http://pcdownload.in/2017/04/20/lynda-iot-foundations-low-power-wireless-networking/ 
+oreilly, arduino wifi ,http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
+udemy, node react fullstack, http://pcdownload.in/2017/08/13/udemy-node-with-react-fullstack-web-development/ 
+sarah drasner, svg expert 
+
+Mo 14.08.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+raspberri pi 3 with windows 10 iot core, http://pcdownload.in/2017/04/30/linux-academy-azure-iot-essentials/js quiz sample, c:UsersFoliowebfrontendjavascriptmatt-webbjavascript-quiz-using-jsonexamples
+
+Di 15.08.2017
+--------------------------------------------------------------------------------------------------------------------------------------------
+livelessons, iot fundamentals, http://pcdownload.in/2017/06/25/livelessons-internet-of-things-iot-fundamentals 
+scotch.io,node web site 
+udemy ionic 3 
+lynda wireless foundation 
+ng cli, angular universal support, https://github.com/angular/angular-cli/wiki/stories-universal-rendering 
+openhab fritzboc raspberri pi 
+
+Mi 15.08.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+make your own gps tracker
+ztrack lorawan
+microsoft iot pack for raspberri pi swiss edition 125sfr, http://www.play-zone.ch/de/elektronik-kit-zubehoer/iot-internet-of-things/microsoft-iot-pack-for-raspberry-pi-3-swiss-edition.html 
+packt, raspberri pi fullstack, http://pcdownload.in/2017/08/16/packt-publishing-raspberry-pi-full-stack/ 
+rspi, take a picture every 3min and upload, https://github.com/weworkweplay/raspeye-web 
+lynda, electronics foundation 
+lynda, gpio fundamentals 

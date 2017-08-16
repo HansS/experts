@@ -231,3 +231,15 @@ lynda, node fullstack angular, http://pcdownload.in/2017/05/16/lynda-building-a-
 lynda, node api express, http://pcdownload.in/2017/05/12/lynda-api-design-in-node-js-using-express-and-mongo/ 
 udemy, git complete guide, http://pcdownload.in/2017/05/16/udemy-git-complete-hands-on-training-for-web-developers/ 
 udemy, learn app dev with docker, http://pcdownload.in/2017/03/15/udemy-learn-app-development-with-docker/ 
+egghead all 2017, http://bestgfx.org/tutorial/programing-tuts/354257-egghead-all-courses-2017.html 
+lynda, arduino prototyping ble, http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
+pluralsight, node and iot, http://pcdownload.in/2015/06/25/pluralsight-node-js-and-the-internet-of-things-using-intel-edison/ 
+livelessons , fundamentals iot, http://pcdownload.in/2017/06/25/livelessons-internet-of-things-iot-fundamentals/ 
+lynda, wifi networking, http://pcdownload.in/2017/04/20/lynda-iot-foundations-low-power-wireless-networking/ 
+oreilly, arduino wifi ,http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
+udemy, node react fullstack, http://pcdownload.in/2017/08/13/udemy-node-with-react-fullstack-web-development/ 
+raspberri pi 3 with windows 10 iot core, http://pcdownload.in/2017/04/30/linux-academy-azure-iot-essentials/ 
+livelessons, iot fundamentals, http://pcdownload.in/2017/06/25/livelessons-internet-of-things-iot-fundamentals 
+microsoft iot pack for raspberri pi swiss edition 125sfr, http://www.play-zone.ch/de/elektronik-kit-zubehoer/iot-internet-of-things/microsoft-iot-pack-for-raspberry-pi-3-swiss-edition.html 
+packt, raspberri pi fullstack, http://pcdownload.in/2017/08/16/packt-publishing-raspberry-pi-full-stack/ 
+lymda, raspberri pi media server, http://pcdownload.in/2016/06/10/lynda-build-raspberry-pi-media-server/ 

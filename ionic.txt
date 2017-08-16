@@ -16,3 +16,4 @@ don coleman, ionic bluetooth low energy expert
 ionic schedule module, http://thebrockellis.com/2017/03/23/primeng-Schedule-In-Ionic 
 stackblitz.con , online editor for ionic, angular, react 
 ionic2-calendar control 
+stackblitz.com, vscode ionic angular online, 

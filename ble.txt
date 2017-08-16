@@ -1,0 +1,5 @@
+lynda, arduino prototyping ble, http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
+github.con/don , ionic ble sample 
+ web ble api , https://webbluetoothcg.github.io/web-bluetooth/ 
+philip ackermann , fraunhofer institut, ble expert, 
+bluetooth.com 

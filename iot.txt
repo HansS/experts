@@ -1,0 +1,3 @@
+livelessons , fundamentals iot, http://pcdownload.in/2017/06/25/livelessons-internet-of-things-iot-fundamentals/ 
+pluralsight, node and iot, http://pcdownload.in/2015/06/25/pluralsight-node-js-and-the-internet-of-things-using-intel-edison/ 
+andreas spiess , iot esp8266 arduino wifi expert 

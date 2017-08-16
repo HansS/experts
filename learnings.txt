@@ -1,110 +1,65 @@
-http://fakesynchhub.azurewebsites.net/api/ 
-atoz css serie guy routeledge, https://www.sitepoint.com/premium/screencasts/atoz-css-the-css-supports-rule 
-react series, brad westfall 
-flexbox intro, https://www.sitepoint.com/premium/screencasts/learning-about-flexbox-layouts-with-flex-containers 
-jecelyn-yeen-scotchio , C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\jecelyn-yeen-scotchio 
-ultimate angular, ryan chenkie 
-flexible boxes video2brain 
-aysegul yonet training material, angular20/aysegul-yonet 
-reacttraining.com 
-teachable online content provider for teachers 
-kcdc videos 2016 on infoq.com 
-es6 workshop todd motto 
-futurelearn.com, new open online learning platform, https://www.futurelearn.com/courses/online-business-success-planning/2/welcome 
-openbadges, open standards for certificates , 
-web app lecture uni regensburg,florian rappl,https://github.com/WebAppLecture/webapplecture.github.io,C:\Users\Hans\Web\frontend\bootcamps\uni-regensburg 
-css3generator.com 
-diventohtml3.info 
-echo html5demos.com 
-packpub learning to program - certificate Web developer 
-are you ready for a paradigm shift with RxJs,http://avxhome.se/ebooks/naag8204.html 
-eric elliot , js expert 
-braithwidth, es6 functional programmer 
-jason green , intro javascript + Next Stpes on sitepoint,https://www.sitepoint.com/premium/courses/javascript-next-steps-2921 
-rxjs intro, scott allen, D:\A10-projects\rxjs\RxJs-Scott-Allan-2016\Getting Started with Reactive Programming Using RxJS 
-sitepoint premium github, https://github.com/learnable-content 
-frontend-intro playlist download 
-ui-kit learning playlist download 
-sitepoint premium content on github, github.com/learnable-content 
-nodeschool.io console learnings 
-assim hussainl, codecraftpro.com 
-kickstarter.com 
-flatiron-school javascript trial, https://learn.co/tracks/introduction-to-javascript/introduction/getting-started-with-javascript/introduction-to-javascript-course-overview 
-js, daniel shiffman, shiffman.net
-, programming a to z , daniel shiffman, shiffman.net, codingrainbow.com
-stenver jerkku, interactive js,https://courses.cs.ut.ee/2016/react/spring/  
-interactive js, training videos with stenfer jerkku, http://www.uttv.ee/naita?id=23700,  
-general assembly school preparation site, http://fundamentals.generalassemb.ly/  
-google web fundamentals, https://developers.google.com/web/fundamentals/  
-practical javascript course, https://watchandcode.com/courses/practical-javascript/lectures/896960  
-scotchio , angular 2 forms course  
-interactive es6 cheatsheet, swizec teller,"https://es6cheatsheet.com/?key=mailing-list&utm_source=drip&utm_medium=email&utm_campaign=email-signup&__s=rztmjyq7mzvie3gxegzp"  
-ionic 2 angular 2, steve michelotti  
-ionic 2 angular 2, steve michelotti  ionic.txt
-write your own framework, http://nx-framework.com/?status=all  
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/lecture-notes/  
+swrite your own framework, http://nx-framework.com/?status=all  
+
 mit web fundamentals course material download d\bootcamps\mit  
+
 D:\_downloads\Web - Security MIT Fall 2014,  
+
 D:\A10-projects\bootcamps\Ocw.mit.edu, MIT Web Fundamentals  
+
 google paul lewis, swipeable cards live coding, http://googlechrome.github.io/ui-element-samples/  
-web security course ocw mit edu, https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/lecture-notes/  
+
 nptel web dev course, https://onlinecourses.nptel.ac.in/noc17_cs06/announcements  
-nptel web dev course web site, http://www.imad.tech/#course-outline  
-d3 intro swizec teller, https://avxhome.se/ebooks/Packtpub_Mastering_D3_js.html  
-wes bos , flexbox, react, redux training  
-react-training.com, michael jackson, ryan florence  
-react deep dive, tutsplus pavan podila, https://avxhome.se/ebooks/c2u2016531.html  
-10 steps to learn anything, john somez, https://avxhome.se/ebooks/10_Steps_To_Learn.html  
+
 gary simon , angular 2 fundamentals, D:\_downloads\Angular 2 Fundamentals - YouTube  
 gary simion, ionic 2 intro, youtube vidoes  
 gary simon, github account, https://github.com/designcourse  
-learn apollo,https://github.com/learnapollo  
-learn relay, https://www.learnrelay.org/  
-graphql expert, facebook steve luscher , https://github.com/steveluscher/zero-to-graphql.git  
-graphql book samer buna, http://nitroflare.com/view/7895C16295E213A/1786465752.pdf/free  
-parasil, flexbox sass framework  
-cas-fee project 1 project 2 patrick bonetti  
-uri goldshtein, graphql, apollo and angular 2 expert  
+
+
 indian philosophy youtube playlist, https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2peNt_XPOq0qtLR5NMv4R  
- girl develop it gdi teachinng materials, https://github.com/Yonet/teaching-materials.git  
+
+girl develop it gdi teachinng materials, https://github.com/Yonet/teaching-materials.git  
+
 teaching-materials.org  
+
 es6 and beyond, kent c dodds , video download  
+
 reactjs workshop, kent c doodss, video download  
-kara erickson , angular 2 forms expert  
-online course trial 15 days, https://forwardcourses.com/  
- css layout techniques, local  
+
 ngrx gitbook, https://hongbo-miao.gitbooks.io/angular2-server/content/part1/dataflow.html  
-freddy rangel, react redux d3 expert  $
-ng-nl 2017, https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw  
-playlist, js basics repetition freecodecamp, D:\_downloads\Beau teaches JavaScript - YouTube  
+
 angular 2 courseplanner with firebase, lars bilde, youtube playlist download  
-10 node projects youtube-list, https://www.youtube.com/playlist?list=PLNiY_2deiFonNh1IoXmQZVeCYQQHXlmnf  
+
 google progressive web apps course, https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN  
+
 progressive web apps course from google, D:\_downloads\Progressive Web Apps course - YouTube  
-learn angular with me, D:\_downloads\Learn Angular 2 With Me - YouTube  
+
 patrick schroeder mongoose, D:\_downloads\Mongoose JS Tutorial - YouTube  
 patrick schroeder, node scraping, D:\_downloads\Web Scraping with Node js - YouTube  
-devskiller.com, test your web knowledge  
-bootstrap 4 cheat sheet with snippets and preview,  https://hackerthemes.com/bootstrap-cheatsheet/  
+
 flexbox for forms, lynda james williams,D:\A10-projects\css\flexbox\lynda-building-responsive-forms-with-flexbox  
+
 bootstrap 4 tutorial, http://www.quackit.com/bootstrap/bootstrap_4/tutorial/bootstrap_containers.cfm  
+
 le wagon, technical workflow, "https://www.youtube.com/watch?v=iZkP9rcEJEM&index=7&list=PLkbmdtbypn7TwufH3veAJ6dweRvTw57tO"  
+
 git workflow with waffle, https://www.youtube.com/playlist?list=PLw5h0DiJ-9PCxol0Vc2506iRG1R-NhayS  
+
 le wagon , web 101 on yt, https://ondemand.lewagon.org/courses/web-101-266152e4-12f5-49a1-a9c9-3c59ea7a73f8?t=0  
+
 brian troncone, rxjs expert, https://github.com/btroncone/ngrx-store-localstorage.git  
-richard park, r-park, ngrx expert, https://github.com/r-park/soundcloud-ngrx.git  
+
 atoz css serie on sitepoint guy routeledge, https://www.sitepoint.com/tag/atoz-css/  
+
 rxjs 4 github book , https://xgrommx.github.io/rx-book/index.html  
-brandon roberts and mike ryan, ng2017, ngrx sample Google Book Search  
-codecraft.tv, asim hussain, https://codecraft.tv/courses/angular/es6-typescript/classinterface/  
-Paul Halliday Ionic Expert on Udemy  
-angular styles and animations  
+
 angular ionic firebase chat sample on yt, D:\_downloads\Chat app using Ionic 3 and Firebase - YouTube  
-angular ionic firebase chat sample on yt, D:\_downloads\Chat app using Ionic 3 and Firebase - YouTube  
-js write your own quiz, "https://www.sitepoint.com/simple-javascript-quiz/?utm_source=sitepoint&utm_medium=relatedsidebar&utm_term=html-css#demo"  
-js write your own quiz, "https://www.sitepoint.com/simple-javascript-quiz/?utm_source=sitepoint&utm_medium=relatedsidebar&utm_term=html-css#demo"  
+
+
 ionicacademy, https://ionicacademy.com/  
+
 learn ionic3 with firebase, paul halliday on udemy.com, https://www.udemy.com/learn-ionic-3-from-scratch/?couponCode=IONIC3MAY  
-packt map 100$ /year, https://mapt.io/  
+
 curran kelleher base yt list, Frontend Developer Intro,D:\_downloads\Frontend - Developer Intro - YouTube  
 curran kelleher bootcamp, C:\Users\Folio\web\bootcamps\curran-kelleher  
+lynda, electronics foundation 
+lynda, gpio fundamentals 
