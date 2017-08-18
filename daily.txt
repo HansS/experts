@@ -1832,3 +1832,35 @@ packt, raspberri pi fullstack, http://pcdownload.in/2017/08/16/packt-publishing-
 rspi, take a picture every 3min and upload, https://github.com/weworkweplay/raspeye-web 
 lynda, electronics foundation 
 lynda, gpio fundamentals 
+oreilly, arduino prototyping ble, http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
+infiniteskills, esp8266 iot, http://pcdownload.in/2016/09/02/infiniteskills-introduction-esp8266-iot-training/ 
+infiniteskills, wifi networking fundamentals, http://pcdownload.in/2015/12/17/infiniteskills-wireless-networking-fundamentals/ 
+
+Do 16.08.2017
+----------------------------------------------------------------------------------------------------------------------------------
+wireless networking fundamentals
+raspberri pi 3 fullstack
+angular material - sebastian eschweiler
+bootstrap 4 beta
+atoz sass sitepoint guy routeledge
+sayanee bas, iot talk
+udemy, app dev with docker, http://pcdownload.in/2017/03/15/udemy-learn-app-development-with-docker/ 
+udacity, http client server communication 
+ocw , iot course, https://ocw.cs.pub.ro/courses/iot 
+packt ,bootstrap 4, http://pcdownload.in/2017/07/27/packt-publishing-learning-bootstrap-4/ 
+whyliodrin.org, iot online ide 
+ionic calendar app, https://devdactic.com/ionic-calendar-app/ 
+
+Fr 17.08.2017
+----------------------------------------------------------------------------------------------------------------------------------
+deborah kurata, angular modules
+tracy lee, lady lee, angular material
+nic raboy, node alexa aws lambda
+alexa firebase functions
+alexa amazone voice system
+alexa temperature
+bluetooth thermostat
+wintellectnow, mastering node, eric green, http://pcdownload.in/2016/08/24/wintellectnow-mastering-node-js/ 
+lynda, css creating forms, http://pcdownload.in/2017/08/15/lynda-html-css-creating-forms/ 
+lynda, apache cross platform, http://pcdownload.in/2017/07/25/lynda-apache-cordova-building-cross-platform-mobile-apps/ 
+json to typescript interfaces online, https://transform.now.sh/json-to-ts-interface 

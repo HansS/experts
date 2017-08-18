@@ -243,3 +243,11 @@ livelessons, iot fundamentals, http://pcdownload.in/2017/06/25/livelessons-inter
 microsoft iot pack for raspberri pi swiss edition 125sfr, http://www.play-zone.ch/de/elektronik-kit-zubehoer/iot-internet-of-things/microsoft-iot-pack-for-raspberry-pi-3-swiss-edition.html 
 packt, raspberri pi fullstack, http://pcdownload.in/2017/08/16/packt-publishing-raspberry-pi-full-stack/ 
 lymda, raspberri pi media server, http://pcdownload.in/2016/06/10/lynda-build-raspberry-pi-media-server/ 
+oreilly, arduino prototyping ble, http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
+infiniteskills, esp8266 iot, http://pcdownload.in/2016/09/02/infiniteskills-introduction-esp8266-iot-training/ 
+infiniteskills, wifi networking fundamentals, http://pcdownload.in/2015/12/17/infiniteskills-wireless-networking-fundamentals/ 
+udemy, app dev with docker, http://pcdownload.in/2017/03/15/udemy-learn-app-development-with-docker/ 
+packt ,bootstrap 4, http://pcdownload.in/2017/07/27/packt-publishing-learning-bootstrap-4/ 
+wintellectnow, mastering node, eric green, http://pcdownload.in/2016/08/24/wintellectnow-mastering-node-js/ 
+lynda, css creating forms, http://pcdownload.in/2017/08/15/lynda-html-css-creating-forms/ 
+lynda, apache cross platform, http://pcdownload.in/2017/07/25/lynda-apache-cordova-building-cross-platform-mobile-apps/ 

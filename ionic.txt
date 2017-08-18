@@ -17,3 +17,4 @@ ionic schedule module, http://thebrockellis.com/2017/03/23/primeng-Schedule-In-I
 stackblitz.con , online editor for ionic, angular, react 
 ionic2-calendar control 
 stackblitz.com, vscode ionic angular online, 
+ionic calendar app, https://devdactic.com/ionic-calendar-app/ 

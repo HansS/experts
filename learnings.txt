@@ -63,3 +63,6 @@ curran kelleher base yt list, Frontend Developer Intro,D:\_downloads\Frontend - 
 curran kelleher bootcamp, C:\Users\Folio\web\bootcamps\curran-kelleher  
 lynda, electronics foundation 
 lynda, gpio fundamentals 
+udacity, http client server communication 
+ocw , iot course, https://ocw.cs.pub.ro/courses/iot 
+whyliodrin.org, iot online ide 
