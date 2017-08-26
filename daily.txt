@@ -1864,3 +1864,25 @@ wintellectnow, mastering node, eric green, http://pcdownload.in/2016/08/24/winte
 lynda, css creating forms, http://pcdownload.in/2017/08/15/lynda-html-css-creating-forms/ 
 lynda, apache cross platform, http://pcdownload.in/2017/07/25/lynda-apache-cordova-building-cross-platform-mobile-apps/ 
 json to typescript interfaces online, https://transform.now.sh/json-to-ts-interface 
+
+Sa 18.08.2017
+----------------------------------------------------------------------------------------------------------------------------------
+http protocol
+
+So 19.09.2017
+----------------------------------------------------------------------------------------------------------------------------------
+wlodrin, sensors and peripherals
+pluralsight, azure serverless
+packt, electroics basic, http://pcdownload.in/2017/08/18/packt-publishing-basic-electronics-for-arduino-makers/ 
+packt, functional programming, http://pcdownload.in/2017/08/17/packt-publishing-learning-path-javascript-learn-functional-programming-with-javascript/ 
+packt, ionic 2 soltions, http://pcdownload.in/2017/02/08/packt-publishing-ionic-2-solutions/ 
+
+Di 21.08.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+angular 2 interview questions
+udemy react fullstack
+
+Sa 26.08.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+oasis digital solutions, ngrx/store sample, tour of heroes in nrgx style
+ 

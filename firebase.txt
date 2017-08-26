@@ -59,22 +59,6 @@ coders project:
 </script>
 -----------------------------------------------------------------------------------------------------------------------------, learn ionic 3 ng firebase , https://www.udemy.com/learn-ionic-3-from-scratch/?couponCode=IONIC3MAY  
 
-blog app:
------------------------------------------------------------------------------------------------------------------------------
-
-<script src="https://www.gstatic.com/firebasejs/4.1.0/firebase.js"></script>
-<script>
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyC6OwRDfOje9lmVnRf-N3pjX2yi1sXSddg",
-    authDomain: "blog-2964e.firebaseapp.com",
-    databaseURL: "https://blog-2964e.firebaseio.com",
-    projectId: "blog-2964e",
-    storageBucket: "blog-2964e.appspot.com",
-    messagingSenderId: "782817102187"
-  };
-  firebase.initializeApp(config);
-</script>
 -------------------------------------------------------------------------------------------------------------------------------firebase db for posts, https://blog-2964e.firebaseio.com/  
 links app:
 
@@ -92,21 +76,6 @@ links app:
   firebase.initializeApp(config);
 </script>
 
-------------------------------------------------------------------------------------------
-activities app , stephen fluin , melbourne workshop
-<script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
-<script>
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyBC2NiAoY3pPelFs12Gvtfpe3WC4fQ3d4M",
-    authDomain: "activities-88ddc.firebaseapp.com",
-    databaseURL: "https://activities-88ddc.firebaseio.com",
-    projectId: "activities-88ddc",
-    storageBucket: "activities-88ddc.appspot.com",
-    messagingSenderId: "681444636913"
-  };
-  firebase.initializeApp(config);
-</script>
 ------------------------------------------------------------------------------
 chat app
 
@@ -124,20 +93,22 @@ chat app
   };
   firebase.initializeApp(config);
 </script>
-......................................................................................chris esplin, firebase expert, yt list, https://www.youtube.com/playlist?list=PLdssc-pDiZ7OD78kJVp4habTynj-Etwhm 
 
-angular reactive calendar , brecht billiet
 
-<script src="https://www.gstatic.com/firebasejs/4.2.0/firebase.js"></script>
+---------------------------------------------------------------------------------------------------------------------------------
+places
+
+<script src="https://www.gstatic.com/firebasejs/4.3.0/firebase.js"></script>
 <script>
   // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyClu7D7M_BEri0iCJM60DrfSet6p6e8Xzo",
-    authDomain: "calendar-d9661.firebaseapp.com",
-    databaseURL: "https://calendar-d9661.firebaseio.com",
-    projectId: "calendar-d9661",
+    apiKey: "AIzaSyDjfXnby-ySEnzeypaO0LkEdLhiVasceH0",
+    authDomain: "places-c1f00.firebaseapp.com",
+    databaseURL: "https://places-c1f00.firebaseio.com",
+    projectId: "places-c1f00",
     storageBucket: "",
-    messagingSenderId: "459545971400"
+    messagingSenderId: "187427377658"
   };
   firebase.initializeApp(config);
 </script>
+-----------------------------------------------------------------------------------------------------------------------------------
