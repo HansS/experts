@@ -37,3 +37,4 @@ github stephen fluin melbourne workshop sample
 rxjs mvc todo  
 , deep dive rxjs, tutsplus, D:\A10-projects\rxjs\Tutsplus-Rxjs-Deep-Dive  
 leran rx, "https://www.learnrxjs.io/?t=1&cn=ZmxleGlibGVfcmVjc18y&iid=104a88b96a07450e963753248c91ad18&uid=3654879376&nid=244+277352456"  
+brian troncone, rxjs expert, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\brian-troncone\learn-rxjs 

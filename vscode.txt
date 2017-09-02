@@ -1,5 +1,3 @@
-wade andersono, vscode expert 
-tobias kalhart 		,vscode presenter 
 
 ctrl-k,ctrl-c, 		***comment html  
 ctrl-k,ctrl-u, 		***uncomment html  
@@ -157,3 +155,6 @@ Ctrl+Shift+V		Toggle Markdown Preview	markdown.showPreview
 Ctrl+K V		Open Preview to the Side	markdown.showPreviewToSide
 Ctrl+`			Toggle Integrated Terminal	workbench.action.terminal.toggleTerminal
 shift-alt, arrowdown 	copy line  
+tony sneed, vscode expert 
+wade andersono, vscode expert 
+tobias kalhart 		,vscode presenter 

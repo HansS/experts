@@ -256,3 +256,5 @@ packt, functional programming, http://pcdownload.in/2017/08/17/packt-publishing-
 packt, ionic 2 soltions, http://pcdownload.in/2017/02/08/packt-publishing-ionic-2-solutions/ 
 udemy, node fullstack with react, http://pcdownload.in/2017/08/13/udemy-node-with-react-fullstack-web-development/ 
 lynda, learning angular 2 directives, http://pcdownload.in/2016/09/16/lynda-learning-angular-2-directives/ 
+redux, angular2, http://pcdownload.in/2017/03/21/pluralsight-using-redux-to-manage-state-in-angular-2/ 
+firebase starting, http://pcdownload.in/2017/08/06/stone-river-learning-starting-with-firebase/ 
