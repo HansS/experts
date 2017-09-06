@@ -258,3 +258,11 @@ udemy, node fullstack with react, http://pcdownload.in/2017/08/13/udemy-node-wit
 lynda, learning angular 2 directives, http://pcdownload.in/2016/09/16/lynda-learning-angular-2-directives/ 
 redux, angular2, http://pcdownload.in/2017/03/21/pluralsight-using-redux-to-manage-state-in-angular-2/ 
 firebase starting, http://pcdownload.in/2017/08/06/stone-river-learning-starting-with-firebase/ 
+node api dev, https://scanlibs.com/api-development/#download 
+packt, javascript by example,http://pcdownload.in/2017/09/03/packt-publishing-javascript-by-example/ 
+packt, writing better javascript, http://pcdownload.in/2017/08/22/packt-publishing-mastering-javascript-design-patterns-a-practical-introduction-to-building-better-applications/ 
+packt, advanced functional data structures, http://pcdownload.in/2017/08/19/packt-publishing-advanced-functional-data-structures-and-algorithms/
+packt, learn functional programming in Js, http://pcdownload.in/2017/08/17/packt-publishing-learning-path-javascript-learn-functional-programming-with-javascript/ 
+packt, mastering functional Js Libraries, http://pcdownload.in/2017/07/31/packt-publishing-mastering-functional-javascript-libraries/ 
+udemy, es6 course, http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tutorial/ 
+lynda, angular progressive web apps, "http://pcdownload.in/?s=angular&submit=Search" 

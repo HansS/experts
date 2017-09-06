@@ -7,3 +7,11 @@ progressive web apps course from google, D:\_downloads\Progressive Web Apps cour
 offline with service worker, http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/  
 service worker , http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/  
 google io2017, progressive web apps , alex rickabaugh, https://github.com/alxhub/io17.git  
+tool, lighthouse 
+tool, pwabuilder.com , build manifest.json from website url 
+pwa site, pwarocks.com 
+pwa samples, hnpwa , hacker news in pwa style 
+google developers youtube pwa tutorial, 
+google developer day europe 2017, day 2 stephen fluin 
+angular pwa tool, ng-pwa-tools 
+angular-cli.json, serviceWorker: true, only installed when: ng build --prod (install @angular/serviceworker) 
