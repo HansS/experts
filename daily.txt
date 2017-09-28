@@ -1893,3 +1893,47 @@ osi modell
 bluetooth
 networking
 livelessions, iot fundamentals
+`date` 
+`$(date)` 
+
+date 
+
+Mi 20.09.2017
+----------------------------------------------------------------------------------------------------------------------------------------
+
+22:00 Express to USZH Notfall, Nieren kollik, (Taxi von HB to USZH: 21chf)
+
+Do 21.09.2017
+----------------------------------------------------------------------------------------------------------------------------------------
+ date 
+$(date) 
+
+
+Isha Engineering ZH Intro, Peter Kaufmann, seefeld.---@gmail.com
+
+Fr 22.09.2017
+---------------------------------------------------------------------------------------------------------------------------------------
+sadhguru,  deepak chopra, the seven spiritual laws 
+deepak chopra, be a consciouse choice maker in every moment of your life 
+thich nath hanh, doing everything in the presence of god 
+thich nath hanh, mindfulness, present moment, compassion 
+In Buddhism, God is mindfulness and concentration. 
+Every single thing that takes place is exposed to the light of mindfulness and concentration, 
+and that energy of mindfulness and concentration is the essence of the Buddha. 
+Mindfulness and concentration always bring insight, and insight is the factor that liberates us from suffering, 
+because we are able to see the true nature of reality.
+firebase crud, angular firebase tutorial 
+silabs.com, iot comapany, 
+silabs react thunderboard, ble dev 
+philips lights, brack.ch philips 3 white lamps led 120chf 
+
+Mo 25.09.2017
+---------------------------------------------------------------------------------------------------------------------------------------
+gecko (low energy consumption) erf32, silicon labs, iot platform
+thunderboard react, slicon labs, Dev Board
+blesstags.com, ble app 8.50 windows store
+silabs.com, getting started with bluetooth
+mouser.ch, order thunderboard react 30.- delivery 20.-, total 50.50 chf
+day 02 shambhavi mudra 08.40 - 09:00
+sadhguru ralley for rivers
+s

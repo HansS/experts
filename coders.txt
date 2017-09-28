@@ -1,5 +1,4 @@
 ryan chenkie,  scotch.io 
-ryan chenkie 
 jecelyn-yeen-scotchio , C:\Users\Hans\Web\frontend\platform\js\frameworks\angular20\jecelyn-yeen-scotchio 
 manfred steyer ,angular 2, progressive web apps 
 seth davenport, rangleio 
@@ -8,7 +7,7 @@ juri strumpflohner, angular directives
 geko mingchev 
 oren farhi, angular 2 ngrx expert 
 nikas praninskas, angular 2 expert, youtube : the new angular router 
-dan wellman 
+dan wellman, css, react
 Bertrand Karerangabo 
 christopher noring, angular 2 expert , https://github.com/softchris/angular_meetup.git 
 jad joubran, progressive web apps expert,https://github.com/jadjoubran/ 
@@ -25,23 +24,25 @@ christian johansen, functional coder
 eric elliot , js expert 
 braithwidth, es6 functional programmer 
 sara robinson, firebase 
-michael herman,node js expert 
-michael herman,node express expert 
-oren farhi, angular2 expert, angular2 infinite scrolling 
-oren farhi, ngrx-store expert 
-@material/flex-layouts 
-nicholas kennedy rangle.io, react functional programmer,https://github.com/NicholasGWK/FunctionalJSDemo.git 
-intro to elm, nicholas kennedy, rangleio,https://github.com/NicholasGWK/IntroToElm.git 
+michael herman,node express expert , teacher
+nicholas kennedy, rangle.io, react functional programmer,https://github.com/NicholasGWK/FunctionalJSDemo.git 
 david barreto rangleio, angular 2 expert 
 aaron k saunders, angularfire2 
 wassim chegham , angular2 expert, https://github.com/manekinekko/google-interview-university 
 justin duJardin, material2 expert 
- justin meyer Javascript guru, frontendmasters jquery 
-assim hussainl, codecraftpro.com 
+justin meyer Javascript guru, frontendmasters jquery 
 asim hussain, javascript expert, codecraftpro.com 
 kyle cordes oasis digital , https://github.com/OasisDigital/angular2-firebase-demo.git 
 tarun sharma , angular 2 expert,https://github.com/tkssharma 
 https://www.omdbapi.com/, vidoe rest api 
-asim hussain, angular 2 expert 
 juri strumpflohner, angular 2 expert 
-christoffer noring, firebase expert 
+gil fink, typescript, angular animations,
+nir kaufman, angular expert, redux, ngrx
+sebastian eschweiler, angular material
+mosch hamedani, angular ionic
+tobias grimm, ionicacademy
+mosh morroni, ionic
+gorge vergarar, ionic
+don coleman, ionic cordova plugin for bluetooth low energy, make bluetooth book, wifi technology
+andreas , iot youtuber
+ 

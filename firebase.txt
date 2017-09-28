@@ -111,4 +111,23 @@ places
   };
   firebase.initializeApp(config);
 </script>
------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------firebase functions docs 
+firebase functions docs, https://firebase.google.com/docs/functions/ 
+
+course-planner + event-tutorial
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<script src="https://www.gstatic.com/firebasejs/4.3.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDN90gzkPQSs5nVMTEM889hQ1nUx6H4zBY",
+    authDomain: "course-planner-f00e4.firebaseapp.com",
+    databaseURL: "https://course-planner-f00e4.firebaseio.com",
+    projectId: "course-planner-f00e4",
+    storageBucket: "course-planner-f00e4.appspot.com",
+    messagingSenderId: "898613185230"
+  };
+  firebase.initializeApp(config);
+</script>
+-----------------------------------------------------------------------------------------------------------------------------------------

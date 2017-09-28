@@ -266,3 +266,18 @@ packt, learn functional programming in Js, http://pcdownload.in/2017/08/17/packt
 packt, mastering functional Js Libraries, http://pcdownload.in/2017/07/31/packt-publishing-mastering-functional-javascript-libraries/ 
 udemy, es6 course, http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tutorial/ 
 lynda, angular progressive web apps, "http://pcdownload.in/?s=angular&submit=Search" 
+udemy, angular master class, mosh hamedani, https://coderprog.com/complete-angular-master-class/ 
+tutsplus, css animations, http://pcdownload.in/2017/01/17/tutsplus-a-visual-guide-to-css-animation/ 
+lynda,svg animations, http://pcdownload.in/2017/06/09/lynda-advanced-svg-animation/ 
+pluralsight, css animations, http://pcdownload.in/2015/07/16/pluralsight-css-animation-with-transition-and-transform/ 
+pluralsight, angular 2 animations, http://pcdownload.in/2016/12/20/pluralsight-working-with-angular-2-animations/ 
+livelessons, iot fundamentals, http://pcdownload.in/2017/06/25/livelessons-internet-of-things-iot-fundamentals/ 
+infiniteskills, iot esp8266, http://pcdownload.in/2016/09/02/infiniteskills-introduction-esp8266-iot-training/ 
+lynda, ionic 3, http://pcdownload.in/2017/09/17/lynda-ionic-3-0-for-mobile-app-developers/ 
+ packt, ionic solutions, http://pcdownload.in/2017/02/08/packt-publishing-ionic-2-solutions/ 
+lynda, learning svg, http://pcdownload.in/2017/09/17/lynda-learning-svg/ 
+ deepak chopra, the seven spiritual laws, http://nitroflare.com/view/741ABCB4539F4E4/Deepak-Chopra-David-Simon-The-Seven-Spiritual-Laws-of-Yoga-A-Practical-Guide-to-Healing-Body-Mind-and-Spirit-2005.pdf 
+eduvance, iot courses, https://www.eduvance.in/ 
+firebase crud, angular firebase tutorial 
+pluralsight, angular firebase, duncan hunter 
+pluralsight, angular firebase, duncan hunter 

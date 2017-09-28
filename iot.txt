@@ -2,3 +2,4 @@ livelessons , fundamentals iot, http://pcdownload.in/2017/06/25/livelessons-inte
 pluralsight, node and iot, http://pcdownload.in/2015/06/25/pluralsight-node-js-and-the-internet-of-things-using-intel-edison/ 
 andreas spiess , iot esp8266 arduino wifi expert 
 whyliodrin.org, iot online ide 
+silabs react thunderboard, ble dev 
