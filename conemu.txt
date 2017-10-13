@@ -1,67 +1,99 @@
 files
 alias d=dir /p
+alias la= ls -al
 alias t= type $*
-
+alias cb=cd..
+alias cbb=cd.. && cd..
+ 
+cli search
+alias gt=grep '$*' *.txt
+ 
 vscode
 alias vc= code .
 alias vcr=code . -r
-
+ 
 set PATH=%ConEmuBaseDir%\Scripts;%PATH%
-
+ 
 daily
-alias cwd=cd c:\users\folio\dropbox\experts &&  td
-
+alias cwd=cd c:\users\folio\dropbox\experts &&  dir /p
+alias tp=notepad.exe daily.txt
+alias td=type daily.txt
+ 
+notepad
+alias np=notepad.exe $*
+ 
 web
 alias cwdo=cd c:\users\folio\dropbox\experts && notepad.exe daily.txt
-alias cwn= cd C:\Users\Folio\web\backend\node && dir
-
-frontend
-alias cws= cd c:\Users\Folio\web\frontend\css && dir
-alias cwsf= cd c:\Users\Folio\web\frontend\css\flexbox && dir
-alias cwj= cd c:\Users\Folio\web\frontend\javascript
-
-backend
-alias cwnd= cd c:\Users\Folio\web\backend\node && dir
-alias cwxp= cd c:\Users\Folio\web\backend\express && dir
-
-angular
-alias cwa= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular && dir
-alias cward= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-redux && dir
-alias cwarx= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-rxjs && dir
-alias cwph= cd C:\Users\Folio\web\frontend\module-bundlers\webpack\hans && dir
-alias cwh= cd c:\Users\Folio\web\frontend\html && dir
-
-mobile
-alias cwm= cd C:\Users\Folio\web\mobile && dir
-alias cwmh= cd C:\Users\Folio\web\mobile\hans && dir
-alias cwmi=cd  C:\Users\Folio\web\mobile\ionic && dir
-
-angular plus
-alias cwaf=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire && dir
-alias cwam=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-material && dir
-alias cwat=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-typescript && dir
-alias cwah=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans && dir
-alias cwarx=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-rxjs && dir
-alias cward=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-redux && dir
-
-alias cwfw=cd C:\Users\Folio\web\frontend\module-bundlers\webpack && dir
-
-angular-cli 
-alias ngso= ng serve -o
-alias ngn=ng new $* --routing --style scss && cd $* && code . && ng serve -o
-alias ngc=ng g c $*
-alias ngm=ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g c $*s\$*-new && ng g c $*s\$*-edit && ng g c $*s\$*-details  && ng g s $*s\$*
-alias ngs=ng g s $*
-alias ngp=ng g p $*
-alias nge=ng g e $*
-alias ngi=ng g i $*
-alias nio=npm install && ng serve -o
-alias ngcl=ng g class $*
+alias cwn= cd C:\Users\Folio\web\backend\node && dir /p
  
-alias td=type daily.txt
-alias np=notepad.exe $*
+frontend
+alias cws= cd c:\Users\Folio\web\frontend\css && dir /p
+alias cwsf= cd c:\Users\Folio\web\frontend\css\flexbox && dir /p
+alias cwj= cd c:\Users\Folio\web\frontend\javascript
+ 
+dir backend
+alias cwnd= cd c:\Users\Folio\web\backend\node && dir /p
+alias cwxp= cd c:\Users\Folio\web\backend\express && dir /p
+ 
+dir angular
+alias cwa= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular && dir /p
+alias cward= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-redux && dir /p
+alias cwarx= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-rxjs && dir /p
+alias cwph= cd C:\Users\Folio\web\frontend\module-bundlers\webpack\hans && dir /p
+alias cwh= cd c:\Users\Folio\web\frontend\html && dir /p
+ 
+dir mobile
+alias cwm= cd C:\Users\Folio\web\mobile && dir /p
+alias cwmh= cd C:\Users\Folio\web\mobile\hans && dir /p
+alias cwmi=cd  C:\Users\Folio\web\mobile\ionic && dir /p
+ 
+dir angular plus
+alias cwaf=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire && dir /p
+alias cwam=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-material && dir /p
+alias cwat=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-typescript && dir /p
+alias cwah=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans && dir /p
+alias cwarx=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-rxjs && dir /p
+alias cwang=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngRx && dir /p
+ 
+alias cward=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-redux && dir /p
+ 
+dir bundlers
+alias cwfw=cd C:\Users\Folio\web\frontend\module-bundlers\webpack && dir /p
+ 
+angular-cli 
+ 
+serve and open i brrowser
+alias ngo= ng serve -o
+ 
+new with routing and scss and serve it
+alias ngn=ng new $* --routing --style scss --prefix hs && cd $* && code . && ng serve -o
+ 
+component
+alias ngc=ng g c $*
+ 
+module with crud
+alias ngm=ng g c home && ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g c $*s\$*-add && ng g c $*s\$*-edit && ng g c $*s\$*-details  && ng g s $*s\$*
+ng 
+service
+alias ngs=ng g s $*
+class
+alias ngcl=ng g cl $*
+pipe
+alias ngp=ng g p $*
+enum
+alias nge=ng g e $*
+interface
+alias ngi=ng g i $*
+class
+alias ngcl=ng g cl $*
+ 
+install and serve open browser
+alias nio=npm install && ng serve -o
+ 
+ 
+http
 alias hso= hs -p 4444 -o
-
+ 
 npm
 alias ni=npm install
 alias ns=npm start
@@ -69,10 +101,10 @@ alias nis=npm install -S $*
 alias nid=npm install -D $*
 alias nist=npm install && npm start
 alias nio=npm install && ng serve -o
-
+ 
 yarn
 alias ya=yarn
-
+ 
 git
 alias gitgo=git add . && git commit -m "new stuff" && git push && git status
 alias gc=git clone $*
@@ -81,12 +113,19 @@ alias gp=git push -u
 alias np=notepad $*
 alias ga=git add .
 alias gs=git status
-
+ 
 ionic
-alias icrad=ionic cordova run android --device -l
-alias igc=ionic generate component $*
-alias igd=ionic generate directive $*
-alias igpa=ionic generate page $*
-alias igpi=ionic generate pipe $*
-alias igpro=ionic generate provider
-alias igta=ionic generate tabs
+alias ble=ionic cordova plugin add cordova-plugin-ble-central npm install --save @ionic-native/ble
+alias icrad=ionic cordova run android --device
+alias icradl=ionic cordova run android --device --livereload
+alias icpaa=ionic cordova platform add android
+ 
+alias igc=ionic g component $*
+alias igd=ionic g directive $*
+alias igpa=ionic g page $*
+alias igpi=ionic g pipe $*
+alias igpro=ionic g provider
+alias igta=ionic g tabs
+ 
+alias isl=ionic serve -l
+alias is= ionic serve

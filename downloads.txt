@@ -281,3 +281,9 @@ eduvance, iot courses, https://www.eduvance.in/
 firebase crud, angular firebase tutorial 
 pluralsight, angular firebase, duncan hunter 
 pluralsight, angular firebase, duncan hunter 
+lynda, bootstrap4 essentials, http://pcdownload.in/2017/03/31/lynda-bootstrap-4-essential-training/ 
+raspberri pi , https://avxhm.se/ebooks/naag10189.html 
+lynda, raspberri gpio, http://www.lansdalewebdesign.com/tutorials/684606-lynda-raspberry-pi-gpio-in-depth-tutorial-keiso.html 
+sharpbook.net, https://sharpbook.net/, 
+angular firebase, https://blog.realworldfullstack.io/real-world-app-part-12-cloud-functions-for-firebase-8359787e26f3 
+pluralsight, corey house building a js environment, http://pcdownload.in/2016/11/10/pluralsight-building-a-javascript-development-environment/ 

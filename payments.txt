@@ -1,13 +1,8 @@
-03-2017		ekz		  60 
-03-2017		radio		 103  
+frauenfeld	100
+sbb		165
+skating		100
+Arosa		 10
+engadiner	100
+sunrise		 80
 
-
-
-
-04-2017		radio		 103  
-
-
-
-
-
-05-2017		radio		 104  
+total		555
