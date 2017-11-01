@@ -1,0 +1,2 @@
+beacon tech, https://kontakt.io/beacon-basics/ibeacon-and-eddystone/ 
+google beacon platform, https://developers.google.com/beacons/ 
