@@ -5,3 +5,4 @@ philip ackermann , fraunhofer institut, ble expert,
 bluetooth.com 
 philips lights, brack.ch philips 3 white lamps led 120chf 
 eduvance.in , psoc cypress ble demo 
+bluetooth low energy developer center, https://www.bluetooth.com/develop-with-bluetooth 

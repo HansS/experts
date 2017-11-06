@@ -1,2 +1,11 @@
 google plus collections, https://plus.google.com/collections/ 
 nice photos , https://plus.google.com/+CharlotteMariaMoroni14  
+google awareness api 
+google location history, find in maps, settings 
+google places api 
+google proximity api 
+google nearby api 
+google codelabs 
+google beacon platform 
+google console, console.google.com 
+google beacon platform, https://developers.google.com/beacons/ 

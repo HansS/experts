@@ -2006,3 +2006,20 @@ Mi 01.11.2017
 -------------------------------------------------------------------------------------------------------------------------------
 cypress ble pioneer kit, 
 eduvance.in, cypress videos on cypress ble
+web on devices, http://www.webondevices.com/ 
+bluetooth low energy developer center, https://www.bluetooth.com/develop-with-bluetooth 
+mr beacon on youtube, https://www.youtube.com/watch?v=QIuCnpiUpCg 
+
+Fr 03.11.2017
+-------------------------------------------------------------------------------------------------------------------------------
+mr beacon on youtube, https://www.youtube.com/watch?v=QIuCnpiUpCg
+
+So 05.11.2017
+---------------------------------------------------------------------------------------------------------------------------------
+angularconnect 2017, 7./8.11.2017
+ionic sidemenu, menucontroller, rootPage
+flexbox + grid tutsplus.com
+
+Mo 06.11.2017
+---------------------------------------------------------------------------------------------------------------------------------
+ionic , course max schwarzmueller

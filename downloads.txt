@@ -289,3 +289,4 @@ angular firebase, https://blog.realworldfullstack.io/real-world-app-part-12-clou
 pluralsight, corey house building a js environment, http://pcdownload.in/2016/11/10/pluralsight-building-a-javascript-development-environment/ 
 arduino bluetooth, http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
 spark for data science, http://pcdownload.in/2017/09/30/packt-publishing-from-0-to-1-spark-for-data-science-with-python/ 
+torrent courses, https://www.freetutorials.us/ 
