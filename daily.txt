@@ -1957,3 +1957,24 @@ codepen.io, css sidebar
 
 https://www.w3schools.com/howto/howto_js_sidenav.asp
 
+Di 17.10.2010
+------------------------------------------------------------------------------------------------------------------------
+ionic mirko nasato
+graphics magic . commandline tool for grapics, gm help
+
+Mi 18.10.2017
+--------------------------------------------------------------------------------------------------------------------------
+ionic satish b
+ionic coursetro
+ionic josh moroni
+ionic oliver grimm, ionicacaademy
+ionic jorge vergara
+ionic paul halliday
+ionic dave fisher
+
+Do 19.10.2018
+--------------------------------------------------------------------------------------------------------------------------
+firestore, coursetro
+smart parking, show me the code, iot/parking
+ble-sensorswitch
+ble-sensorswitcch-smartphone du recorder
