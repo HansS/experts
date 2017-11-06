@@ -1957,6 +1957,29 @@ codepen.io, css sidebar
 
 https://www.w3schools.com/howto/howto_js_sidenav.asp
 
+<<<<<<< HEAD
+Di 17.10.2010
+------------------------------------------------------------------------------------------------------------------------
+ionic mirko nasato
+graphics magic . commandline tool for grapics, gm help
+
+Mi 18.10.2017
+--------------------------------------------------------------------------------------------------------------------------
+ionic satish b
+ionic coursetro
+ionic josh moroni
+ionic oliver grimm, ionicacaademy
+ionic jorge vergara
+ionic paul halliday
+ionic dave fisher
+
+Do 19.10.2018
+--------------------------------------------------------------------------------------------------------------------------
+firestore, coursetro
+smart parking, show me the code, iot/parking
+ble-sensorswitch
+ble-sensorswitcch-smartphone du recorder
+=======
 Fr 20.10.2017
 --------------------------------------------------------------------------------------------------------------------------
 ionic
@@ -2006,6 +2029,7 @@ Mi 01.11.2017
 -------------------------------------------------------------------------------------------------------------------------------
 cypress ble pioneer kit, 
 eduvance.in, cypress videos on cypress ble
+<<<<<<< HEAD
 web on devices, http://www.webondevices.com/ 
 bluetooth low energy developer center, https://www.bluetooth.com/develop-with-bluetooth 
 mr beacon on youtube, https://www.youtube.com/watch?v=QIuCnpiUpCg 

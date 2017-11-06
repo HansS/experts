@@ -19,3 +19,105 @@ ionic2-calendar control
 stackblitz.com, vscode ionic angular online, 
 ionic calendar app, https://devdactic.com/ionic-calendar-app/ 
 ionic blog, alligator.io, https://alligator.io/ionic/storage-ionic/ 
+
+utilitiy classes
+------------------------------------------------------------
+text
+--------------------
+
+spacing
+--------------------
+padding, 
+
+ionic button
+---------------------------------------------------------------------------------------------------
+ion-button , color="primary", outline, clear, block, full, round,
+
+
+
+
+ion-icon
+------------------------------
+icon-left, icon-right
+
+
+ion-list (separate line at top and buttom and padding around contenet)
+--------------------------------
+no-lines, inset, 
+
+ion-item-group
+--------------------------------------------------------
+ion-item-divider
+
+
+ion-list-header
+-------------------------------------------------------
+
+
+
+ion-grid
+--------------------------------------------------------------------------------------------
+
+
+ion-row
+-------------------------------------------------------------------------------------------------
+
+
+ion-col
+----------------------------------------------------------------------------------------------------
+width-30. width-70,  offset-20
+
+ion-item
+----------------------------------------------------------------------------------------------------
+button ion-item, icon="trash" , start, end, item-left, item-rights
+
+ion-avatar 
+-----------------------------
+
+
+gestures
+------------------------------------------------------------------------------------------------
+tap (like click), press(press more than a sec), pinch
+
+
+
+ion-slides pager (ionSlideDidChange) = "slideChanged()"
+
+
+ion-slide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
