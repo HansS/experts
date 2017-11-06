@@ -287,3 +287,5 @@ lynda, raspberri gpio, http://www.lansdalewebdesign.com/tutorials/684606-lynda-r
 sharpbook.net, https://sharpbook.net/, 
 angular firebase, https://blog.realworldfullstack.io/real-world-app-part-12-cloud-functions-for-firebase-8359787e26f3 
 pluralsight, corey house building a js environment, http://pcdownload.in/2016/11/10/pluralsight-building-a-javascript-development-environment/ 
+arduino bluetooth, http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
+spark for data science, http://pcdownload.in/2017/09/30/packt-publishing-from-0-to-1-spark-for-data-science-with-python/ 

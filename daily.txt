@@ -1957,6 +1957,7 @@ codepen.io, css sidebar
 
 https://www.w3schools.com/howto/howto_js_sidenav.asp
 
+<<<<<<< HEAD
 Di 17.10.2010
 ------------------------------------------------------------------------------------------------------------------------
 ionic mirko nasato
@@ -1978,3 +1979,54 @@ firestore, coursetro
 smart parking, show me the code, iot/parking
 ble-sensorswitch
 ble-sensorswitcch-smartphone du recorder
+=======
+Fr 20.10.2017
+--------------------------------------------------------------------------------------------------------------------------
+ionic
+firestore
+microsoft iot virtual bootcampiot maker, mickmake on yt, http://www.mickmake.com/ 
+iot ble, https://mbientlab.com/ 
+beacon tech, https://kontakt.io/beacon-basics/ibeacon-and-eddystone/ 
+
+Mo 23.10.2017
+----------------------------------------------------------------------------------------------------------------------------
+Beat Breu Geburtstag
+IonicPage for deep linking
+josh moroni subscription? 179$ - advanced ionic?
+ionic doctor ???ionic blog, alligator.io, https://alligator.io/ionic/storage-ionic/ 
+
+Di 24.10.2017
+------------------------------------------------------------------------------------------------------------------------------
+ionic creator, good for prototyping but not more
+oasis ngrx , chris, lance , Tour of Heroes beyond with ngRx
+
+Mi 25.10.2017
+--------------------------------------------------------------------------------------------------------------------------------
+ngAir - Angular schematics mike brocchi, 
+nrwl nx , angular schematics for angular monorepo
+ionic sliding listitem
+ionic fab button
+ionic alert controller
+make a personal learning protocol where you note your learnings
+google notes app
+
+Do 26.10.2017
+--------------------------------------------------------------------------------------------------------------------------------
+google training programs -> certifications,https://developers.google.com/training/web/
+google mobile developer
+google conference ukraine , pwa , firebase angular
+arduino bluetooth, http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
+google beacon platform, https://developers.google.com/beacons/ 
+
+Di 31.10.2017
+---------------------------------------------------------------------------------------------------
+google beacon platform, https://developers.google.com/beacons/
+google beacons depend on google nearby interface
+google beacons and proximity api
+google location history
+
+Mi 01.11.2017
+-------------------------------------------------------------------------------------------------------------------------------
+cypress ble pioneer kit, 
+eduvance.in, cypress videos on cypress ble
+>>>>>>> a90c324e8b42f9bcc339954d58f09346d950b772

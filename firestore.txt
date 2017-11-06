@@ -1,0 +1,7 @@
+collection has documents 
+offline sync 
+paul halliday video on firestore 
+david easet videos 
+state update, a single field value subscription, 
+firestore fits into the world of progressive web apps 
+angularfire v5 for firestore 

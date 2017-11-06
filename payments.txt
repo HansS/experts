@@ -1,17 +1,1 @@
-frauenfeld	100
-sbb		165
-skating		100
-Arosa		 10
-mastercard	100
-sunrise		 80
-
-total		555
-
-engadiner	100
-jugi pontresina	600
-
-monthly:
-angular-fireb	 20
-ionic-acad	 25
-lynda            25
 
