@@ -290,3 +290,6 @@ pluralsight, corey house building a js environment, http://pcdownload.in/2016/11
 arduino bluetooth, http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
 spark for data science, http://pcdownload.in/2017/09/30/packt-publishing-from-0-to-1-spark-for-data-science-with-python/ 
 torrent courses, https://www.freetutorials.us/ 
+functional js, http://pcdownload.in/2017/08/17/packt-publishing-learning-path-javascript-learn-functional-programming-with-javascript/ 
+lynda, angular pwa 2017, http://pcdownload.in/2017/09/05/lynda-angular-progressive-web-apps/ 
+packt, reactive programming, http://pcdownload.in/2017/03/31/packt-publishing-reactive-javascript-programming/ 

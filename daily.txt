@@ -2047,3 +2047,10 @@ flexbox + grid tutsplus.com
 Mo 06.11.2017
 ---------------------------------------------------------------------------------------------------------------------------------
 ionic , course max schwarzmueller
+
+Di 07.11.2017
+-----------------------------------------------------------------------------------------------------------------------------------
+codingwithstyle.info, rx, angular , firebase, functional programmer
+contentful.com , cms for angular 
+webhook.io, serverless 
+webhook.io, serverless 

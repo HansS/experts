@@ -86,3 +86,4 @@ ngrx or redux ng formcontrol freaks, D:\_downloads
 responsive layout in angular, https://github.com/blove/angular-reactive-authentication.git  
 universal-cli, ung new myapp --universal 
 ng cli, angular universal support, https://github.com/angular/angular-cli/wiki/stories-universal-rendering 
+contentful.com , cms for angular 
