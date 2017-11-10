@@ -16,3 +16,5 @@ google developer day europe 2017, day 2 stephen fluin
 angular pwa tool, ng-pwa-tools 
 angular-cli.json, serviceWorker: true, only installed when: ng build --prod (install @angular/serviceworker) 
 maxim salnikov, https://github.com/webmaxru/pwatter.git, 
+microsoft pwa builder, http://manifoldjs.com/generator 
+lynda pwa 2017, D:\A10-projects\angular\Progessive-Web-Apps-Lynda 

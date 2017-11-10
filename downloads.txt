@@ -293,3 +293,5 @@ torrent courses, https://www.freetutorials.us/
 functional js, http://pcdownload.in/2017/08/17/packt-publishing-learning-path-javascript-learn-functional-programming-with-javascript/ 
 lynda, angular pwa 2017, http://pcdownload.in/2017/09/05/lynda-angular-progressive-web-apps/ 
 packt, reactive programming, http://pcdownload.in/2017/03/31/packt-publishing-reactive-javascript-programming/ 
+indexedb for html offline apps, http://pcdownload.in/2017/04/25/pluralsight-creating-offline-first-mobile-apps-with-html5/ 
+pluralsight, offline with service worker 2017, http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/ 

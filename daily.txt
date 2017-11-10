@@ -2055,3 +2055,24 @@ contentful.com , cms for angular
 webhook.io, serverless 
 webhook.io, serverless 
 maxim salnikov, https://github.com/webmaxru/pwatter.git, 
+
+Do 09.11.2017
+-------------------------------------------------------------------------------------------------------------------------------
+victor savkin, ngrx talk connect 2017, nx tool
+pouchdb, for ionic synch with couchdb
+nolan lawson , pouchdb expert
+sani yusuf, ionic pouchdb, connect 2017
+ionic storage, uses indexeddb as storage for ionic
+microsoft pwa builder, http://manifoldjs.com/generator 
+lynda pwa 2017, D:\A10-projects\angular\Progessive-Web-Apps-Lynda 
+
+Fr 10.11.2017
+-----------------------------------------------------------------------------------------------------------------------------
+gil fink , indexedDB for Angular Library
+indexedDB, dexie.js, localstorage, sessionstorage, cookiesindexedb for html offline apps, http://pcdownload.in/2017/04/25/pluralsight-creating-offline-first-mobile-apps-with-html5/ 
+pluralsight, offline with service worker 2017, http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/ 
+udemy offline firse jake archibald, https://classroom.udacity.com/courses/ud899/lessons/6381510081/concepts/63885494270923 
+udemy offline labs, C:\Users\Folio\web\offline\udacity-offline-jake-archibald\wittr 
+ionic storage, gil fink indexedDB-angular2 library 
+indexeddb, offline local db, 
+pouchdb indexeddb adapter db 
