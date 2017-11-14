@@ -3,3 +3,5 @@ bowden kelly, typescript team, https://github.com/bowdenk7/sf-meetup-demos.git
 james churchill, typescript expert 
 doris chen, microsoft typescript, https://github.com/doristchen/teaching-materials.git 
 typescript definition files writing tool install, typescript core team member  
+typescript expert, marius schulz, egghead course, https://blog.mariusschulz.com/archive 
+basarat, typescript expert 

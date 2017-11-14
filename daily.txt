@@ -2076,3 +2076,37 @@ udemy offline labs, C:\Users\Folio\web\offline\udacity-offline-jake-archibald\wi
 ionic storage, gil fink indexedDB-angular2 library 
 indexeddb, offline local db, 
 pouchdb indexeddb adapter db 
+webhooks, learn how to do webhooks 
+web sockets, learn how to code web sockets 
+ionic 3 yt list of paul halliday, D:\_downloads\Ionic 3 - YouTube 
+android essentials, android smart phone user 
+angular dev book yakov fain, https://www.manning.com/cart 
+
+Sa 11.11.2017
+-----------------------------------------------------------------------------------------------------------------------------------------
+angular, yakov fain
+typescript expert, marius schulz, egghead course, https://blog.mariusschulz.com/archive 
+basarat, typescript expert 
+
+So 12.11.2017
+--------------------------------------------------------------------------------------------------------------------------------------------
+typescript functional, remo h jansen
+C:\Users\Folio\web\frontend\typescript-functional\typescript-functional-programming
+
+Mo 13.11.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+gisto, tool to save your snippets in the cloud
+angular core concepts, ameghani
+ionic tobias
+lynda, angular crud, firebase, http://pcdownload.in/2017/10/16/lynda-angular-2-creating-crud-apps/
+lynda, angular ecosystem
+lynda, react nativelynda, develop cordova apps, http://pcdownload.in/2017/10/12/lynda-developing-cordova-apps-with-visual-studio-code-and-typescript/ 
+lynda, vanilla js apps, http://pcdownload.in/2017/10/11/lynda-learning-app-building-with-vanilla-javascript/ 
+sacha vodnik, js without libraries, https://sashavodnik.com/2017/05/01/the-ins-and-outs-of-fetch/#more-336 
+
+Di 14.11.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+ionic expert, alex muramoto, ionic max schw 
+udemy, pranayama 
+zuel-super 
+zuel requirements 
