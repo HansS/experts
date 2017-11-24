@@ -2110,3 +2110,66 @@ ionic expert, alex muramoto, ionic max schw
 udemy, pranayama 
 zuel-super 
 zuel requirements 
+
+Do 16.11.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+yogi in the himalayas
+pascal precht service workers
+js es6, http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tutorial/
+swisscom smart home
+swisscom mystrom app, zeitschaltung!!
+swisscom developer account gian.schenker@gmail.com
+swisscom smart messaging
+swisscom cloudfoundrya
+makerfaire fondue, werner urech, netzwerk support, zürich, kreis 3
+pascal precht , service worker api, angular service worker
+josh moroni , observables in ionic
+sunrise neues handy, samsung s8, neues internet, glasfaser, sunrise tv , cablecom abbestellen (ca 30.- nebenkosten)
+pluralsight, cloud foundry,https://avxhm.se/ebooks/CloudFoundryforDevelopers.html 
+css circular range sample, https://codepen.io/long-lazuli/pen/NPEPyM 
+
+Fr 17.11.2017
+------------------------------------------------------------------------------------------------------------------------
+ionic electron pluralsight
+
+Sa 18.11.2017
+------------------------------------------------------------------------------------------------------------------------
+boost your dopaminlevel
+dopamin food, exercise, goal setting and achieving
+simplekundaliniyoga
+
+Mo 20.11.2017
+--------------------------------------------------------------------------------------------------------------------------
+cypress psoc6 BLE Pioneer kit, 89.-
+community.cypress.com
+cypress.com/psoc6
+psoc6 tutorial yt videos download
+zuel-01, slides for sensorplan
+new pages for sensorplan-edit, sensorplan-daily, sensorplan-weekly
+
+Mi 22.11.2017
+---------------------------------------------------------------------------------------------------------------------------
+stephen fluin, advanced angular, ngair, sample github advanced-angular
+ble-ui, sunset table, https://www.timeanddate.com/sun/switzerland/zurich?month=1&year=2017
+ble-ui, from sensorpan to weekplan 
+ngAir, stephen fluin, advanced angular, lazy loading, routes with data, preloading strategy, rxjs letable operator, rxjs pipe operator
+sensor
+  weekplan
+    offset
+    days
+      dayplans
+beacon, eddystone url, eddystone uuid
+psoc6 ble sensor kit, cypress
+rxjs, shmuela jacobs
+nggirls, shmuela jacobs
+
+swipeable tabs, C:\Users\Folio\web\mobile\ionic\swipedTabs-ionic3\ 
+tutsplus, rxjs deep dive, http://pcdownload.in/2017/02/02/tutsplus-deep-dive-into-reactive-programming-with-rxjs/ 
+
+Fr 24.11.2017
+--------------------------------------------------------------------------------------------------------------------------------------
+rxjs, venkat subramaniam, ndc 2017
+rxjs 5.5 ben lesh new operators,
+rxjs yt video tracy lee, 
+tutsplus, rxjs deep dive download
+wassim chegham, bluetooth for angular, https://github.com/manekinekko/angular-web-bluetooth-starter 

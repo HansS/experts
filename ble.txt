@@ -13,3 +13,4 @@ bluetooth low energy developer center, https://www.bluetooth.com/develop-with-bl
 =======
 >>>>>>> a90c324e8b42f9bcc339954d58f09346d950b772
 >>>>>>> d3c5fc71d3e66eebc499f4216d85b3966cf02226
+wassim chegham, bluetooth for angular, https://github.com/manekinekko/angular-web-bluetooth-starter 

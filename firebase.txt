@@ -148,3 +148,22 @@ esm-pix
   };
   firebase.initializeApp(config);
 </script>
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+sensor-switch
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCbgq5fuOr1gIvHxQaui7Zgg4uJquN2OMQ",
+    authDomain: "sensor-switch.firebaseapp.com",
+    databaseURL: "https://sensor-switch.firebaseio.com",
+    projectId: "sensor-switch",
+    storageBucket: "",
+    messagingSenderId: "45683801020"
+  };
+  firebase.initializeApp(config);
+</script>
+-----------------------------------------------------------------------------------------------------------------------------------

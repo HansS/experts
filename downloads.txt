@@ -300,3 +300,8 @@ lynda, develop cordova apps, http://pcdownload.in/2017/10/12/lynda-developing-co
 lynda, vanilla js apps, http://pcdownload.in/2017/10/11/lynda-learning-app-building-with-vanilla-javascript/ 
 sacha vodnik, js without libraries, https://sashavodnik.com/2017/05/01/the-ins-and-outs-of-fetch/#more-336 
 lynda, js without libraries, http://pcdownload.in/2017/10/11/lynda-learning-app-building-with-vanilla-javascript/ 
+udemy , js es6, http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tutorial/ 
+pluralsight, cloud foundry,https://avxhm.se/ebooks/CloudFoundryforDevelopers.html 
+openstack, https://avxhm.se/ebooks/naag13004.html 
+pluralsight , ionic electron, http://pcdownload.in/2017/08/05/pluralsight-creating-cross-platform-apps-with-ionic-and-electron/ 
+tutsplus, rxjs deep dive, http://pcdownload.in/2017/02/02/tutsplus-deep-dive-into-reactive-programming-with-rxjs/ 
