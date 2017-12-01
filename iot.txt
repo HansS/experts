@@ -5,3 +5,7 @@ whyliodrin.org, iot online ide
 silabs react thunderboard, ble dev 
 iot ble, https://mbientlab.com/ 
 web on devices, http://www.webondevices.com/ 
+gordon williams, puck.js creator, https://github.com/gfwilliams?tab=repositories 
+espruino workshop, gordon williams, puck.js creator,  https://github.com/gfwilliams/EspruinoScreenWorkshop/blob/master/workshop.md 
+webtech vidoes, https://pusher.com/sessions 
+webtech vidoes, https://pusher.com/sessions 

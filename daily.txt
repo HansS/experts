@@ -2173,3 +2173,44 @@ rxjs 5.5 ben lesh new operators,
 rxjs yt video tracy lee, 
 tutsplus, rxjs deep dive download
 wassim chegham, bluetooth for angular, https://github.com/manekinekko/angular-web-bluetooth-starter 
+sonnenaufgang sonnenuntergang daten fÅr zÅrich, http://www.sonnenuntergang-sonnenaufgang.info/zuerich 
+
+Sa 25.11.2017
+----------------------------------------------------------------------------------------------------------------------------------------
+jesse phelps, ndc oslo 2017, reverse engineer light bulb with wireshark, yt ndc oslo 2017
+intel xdk
+node bleno
+android, Dev Options, Bluetooth HCI Snoopgordon williams, puck.js creator, https://github.com/gfwilliams?tab=repositories 
+espruino workshop, gordon williams, puck.js creator,  https://github.com/gfwilliams/EspruinoScreenWorkshop/blob/master/workshop.md 
+webtech vidoes, https://pusher.com/sessions 
+google get started with web bluetooth, https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web 
+google interact wiht ble device on web, https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web 
+
+So 26.11.2017
+--------------------------------------------------------------------------------------------------------------------------------------
+pho nguyen, ngrx coder, https://github.com/vanpho93?page=2&tab=repositoriespho nguyen, ngrx video, https://www.youtube.com/watch?v=eQTrEwJ23-g 
+raja yogan, ionic , rx , angular, ytber, https://www.youtube.com/watch?v=IXC25DE-aK4 
+
+Mi 29.11.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+ngrx vidoe, australian guy with notes sample
+
+Do 30.11.2017
+------------------------------------------------------------------------------------------------------------------------------------
+pluralsight, duncan hunter, building apps with angularfire2, http://pcdownload.in/2017/09/13/pluralsight-building-apps-with-angularfire-2/
+pluralsight, deborah kurata, angular reactive forms, http://pcdownload.in/2017/01/12/pluralsight-angular-2-reactive-forms/ 
+
+Fr 01.12.2017
+------------------------------------------------------------------------------------------------------------------------------------------
+pluralsight, duncan hunter, play by play ngrx
+pluralsight , duncan hunter, angularfire2
+
+pluralsight , deborah kurata, reactive forms code,c:\Users\Folio\web\frontend\javascript\frameworks\angular\deborah-kurata\Angular2-ReactiveForms
+pluralsight , deborah kurata, reactive forms videos,D:\A10-projects\angular\Deborah-Kuratha\Deborah-Kuratha-Reactive-Forms\Angular 2 - Reactive Forms
+
+scotch.io, reactive forms code, c:\Users\Folio\web\frontend\javascript\frameworks\angular\scotch.io\angular2-forms-course
+scotch.io, reactive forms videos, D:\A10-projects\angular\Scotchio-Reactive-Forms tomas trajan, ngrx material template, github.com/tomastrajan 
+frontendmasters, kyle simpson , free videos, 4.12.2017 
+anmeldung engadiner skimarathon, 100.- 
+sunrise, glasfaser anschluss und sunrise smarat tv is working at 11:30!!! 
+ayurveda.com, vasant lad, spiritual healinng through meditation 

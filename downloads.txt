@@ -305,3 +305,6 @@ pluralsight, cloud foundry,https://avxhm.se/ebooks/CloudFoundryforDevelopers.htm
 openstack, https://avxhm.se/ebooks/naag13004.html 
 pluralsight , ionic electron, http://pcdownload.in/2017/08/05/pluralsight-creating-cross-platform-apps-with-ionic-and-electron/ 
 tutsplus, rxjs deep dive, http://pcdownload.in/2017/02/02/tutsplus-deep-dive-into-reactive-programming-with-rxjs/ 
+pluralsight, duncan hunter, building apps with angularfire2, http://pcdownload.in/2017/09/13/pluralsight-building-apps-with-angularfire-2/
+pluralsight, deborah kurata, angular reactive forms, http://pcdownload.in/2017/01/12/pluralsight-angular-2-reactive-forms/ 
+lynda, ionic angularfire, http://pcdownload.in/2017/02/14/lynda-ionic-2-and-angularfire2-building-mobile-apps/ 
