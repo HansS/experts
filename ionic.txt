@@ -124,3 +124,4 @@ ion-slide
 ionic 3 yt list of paul halliday, D:\_downloads\Ionic 3 - YouTube 
 swipeable tabs, C:\Users\Folio\web\mobile\ionic\swipedTabs-ionic3\ 
 raja yogan, ionic , rx , angular, ytber, https://www.youtube.com/watch?v=IXC25DE-aK4 
+mastering ionic book, james griffiths, http://masteringionic.com/ 

@@ -308,3 +308,32 @@ tutsplus, rxjs deep dive, http://pcdownload.in/2017/02/02/tutsplus-deep-dive-int
 pluralsight, duncan hunter, building apps with angularfire2, http://pcdownload.in/2017/09/13/pluralsight-building-apps-with-angularfire-2/
 pluralsight, deborah kurata, angular reactive forms, http://pcdownload.in/2017/01/12/pluralsight-angular-2-reactive-forms/ 
 lynda, ionic angularfire, http://pcdownload.in/2017/02/14/lynda-ionic-2-and-angularfire2-building-mobile-apps/ 
+wintellectnow, javascript closures, http://pcdownload.in/2017/09/28/wintellectnow-closures-in-javascript/ 
+wintellecctnow, getting started with typescript, http://pcdownload.in/2017/10/16/wintellectnow-getting-started-with-typescript/ 
+wintellectnow, asynchronous javascript, http://pcdownload.in/2017/09/28/wintellectnow-asynchronous-programming-in-javascript/ 
+wintellectnow, generators and iterators in js, http://pcdownload.in/2017/09/10/wintellectnow-symbols-generators-and-iterators-in-javascript/ 
+wintellectnow, intro to spark, http://pcdownload.in/2017/09/10/wintellectnow-introduction-to-spark/ 
+wintellectnow, javascript in the future, http://pcdownload.in/2017/09/02/wintellectnow-javascript-the-future/ 
+wintellectnow, arrays 01, http://pcdownload.in/2017/09/02/wintellectnow-arrays-in-javascript-part-1/ 
+wintellectnow, arrays 02, http://pcdownload.in/2017/09/02/wintellectnow-arrays-in-javascript-part-2/ 
+wintellectnow, js objects 02, http://pcdownload.in/2017/08/28/wintellectnow-objects-in-javascript-part-2/ 
+wintellectnow, js objects 01, http://pcdownload.in/2017/08/28/wintellectnow-objects-in-javascript-part-1/ 
+wintellectnow, js functions, http://pcdownload.in/2017/08/16/wintellectnow-functions-in-javascript/ 
+wintellectnow, angular reactive forms, http://pcdownload.in/2017/03/15/wintellectnow-mastering-angular-part-4-reactive-forms/ 
+livelessons, iot foundation, http://pcdownload.in/2017/06/25/livelessons-internet-of-things-iot-fundamentals/ 
+pluralsight, programming embedded systems, http://pcdownload.in/2017/11/29/pluralsight-embedded-systems-programming-getting-started/ 
+pluralsight, intel edison node, http://pcdownload.in/2015/06/25/pluralsight-node-js-and-the-internet-of-things-using-intel-edison/ 
+intro to embedded systems, https://avxhm.se/ebooks/1608454983.html 
+embedded systems programming arm-core, https://avxhm.se/ebooks/naag13316.html 
+lynda, raspberri pi 3 gpi io, http://pcdownload.in/2016/05/13/lynda-raspberry-pi-gpio-depth/ 
+lynda, semicconductor devices, http://pcdownload.in/2017/09/08/lynda-electronics-foundations-semiconductor-devices/ 
+lynda, windows 10 iot installation, http://pcdownload.in/2017/03/20/lynda-iot-development-with-windows-10-iot-core-1-installation-and-basic-connection/ 
+lynda, vuejs, http://pcdownload.in/2017/10/11/lynda-vue-js-building-an-interface/ 
+pluralsight, vuejs, http://pcdownload.in/2017/10/11/lynda-vue-js-building-an-interface/ 
+oreilly, electronics cookbook, http://pcdownload.in/2017/12/06/oreilly-electronics-cookbook/ 
+packt, electronics workbench, http://pcdownload.in/2017/08/21/packt-publishing-the-electronics-workbench-a-setup-guide/ 
+packt, electronics for arduino makers 
+lynda, learning webpack 3, http://pcdownload.in/2017/12/04/lynda-learning-webpack-3/ 
+udemy, js es6, http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tutorial/ 
+packt es6 functional, http://pcdownload.in/2017/08/17/packt-publishing-learning-path-javascript-learn-functional-programming-with-javascript/ 
+es6 and beyond, http://pcdownload.in/2017/12/11/packt-publishing-ecmascript-2016-and-beyond/ 

@@ -2214,3 +2214,99 @@ frontendmasters, kyle simpson , free videos, 4.12.2017
 anmeldung engadiner skimarathon, 100.- 
 sunrise, glasfaser anschluss und sunrise smarat tv is working at 11:30!!! 
 ayurveda.com, vasant lad, spiritual healinng through meditation 
+
+Sa 02.12.2017
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+eric green, angular 5 trainingwintellectnow, javascript closures, http://pcdownload.in/2017/09/28/wintellectnow-closures-in-javascript/ 
+wintellecctnow, getting started with typescript, http://pcdownload.in/2017/10/16/wintellectnow-getting-started-with-typescript/ 
+wintellectnow, asynchronous javascript, http://pcdownload.in/2017/09/28/wintellectnow-asynchronous-programming-in-javascript/ 
+wintellectnow, generators and iterators in js, http://pcdownload.in/2017/09/10/wintellectnow-symbols-generators-and-iterators-in-javascript/ 
+wintellectnow, intro to spark, http://pcdownload.in/2017/09/10/wintellectnow-introduction-to-spark/ 
+wintellectnow, javascript in the future, http://pcdownload.in/2017/09/02/wintellectnow-javascript-the-future/ 
+wintellectnow, arrays 01, http://pcdownload.in/2017/09/02/wintellectnow-arrays-in-javascript-part-1/ 
+wintellectnow, arrays 02, http://pcdownload.in/2017/09/02/wintellectnow-arrays-in-javascript-part-2/ 
+wintellectnow, js objects 02, http://pcdownload.in/2017/08/28/wintellectnow-objects-in-javascript-part-2/ 
+wintellectnow, js functions, http://pcdownload.in/2017/08/16/wintellectnow-functions-in-javascript/ 
+wintellectnow, angular reactive forms, http://pcdownload.in/2017/03/15/wintellectnow-mastering-angular-part-4-reactive-forms/ 
+angular conference in polen 2017, https://www.youtube.com/channel/UC55UiwMH_7PVcKrkriXSHuw/videos 
+livelessons, iot foundation, http://pcdownload.in/2017/06/25/livelessons-internet-of-things-iot-fundamentals/ 
+
+So 03.12.2017
+-----------------------------------------------------------------------------------------------------------------------------------------------
+peter hooddie, kinoma, iot expert, javascript on iot,
+oreilly book, javascript programming iot
+
+Mo 04.12.2017
+-----------------------------------------------------------------------------------------------------------------------------------------------
+reactive forms , eric greene
+
+
+Mi 06.12.2017
+---------------------------------------------------------------------------------------------------------------------------------------------
+eric green js objects, arrays, asynch
+victor savkin AngularConnect 2017 video upload
+ultimateangular, ngrx course
+
+Do 07.12.2017
+-----------------------------------------------------------------------------------------------------------------------------------------------
+rxjs 55 pipe operator -> create custom operator and feed it into pipe operator
+every observable has pipe operator
+new way of importing operators
+angularconntect 2017
+
+
+Fr 08.12.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+windows blueetooth
+pair puckjs with with windows
+espruino ide desktop pair but connection fails
+rxjs todd motto
+
+
+So 10.12.2017
+-------------------------------------------------------------------------------------------------------------------------------------------
+Web Conference Diagram, https://vogloblinsky.github.io/web-development-conferences/timeline
+Tomasz Ciecierski rxjs expert 
+pluralsight, intel edison node, http://pcdownload.in/2015/06/25/pluralsight-node-js-and-the-internet-of-things-using-intel-edison/ 
+
+Di 12.12.2017
+-------------------------------------------------------------------------------------------------------------------------------------
+introduction to embeddes systems programming
+google-iot mongoose adafruit starterkit, https://www.electronic-shop.com/DE/shoppingcart 
+iot starter kit azure adafruit huzzah, https://azure.microsoft.com/de-de/resources/samples/iot-hub-c-huzzah-getstartedkit/ 
+mastering ionic book, james griffiths, http://masteringionic.com/ 
+
+
+Mi 13.12.2017
+------------------------------------------------------------------------------------------------------------------------------------
+angular-university subscription 100.- ????
+digi-keys - creditcard payment not accepted 66.-
+nx nghouston
+nx ngair
+
+Do 14.12.2017
+-------------------------------------------------------------------------------------------------------------------------------------
+andreas spiess ble on esp32
+nil kolban, esp32 expert, esp32 book, raspberri book
+lynda, semicconductor devices, http://pcdownload.in/2017/09/08/lynda-electronics-foundations-semiconductor-devices/ 
+lynda, windows 10 iot installation, http://pcdownload.in/2017/03/20/lynda-iot-development-with-windows-10-iot-core-1-installation-and-basic-connection/ 
+
+Fr 15.12.2017
+-------------------------------------------------------------------------------------------------------------------------------------
+ionic show stencil - typescript compiler for web components
+pluralsight, vuejs, http://pcdownload.in/2017/10/11/lynda-vue-js-building-an-interface/ 
+
+Sa 16.12.2017
+--------------------------------------------------------------------------------------------------------------------------------------
+esp32, esp8266 successor
+udemy, iot
+udemy, esp8266
+manage your work with chrome browser history export -> history-date.jsonload history-date.json to firebase course-planner 
+
+Di 19.12.2017
+-----------------------------------------------------------------------------------------------------------------------------
+ngHouston, rxJs - Cory Rylan ,rxjs samplesngSeatle, github angular-seatle 
+lynda, learning webpack 3, http://pcdownload.in/2017/12/04/lynda-learning-webpack-3/ 
+udemy, js es6, http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tutorial/ 
+packt es6 functional, http://pcdownload.in/2017/08/17/packt-publishing-learning-path-javascript-learn-functional-programming-with-javascript/ 
+es6 and beyond, http://pcdownload.in/2017/12/11/packt-publishing-ecmascript-2016-and-beyond/ 
