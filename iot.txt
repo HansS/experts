@@ -19,3 +19,4 @@ lynda, windows 10 iot installation, http://pcdownload.in/2017/03/20/lynda-iot-de
 oreilly, electronics cookbook, http://pcdownload.in/2017/12/06/oreilly-electronics-cookbook/ 
 packt, electronics workbench, http://pcdownload.in/2017/08/21/packt-publishing-the-electronics-workbench-a-setup-guide/ 
 packt, electronics for arduino makers 
+neil kolban, esp32 bluetooth expert 

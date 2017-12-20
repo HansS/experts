@@ -45,3 +45,4 @@
   firebase.initializeApp(config);
 </script>
 
+stoneriver, starting with firebase, http://pcdownload.in/2017/08/06/stone-river-learning-starting-with-firebase/ 

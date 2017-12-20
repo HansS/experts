@@ -41,3 +41,4 @@ brian troncone, rxjs expert, c:\Users\Folio\web\frontend\javascript\libraries\rx
 Tomasz Ciecierski rxjs expert 
 cory rylan , c:\Users\Folio\web\frontend\javascript\libraries\reactive-extensions\cory-rylan\beginner-reactive-programming-with-rxjs\rxjs-demo 
 vidoe cory rylan, d:\_downloads\ngHouston - Beginner Reactive programming with RxJS w Cory Rylan - YouTube 
+dominic elm, reactive snakes example 

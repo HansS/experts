@@ -337,3 +337,4 @@ lynda, learning webpack 3, http://pcdownload.in/2017/12/04/lynda-learning-webpac
 udemy, js es6, http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tutorial/ 
 packt es6 functional, http://pcdownload.in/2017/08/17/packt-publishing-learning-path-javascript-learn-functional-programming-with-javascript/ 
 es6 and beyond, http://pcdownload.in/2017/12/11/packt-publishing-ecmascript-2016-and-beyond/ 
+stoneriver, starting with firebase, http://pcdownload.in/2017/08/06/stone-river-learning-starting-with-firebase/ 
