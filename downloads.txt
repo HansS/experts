@@ -338,3 +338,8 @@ udemy, js es6, http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tut
 packt es6 functional, http://pcdownload.in/2017/08/17/packt-publishing-learning-path-javascript-learn-functional-programming-with-javascript/ 
 es6 and beyond, http://pcdownload.in/2017/12/11/packt-publishing-ecmascript-2016-and-beyond/ 
 stoneriver, starting with firebase, http://pcdownload.in/2017/08/06/stone-river-learning-starting-with-firebase/ 
+pluralsith, problem solving play by play, http://pcdownload.in/2017/12/09/pluralsight-play-by-play-problem-solving-in-a-developer-world/ 
+pluralsigth, git based workflow, http://pcdownload.in/2017/12/07/pluralsight-build-or-contribute-to-documentation-with-a-git-based-workflow/ 
+pack electronics for arduino, http://pcdownload.in/2017/08/18/packt-publishing-basic-electronics-for-arduino-makers/ 
+packt, modern web dev tools, http://pcdownload.in/2017/12/11/packt-publishing-web-developer-toolbox-essentials-for-modern-web-development/ 
+pluralsight, play by play yarn, http://pcdownload.in/2017/11/16/pluralsight-play-by-play-getting-started-with-yarn-as-a-package-manager/ 

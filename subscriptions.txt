@@ -18,3 +18,4 @@ ultimateangular
 angularbootcamp
 rangle.io
 
+angularfirebase subscription, 14.- /mo 21.12.2017-21.01.2018 

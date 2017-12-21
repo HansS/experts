@@ -2317,3 +2317,20 @@ deborath kurata , angular routing, movie-hunter-routing
 stackblitz, eric simons 
 andreas spiess, esp32 bluetooth heartrate 
 stoneriver, starting with firebase, http://pcdownload.in/2017/08/06/stone-river-learning-starting-with-firebase/ 
+
+Do 21.12.2017
+--------------------------------------------------------------------------------------------------------------------------------------
+Patanjali Yoga Sutra 01: Atha yoga anushasanam
+Everday yoga: 15min -> 196 Sutras : 200 : 50 ca 4 years of study // one sutra a week
+---------------------------------------------------------------------------------------------
+4 sutras a week: 200 : 4 = 50 weeks
+---------------------------------------------------------------------------------------------pys 01 00-15 
+pys 01 00-15 
+pluralsith, problem solving play by play, http://pcdownload.in/2017/12/09/pluralsight-play-by-play-problem-solving-in-a-developer-world/ 
+pluralsigth, git based workflow, http://pcdownload.in/2017/12/07/pluralsight-build-or-contribute-to-documentation-with-a-git-based-workflow/ 
+pack electronics for arduino, http://pcdownload.in/2017/08/18/packt-publishing-basic-electronics-for-arduino-makers/ 
+packt, modern web dev tools, http://pcdownload.in/2017/12/11/packt-publishing-web-developer-toolbox-essentials-for-modern-web-development/ 
+pluralsight, play by play yarn, http://pcdownload.in/2017/11/16/pluralsight-play-by-play-getting-started-with-yarn-as-a-package-manager/ 
+electronic workbench components storage tools 
+angularfirebase subscription 
+angularfirebase subscription, 14.- /mo 21.12.2017-21.01.2018 
