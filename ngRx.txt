@@ -6,3 +6,5 @@ ngrx youtube-player, c:\Users\Folio\web\frontend\javascript\frameworks\angular-n
 angular ngrx book, oren fahri  
 angular 2 article collection, http://ngdoc.io/  
 tomas trajan, ngrx material template, github.com/tomastrajan 
+todd motto, ultimate-angular, final project , https://platform.ultimateangular.com/courses/angular-pro/lectures/3015157 
+ngrx platform docs, https://github.com/ngrx/platform/tree/master/docs 

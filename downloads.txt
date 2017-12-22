@@ -343,3 +343,10 @@ pluralsigth, git based workflow, http://pcdownload.in/2017/12/07/pluralsight-bui
 pack electronics for arduino, http://pcdownload.in/2017/08/18/packt-publishing-basic-electronics-for-arduino-makers/ 
 packt, modern web dev tools, http://pcdownload.in/2017/12/11/packt-publishing-web-developer-toolbox-essentials-for-modern-web-development/ 
 pluralsight, play by play yarn, http://pcdownload.in/2017/11/16/pluralsight-play-by-play-getting-started-with-yarn-as-a-package-manager/ 
+ionic play by play share code , http://pcdownload.in/2017/12/15/pluralsight-play-by-play-sharing-code-with-npm-modules-between-angular-web-and-ionic-mobile-apps/ 
+pluralsight, npm playbook, joe eames, http://pcdownload.in/2015/12/12/pluralsight-npm-playbook/ 
+lynda, npm scripts, http://pcdownload.in/2016/09/29/lynda-tooling-npm-scripts/ 
+packt, npm start, http://pcdownload.in/2016/09/23/packt-publishing-learning-path-npm-start-guide-node-js/ 
+pluralsight, npm build tool, http://pcdownload.in/2015/10/21/pluralsight-introduction-to-npm-as-a-build-tool/ 
+packt, Web Developer Toolbox, http://pcdownload.in/2017/12/11/packt-publishing-web-developer-toolbox-essentials-for-modern-web-development/ 
+todd motto, ultimate-angular, final project , https://platform.ultimateangular.com/courses/angular-pro/lectures/3015157 
