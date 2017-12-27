@@ -8,3 +8,24 @@ angular 2 article collection, http://ngdoc.io/
 tomas trajan, ngrx material template, github.com/tomastrajan 
 todd motto, ultimate-angular, final project , https://platform.ultimateangular.com/courses/angular-pro/lectures/3015157 
 ngrx platform docs, https://github.com/ngrx/platform/tree/master/docs 
+NAME                      | DESCRIPTION          | AUTHOR          | DATE       | VERSION  | KEYWORDS
+ngrx                      |                      | =kpaxian        | 2017-05-05 | 2.0.1    |         
+@ngrx/store               | RxJS powered Redux…  | =mikeryan52…    | 2017-11-07 | 4.1.1    | RxJS Angular Redux
+@ngrx/effects             | Side effect model…   | =brandonroberts… | 2017-11-07 | 4.1.1    | 
+@ngrx/store-devtools      | Developer tools for… | =brandonroberts… | 2017-11-07 | 4.1.1    | RxJS Angular Redux Store @ngrx/store
+@ngrx/router-store        | Bindings to connect… | =brandonroberts… | 2017-11-07 | 4.1.1    | RxJS Angular Redux
+@ngrx/core                | Core operators and…  | =brandonroberts… | 2016-09-15 | 1.2.0    | 
+@ngrx/entity              | Common utilities…    | =brandonroberts… | 2017-11-07 | 4.1.1    | 
+ngrx-json-api             | A JSON API client…   | =abdulhaq-e…    | 2017-12-11 | 2.2.0    | 
+ngrx-forms                | Proper integration…  | =mrwolfz        | 2017-12-13 | 2.1.1    | angular javascript typescript ngrx redux
+ngrx-store-localstorage   | State and local…     | =btroncone      | 2017-11-27 | 0.3.0    | redux ngrx store localstorage rxjs
+@crnk/angular-ngrx        | Angular helper…      | =remmeier       | 2017-12-13 | 2.4.201… | 
+redux-beacon              | Analytics…           | =ttmarek        | 2017-10-26 | 1.2.1    | redux-beacon redux analytics redux-analytics redux-gtm google tag manager google analytics
+@ngrx/notify              | Web Notifications…   | =brandonroberts… | 2016-06-07 | 1.0.0    | 
+ngrx-store-fsa-helpers    | Type-safe action…    | =tblaisot       | 2017-05-13 | 1.0.0    | redux flux typescript action action creator reducer builder nrgx-store
+ngrx-crud                 | Generate code for a… | =pvamshi        | 2017-11-16 | 1.0.16   | angular2 angular
+ngrx-undoable             | [Redux](https://git… | =jannicbeck     | 2017-12-18 | 1.0.5    | redux undo redo undoable undo-redo redux-undo react-undo ngrx-undo angular-undo angular2-undo
+@ngrx/store-log-monitor   | Store log monitor…   | =brandonroberts… | 2016-09-14 | 3.0.2    | RxJS Angular2 Redux Store @ngrx/store
+ngrx-action-debouncer     | Debounce a stream…   | =swseverance    | 2017-12-15 | 0.1.3    | angular ngrx typescript observable debounce
+ngrx-normalizr            | Normalizing state…   | =michaelkrone   | 2017-11-20 | 2.2.0    | 
+ts-action                 | TypeScript action…   | =cartant        | 2017-11-18 | 3.2.2    | action ngrx redux redux-observable typescript
