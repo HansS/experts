@@ -351,3 +351,9 @@ pluralsight, npm build tool, http://pcdownload.in/2015/10/21/pluralsight-introdu
 packt, Web Developer Toolbox, http://pcdownload.in/2017/12/11/packt-publishing-web-developer-toolbox-essentials-for-modern-web-development/ 
 todd motto, ultimate-angular, final project , https://platform.ultimateangular.com/courses/angular-pro/lectures/3015157 
 angular npm packages, http://pcdownload.in/2017/12/15/pluralsight-play-by-play-sharing-code-with-npm-modules-between-angular-web-and-ionic-mobile-apps/ 
+packt, jenkins ci begninner, http://pcdownload.in/2017/08/29/packt-publishing-jenkins-2-introduction-for-beginners-on-windows/ 
+packt, jenkins ci ,http://pcdownload.in/2017/11/21/packt-publishing-effective-jenkins-continuous-delivery-with-jenkins-pipeline/ 
+pluralsight, google cloud functions intro, http://pcdownload.in/2017/12/21/pluralsight-google-cloud-functions-getting-started/ 
+oreilly, yakov fain, building angular web apps with typescript, http://pcdownload.in/2017/09/14/oreilly-building-web-apps-with-angular-and-typescript/ 
+packt, mastering typescript, http://pcdownload.in/2017/12/29/packt-publishing-mastering-typescript-second-edition/ 
+lynda, web dev with vs code, http://pcdownload.in/2017/04/25/lynda-visual-studio-code-for-web-developers/ 
