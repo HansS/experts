@@ -5,3 +5,7 @@ doris chen, microsoft typescript, https://github.com/doristchen/teaching-materia
 typescript definition files writing tool install, typescript core team member  
 typescript expert, marius schulz, egghead course, https://blog.mariusschulz.com/archive 
 basarat, typescript expert 
+learn typescript, D:\A10-projects\typescript\Learn TypeScript - YouTube 
+typescript expert james henery, D:\A10-projects\typescript\James-Henry 
+egghead, advanced typescript 
+ngrx typescript 

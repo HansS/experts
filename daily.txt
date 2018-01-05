@@ -1,3 +1,22 @@
 Di 02.01.2018
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-ngrx experts: mike ryan, robert brandon, duncan hunter, angularfirebase, todd motto
+ngrx experts: mike ryan, robert brandon, duncan hunter, angularfirebase, todd mottongrx docs on github, https://github.com/ngrx/platform/tree/master/docs/store 
+ngrx tutorial, ultimateangular 
+
+Do 04.01.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+anders hejlsberg, what's new in Typescript 2
+eric wang, ngrx generator, https://ericwangblog.github.io/Generate-Your-Ngrx/ 
+
+Fr 05.01.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ngHouston- NgRx - Mike Ryan and Robert Brandon, rx store, actions, reducers, effects, entities, schematics
+thomas burlescon, 
+angularfirebase, ngrx feature and entities, https://angularfirebase.com/lessons/ngrx-entity-feature-modules-tutorial/ 
+learn typescript, D:\A10-projects\typescript\Learn TypeScript - YouTube 
+typescript expert james henery, D:\A10-projects\typescript\James-Henry 
+egghead, advanced typescript 
+ngrx typescript 
+mike ryan, robert brandon on github, codesequence 
+nuno costa, angularfire ionic ,https://github.com/nuno/af-firestore-ionic.git
+mike ryan rx workshop ngconf 2017, https://github.com/CodeSequence/ngrx-workshop 

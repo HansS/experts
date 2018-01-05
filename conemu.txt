@@ -61,7 +61,7 @@ dir bundlers
 alias cwfw=cd C:\Users\Folio\web\frontend\module-bundlers\webpack && dir /p
  
 angular-cli 
- 
+---------------------------------------------------------
 serve and open i brrowser
 alias ngo= ng serve -o
  
@@ -72,7 +72,7 @@ component
 alias ngc=ng g c $*
  
 module with crud
-alias ngm=ng g c home && ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g c $*s\$*-add && ng g c $*s\$*-edit && ng g c $*s\$*-details  && ng g s $*s\$*
+alias ngm=ng g c home && ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g c $*s\$*-add && ng g c $*s\$*-edit && ng g c $*s\$*-details  && ng g s $*s\$* -m $s*
 ng 
 service
 alias ngs=ng g s $*
@@ -92,7 +92,7 @@ alias nio=npm install && ng serve -o
  
  
 http
-alias hso= hs -p 4444 -o
+alias hso= hs -p 4444 -
  
 npm
 alias ni=npm install
@@ -115,7 +115,7 @@ alias ga=git add .
 alias gs=git status
  
 ionic
-alias ble=ionic cordova plugin add cordova-plugin-ble-central npm install --save @ionic-native/ble
+alias icble=ionic cordova plugin add cordova-plugin-ble-central npm install --save @ionic-native/ble
 alias icrad=ionic cordova run android --device
 alias icradl=ionic cordova run android --device --livereload
 alias icpaa=ionic cordova platform add android
@@ -129,3 +129,13 @@ alias igta=ionic g tabs
  
 alias isl=ionic serve -l
 alias is= ionic serve
+ 
+ngrx
+alias cwarx=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans && dir
+alias ngrx= npm install @ngrx/store @ngrx/effects @ngrx/router-store @ngrx/entity --save
+alias ngrxd=npm install jasmine-marbles ngrx-store-freeze generate-ngrx @ngrx/store-devtools --only=dev --save
+alias ngrxsch=ng g store State --root -m app.module.ts -c @ngrx/schematics &&  ng g action $* -c @ngrx/schematics && ng g reducer $* -c @ngrx/schematics && ng g effect $* --root -c @ngrx/schematics && ng g feature $* -c @ngrx/schematics && ng g entity $* -c @ngrx/schematics
+
+firebase
+alias fb=npm i -S firebase angularfire2
+ 
