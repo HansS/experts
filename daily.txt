@@ -1,3 +1,5 @@
+
+
 Di 02.01.2018
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 ngrx experts: mike ryan, robert brandon, duncan hunter, angularfirebase, todd mottongrx docs on github, https://github.com/ngrx/platform/tree/master/docs/store 
@@ -20,3 +22,134 @@ ngrx typescript
 mike ryan, robert brandon on github, codesequence 
 nuno costa, angularfire ionic ,https://github.com/nuno/af-firestore-ionic.git
 mike ryan rx workshop ngconf 2017, https://github.com/CodeSequence/ngrx-workshop 
+
+Mo 08.01.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs - jeremy fairbank , counter sample with rxjs
+rxjs 5.5 new syntax with pipe operator and new import syntax
+webpack minimal config: entry and output definition
+
+typescript minimal tsconfig.json: 
+-------------------------------------------------------------------------------
+{
+  "compileOnSave": false,
+  
+"compilerOptions": {
+    "outDir": "./dist/out-tsc",
+    
+"sourceMap": true,
+    
+"declaration": false,
+    
+"moduleResolution": "node",
+    
+"emitDecoratorMetadata": true,
+    
+"experimentalDecorators": true,
+    
+"target": "es5",
+    
+"typeRoots": [
+      "node_modules/@types"
+    ],
+    
+"lib": [
+      "es2017",
+      "dom"
+    ]
+  }
+}
+----------------------------------------------------------------------------------------
+package.json: npm i rxjs, @types/rx @types/nodepackt, web dev node express mongo, http://pcdownload.in/2017/10/31/packt-publishing-web-development-with-node-js-mongodb-and-express/ 
+reginald braithwaite, es6 allonge , https://github.com/raganwald/javascript-allonge-six/tree/master/manuscript/markdown 
+vscode: sync settings, node debug no code, emmet html in js -> react, mongodb in vscode, settings in vscode, type js in settings set, 
+
+webpack 3 minimal config workflow with typscript
+-----------------------------------------------------------------------------------------
+const webpack = require("webpack");
+const path = require("path");
+
+module.exports = {
+  entry: "./dist/app",
+  output: {
+    path: path.resolve(__dirname, "dist"),
+    filename: "bundle.js"
+  },
+  module: {
+    rules: [
+      {
+        test: /\.ts?/,
+        loader: "ts-loader",
+        exclude: /node_modules/
+      }
+    ]
+  }
+};
+--------------------------------------------------------------------------------------------
+pys: klishta and aclistha vrittis: 
+aklishta: avidya, asmitha, raga, dwesha,
+
+es6 in functional programming, jeremy fairbank
+spread operator
+object assign first empty object filled with all following objects: Object.assign({}, Ob1, Ob2)
+arrow functions
+default parameters
+higher order function
+function composition: map( compose (fn1, fn2, fn3))
+partial application
+currying
+rxjs is programming in functional style
+fetch with async await (Lynda Eve Porcello - Ecmascript 6)
+fetch sample github api: api.github.com
+tutti: liege:50, odlo (tights:50) , jogging, langlauf (einteiler: 30.-)
+
+github api with fetch and async await:
+https://api.github.com/users/hanss/repos
+{
+    "id": 55150337,
+    "name": "01_layout_nachbauen-hsr-01-layout",
+    "full_name": "HansS/01_layout_nachbauen-hsr-01-layout",
+    "owner": {
+      "login": "HansS",
+      "url": "https://api.github.com/users/HansS",
+      "html_url": "https://github.com/HansS",
+    },
+
+    "html_url": "https://github.com/HansS/01_layout_nachbauen-hsr-01-layout",
+    "description": "HSR_CAS_FEE 01",
+    "url": "https://api.github.com/repos/HansS/01_layout_nachbauen-hsr-01-layout",
+
+    "created_at": "2016-03-31T12:53:06Z",
+    "updated_at": "2016-05-17T21:33:55Z",
+    "pushed_at": "2015-05-10T13:18:11Z",
+
+    "git_url": "git://github.com/HansS/01_layout_nachbauen-hsr-01-layout.git",
+    "ssh_url": "git@github.com:HansS/01_layout_nachbauen-hsr-01-layout.git",
+    "clone_url": "https://github.com/HansS/01_layout_nachbauen-hsr-01-layout.git",
+  },
+
+Mittwoch 10.01.2018
+-------------------------------------------------------------------------------------------------
+Typescript
+
+RxDb
+
+Scott Moss, PatrickJs Onespeed, tipe.io - headless cms
+
+mike north, vscode, frontendmasters.com
+
+typescript basics - james henry
+decorator function for class, method, propery
+@types
+strictnullcheck
+allowjs
+null or never
+type discriminated union type
+type inference
+
+ionic 3 expert:  C:\Users\Folio\web\mobile\ionic\didinj
+ionic 3 position tracking
+ 
+private, protected, global
+webpack, typescript, webpack-dev-server, awesome-typescript-loader , webpack config
+generics, Type  entity<T> 

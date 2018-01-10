@@ -358,3 +358,8 @@ oreilly, yakov fain, building angular web apps with typescript, http://pcdownloa
 packt, mastering typescript, http://pcdownload.in/2017/12/29/packt-publishing-mastering-typescript-second-edition/ 
 lynda, web dev with vs code, http://pcdownload.in/2017/04/25/lynda-visual-studio-code-for-web-developers/ 
 pluralsith, https, http://pcdownload.in/2017/11/23/pluralsight-play-by-play-what-you-need-to-know-about-https-today/ 
+packt, web dev node express mongo, http://pcdownload.in/2017/10/31/packt-publishing-web-development-with-node-js-mongodb-and-express/ 
+pluralsight, node es6, http://pcdownload.in/2016/08/11/pluralsight-using-es6-node-js-web-application/ 
+lynda, node es6 , http://pcdownload.in/2017/03/24/lynda-switching-to-es6-in-node-js/ 
+packt, mastering typescript, "http://pcdownload.in/2017/12/29/packt-publishing-mastering-typescript-second-edition/" 
+packt, web functional programming, http://pcdownload.in/2017/10/01/packt-publishing-mastering-your-web-application-using-functional-javascript/ 
