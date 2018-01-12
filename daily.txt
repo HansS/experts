@@ -153,3 +153,19 @@ ionic 3 position tracking
 private, protected, global
 webpack, typescript, webpack-dev-server, awesome-typescript-loader , webpack config
 generics, Type  entity<T> 
+
+Do 11.01.2018
+----------------------------------------------------------------------------------
+rxjs - yakov fain, safari online course, https://www.safaribooksonline.com/library/view/rxjs-essentials/9781491995952/video313964.html?autoStart=True
+
+ionic firebase instagram clone,esm-pix, engadin SM Chat Photos, c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\hans\esm-pix 
+
+Fr 12.01.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------
+deploy to github pages
+lynda, loopback camden
+safarionline, packt, learning path js functiional, https://www.safaribooksonline.com/library/view/learning-path-javascript/9781788471282/ 
+jason jean, speaker ng atlanta 2018, https://github.com/FrozenPandaz/ng-atlanta-upw 
+manfred styer, working on a schematics book, https://github.com/manfredsteyer/schematics-intro 
+victor vogoblinski, timeline of frontend conferences 
+vogloblinsky , timeline frontend conferences, https://vogloblinsky.github.io/web-development-conferences 

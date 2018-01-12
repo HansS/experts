@@ -363,3 +363,5 @@ pluralsight, node es6, http://pcdownload.in/2016/08/11/pluralsight-using-es6-nod
 lynda, node es6 , http://pcdownload.in/2017/03/24/lynda-switching-to-es6-in-node-js/ 
 packt, mastering typescript, "http://pcdownload.in/2017/12/29/packt-publishing-mastering-typescript-second-edition/" 
 packt, web functional programming, http://pcdownload.in/2017/10/01/packt-publishing-mastering-your-web-application-using-functional-javascript/ 
+packt, richard gill, web developer toolbox, http://pcdownload.in/2017/12/11/packt-publishing-web-developer-toolbox-essentials-for-modern-web-development/ 
+safarionline, packt, learning path js functiional, https://www.safaribooksonline.com/library/view/learning-path-javascript/9781788471282/ 
