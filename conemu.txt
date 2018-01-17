@@ -60,7 +60,7 @@ alias cward=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-redux &
 dir bundlers
 alias cwfw=cd C:\Users\Folio\web\frontend\module-bundlers\webpack && dir /p
  
-angular-cli 
+angular-cli \
 ---------------------------------------------------------
 serve and open i brrowser
 alias ngo= ng serve -o
@@ -71,8 +71,8 @@ alias ngn=ng new $* --routing --style scss --prefix hs && cd $* && code . && ng 
 component
 alias ngc=ng g c $*
  
-module with crud
-alias ngm=ng g c home && ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g c $*s\$*-add && ng g c $*s\$*-edit && ng g c $*s\$*-details  && ng g s $*s\$* -m $s*
+module with crud                                                                                                                    
+alias ngm=ng g c home && ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g c $*s\$*-form && ng g c $*s\$*-edit && ng g c $*s\$*-details  && ng g s $*s\$* -m \$s*\$s*s.module.ts
 ng 
 service
 alias ngs=ng g s $*
@@ -131,8 +131,8 @@ alias isl=ionic serve -l
 alias is= ionic serve
  
 ngrx
-alias cwarx=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans && dir
-alias ngrx= npm install @ngrx/store @ngrx/effects @ngrx/router-store @ngrx/entity --save
+alias cwngrx=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans && dir
+alias ngrxi= npm install @ngrx/store @ngrx/effects @ngrx/router-store @ngrx/entity --save
 alias ngrxd=npm install jasmine-marbles ngrx-store-freeze generate-ngrx @ngrx/store-devtools --only=dev --save
 alias ngrxsch=ng g store State --root -m app.module.ts -c @ngrx/schematics &&  ng g action $* -c @ngrx/schematics && ng g reducer $* -c @ngrx/schematics && ng g effect $* --root -c @ngrx/schematics && ng g feature $* -c @ngrx/schematics && ng g entity $* -c @ngrx/schematics
 

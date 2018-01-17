@@ -37,3 +37,6 @@ ngHouston- NgRx - Mike Ryan and Robert Brandon, rx store, actions, reducers, eff
 mike ryan, robert brandon on github, codesequence 
 mike ryan rx workshop ngconf 2017, https://github.com/CodeSequence/ngrx-workshop 
 ngrx material starter tomas trajan, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\tomas-trajan\angular-ngrx-material-starter 
+ngrx expert, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\vaslan-vatsaev\angular-contacts-app-example 
+use ngrx/codegen, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\ngrx-platform\platform\modules\codegen\src 
+yarn run codegen 

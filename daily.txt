@@ -187,3 +187,14 @@ max schwarzmüller, angular questions
 tomas trajan, angular cli best practices
 tomas trajan, ngrx material starter,c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\tomas-trajan\angular-ngrx-material-starter
 udemy, the advanced web developer, https://avxhm.se/ebooks/naag3390.html 
+
+Mi 17.01.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------
+mike ryan, ngrx effects, metareducer, entities
+yoga pys
+To feed when you are sick is feeding your sickness!! 
+ngrx expert, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\vaslan-vatsaev\angular-contacts-app-example 
+use ngrx/codegen, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\ngrx-platform\platform\modules\codegen\src 
+yarn run codegen 
+pluralsight, advanced typescript, http://pcdownload.in/2016/11/16/pluralsight-advanced-typescript/ 
+marius schultz, advanced typescript ,, egghead.io, 

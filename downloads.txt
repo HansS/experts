@@ -367,3 +367,4 @@ packt, richard gill, web developer toolbox, http://pcdownload.in/2017/12/11/pack
 safarionline, packt, learning path js functiional, https://www.safaribooksonline.com/library/view/learning-path-javascript/9781788471282/ 
 pluralsight, angular material, http://pcdownload.in/2018/01/06/pluralsight-angular-material/ 
 udemy, the advanced web developer, https://avxhm.se/ebooks/naag3390.html 
+pluralsight, advanced typescript, http://pcdownload.in/2016/11/16/pluralsight-advanced-typescript/ 
