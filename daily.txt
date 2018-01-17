@@ -169,3 +169,21 @@ jason jean, speaker ng atlanta 2018, https://github.com/FrozenPandaz/ng-atlanta-
 manfred styer, working on a schematics book, https://github.com/manfredsteyer/schematics-intro 
 victor vogoblinski, timeline of frontend conferences 
 vogloblinsky , timeline frontend conferences, https://vogloblinsky.github.io/web-development-conferences 
+
+Mo 15.01.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ngair, david east, firestore
+yt list: firebase - firestore
+yoga: Yoga of the nine rasas (emotions)
+github: firebase firechat
+google developer india 2017
+
+Di 16.01.2018
+------------------------------------------------------------------------------------------------------------------------------------------------
+angularfirebase, firestore
+firestore pwa
+angularfire2 - firestore
+max schwarzmüller, angular questions
+tomas trajan, angular cli best practices
+tomas trajan, ngrx material starter,c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\tomas-trajan\angular-ngrx-material-starter
+udemy, the advanced web developer, https://avxhm.se/ebooks/naag3390.html 

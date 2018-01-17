@@ -95,3 +95,4 @@ jason jean, speaker ng atlanta 2018, https://github.com/FrozenPandaz/ng-atlanta-
 manfred styer, working on a schematics book, https://github.com/manfredsteyer/schematics-intro 
 vogloblinsky , timeline frontend conferences, https://vogloblinsky.github.io/web-development-conferences 
 vogloblinsky , timeline frontend conferences, https://vogloblinsky.github.io/web-development-conferences 
+pluralsight, angular material, http://pcdownload.in/2018/01/06/pluralsight-angular-material/ 

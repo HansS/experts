@@ -36,3 +36,4 @@ angularfirebase, ngrx feature and entities, https://angularfirebase.com/lessons/
 ngHouston- NgRx - Mike Ryan and Robert Brandon, rx store, actions, reducers, effects, entities, schematics 
 mike ryan, robert brandon on github, codesequence 
 mike ryan rx workshop ngconf 2017, https://github.com/CodeSequence/ngrx-workshop 
+ngrx material starter tomas trajan, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\tomas-trajan\angular-ngrx-material-starter 
