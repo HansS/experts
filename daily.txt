@@ -198,3 +198,17 @@ use ngrx/codegen, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx
 yarn run codegen 
 pluralsight, advanced typescript, http://pcdownload.in/2016/11/16/pluralsight-advanced-typescript/ 
 marius schultz, advanced typescript ,, egghead.io, 
+
+Do 18.01.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------
+intermittent fasting
+Dr Jasun Fung, Therapeutic Fasting
+packt, angular bootstrap, http://pcdownload.in/2017/02/08/packt-publishing-web-development-with-angular-2-and-bootstrap/ 
+angular routing, deborah kuratha, acme-deborah,c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\acme-deborah
+pys 09
+
+Fr 19.01.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------
+flexbox in bs4
+pyssbootstrap simple sidebar, https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/css/simple-sidebar.css 
+bootstrap 4 templates, https://startbootstrap.com/template-categories/all/ 

@@ -72,7 +72,7 @@ component
 alias ngc=ng g c $*
  
 module with crud                                                                                                                    
-alias ngm=ng g c home && ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g c $*s\$*-form && ng g c $*s\$*-edit && ng g c $*s\$*-details  && ng g s $*s\$* -m \$s*\$s*s.module.ts
+alias ngm=ng g c home && ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g c $*s\$*-form && ng g c $*s\$*-edit && ng g c $*s\$*-details  && ng g s $*s\$* -m \$s*\$s*s.module.ts && ng g c \$*s\$*-delete -m \$*s\$*s.module.ts
 ng 
 service
 alias ngs=ng g s $*

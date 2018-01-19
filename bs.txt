@@ -7,3 +7,4 @@ bootstrap 4 tutorial, http://www.quackit.com/bootstrap/bootstrap_4/tutorial/boot
 flexbox samples, http://www.quackit.com/css/flexbox/examples/  
 v4 alpha scripts and styles, c:\Users\Folio\web\frontend\css\bootstrap\v-4\bs4-template  
 Bootstrap 4 Tutorial Site, https://www.quackit.com/bootstrap/bootstrap_4/tutorial/bootstrap_forms.cfm  
+bootstrap 4 templates, https://startbootstrap.com/template-categories/all/ 
