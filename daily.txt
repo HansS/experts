@@ -212,3 +212,12 @@ Fr 19.01.2018
 flexbox in bs4
 pyssbootstrap simple sidebar, https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/css/simple-sidebar.css 
 bootstrap 4 templates, https://startbootstrap.com/template-categories/all/ 
+
+Sa 20.01.2018
+-----------------------------------------------------------------------------------------------------------------------------
+dave fisher, firebase coder, https://www.youtube.com/watch?v=vW45e6_BmNM&list=PL45MzcrOl88vAAOyBEX8QHFQh-A7fZbb- 
+
+Mo 22.01.2018
+--------------------------------------------------------------------------------------------------------------------------------------
+pys
+angular

@@ -46,3 +46,6 @@ gorge vergarar, ionic
 don coleman, ionic cordova plugin for bluetooth low energy, make bluetooth book, wifi technology
 andreas , iot youtuber
  
+dave fisher, angular firebase 
+chris eplin, firebase 
+wes bos, javascript 
