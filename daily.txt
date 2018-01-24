@@ -220,4 +220,21 @@ dave fisher, firebase coder, https://www.youtube.com/watch?v=vW45e6_BmNM&list=PL
 Mo 22.01.2018
 --------------------------------------------------------------------------------------------------------------------------------------
 pys
-angular
+angularphelippe martin , angular universal expert, https://blog.angularindepth.com/@feloy 
+nghouston, angular schematics, yt download, 2018 01 
+
+Di 23.01.2018
+------------------------------------------------------------------------------------------------------------------------------------
+angular fundamentals, ultimate angular
+angular tutorials, gopinav, gopinav angular tutorials, c:\Users\Folio\web\frontend\javascript\frameworks\angular\gopinav 
+passengers component - smart component -> delivers data via service
+passengers list - gets @Input() via [items]="passengers",  passengers: Passenger[]
+
+new:
+passenger details: gets @Input() via [item] = "selectedPassenger", selectedPassenger: Passenger
+passenger details: has editing mode: when in editing -> input is show (ngIf)
+passenger details: implements ngOnChanges, fires each time data changes, fires before NgOnInit
+		   has separate passenger data, which when changed will evented to smart component
+
+angular videos, pusher vienna (Manfred Steyer)
+

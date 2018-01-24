@@ -101,3 +101,6 @@ angular routing, c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\
 bootstrap simple sidebar, https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/css/simple-sidebar.css 
 bootstrap 4 templates, https://startbootstrap.com/template-categories/all/ 
 bootstrap 4 templates, https://startbootstrap.com/template-categories/all/ 
+phelippe martin , angular universal expert, https://blog.angularindepth.com/@feloy 
+nghouston, angular schematics, yt download, 2018 01 
+gopinav angular tutorials, c:\Users\Folio\web\frontend\javascript\frameworks\angular\gopinav 
