@@ -227,14 +227,40 @@ Di 23.01.2018
 ------------------------------------------------------------------------------------------------------------------------------------
 angular fundamentals, ultimate angular
 angular tutorials, gopinav, gopinav angular tutorials, c:\Users\Folio\web\frontend\javascript\frameworks\angular\gopinav 
-passengers component - smart component -> delivers data via service
-passengers list - gets @Input() via [items]="passengers",  passengers: Passenger[]
 
-new:
-passenger details: gets @Input() via [item] = "selectedPassenger", selectedPassenger: Passenger
-passenger details: has editing mode: when in editing -> input is show (ngIf)
-passenger details: implements ngOnChanges, fires each time data changes, fires before NgOnInit
-		   has separate passenger data, which when changed will evented to smart component
+Mi 24.01.2018
+---------------------------------------------------------------------------------------------------------------------------------------
+manfred steyer, routing, angular schematics
+ultimate angular, angular fundamentals
+pys disk 10
+skate buchenegg
+postfinance adliswil
+1 tag fasten, mittwoch fastentag, intermittent fasting, 
+high intensity training
 
-angular videos, pusher vienna (Manfred Steyer)
+Do 25.01.2018
+------------------------------------------------------------------------------------------------------------------------------------------
+udemy, max schwarzmüller, ngrx
+angularfirebase abgelaufen
+green domain
+pontresina, 300
+tutti langlaufhose 30, langlaufdress 30, langlaufjacke 30 
+angular weekly notes, https://docs.google.com/document/d/1rC5dz7AkCZP813daT_bccbS-20OLmXgBVi50CSKx148/pub 
 
+Fr 26.01.2018
+-------------------------------------------------------------------------------------------------------------------------------------------
+play by play ward bell, angular design solutions, http://pcdownload.in/2017/10/19/pluralsight-play-by-play-angular-design-solutions/ 
+pluralsight, responsive navigation, http://pcdownload.in/2018/01/23/pluralsight-hands-on-responsive-web-design-4-navigation/ 
+lynda, http://pcdownload.in/2018/01/17/lynda-learning-rxjs/ , http://pcdownload.in/2018/01/17/lynda-learning-rxjs/ 
+
+Mo 29.01.2018
+----------------------------------------------------------------------------------------------------------------------------------------
+deepak chopra, healthy aging, 
+vincent ogloblinsky, typescript expert
+vincent ogloblinskiy, angular doc tool, compodoc
+
+Di 30.01.2018
+-----------------------------------------------------------------------------------------------------------------------------------------
+angular, tour of heroes, john papa
+angular ngrx, john papa, ward bell, with data helpers
+pys

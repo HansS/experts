@@ -369,3 +369,6 @@ pluralsight, angular material, http://pcdownload.in/2018/01/06/pluralsight-angul
 udemy, the advanced web developer, https://avxhm.se/ebooks/naag3390.html 
 pluralsight, advanced typescript, http://pcdownload.in/2016/11/16/pluralsight-advanced-typescript/ 
 packt, angular bootstrap, http://pcdownload.in/2017/02/08/packt-publishing-web-development-with-angular-2-and-bootstrap/ 
+play by play ward bell, angular design solutions, http://pcdownload.in/2017/10/19/pluralsight-play-by-play-angular-design-solutions/ 
+pluralsight, responsive navigation, http://pcdownload.in/2018/01/23/pluralsight-hands-on-responsive-web-design-4-navigation/ 
+lynda, http://pcdownload.in/2018/01/17/lynda-learning-rxjs/ , http://pcdownload.in/2018/01/17/lynda-learning-rxjs/ 
