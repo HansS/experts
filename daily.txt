@@ -264,3 +264,37 @@ Di 30.01.2018
 angular, tour of heroes, john papa
 angular ngrx, john papa, ward bell, with data helpers
 pys
+
+***13:00 start intermittent fasting
+
+Mi 31.01.2018
+--------------------------------------------------------------------------------------------------------------------------------------------
+***intermittent fasting
+
+morgen jogging
+angular material, ajden towfeek
+angular material quick start, elad bezalel, angular material team
+skating langnau, buchenegg, aegerst retour
+
+***intermittent fasting
+
+
+Do 01.02.2018
+----------------------------------------------------------------------------------------------------------------------------------------------
+***07:00 Ende Intermittent Fasting: 48 Std!!!
+future of programming, Uncle Bob Martin
+
+pluralsight, deborah http://pcdownload.in/2018/01/31/pluralsight-angular-component-communication/ 
+
+Di 06.02.2018
+----------------------------------------------------------------------------------------------------------------------------------------------
+angular meetup: angularplayground.it, rxjs deep dive alex rickabaugh, alex eagle and james aden on bazel
+
+talk 1: angularplayground.it, prototpye components
+talk 2: alex rickabauch, rxjs in depth
+talk 3: bazel with jason aden, alex eagle
+
+pluralsight, constructing angular ui, http://pcdownload.in/2018/02/06/pluralsight-constructing-a-user-interface-with-angular/ 
+deborah, pipe , pipe component, ngOnChanges works only of @Input(), Pipe sample
+ultimate angular fundamentals
+stone river, angular 5 ecommerce, http://pcdownload.in/2018/01/23/stone-river-elearning-build-an-ecommerce-site-with-angular-5/ 

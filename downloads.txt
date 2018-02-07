@@ -372,3 +372,10 @@ packt, angular bootstrap, http://pcdownload.in/2017/02/08/packt-publishing-web-d
 play by play ward bell, angular design solutions, http://pcdownload.in/2017/10/19/pluralsight-play-by-play-angular-design-solutions/ 
 pluralsight, responsive navigation, http://pcdownload.in/2018/01/23/pluralsight-hands-on-responsive-web-design-4-navigation/ 
 lynda, http://pcdownload.in/2018/01/17/lynda-learning-rxjs/ , http://pcdownload.in/2018/01/17/lynda-learning-rxjs/ 
+pluralsight webpack bundles,http://pcdownload.in/2018/01/31/pluralsight-webpack-transpiling-and-bundling-javascript/ 
+pluralsight, deborah http://pcdownload.in/2018/01/31/pluralsight-angular-component-communication/ 
+pluralsight, web design for navigation, http://pcdownload.in/2018/01/23/pluralsight-hands-on-responsive-web-design-4-navigation/ 
+pluralsight, redux fundamentals, http://pcdownload.in/2018/01/19/pluralsight-redux-fundamentals/ 
+the longevity diet, http://nitroflare.com/view/3B0CE849CF23223/1568583095.epub/free 
+pluralsight, constructing angular ui, http://pcdownload.in/2018/02/06/pluralsight-constructing-a-user-interface-with-angular/ 
+stone river, angular 5 ecommerce, http://pcdownload.in/2018/01/23/stone-river-elearning-build-an-ecommerce-site-with-angular-5/ 

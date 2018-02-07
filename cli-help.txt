@@ -24,7 +24,7 @@ ng asset-sizes <options...>
   Shows the sizes of your asset files.
   --output-path (Path) (Default: dist/)
     aliases: -o <value>
-
+----------------------------------------------------------------------------------------------------- ng build
 ng build <options...>
   Builds your app and places it into the output path (dist/ by default).
   aliases: b
@@ -52,7 +52,7 @@ ng destroy <blueprint> <options...>
     aliases: -dum, -id
   --in-repo-addon (String) (Default: null)
     aliases: --in-repo <value>, -ir <value>
-
+------------------------------------------------------------------------------------------------ng generate
 ng generate <blueprint> <options...>
   Generates new code from blueprints.
   aliases: g
