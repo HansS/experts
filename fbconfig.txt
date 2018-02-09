@@ -165,9 +165,34 @@ ialize Firebase
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 esm-pix
+collections:
+date:		9. Februar 2018 um 12:00:00 UTC+1
+imageBase64:	"base64 encoded image"
+imageUrl:	"https://www.google.ch"
+location:	[0° N, 0° E]
+text:		"message text"
+username:	"myname"
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 <script src="https://www.gstatic.com/firebasejs/4.4.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCfBlfSuAgbEsSDVoFN0-5ar4bSQG4nMzo",
+    authDomain: "esm-pix.firebaseapp.com",
+    databaseURL: "https://esm-pix.firebaseio.com",
+    projectId: "esm-pix",
+    storageBucket: "esm-pix.appspot.com",
+    messagingSenderId: "746370984139"
+  };
+  firebase.initializeApp(config);
+</script>
+
+
+esm-pix-firestore
+-----------------------------------------------------------------------------------------------------------------------------------
+
+<script src="https://www.gstatic.com/firebasejs/4.9.1/firebase.js"></script>
 <script>
   // Initialize Firebase
   var config = {

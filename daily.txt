@@ -277,7 +277,7 @@ angular material quick start, elad bezalel, angular material team
 skating langnau, buchenegg, aegerst retour
 
 ***intermittent fasting
-
+blu
 
 Do 01.02.2018
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -298,3 +298,36 @@ pluralsight, constructing angular ui, http://pcdownload.in/2018/02/06/pluralsigh
 deborah, pipe , pipe component, ngOnChanges works only of @Input(), Pipe sample
 ultimate angular fundamentals
 stone river, angular 5 ecommerce, http://pcdownload.in/2018/01/23/stone-river-elearning-build-an-ecommerce-site-with-angular-5/ 
+
+Do 08.02-2018
+--------------------------------------------------------------------------------------------------------------------------------
+echo vincent ogloblinski, web conference timeline,
+angular yt list, angular conferences: angularup, ngatlanta, ngconf 2017, ng-be 2017,
+speaker list of angular conferences -> github repos
+erik hadadd, firebase expert
+udemy ionic firebase auth, database, functions, notification
+instagram clone, ionic
+todoist api, todo app
+firebase codelab, friendlyeat, firestore queries
+bluetooth ble, don coleman, ble course, slides, https://itp.nyu.edu/classes/bluetooth/
+Lim Shany Li, ionic workshop , https://github.com/shangyilim?tab=overview&from=2017-12-01&to=2017-12-31
+
+Fr 09.02.2018
+--------------------------------------------------------------------------------------------------------
+erik haddad, firechat with vision, language, chat
+michael soloati, geofire
+angularfirebase.com geofire vision -> esm-go, go-esm
+ionic stencil ionic 4 not bound to any web framework, it is all web components
+stencil , the typescript for web components, (web components compiler)
+rob dodson and stephen fluin talk on angular and web compoents
+2018 , web components, stencil, ionic 4, pwa , iot,
+angular conferences -> speaker list -> github repos
+
+
+ionic camera, paul halliday 
+angularfirebase, upload files 
+erik haddad, firechat 
+angularfirebase, firebase-starter 
+ionic2-camera, take picture from camera 
+angularfire2 ist in version 5 
+esm-pix with storage and firestore 
