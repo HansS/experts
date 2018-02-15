@@ -173,7 +173,7 @@ location:	[0° N, 0° E]
 text:		"message text"
 username:	"myname"
 ---------------------------------------------------------------------------------------------------------------------------------------
-
+storage: gs://esm-pix.appspot.com/
 <script src="https://www.gstatic.com/firebasejs/4.4.0/firebase.js"></script>
 <script>
   // Initialize Firebase

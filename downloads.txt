@@ -379,3 +379,4 @@ pluralsight, redux fundamentals, http://pcdownload.in/2018/01/19/pluralsight-red
 the longevity diet, http://nitroflare.com/view/3B0CE849CF23223/1568583095.epub/free 
 pluralsight, constructing angular ui, http://pcdownload.in/2018/02/06/pluralsight-constructing-a-user-interface-with-angular/ 
 stone river, angular 5 ecommerce, http://pcdownload.in/2018/01/23/stone-river-elearning-build-an-ecommerce-site-with-angular-5/ 
+pluralsight, ionic electron cross platform, http://pcdownload.in/2017/08/05/pluralsight-creating-cross-platform-apps-with-ionic-and-electron/ 

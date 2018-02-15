@@ -331,3 +331,31 @@ angularfirebase, firebase-starter
 ionic2-camera, take picture from camera 
 angularfire2 ist in version 5 
 esm-pix with storage and firestore 
+angularfirebase 3 Mon/ 50.- 
+egghead 12 Mon / 200.- 
+temp.mail 
+esm-pix.ch : users, messages, photos, places, search places nearby 2km, like photo, publish to instagram 
+
+Mo 12.02.2018
+--------------------------------------------------------------------------------------------------------------------------------------
+pluralsight, ionic electron cross platform, http://pcdownload.in/2017/08/05/pluralsight-creating-cross-platform-apps-with-ionic-and-electron/ 
+udemy instagram clone
+udemy , angular firebase instagramclone 
+ng blogs file 
+firestore auth angularfirebse 
+angularfirestarter auth sample from angularfirebase 
+
+Di 13.02.2018
+---------------------------------------------------------------------------------------------------------------------------------
+Health Hacking: 23./24./25. März Sion hospital romand, free, sleeping bag, train ticket 50.-
+Academicmind: firebase functions, image uploading
+angularfirebase: 50 3 months, 30 1 month, 500 livelong
+angularfirebase: firestore data modeling, not relational db modeling, application specific modeling
+angula5crud: dotnetmob
+
+Mi 14.02.2018
+--------------------------------------------------------------------------------------------------------------------------------
+chris esplin , firebase expert, yt list
+lars bilde, familiy photo app
+jen person, firebase functions ytl,D:\_downloads\Cloud Functions for Firebase - Tutorials - YouTube 
+angularfire2 docs , D:\A10-projects\angular-2-angularfire2\github-docs 
