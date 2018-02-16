@@ -7,3 +7,7 @@ ionic firebase book, https://javebratt.com/ionic-firebase-book/
 learn ionic3 with firebase, paul halliday on udemy.com, https://www.udemy.com/learn-ionic-3-from-scratch/?couponCode=IONIC3MAY  
 nuno costa, angularfire ionic ,https://github.com/nuno/af-firestore-ionic.git
 angularfire2 docs , D:\A10-projects\angular-2-angularfire2\github-docs 
+angularfirebase firebase-starter auth, storage, firestore 
+dave fisher, yt list firebase chat 
+dave fisher, yt list firestore photo bucket 
+firebase chat, D:\A10-projects\angular-2-angularfire2\Dave-Fisher\Quick Chat - YouTube 

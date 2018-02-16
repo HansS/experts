@@ -359,3 +359,9 @@ chris esplin , firebase expert, yt list
 lars bilde, familiy photo app
 jen person, firebase functions ytl,D:\_downloads\Cloud Functions for Firebase - Tutorials - YouTube 
 angularfire2 docs , D:\A10-projects\angular-2-angularfire2\github-docs 
+angularfirebase firebase-starter auth, storage, firestore 
+json api online, https://myjson.com 
+dave fisher, yt list firebase chat 
+dave fisher, yt list firestore photo bucket 
+photo bucket, D:\A10-projects\angular-2-angularfire2\Dave-Fisher\Photo Bucket Firebase Storage - YouTube 
+firebase chat, D:\A10-projects\angular-2-angularfire2\Dave-Fisher\Quick Chat - YouTube 
