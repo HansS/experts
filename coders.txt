@@ -49,3 +49,11 @@ andreas , iot youtuber
 dave fisher, angular firebase 
 chris eplin, firebase 
 wes bos, javascript 
+zsolt nagy, functional js expert 
+christian johansen, functional js expert 
+paul halliday , ionic expert 
+max schwarzmueller, udemy teacher 
+sebastian eschweiler, yt coder 
+jef delaney, angularfirebase.com, angular firebase expert 
+asegyl yonet, angular nwrl.io, expert 
+victor savkin, angular expert, nrwl.io founder 

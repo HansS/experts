@@ -5,3 +5,6 @@ pusher
 ngpoland 
 ndc 2018 london 
 angular conference vienna 2018, https://www.youtube.com/user/pusherapp/videos 
+ngeuerope Feb 2018 
+ngatlanta 
+ngvikings, march 2018 
