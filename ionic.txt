@@ -45,6 +45,22 @@ ion-list (separate line at top and buttom and padding around contenet)
 --------------------------------
 no-lines, inset, 
 
+esm-pix
+........................................................................
+ionic git repo
+----------------
+ionic   git@git.ionicjs.com:hansschenker/esm-pix-1.git (fetch)
+ionic   git@git.ionicjs.com:hansschenker/esm-pix-1.git (push)
+git remote add ionic git@git.ionicjs.com:hansschenker/esm-pix.git
+git push --set-upstream ionic master
+
+my git reps
+------------
+origin  https://github.com/HansS/exm-pix.git (fetch)
+origin  https://github.com/HansS/exm-pix.git (push)
+git remote add origin https://github.com/HansS/exm-pix.git
+git push --set-upstream origin master
+
 ion-item-group
 --------------------------------------------------------
 ion-item-divider

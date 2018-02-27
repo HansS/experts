@@ -381,3 +381,4 @@ pluralsight, constructing angular ui, http://pcdownload.in/2018/02/06/pluralsigh
 stone river, angular 5 ecommerce, http://pcdownload.in/2018/01/23/stone-river-elearning-build-an-ecommerce-site-with-angular-5/ 
 pluralsight, ionic electron cross platform, http://pcdownload.in/2017/08/05/pluralsight-creating-cross-platform-apps-with-ionic-and-electron/ 
 braithwaite , functional js expert 
+fb functions and messaging, http://pcdownload.in/2018/01/05/pluralsight-firebase-on-android-cloud-messaging-cloud-functions-and-crashlytics/ 

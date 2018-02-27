@@ -381,3 +381,76 @@ daily learning , wes bos , 30 days javascipt
 christoffer noring, 11.03.2018 , ngrx book
 pys, sampragnata samadhi, continuous flow of concentration on one object
 anabol, metabol, katabol, stoffwechsel, anabol: zell bildung mit energie zufuhr, metabol: energy erzeugung durch enery verbrennung, katabol: abbau von zell bildung
+
+Mi 21.02.2018
+---------------------------------------------------------------------------------------------------------------------------------------------
+firebase friendlychat angular
+firebase functions angular, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/index.html?index=..%2F..%2Findex#0
+hans fb auth, c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\hans\fb-auth , based on angularfirebase starterfirebase-camp 2018, https://github.com/Firebase-Camp/2018-friendly-chat-web 
+tunumbi, angularfire2 auth, :\Users\Folio\web\frontend\javascript\frameworks\angular\tunumbi\angular2-authentication-firebase 
+
+Do 22.02.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------
+oasis digital, ngrx for tour of heroes, chris hardin, yt download
+oasis digital, angularfire2demo
+
+31 micro tips from google microchardged
+
+instagram clone, janez cadez 
+janez cadez , github, https://github.com/jamzi/instagram 
+
+eduonix 10 projects angular2, 
+!!!! angular sample for esm-pix : google github friendlychat,  c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\google\friendlychat-web\cloud-functions-angular 
+google codelab friendlychat angularfire2, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/index.html?index=..%2F..%2Findex#1 
+
+netxpert.ch on github, c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\hans\netxpert 
+deploy angular to github page project
+netxpert.ch points to hanss/netxpert1
+ngh, cli tool for uploading angular project to github page project
+
+imagemagick, image processing with node, google team member, jen, D:\A10-projects\images
+github firebase functiions sample image processing, https://github.com/firebase/functions-samples/tree/master/quickstarts/thumbnails
+academind, max schwarzmüller, firebase function for image upload and image conver
+packtpub, image magick book
+imagemagick articles, D:\A10-projects\images
+
+esm-pix on google firebase
+alphoto app ?? <---> esm-pix
+
+Mo 26.02.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+food: 		avocado, turmeric, coriander, cilantro, petersillie, sellerie, wassermelone, nüsse, kokosoel, sesamoel, olivenoel, oliven, zitronen, honig, tomate, eier
+		zwiebeln, knoblach, rosmarin, nelken, safran, schwarzer pfeffer, langer pfeffer, chili, 
+
+		rindsleber, butter, ghee, speck, gras gefüttertes fleisch, lachs, thunfisch, sardinen (kaltwasser fische -> fett)
+		beeren, himbeeeren, 
+		milch, yoghurt, quark, käse
+
+ayurveda	1 glas wasser am morgen, schlafen von 22:00 bis 02:00, gedanken kontrolle, detoxify: sauna, wasser, schwitzen, warmes getränk den ganzen tag über
+
+gps		gps-tracks.com  (touren planer) 39:- pro Jahr
+
+google maps	javascript api, enable api,
+		angular google maps
+
+geopoint	firestore geopoint data type (siehe geofires.txt)
+
+geofire		nearby queries on firebase realtime database (depreciated)
+
+angularfirebase, paul halliday, max schwarzmüller
+
+esm-pix		photo with location data, esm strecke gpx -> geopoints for esm villages (
+		maloja, isola, sils, sils baselgia, furtschellas talstation,
+		surley, st.moritz schanze, st.moritz post, staazersee
+		stazzersee höhe, pontresiner höhe, pontresina, muotas muragl talstation, 
+		flugplatz samedan, bever, la punt, zuoz, 
+		schanf
+
+i
+Di 27.02.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Growth Hormon - generated when intermittent fasting
+HIT		High Intensity Training, 5 Min: 3 X 1 Min High Intense Biking, Running, Swimming, ...
+Strength	5 x Slow down / Slow up Push up, Squat 2 Legs, Squat 1 Leg
+Fast Diet	
+5 - 2 		Montag und Donnerstag 800 kcal am Tag, Restliche Tage Normal Essen

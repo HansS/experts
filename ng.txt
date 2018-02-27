@@ -108,3 +108,4 @@ angular weekly notes, https://docs.google.com/document/d/1rC5dz7AkCZP813daT_bccb
 play by play ward bell, angular design solutions, http://pcdownload.in/2017/10/19/pluralsight-play-by-play-angular-design-solutions/ 
 pluralsight, responsive navigation, http://pcdownload.in/2018/01/23/pluralsight-hands-on-responsive-web-design-4-navigation/ 
 lynda, http://pcdownload.in/2018/01/17/lynda-learning-rxjs/ , http://pcdownload.in/2018/01/17/lynda-learning-rxjs/ 
+netxpert.ch on github, c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\hans\netxpert 

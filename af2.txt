@@ -11,3 +11,5 @@ angularfirebase firebase-starter auth, storage, firestore
 dave fisher, yt list firebase chat 
 dave fisher, yt list firestore photo bucket 
 firebase chat, D:\A10-projects\angular-2-angularfire2\Dave-Fisher\Quick Chat - YouTube 
+tunumbi, angularfire2 auth, :\Users\Folio\web\frontend\javascript\frameworks\angular\tunumbi\angular2-authentication-firebase 
+google codelab friendlychat angularfire2, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/index.html?index=..%2F..%2Findex#1 
