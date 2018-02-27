@@ -454,3 +454,12 @@ HIT		High Intensity Training, 5 Min: 3 X 1 Min High Intense Biking, Running, Swi
 Strength	5 x Slow down / Slow up Push up, Squat 2 Legs, Squat 1 Leg
 Fast Diet	
 5 - 2 		Montag und Donnerstag 800 kcal am Tag, Restliche Tage Normal Essen
+geofire sample, c:\Users\Folio\web\firebase-geofire\michael-solati-gdg-chicago 
+learnable, C:\Users\Folio\web\google\maps\learnable\introduction-to-google-maps-api 
+css flexbox with guy routeledge, c:\Users\Folio\web\frontend\css\guy-routeledge\Guy-R-Flexbox\code-examples\flexbox-form-complete 
+geofire query, c:\Users\Folio\web\firebase-geofire\michael-solati-gdg-chicago 
+google places, C:\Users\Folio\web\google\google-places\google-places-js 
+angular-google-maps, c:\Users\Folio\web\frontend\javascript\frameworks\angular-google-maps\angular-google-maps 
+npm google-maps 
+ngrx schematics , roberts brandon on medium 
+google maps api v3, geometry, places 

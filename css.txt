@@ -89,3 +89,4 @@ atoz css serie on sitepoint guy routeledge, https://www.sitepoint.com/tag/atoz-c
 lynda animations with css, http://pcdownload.in/2016/01/22/cgp-178/  
 css layout with rachel andrew, https://thecssworkshop.com/account 
  fem workshop: css layout, D:\_downloads\CSS Grids and Flexbox - YouTube 
+css flexbox with guy routeledge, c:\Users\Folio\web\frontend\css\guy-routeledge\Guy-R-Flexbox\code-examples\flexbox-form-complete 

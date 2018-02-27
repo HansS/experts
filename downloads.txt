@@ -382,3 +382,5 @@ stone river, angular 5 ecommerce, http://pcdownload.in/2018/01/23/stone-river-el
 pluralsight, ionic electron cross platform, http://pcdownload.in/2017/08/05/pluralsight-creating-cross-platform-apps-with-ionic-and-electron/ 
 braithwaite , functional js expert 
 fb functions and messaging, http://pcdownload.in/2018/01/05/pluralsight-firebase-on-android-cloud-messaging-cloud-functions-and-crashlytics/ 
+html5 geolocation, http://pcdownload.in/2015/05/27/oreilly-mobile-html5/ 
+geolocation in web sites, http://pcdownload.in/2016/06/22/cgp-1355/ 
