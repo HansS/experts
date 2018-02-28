@@ -32,7 +32,7 @@ links - epicop google maps
   };
   firebase.initializeApp(config);
 </script>
-
+-----------------------------------------------------------------------------
 notes - based on AngularFirebase angular-firestarter
 ------------------------------------------------------------------------------
 
@@ -50,6 +50,7 @@ notes - based on AngularFirebase angular-firestarter
   firebase.initializeApp(config);
 </script>
 
+-----------------------------------------------------------------------------
 coders // stephen fluin GDG Mountain devfest
 -------------------------------------------------------------------------
 

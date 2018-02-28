@@ -463,3 +463,15 @@ angular-google-maps, c:\Users\Folio\web\frontend\javascript\frameworks\angular-g
 npm google-maps 
 ngrx schematics , roberts brandon on medium 
 google maps api v3, geometry, places 
+
+Mi 11:35 28.02.2018
+-------------------------------------------------------------------------------------------------------------------
+vitamine D, dr prof pötz, 4 std/Woche Sonne ohne T-Shirt, 1x Monat 1 Std Solarium
+conemu cli new shortcuts
+photo gallery wes doyle
+patanjali mobile
+
+c:\Users\Folio\web\google\maps 
+C:\Users\Folio\web\mobile\ionic\paul-halliday\Ionic-3-Firebase-Login-Register 
+ionic sidebar in ionic tutorial template 
+ionic 3 html geolocation,C:\Users\Folio\web\mobile\ionic-google-maps\ionic3-google-maps-examples 
