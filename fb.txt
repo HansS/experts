@@ -4,3 +4,4 @@ firebase-camp 2018, https://github.com/Firebase-Camp/2018-friendly-chat-web
 firebase storage 
 firebase firestore 
 david east 
+fb codelab, "https://www.youtube.com/watch?v=QVAkTFiTr34&list=WL&index=100&t=861s" 

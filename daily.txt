@@ -467,11 +467,46 @@ google maps api v3, geometry, places
 Mi 11:35 28.02.2018
 -------------------------------------------------------------------------------------------------------------------
 vitamine D, dr prof pötz, 4 std/Woche Sonne ohne T-Shirt, 1x Monat 1 Std Solarium
+
 conemu cli new shortcuts
+
 photo gallery wes doyle
+
 patanjali mobile
 
 c:\Users\Folio\web\google\maps 
 C:\Users\Folio\web\mobile\ionic\paul-halliday\Ionic-3-Firebase-Login-Register 
 ionic sidebar in ionic tutorial template 
 ionic 3 html geolocation,C:\Users\Folio\web\mobile\ionic-google-maps\ionic3-google-maps-examples 
+
+Donnerstag 09:55 01.03.2018
+-----------------------------------------------------------------------------------------------------------------------------------
+dr jason fung , complete guide to fasting, D:\A10-projects\personal\Intermittend-Fasting
+dr berg, yt, anti aging webinar, ++ grothw hormon through intermittent fasting and HIT - High Intensity Training, Intervall Training
+insulin resistance
+insulin hormon
+adrenal gland, nebennieren drüsen, 
+leber, healing with cale, crucifer vegetable
+ruga yaga, worship the life energies: space, air, earth, fire, water, moon, sun, become a supporter of the life energies
+shri vidya, swami rama, swamij.com, learn to give to receive, who is not giving is not receiving 
+
+angular
+firebase
+angularfire2
+ionic firebase auth, wes doyle, C:\Users\Folio\web\mobile\ionic-angularfire2\wes-doyle\ionic-menu-demo 
+angularfire2 template with bootstrap 4 template, c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\hans\aftemplate 
+angularfire template, c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\hans\aftemplate 
+angular-university, new angularfire course, c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\angular-university\fuzzy-memory-tmp 
+angularfire template vorlage, C:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\hans\packtpub-twitter 
+
+Freitag 05:02 02.03.2018
+----------------------------------------------------------------------------------------------------------------------------------------------------
+ayurveda, dr svoboda, www.cisindus.org, https://cisindus.org//All
+sadhguru, having assumptions and conclusions is the sign of dying, seeking the truth, what is not working in failurre, what is working in my success
+seeking the truth for the best of it
+taking responsibility for your life
+
+friendlyChat angular 4 firebase 4 fb codelab, c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\jason-dobry-fb-codelab\friendlychat\cloud-functions-angular 
+fb codelab, "https://www.youtube.com/watch?v=QVAkTFiTr34&list=WL&index=100&t=861s" 
+stephen fluin, demos with angular, angular in cordova, C:\Users\Folio\web\mobile\cordova\angular-cordova\stephen-fluin 
+stephen fluin, demos with angular video, D:\_downloads\Demos with Angular Stephen Fluin 

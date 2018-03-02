@@ -14,10 +14,13 @@ esm-pix
   };
   firebase.initializeApp(config);
 </script>
+--------------
+google map key
+------------------------
 google developers google maps api key: AIzaSyDpl0x8hGRyRJme5hJAm2RUS-EJpKdG2CM
 
 ----------------------------------------------------------------------------------
-links - epicop google maps
+links - epicop google maps // used as test firebase project
 --------------------------------------------------------------------------
 <script src="https://www.gstatic.com/firebasejs/4.10.0/firebase.js"></script>
 <script>

@@ -142,3 +142,4 @@ swipeable tabs, C:\Users\Folio\web\mobile\ionic\swipedTabs-ionic3\
 raja yogan, ionic , rx , angular, ytber, https://www.youtube.com/watch?v=IXC25DE-aK4 
 mastering ionic book, james griffiths, http://masteringionic.com/ 
 ionic play by play share code , http://pcdownload.in/2017/12/15/pluralsight-play-by-play-sharing-code-with-npm-modules-between-angular-web-and-ionic-mobile-apps/ 
+ionic firebase auth, wes doyle, C:\Users\Folio\web\mobile\ionic-angularfire2\wes-doyle\ionic-menu-demo 
