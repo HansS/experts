@@ -111,3 +111,5 @@ lynda, http://pcdownload.in/2018/01/17/lynda-learning-rxjs/ , http://pcdownload.
 netxpert.ch on github, c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\hans\netxpert 
 stephen fluin, demos with angular, angular in cordova, C:\Users\Folio\web\mobile\cordova\angular-cordova\stephen-fluin 
 stephen fluin, demos with angular video, D:\_downloads\Demos with Angular Stephen Fluin 
+oasis digital angular bootcamp, c:\Users\Folio\web\frontend\javascript\frameworks\angular\angularbootcamp-courses\abc 
+angular algolia, instant search, https://community.algolia.com/angular-instantsearch/getting-started.html 

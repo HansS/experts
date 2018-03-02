@@ -20,7 +20,9 @@ google map key
 google developers google maps api key: AIzaSyDpl0x8hGRyRJme5hJAm2RUS-EJpKdG2CM
 
 ----------------------------------------------------------------------------------
-links - epicop google maps // used as test firebase project
+links - used as test firebase project
+----------------------------------------------------------------------------
+books api key: AIzaSyBEi3-hytC-XSYbuI2kI6g9i8i7FKRVppc
 --------------------------------------------------------------------------
 <script src="https://www.gstatic.com/firebasejs/4.10.0/firebase.js"></script>
 <script>
@@ -35,6 +37,9 @@ links - epicop google maps // used as test firebase project
   };
   firebase.initializeApp(config);
 </script>
+---------------------------------------------------------------------------------
+
+
 -----------------------------------------------------------------------------
 notes - based on AngularFirebase angular-firestarter
 ------------------------------------------------------------------------------

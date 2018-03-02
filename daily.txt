@@ -510,3 +510,7 @@ friendlyChat angular 4 firebase 4 fb codelab, c:\Users\Folio\web\frontend\javasc
 fb codelab, "https://www.youtube.com/watch?v=QVAkTFiTr34&list=WL&index=100&t=861s" 
 stephen fluin, demos with angular, angular in cordova, C:\Users\Folio\web\mobile\cordova\angular-cordova\stephen-fluin 
 stephen fluin, demos with angular video, D:\_downloads\Demos with Angular Stephen Fluin 
+oasis digital angular bootcamp, c:\Users\Folio\web\frontend\javascript\frameworks\angular\angularbootcamp-courses\abc 
+angular algolia, instant search, https://community.algolia.com/angular-instantsearch/getting-started.html 
+indian cooking, https://www.vahrehvah.com/chutney-and-pickles-recipes 
+ayurveda cooking, https://www.ayurveda.com/videostream/ 
