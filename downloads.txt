@@ -384,3 +384,17 @@ braithwaite , functional js expert
 fb functions and messaging, http://pcdownload.in/2018/01/05/pluralsight-firebase-on-android-cloud-messaging-cloud-functions-and-crashlytics/ 
 html5 geolocation, http://pcdownload.in/2015/05/27/oreilly-mobile-html5/ 
 geolocation in web sites, http://pcdownload.in/2016/06/22/cgp-1355/ 
+lynda , layout composition, http://pcdownload.in/2018/03/15/lynda-layout-and-composition-advanced-principles/  
+lynda, angulaar routing 2018, http://pcdownload.in/2018/03/03/lynda-angular-routing/ 
+lynda, angular large apps, 2018, http://pcdownload.in/2018/02/27/lynda-angular-building-large-applications/ 
+lynda, learning mindset, http://pcdownload.in/2018/02/27/lynda-developing-a-learning-mindset/ 
+lynda vanilla data and event binding, http://pcdownload.in/2018/02/26/lynda-vanilla-javascript-binding-and-propagation/ 
+lynda, angular cli 2018, http://pcdownload.in/2018/02/23/lynda-learning-the-angular-cli/ 
+pl, css grids, http://pcdownload.in/2018/03/03/pluralsight-building-layouts-with-the-css-grid/ 
+ECHO ist eingeschaltet (ON).
+es6, the right parts, http://pcdownload.in/2018/03/02/pluralsight-es6-the-right-parts/ 
+pl, js functionality organisation, http://pcdownload.in/2018/02/24/pluralsight-organizing-javascript-functionality/ 
+ECHO ist eingeschaltet (ON).
+angular ui, http://pcdownload.in/2018/02/06/pluralsight-constructing-a-user-interface-with-angular/ 
+pl, angular http communicatiion, http://pcdownload.in/2018/03/12/pluralsight-angular-http-communication/ 
+pl, redux fundamentals, https://www.pluralsight.com/courses/redux-fundamentals 

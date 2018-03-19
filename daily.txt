@@ -514,3 +514,59 @@ oasis digital angular bootcamp, c:\Users\Folio\web\frontend\javascript\framework
 angular algolia, instant search, https://community.algolia.com/angular-instantsearch/getting-started.html 
 indian cooking, https://www.vahrehvah.com/chutney-and-pickles-recipes 
 ayurveda cooking, https://www.ayurveda.com/videostream/ 
+
+Di 14:10 13.03.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mi 09:19 14.03.2018
+_____________________________________________________________________________________________________________________________________________________
+matias niemelä, 5 years angular, ngvikings
+manfred steyer, custom angular schematics 
+james henry, nrwl, nx and schenatics, ngviking 
+measure keto 
+https://ketonutrition.org/resources, ketone nutrition 
+daniel pugge, training, keto 
+http://danielpugge.de/ 
+ketone ern„hrung im sport, http://lowcarbsport.de/  
+arduino based keto sensor, https://jenslabs.com/2013/06/06/ketosense-an-arduino-based-ketosis-detector/ 
+
+Do 07:52 15.03.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+healthy aging, https://medschool.ucsd.edu/research/aging/Pages/default.aspx
+kim maiden, angular auth0
+ryan chenkie , angular auth0
+cancer as a metabolic desease
+shealthy aging, https://medschool.ucsd.edu/research/aging/Pages/default.aspx 
+healty aging tv, https://www.uctv.tv/ 
+john papa and ward bell, ngrx-data, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\john-pappa\ngrx-demo 
+BreezeJs, ward bell, http://pcdownload.in/2017/06/21/pluralsight-building-data-centric-apps-with-angular-and-breezejs/ 
+angular http communicaation, http://pcdownload.in/2018/03/12/pluralsight-angular-http-communication/ 
+fabian grosebrink, angular electron, c:\Users\Folio\web\frontend\javascript\frameworks\angular\fabian-grosebrink 
+ward bell, advanced di in angular, c:\Users\Folio\web\frontend\javascript\frameworks\angular\ward-bell 
+
+Sa 08:14 17.03.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+gerard sans, ngrx entities, https://www.youtube.com/watch?v=8rpRVg6yhFk
+cypress, bert hengeveld, reactive native sensor manager,   https://github.com/ghengeveld/react-native-sensor-manager 
+ngvikings 2018 
+firebase book , Hands-on Full Stack Development with Angular 5 and Firebase  
+af5 firebase packtpub uttam agarwal, C:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\uttam-agarwal\HandOnFullStackDevelopmentwithAngular5andFirebase_Code 
+css framework for angular, clarity  
+uttam agarwal angularfire5 firebase login 
+lynda, new course 2018, learning, angular big apps, layout desing, vanuilla js data and event binding 
+packpub.com, chris noring, angular application architecture, 
+packpub.com, angularfire5 uttam agarwal 
+hsr stolze, fem 2018 presenation mi 21.03 18:15 
+gerard sans, ngrx samples on github 
+oatmeal for breakfast is very healthy 
+everyday nuts is very healthy 
+fruits and vegetables for the main part of nutrition 
+nutrition info, https://nutritionfacts.org/ 
+65 years old australian couple run everday a marathon for a year, around australia 
+ngrx sample application, books collection,  https://ngrx.github.io/platform/example-app/#/login 
+ngrx schematics sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\schematics\heros-app 
+
+Mo 09:11 19.03.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+pl, css grids 
+nx intro, https://angularplaybook.com/courses 
