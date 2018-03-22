@@ -398,3 +398,4 @@ ECHO ist eingeschaltet (ON).
 angular ui, http://pcdownload.in/2018/02/06/pluralsight-constructing-a-user-interface-with-angular/ 
 pl, angular http communicatiion, http://pcdownload.in/2018/03/12/pluralsight-angular-http-communication/ 
 pl, redux fundamentals, https://www.pluralsight.com/courses/redux-fundamentals 
+ngrx play by play, http://alfafile.net/file/nBwv 

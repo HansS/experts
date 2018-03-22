@@ -1,0 +1,13 @@
+ngrx-schematics
+-------------------------------------------------------------------------------------------------------
+npm install @ngrx/schematics --save-dev
+
+initial store and effects
+-----------------------------------------------
+ng generate store State --root --statePath store --module app.module.ts --collection=@ngrx/schematics
+ng generate effect App --root --module app.module.ts --collection @ngrx/schematics
+
+generate users feature (folder users, class User)
+-------------------------------------------------
+ng g m users --routing
+ng generate feature users/User -m users.module.ts --group  --collection=@ngrx/schematicsNgrx-Schematics 

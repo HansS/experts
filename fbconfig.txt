@@ -20,7 +20,7 @@ google map key
 google developers google maps api key: AIzaSyDpl0x8hGRyRJme5hJAm2RUS-EJpKdG2CM
 
 ----------------------------------------------------------------------------------
-links - used as test firebase project
+links - links / notes / posts/ users
 ----------------------------------------------------------------------------
 books api key: AIzaSyBEi3-hytC-XSYbuI2kI6g9i8i7FKRVppc
 --------------------------------------------------------------------------
@@ -75,3 +75,22 @@ coders // stephen fluin GDG Mountain devfest
   };
   firebase.initializeApp(config);
 </script>
+
+-------------------------------------------------------------------------
+workouts:  ultimate angular angular pro sample app
+-------------------------------------------------------------------------
+
+<script src="https://www.gstatic.com/firebasejs/4.11.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAO9CdsQhivZTWs-Y557YOFhXzNO2jrbK4",
+    authDomain: "workouts-379d7.firebaseapp.com",
+    databaseURL: "https://workouts-379d7.firebaseio.com",
+    projectId: "workouts-379d7",
+    storageBucket: "",
+    messagingSenderId: "561713499602"
+  };
+  firebase.initializeApp(config);
+</script>
+----------------------------------------------------------------------------------

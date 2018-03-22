@@ -570,3 +570,58 @@ Mo 09:11 19.03.2018
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 pl, css grids 
 nx intro, https://angularplaybook.com/courses 
+nx, duncan hunter workshop
+ngrx, duncan hunter
+angular upgrade to ngrx, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\biophoton\angular-ngrx-refactoring\docs 
+angular expert biophoton, angular vienna, fellow of manfred steyer, :\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\biophoton 
+
+Di 07:42 20.03.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+angularfire sample, quizz angular 5, https://github.com/DotnetMob/Angular-5-Quiz-App-With-Web-API/blob/master/Angular5/package.json
+Brain food: 
+
+1 dark chocolate, 
+2 coconut oil, 
+3 avocado, 
+4 blueberry
+5 egg, 
+6 olivoil, 
+7 selery, 
+8 broccoli, 
+9 honey , 
+10 garlic,
+11 onions
+12 leafy vegetable
+13 red beets
+14 cylantrop
+15 salmon
+16 sardine
+
+herbs, 
+fruits, 
+vegetable, 
+mushroom, 
+nuts, 
+seeds, 
+berries
+
+oils
+
+fats
+ google web maps expert, Katerina Skroumpelou 
+brian love, ngrx auth, http://brianflove.com/2017/04/10/angular-reactive-authentication/ 
+
+Mi 08:09 21.03.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+angular auth in a mean app,  C:\Users\Folio\web\fullstack\mean\Angular-Authentication-Tutorial
+rxjs doc website, http://rxjsdocs.com/#/  
+rachel andrew, css workshop, https://thecssworkshop.com/  
+SIFT Sense - Image - Feeling - Thought (sense - -
+manfred steyer , schematics articule 
+jetbrains, typescript basics yt course,  
+ayureveda cooking, D:\_downloads\Mrs KM Mathew's Kerala Recipes - YouTube 
+be a wise choice maker, do not be a flipper box, be a gps navigating through flipper box 
+deepak chopra, science, religion, politics are made up stories 
+current project, C:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire\ultimateangular\angular-pro-app-ngrx 
+ngrx play by play, http://alfafile.net/file/nBwv 
+angular schematics expert, vitaly bobrov 

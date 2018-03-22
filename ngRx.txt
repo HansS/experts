@@ -40,3 +40,5 @@ ngrx material starter tomas trajan, c:\Users\Folio\web\frontend\javascript\frame
 ngrx expert, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\vaslan-vatsaev\angular-contacts-app-example 
 use ngrx/codegen, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\ngrx-platform\platform\modules\codegen\src 
 yarn run codegen 
+angular expert biophoton, angular vienna, fellow of manfred steyer, :\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\biophoton 
+brian love, ngrx auth, http://brianflove.com/2017/04/10/angular-reactive-authentication/ 

@@ -1,44 +1,44 @@
- bash commands
---------------------------------------------------------------------------------
+files
+----------------------------------------------------------------------------------
 alias dp=dir /p
 alias la= ls -al
 alias t= type $*
+ 
+cli search
+--------------------------------------------------------------------------------
+alias grp=grep '$*' *.txt
 alias cb=cd..
 alias cbb=cd.. && cd..
-alias cbr=cd c:\users\folio
 alias ec= echo $*
-alias gp=grep '$*' *.txt
-
-bash directories , files
------------------------------------------------------------------------------------
-
+alias ecd= echo $* >> daily.txt 
+alias ecdl= echo $* >> downloads.txt
  
-***vscode
+vscode
 -----------------------------------------------------------------------------------
 alias vc= code .
 alias vcr=code . -r
  
 set PATH=%ConEmuBaseDir%\Scripts;%PATH%
  
-***daily
+daily
 ----------------------------------------------------------------
 alias cwd=cd c:\users\folio\dropbox\experts &&  dir /p
 alias cwdo=cd c:\users\folio\dropbox\experts && notepad.exe daily.txt
 alias npd=notepad.exe daily.txt
 alias td=type daily.txt
-alias da= cwd && cwdo
  
-***notepad
+notepad
 --------------------------------------------------------------------------------
 alias np=notepad.exe $*
  
-***backend node
+backend node
 ------------------------------------------------------------------------------
-alias cwnd= cd C:\Users\Folio\web\backend\node && dir /p
-alias cwexp= cd c:\Users\Folio\web\backend\express && dir /p
-
+alias cwn= cd C:\Users\Folio\web\backend\node && dir /p
+alias cwnd= cd c:\Users\Folio\web\backend\node && dir /p
+alias cwxp= cd c:\Users\Folio\web\backend\express && dir /p
  
-***frontend html css javascript
+ 
+frontend html css javascript
 --------------------------------------------------------------------------------
 html
 alias cwh= cd c:\Users\Folio\web\frontend\html && dir /p
@@ -48,9 +48,9 @@ alias cwsa= cd c:\Users\Folio\web\frontend\css\frameworks\sass && dir /p
 alias cwsf= cd c:\Users\Folio\web\frontend\css\flexbox && dir /p
 javascript
 alias cwj= cd c:\Users\Folio\web\frontend\javascript
-
  
-***angular directories
+ 
+angular directories
 -----------------------------------------------------------------------------------
 angular
 alias cwa= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular && dir /p
@@ -68,9 +68,42 @@ typescript
 alias cwat=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-typescript && dir /p
 ngrx
 alias cwang=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngRx && dir /p
-
-
-***angular-cli 
+google-maps agm
+alias cwag= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-google-maps 
+ 
+mobile directories mobile ionic
+-------------------------------------------------------------------------------------
+mobile
+alias cwm= cd C:\Users\Folio\web\mobile && dir /p
+alias cwmh= cd C:\Users\Folio\web\mobile\hans && dir /p
+ionic
+alias cwmi=cd  C:\Users\Folio\web\mobile\ionic && dir /p
+alias cwmih=cd  C:\Users\Folio\web\mobile\ionic\hans && dir /p
+ 
+ionic
+-------------------------------------------------------------------------------------
+alias icble=ionic cordova plugin add cordova-plugin-ble-central npm install --save @ionic-native/ble
+alias icrad=ionic cordova run android --device
+alias icradl=ionic cordova run android --device --livereload
+alias icpaa=ionic cordova platform add android
+ 
+alias igc=ionic g component $*
+alias igd=ionic g directive $*
+alias igpa=ionic g page $*
+alias igpi=ionic g pipe $*
+alias igpro=ionic g provider
+alias igta=ionic g tabs
+ 
+alias isl=ionic serve -l
+alias is= ionic serve
+ 
+bundlers
+-------------------------------------------------------------------------------------
+alias cwfw=cd C:\Users\Folio\web\frontend\module-bundlers\webpack && dir /p
+alias cwph= cd C:\Users\Folio\web\frontend\module-bundlers\webpack\hans && dir /p
+ 
+ 
+angular-cli 
 ---------------------------------------------------------
 serve/open
 alias ngo= ng serve -o
@@ -89,50 +122,13 @@ alias ngm=ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g pipe 
  
 auth module
 -----------------------------------------------------------
-alias ngma=ng g m auth --routing && ng g c auth \auth\auth -m \auth\auth.module.ts && ng g c \auth\login \auth\auth -m \auth\auth.module.ts && ng g c \auth\register \auth\auth -m \auth\auth.module.ts && dir && ng g s auth \auth\auth -m /auth/auth.module.ts
+alias ngma=ng g m auth --routing && ng g c auth \auth\auth -m \auth\auth.module.ts && ng g c \auth\login \auth\auth -m \auth\auth.module.ts && ng g c \auth\signup \auth\auth -m auth.module.ts && dir && ng g s auth \auth\auth -m /auth/auth.module.ts
  
 material
 ---------------------------------------------------------
 alias ngmat=npm i -S @angular/material @angular/cdk hammerjs @angular/flex-layout && ng g m layout
-
-
-***ionic directories
----------------------------------------------------------------------------------------
-alias cwm= cd C:\Users\Folio\web\mobile && dir /p
-alias cwmh= cd C:\Users\Folio\web\mobile\hans && dir /p
-alias cwmi=cd  C:\Users\Folio\web\mobile\ionic && dir /p
-
-add plugin, run
--------------------------------------------------------------------------------------
-plugins
-alias icbale=ionic cordova plugin add cordova-plugin-ble-central npm install --save @ionic-native/ble
-
-
-run
-alias icrad=ionic cordova run android --device
-alias icradl=ionic cordova run android --device --livereload
-alias icpaa=ionic cordova platform add android
-
-generate 
-alias igc=ionic g component $*
-alias igd=ionic g directive $*
-alias igpa=ionic g page $*
-alias igpi=ionic g pipe $*
-alias igpro=ionic g provider
-alias igta=ionic g tabs
-
-start
-alias is= ionic serve
-alias isl=ionic serve -l
  
-***bundlers
--------------------------------------------------------------------------------------
-alias cwfw=cd C:\Users\Folio\web\frontend\module-bundlers\webpack && dir /p
-alias cwph= cd C:\Users\Folio\web\frontend\module-bundlers\webpack\hans && dir /p
-
- 
- 
-***bootstrap
+bootstrap
 ----------------------------------------------------------
 alias bsi= npm i -S bootstrap jquery tether
  
@@ -140,20 +136,25 @@ node server
 --------------------------------------------------------
 alias hso= hs -o -p 4444
  
-***npm
+npm
 -------------------------------------------------------------------------------------
 alias ni=npm install
-alias ns=npm start
 alias nis=npm install -S $*
 alias nid=npm install -D $*
+
 alias nist=npm install && npm start
 
+alias ns=npm start
+
+alias nr=npm run $*
+
  
-***yarn
+ 
+yarn
 --------------------------------------------------------------------
 alias ya=yarn
  
-***git
+git
 --------------------------------------------------------------------------------------------
 alias gitgo=git add . && git commit -m "new stuff" && git push && git status
 alias gc=git clone $*
@@ -164,23 +165,23 @@ alias ga=git add .
 alias gs=git status
  
  
-***ngrx dir install dependencies devdependencies schematics
+ngrx dir 
 --------------------------------------------------------------------------------------
 alias cwarx=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans && dir
-dependencies
+
+ngrxi install dependencies
 ----------------
-alias ngrx= npm install @ngrx/store @ngrx/effects @ngrx/router-store @ngrx/entity @ngrx/store-devtools --save
-devdependencies
-----------------
-alias ngrxd=npm install jasmine-marbles ngrx-store-freeze generate-ngrx @ngrx/store-devtools --only=dev --save
-schematics
+alias ngrxi= npm install @ngrx/store @ngrx/effects @ngrx/router-store @ngrx/entity @ngrx/store-devtools --save
+
+ngrx schematics
 -----------------
-alias ngrxsch=npm i -S ngrx-schematics-builds ng g store State --root -m app.module.ts -c @ngrx/schematics &&  ng g action $* -c @ngrx/schematics && ng g reducer $* -c @ngrx/schematics && ng g effect $* --root -c @ngrx/schematics && ng g feature $* -c @ngrx/schematics && ng g entity $* -c @ngrx/schematics
+npm install @ngrx/schematics --save-dev && npm install @ngrx/store && npm install @ngrx/effects && npm install @ngrx/entity && npm install @ngrx/store-devtools && ng set defaults.schematics.collection=@ngrx/schematics && ng generate store State --root --module app.module.ts --collection @ngrx/schematics && ng generate effect App --root --module app.module.ts --collection @ngrx/schematics
+
  
-***firebase dir install
+firebase dir install
 -------------------------------------------------------------------------------------
 alias fbi=npm install firebase angularfire2 --save
-
+ 
 alias fb=cd c:\Users\Folio\web\firebase\ && dir
 alias fba= cd c:\Users\Folio\web\firebase-authentication && dir
 alias fbdb= cd c:\Users\Folio\web\firebase-database && dir
@@ -191,11 +192,12 @@ alias fbio= cd c:\Users\Folio\web\firebase-iot && dir
 alias fbm= cd c:\Users\Folio\web\firebase-messages && dir
 alias fbst= cd c:\Users\Folio\web\firebase-storage && dir
 alias fbui= cd c:\Users\Folio\web\firebase-ui && dir
-
  
-***schematics
+ 
+schematics
 -------------------------------------------------------------------------------------------------------
-
-
-***google maps places directions locations
+ 
+ 
+google maps places directions locations
 ------------------------------------------------------------------------------------------------------
+alias gma=cd c:\Users\Folio\web\google\maps
