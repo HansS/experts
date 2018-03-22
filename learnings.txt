@@ -66,3 +66,13 @@ lynda, gpio fundamentals
 udacity, http client server communication 
 ocw , iot course, https://ocw.cs.pub.ro/courses/iot 
 whyliodrin.org, iot online ide 
+udemy offline firse jake archibald, https://classroom.udacity.com/courses/ud899/lessons/6381510081/concepts/63885494270923 
+udemy offline labs, C:\Users\Folio\web\offline\udacity-offline-jake-archibald\wittr 
+webhooks, learn how to do webhooks 
+web sockets, learn how to code web sockets 
+ionic 3 yt list of paul halliday, D:\_downloads\Ionic 3 - YouTube 
+android essentials, android smart phone user 
+progressive web apps 
+pouchdb, indexeddb 
+ngrx, nx , victor savkin 
+typescript expert, marius schulz, egghead course, https://blog.mariusschulz.com/archive 

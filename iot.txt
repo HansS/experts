@@ -4,3 +4,19 @@ andreas spiess , iot esp8266 arduino wifi expert
 whyliodrin.org, iot online ide 
 silabs react thunderboard, ble dev 
 iot ble, https://mbientlab.com/ 
+web on devices, http://www.webondevices.com/ 
+gordon williams, puck.js creator, https://github.com/gfwilliams?tab=repositories 
+espruino workshop, gordon williams, puck.js creator,  https://github.com/gfwilliams/EspruinoScreenWorkshop/blob/master/workshop.md 
+webtech vidoes, https://pusher.com/sessions 
+webtech vidoes, https://pusher.com/sessions 
+pluralsight, intel edison node, http://pcdownload.in/2015/06/25/pluralsight-node-js-and-the-internet-of-things-using-intel-edison/ 
+google-iot mongoose adafruit starterkit, https://www.electronic-shop.com/DE/shoppingcart 
+iot starter kit azure adafruit huzzah, https://azure.microsoft.com/de-de/resources/samples/iot-hub-c-huzzah-getstartedkit/ 
+iot expert neil kolban, neilkolban.com, yt reference andreas spiess 172 
+lynda, raspberri pi 3 gpi io, http://pcdownload.in/2016/05/13/lynda-raspberry-pi-gpio-depth/ 
+lynda, semicconductor devices, http://pcdownload.in/2017/09/08/lynda-electronics-foundations-semiconductor-devices/ 
+lynda, windows 10 iot installation, http://pcdownload.in/2017/03/20/lynda-iot-development-with-windows-10-iot-core-1-installation-and-basic-connection/ 
+oreilly, electronics cookbook, http://pcdownload.in/2017/12/06/oreilly-electronics-cookbook/ 
+packt, electronics workbench, http://pcdownload.in/2017/08/21/packt-publishing-the-electronics-workbench-a-setup-guide/ 
+packt, electronics for arduino makers 
+neil kolban, esp32 bluetooth expert 

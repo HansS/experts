@@ -1,111 +1,160 @@
-files
-alias d=dir /p
+ bash commands
+--------------------------------------------------------------------------------
+alias dp=dir /p
 alias la= ls -al
 alias t= type $*
 alias cb=cd..
 alias cbb=cd.. && cd..
+alias cbr=cd c:\users\folio
+alias ec= echo $*
+alias gp=grep '$*' *.txt
+
+bash directories , files
+-----------------------------------------------------------------------------------
+
  
-cli search
-alias gt=grep '$*' *.txt
- 
-vscode
+***vscode
+-----------------------------------------------------------------------------------
 alias vc= code .
 alias vcr=code . -r
  
 set PATH=%ConEmuBaseDir%\Scripts;%PATH%
  
-daily
+***daily
+----------------------------------------------------------------
 alias cwd=cd c:\users\folio\dropbox\experts &&  dir /p
-alias tp=notepad.exe daily.txt
+alias cwdo=cd c:\users\folio\dropbox\experts && notepad.exe daily.txt
+alias npd=notepad.exe daily.txt
 alias td=type daily.txt
+alias da= cwd && cwdo
  
-notepad
+***notepad
+--------------------------------------------------------------------------------
 alias np=notepad.exe $*
  
-web
-alias cwdo=cd c:\users\folio\dropbox\experts && notepad.exe daily.txt
-alias cwn= cd C:\Users\Folio\web\backend\node && dir /p
+***backend node
+------------------------------------------------------------------------------
+alias cwnd= cd C:\Users\Folio\web\backend\node && dir /p
+alias cwexp= cd c:\Users\Folio\web\backend\express && dir /p
+
  
-frontend
-alias cws= cd c:\Users\Folio\web\frontend\css && dir /p
-alias cwsf= cd c:\Users\Folio\web\frontend\css\flexbox && dir /p
-alias cwj= cd c:\Users\Folio\web\frontend\javascript
- 
-dir backend
-alias cwnd= cd c:\Users\Folio\web\backend\node && dir /p
-alias cwxp= cd c:\Users\Folio\web\backend\express && dir /p
- 
-dir angular
-alias cwa= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular && dir /p
-alias cward= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-redux && dir /p
-alias cwarx= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-rxjs && dir /p
-alias cwph= cd C:\Users\Folio\web\frontend\module-bundlers\webpack\hans && dir /p
+***frontend html css javascript
+--------------------------------------------------------------------------------
+html
 alias cwh= cd c:\Users\Folio\web\frontend\html && dir /p
+css
+alias cws= cd c:\Users\Folio\web\frontend\css && dir /p
+alias cwsa= cd c:\Users\Folio\web\frontend\css\frameworks\sass && dir /p
+alias cwsf= cd c:\Users\Folio\web\frontend\css\flexbox && dir /p
+javascript
+alias cwj= cd c:\Users\Folio\web\frontend\javascript
+
  
-dir mobile
-alias cwm= cd C:\Users\Folio\web\mobile && dir /p
-alias cwmh= cd C:\Users\Folio\web\mobile\hans && dir /p
-alias cwmi=cd  C:\Users\Folio\web\mobile\ionic && dir /p
- 
-dir angular plus
-alias cwaf=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire && dir /p
-alias cwam=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-material && dir /p
-alias cwat=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-typescript && dir /p
+***angular directories
+-----------------------------------------------------------------------------------
+angular
+alias cwa= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular && dir /p
+angular hans
 alias cwah=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans && dir /p
-alias cwarx=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-rxjs && dir /p
+redux
+alias cward= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-redux && dir /p
+rxjs
+alias cwarx= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-rxjs && dir /p
+angularfire2
+alias cwaf=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire && dir /p
+material
+alias cwam=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-material && dir /p
+typescript
+alias cwat=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-typescript && dir /p
+ngrx
 alias cwang=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngRx && dir /p
- 
-alias cward=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-redux && dir /p
- 
-dir bundlers
-alias cwfw=cd C:\Users\Folio\web\frontend\module-bundlers\webpack && dir /p
- 
-angular-cli 
- 
-serve and open i brrowser
+
+
+***angular-cli 
+---------------------------------------------------------
+serve/open
 alias ngo= ng serve -o
  
-new with routing and scss and serve it
-alias ngn=ng new $* --routing --style scss --prefix hs && cd $* && code . && ng serve -o
+new with routing and scss home and page-not-found and serve it
+---------------------------------------------------------------
+alias ngn=ng new $* --routing --style scss --prefix hs && dir && cd $* && ng g c home && ng g c page-not-found && cd $* && code . && ng serve -o
  
-component
+component name
+------------------
 alias ngc=ng g c $*
  
 module with crud
-alias ngm=ng g c home && ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g c $*s\$*-add && ng g c $*s\$*-edit && ng g c $*s\$*-details  && ng g s $*s\$*
-ng 
-service
-alias ngs=ng g s $*
-class
-alias ngcl=ng g cl $*
-pipe
-alias ngp=ng g p $*
-enum
-alias nge=ng g e $*
-interface
-alias ngi=ng g i $*
-class
-alias ngcl=ng g cl $*
+----------------------------------------------------------
+alias ngm=ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g pipe \$*s\$*-filter && ng g c $*s\$*-list-item  && ng g c $*s\$*-add && ng g c $*s\$*-edit && ng g c $*s\$*-details && touch src\app\$*s\$*s.json && echo { "$*s": [{ "id": 1, "name": "Name" }] } >>  src\app\$*s\$*s.json && touch src\app\$*s\$*.interface.ts && echo export interface $* {id: number; name: string; } >> src\app\$*s\$*.interface.ts && dir && ng g s \$*s\$* -m \$*s\$*s.module.ts
  
-install and serve open browser
-alias nio=npm install && ng serve -o
+auth module
+-----------------------------------------------------------
+alias ngma=ng g m auth --routing && ng g c auth \auth\auth -m \auth\auth.module.ts && ng g c \auth\login \auth\auth -m \auth\auth.module.ts && ng g c \auth\register \auth\auth -m \auth\auth.module.ts && dir && ng g s auth \auth\auth -m /auth/auth.module.ts
+ 
+material
+---------------------------------------------------------
+alias ngmat=npm i -S @angular/material @angular/cdk hammerjs @angular/flex-layout && ng g m layout
+
+
+***ionic directories
+---------------------------------------------------------------------------------------
+alias cwm= cd C:\Users\Folio\web\mobile && dir /p
+alias cwmh= cd C:\Users\Folio\web\mobile\hans && dir /p
+alias cwmi=cd  C:\Users\Folio\web\mobile\ionic && dir /p
+
+add plugin, run
+-------------------------------------------------------------------------------------
+plugins
+alias icbale=ionic cordova plugin add cordova-plugin-ble-central npm install --save @ionic-native/ble
+
+
+run
+alias icrad=ionic cordova run android --device
+alias icradl=ionic cordova run android --device --livereload
+alias icpaa=ionic cordova platform add android
+
+generate 
+alias igc=ionic g component $*
+alias igd=ionic g directive $*
+alias igpa=ionic g page $*
+alias igpi=ionic g pipe $*
+alias igpro=ionic g provider
+alias igta=ionic g tabs
+
+start
+alias is= ionic serve
+alias isl=ionic serve -l
+ 
+***bundlers
+-------------------------------------------------------------------------------------
+alias cwfw=cd C:\Users\Folio\web\frontend\module-bundlers\webpack && dir /p
+alias cwph= cd C:\Users\Folio\web\frontend\module-bundlers\webpack\hans && dir /p
+
  
  
-http
-alias hso= hs -p 4444 -o
+***bootstrap
+----------------------------------------------------------
+alias bsi= npm i -S bootstrap jquery tether
  
-npm
+node server
+--------------------------------------------------------
+alias hso= hs -o -p 4444
+ 
+***npm
+-------------------------------------------------------------------------------------
 alias ni=npm install
 alias ns=npm start
 alias nis=npm install -S $*
 alias nid=npm install -D $*
 alias nist=npm install && npm start
-alias nio=npm install && ng serve -o
+
  
-yarn
+***yarn
+--------------------------------------------------------------------
 alias ya=yarn
  
-git
+***git
+--------------------------------------------------------------------------------------------
 alias gitgo=git add . && git commit -m "new stuff" && git push && git status
 alias gc=git clone $*
 alias gcm=git commit -m $*
@@ -114,18 +163,39 @@ alias np=notepad $*
 alias ga=git add .
 alias gs=git status
  
-ionic
-alias ble=ionic cordova plugin add cordova-plugin-ble-central npm install --save @ionic-native/ble
-alias icrad=ionic cordova run android --device
-alias icradl=ionic cordova run android --device --livereload
-alias icpaa=ionic cordova platform add android
  
-alias igc=ionic g component $*
-alias igd=ionic g directive $*
-alias igpa=ionic g page $*
-alias igpi=ionic g pipe $*
-alias igpro=ionic g provider
-alias igta=ionic g tabs
+***ngrx dir install dependencies devdependencies schematics
+--------------------------------------------------------------------------------------
+alias cwarx=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans && dir
+dependencies
+----------------
+alias ngrx= npm install @ngrx/store @ngrx/effects @ngrx/router-store @ngrx/entity @ngrx/store-devtools --save
+devdependencies
+----------------
+alias ngrxd=npm install jasmine-marbles ngrx-store-freeze generate-ngrx @ngrx/store-devtools --only=dev --save
+schematics
+-----------------
+alias ngrxsch=npm i -S ngrx-schematics-builds ng g store State --root -m app.module.ts -c @ngrx/schematics &&  ng g action $* -c @ngrx/schematics && ng g reducer $* -c @ngrx/schematics && ng g effect $* --root -c @ngrx/schematics && ng g feature $* -c @ngrx/schematics && ng g entity $* -c @ngrx/schematics
  
-alias isl=ionic serve -l
-alias is= ionic serve
+***firebase dir install
+-------------------------------------------------------------------------------------
+alias fbi=npm install firebase angularfire2 --save
+
+alias fb=cd c:\Users\Folio\web\firebase\ && dir
+alias fba= cd c:\Users\Folio\web\firebase-authentication && dir
+alias fbdb= cd c:\Users\Folio\web\firebase-database && dir
+alias fbs= cd c:\Users\Folio\web\firebase-firestore && dir
+alias fbf= cd c:\Users\Folio\web\firebase-functions && dir
+alias fbg= cd c:\Users\Folio\web\firebase-geofire && dir
+alias fbio= cd c:\Users\Folio\web\firebase-iot && dir
+alias fbm= cd c:\Users\Folio\web\firebase-messages && dir
+alias fbst= cd c:\Users\Folio\web\firebase-storage && dir
+alias fbui= cd c:\Users\Folio\web\firebase-ui && dir
+
+ 
+***schematics
+-------------------------------------------------------------------------------------------------------
+
+
+***google maps places directions locations
+------------------------------------------------------------------------------------------------------

@@ -1,1 +1,2 @@
 json to typescript interfaces online, https://transform.now.sh/json-to-ts-interface 
+json api online, https://myjson.com 

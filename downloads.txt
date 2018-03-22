@@ -289,3 +289,112 @@ angular firebase, https://blog.realworldfullstack.io/real-world-app-part-12-clou
 pluralsight, corey house building a js environment, http://pcdownload.in/2016/11/10/pluralsight-building-a-javascript-development-environment/ 
 arduino bluetooth, http://pcdownload.in/2017/02/17/oreilly-arduino-prototyping-techniques/ 
 spark for data science, http://pcdownload.in/2017/09/30/packt-publishing-from-0-to-1-spark-for-data-science-with-python/ 
+torrent courses, https://www.freetutorials.us/ 
+functional js, http://pcdownload.in/2017/08/17/packt-publishing-learning-path-javascript-learn-functional-programming-with-javascript/ 
+lynda, angular pwa 2017, http://pcdownload.in/2017/09/05/lynda-angular-progressive-web-apps/ 
+packt, reactive programming, http://pcdownload.in/2017/03/31/packt-publishing-reactive-javascript-programming/ 
+indexedb for html offline apps, http://pcdownload.in/2017/04/25/pluralsight-creating-offline-first-mobile-apps-with-html5/ 
+pluralsight, offline with service worker 2017, http://pcdownload.in/2017/01/25/pluralsight-building-offline-web-apps-with-service-worker/ 
+http://pcdownload.in/2017/10/16/lynda-angular-2-creating-crud-apps/ 
+lynda, develop cordova apps, http://pcdownload.in/2017/10/12/lynda-developing-cordova-apps-with-visual-studio-code-and-typescript/ 
+lynda, vanilla js apps, http://pcdownload.in/2017/10/11/lynda-learning-app-building-with-vanilla-javascript/ 
+sacha vodnik, js without libraries, https://sashavodnik.com/2017/05/01/the-ins-and-outs-of-fetch/#more-336 
+lynda, js without libraries, http://pcdownload.in/2017/10/11/lynda-learning-app-building-with-vanilla-javascript/ 
+udemy , js es6, http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tutorial/ 
+pluralsight, cloud foundry,https://avxhm.se/ebooks/CloudFoundryforDevelopers.html 
+openstack, https://avxhm.se/ebooks/naag13004.html 
+pluralsight , ionic electron, http://pcdownload.in/2017/08/05/pluralsight-creating-cross-platform-apps-with-ionic-and-electron/ 
+tutsplus, rxjs deep dive, http://pcdownload.in/2017/02/02/tutsplus-deep-dive-into-reactive-programming-with-rxjs/ 
+pluralsight, duncan hunter, building apps with angularfire2, http://pcdownload.in/2017/09/13/pluralsight-building-apps-with-angularfire-2/
+pluralsight, deborah kurata, angular reactive forms, http://pcdownload.in/2017/01/12/pluralsight-angular-2-reactive-forms/ 
+lynda, ionic angularfire, http://pcdownload.in/2017/02/14/lynda-ionic-2-and-angularfire2-building-mobile-apps/ 
+wintellectnow, javascript closures, http://pcdownload.in/2017/09/28/wintellectnow-closures-in-javascript/ 
+wintellecctnow, getting started with typescript, http://pcdownload.in/2017/10/16/wintellectnow-getting-started-with-typescript/ 
+wintellectnow, asynchronous javascript, http://pcdownload.in/2017/09/28/wintellectnow-asynchronous-programming-in-javascript/ 
+wintellectnow, generators and iterators in js, http://pcdownload.in/2017/09/10/wintellectnow-symbols-generators-and-iterators-in-javascript/ 
+wintellectnow, intro to spark, http://pcdownload.in/2017/09/10/wintellectnow-introduction-to-spark/ 
+wintellectnow, javascript in the future, http://pcdownload.in/2017/09/02/wintellectnow-javascript-the-future/ 
+wintellectnow, arrays 01, http://pcdownload.in/2017/09/02/wintellectnow-arrays-in-javascript-part-1/ 
+wintellectnow, arrays 02, http://pcdownload.in/2017/09/02/wintellectnow-arrays-in-javascript-part-2/ 
+wintellectnow, js objects 02, http://pcdownload.in/2017/08/28/wintellectnow-objects-in-javascript-part-2/ 
+wintellectnow, js objects 01, http://pcdownload.in/2017/08/28/wintellectnow-objects-in-javascript-part-1/ 
+wintellectnow, js functions, http://pcdownload.in/2017/08/16/wintellectnow-functions-in-javascript/ 
+wintellectnow, angular reactive forms, http://pcdownload.in/2017/03/15/wintellectnow-mastering-angular-part-4-reactive-forms/ 
+livelessons, iot foundation, http://pcdownload.in/2017/06/25/livelessons-internet-of-things-iot-fundamentals/ 
+pluralsight, programming embedded systems, http://pcdownload.in/2017/11/29/pluralsight-embedded-systems-programming-getting-started/ 
+pluralsight, intel edison node, http://pcdownload.in/2015/06/25/pluralsight-node-js-and-the-internet-of-things-using-intel-edison/ 
+intro to embedded systems, https://avxhm.se/ebooks/1608454983.html 
+embedded systems programming arm-core, https://avxhm.se/ebooks/naag13316.html 
+lynda, raspberri pi 3 gpi io, http://pcdownload.in/2016/05/13/lynda-raspberry-pi-gpio-depth/ 
+lynda, semicconductor devices, http://pcdownload.in/2017/09/08/lynda-electronics-foundations-semiconductor-devices/ 
+lynda, windows 10 iot installation, http://pcdownload.in/2017/03/20/lynda-iot-development-with-windows-10-iot-core-1-installation-and-basic-connection/ 
+lynda, vuejs, http://pcdownload.in/2017/10/11/lynda-vue-js-building-an-interface/ 
+pluralsight, vuejs, http://pcdownload.in/2017/10/11/lynda-vue-js-building-an-interface/ 
+oreilly, electronics cookbook, http://pcdownload.in/2017/12/06/oreilly-electronics-cookbook/ 
+packt, electronics workbench, http://pcdownload.in/2017/08/21/packt-publishing-the-electronics-workbench-a-setup-guide/ 
+packt, electronics for arduino makers 
+lynda, learning webpack 3, http://pcdownload.in/2017/12/04/lynda-learning-webpack-3/ 
+udemy, js es6, http://pcdownload.in/2017/03/06/udemy-the-full-javascript-es6-tutorial/ 
+packt es6 functional, http://pcdownload.in/2017/08/17/packt-publishing-learning-path-javascript-learn-functional-programming-with-javascript/ 
+es6 and beyond, http://pcdownload.in/2017/12/11/packt-publishing-ecmascript-2016-and-beyond/ 
+stoneriver, starting with firebase, http://pcdownload.in/2017/08/06/stone-river-learning-starting-with-firebase/ 
+pluralsith, problem solving play by play, http://pcdownload.in/2017/12/09/pluralsight-play-by-play-problem-solving-in-a-developer-world/ 
+pluralsigth, git based workflow, http://pcdownload.in/2017/12/07/pluralsight-build-or-contribute-to-documentation-with-a-git-based-workflow/ 
+pack electronics for arduino, http://pcdownload.in/2017/08/18/packt-publishing-basic-electronics-for-arduino-makers/ 
+packt, modern web dev tools, http://pcdownload.in/2017/12/11/packt-publishing-web-developer-toolbox-essentials-for-modern-web-development/ 
+pluralsight, play by play yarn, http://pcdownload.in/2017/11/16/pluralsight-play-by-play-getting-started-with-yarn-as-a-package-manager/ 
+ionic play by play share code , http://pcdownload.in/2017/12/15/pluralsight-play-by-play-sharing-code-with-npm-modules-between-angular-web-and-ionic-mobile-apps/ 
+pluralsight, npm playbook, joe eames, http://pcdownload.in/2015/12/12/pluralsight-npm-playbook/ 
+lynda, npm scripts, http://pcdownload.in/2016/09/29/lynda-tooling-npm-scripts/ 
+packt, npm start, http://pcdownload.in/2016/09/23/packt-publishing-learning-path-npm-start-guide-node-js/ 
+pluralsight, npm build tool, http://pcdownload.in/2015/10/21/pluralsight-introduction-to-npm-as-a-build-tool/ 
+packt, Web Developer Toolbox, http://pcdownload.in/2017/12/11/packt-publishing-web-developer-toolbox-essentials-for-modern-web-development/ 
+todd motto, ultimate-angular, final project , https://platform.ultimateangular.com/courses/angular-pro/lectures/3015157 
+angular npm packages, http://pcdownload.in/2017/12/15/pluralsight-play-by-play-sharing-code-with-npm-modules-between-angular-web-and-ionic-mobile-apps/ 
+packt, jenkins ci begninner, http://pcdownload.in/2017/08/29/packt-publishing-jenkins-2-introduction-for-beginners-on-windows/ 
+packt, jenkins ci ,http://pcdownload.in/2017/11/21/packt-publishing-effective-jenkins-continuous-delivery-with-jenkins-pipeline/ 
+pluralsight, google cloud functions intro, http://pcdownload.in/2017/12/21/pluralsight-google-cloud-functions-getting-started/ 
+oreilly, yakov fain, building angular web apps with typescript, http://pcdownload.in/2017/09/14/oreilly-building-web-apps-with-angular-and-typescript/ 
+packt, mastering typescript, http://pcdownload.in/2017/12/29/packt-publishing-mastering-typescript-second-edition/ 
+lynda, web dev with vs code, http://pcdownload.in/2017/04/25/lynda-visual-studio-code-for-web-developers/ 
+pluralsith, https, http://pcdownload.in/2017/11/23/pluralsight-play-by-play-what-you-need-to-know-about-https-today/ 
+packt, web dev node express mongo, http://pcdownload.in/2017/10/31/packt-publishing-web-development-with-node-js-mongodb-and-express/ 
+pluralsight, node es6, http://pcdownload.in/2016/08/11/pluralsight-using-es6-node-js-web-application/ 
+lynda, node es6 , http://pcdownload.in/2017/03/24/lynda-switching-to-es6-in-node-js/ 
+packt, mastering typescript, "http://pcdownload.in/2017/12/29/packt-publishing-mastering-typescript-second-edition/" 
+packt, web functional programming, http://pcdownload.in/2017/10/01/packt-publishing-mastering-your-web-application-using-functional-javascript/ 
+packt, richard gill, web developer toolbox, http://pcdownload.in/2017/12/11/packt-publishing-web-developer-toolbox-essentials-for-modern-web-development/ 
+safarionline, packt, learning path js functiional, https://www.safaribooksonline.com/library/view/learning-path-javascript/9781788471282/ 
+pluralsight, angular material, http://pcdownload.in/2018/01/06/pluralsight-angular-material/ 
+udemy, the advanced web developer, https://avxhm.se/ebooks/naag3390.html 
+pluralsight, advanced typescript, http://pcdownload.in/2016/11/16/pluralsight-advanced-typescript/ 
+packt, angular bootstrap, http://pcdownload.in/2017/02/08/packt-publishing-web-development-with-angular-2-and-bootstrap/ 
+play by play ward bell, angular design solutions, http://pcdownload.in/2017/10/19/pluralsight-play-by-play-angular-design-solutions/ 
+pluralsight, responsive navigation, http://pcdownload.in/2018/01/23/pluralsight-hands-on-responsive-web-design-4-navigation/ 
+lynda, http://pcdownload.in/2018/01/17/lynda-learning-rxjs/ , http://pcdownload.in/2018/01/17/lynda-learning-rxjs/ 
+pluralsight webpack bundles,http://pcdownload.in/2018/01/31/pluralsight-webpack-transpiling-and-bundling-javascript/ 
+pluralsight, deborah http://pcdownload.in/2018/01/31/pluralsight-angular-component-communication/ 
+pluralsight, web design for navigation, http://pcdownload.in/2018/01/23/pluralsight-hands-on-responsive-web-design-4-navigation/ 
+pluralsight, redux fundamentals, http://pcdownload.in/2018/01/19/pluralsight-redux-fundamentals/ 
+the longevity diet, http://nitroflare.com/view/3B0CE849CF23223/1568583095.epub/free 
+pluralsight, constructing angular ui, http://pcdownload.in/2018/02/06/pluralsight-constructing-a-user-interface-with-angular/ 
+stone river, angular 5 ecommerce, http://pcdownload.in/2018/01/23/stone-river-elearning-build-an-ecommerce-site-with-angular-5/ 
+pluralsight, ionic electron cross platform, http://pcdownload.in/2017/08/05/pluralsight-creating-cross-platform-apps-with-ionic-and-electron/ 
+braithwaite , functional js expert 
+fb functions and messaging, http://pcdownload.in/2018/01/05/pluralsight-firebase-on-android-cloud-messaging-cloud-functions-and-crashlytics/ 
+html5 geolocation, http://pcdownload.in/2015/05/27/oreilly-mobile-html5/ 
+geolocation in web sites, http://pcdownload.in/2016/06/22/cgp-1355/ 
+lynda , layout composition, http://pcdownload.in/2018/03/15/lynda-layout-and-composition-advanced-principles/  
+lynda, angulaar routing 2018, http://pcdownload.in/2018/03/03/lynda-angular-routing/ 
+lynda, angular large apps, 2018, http://pcdownload.in/2018/02/27/lynda-angular-building-large-applications/ 
+lynda, learning mindset, http://pcdownload.in/2018/02/27/lynda-developing-a-learning-mindset/ 
+lynda vanilla data and event binding, http://pcdownload.in/2018/02/26/lynda-vanilla-javascript-binding-and-propagation/ 
+lynda, angular cli 2018, http://pcdownload.in/2018/02/23/lynda-learning-the-angular-cli/ 
+pl, css grids, http://pcdownload.in/2018/03/03/pluralsight-building-layouts-with-the-css-grid/ 
+ECHO ist eingeschaltet (ON).
+es6, the right parts, http://pcdownload.in/2018/03/02/pluralsight-es6-the-right-parts/ 
+pl, js functionality organisation, http://pcdownload.in/2018/02/24/pluralsight-organizing-javascript-functionality/ 
+ECHO ist eingeschaltet (ON).
+angular ui, http://pcdownload.in/2018/02/06/pluralsight-constructing-a-user-interface-with-angular/ 
+pl, angular http communicatiion, http://pcdownload.in/2018/03/12/pluralsight-angular-http-communication/ 
+pl, redux fundamentals, https://www.pluralsight.com/courses/redux-fundamentals 
