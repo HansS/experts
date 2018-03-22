@@ -103,10 +103,20 @@ ion-slides pager (ionSlideDidChange) = "slideChanged()"
 ion-slide
 
 
+ion-menu
+--------------------------------------------------------------------------------------------
+<button ion-button menuToggle>
+        <ion-icon name="menu"><ion-icon>
+</button>
 
+ion-header
+  ion-navbar
 
+ion-content padding
 
-
+ <ion-fab>
+   <button ion-fab>Button</button>
+ </ion-fab>
 
 
 
