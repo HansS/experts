@@ -5,3 +5,4 @@ firebase storage
 firebase firestore 
 david east 
 fb codelab, "https://www.youtube.com/watch?v=QVAkTFiTr34&list=WL&index=100&t=861s" 
+google firebase blog, https://firebase.googleblog.com 
