@@ -399,3 +399,39 @@ angular ui, http://pcdownload.in/2018/02/06/pluralsight-constructing-a-user-inte
 pl, angular http communicatiion, http://pcdownload.in/2018/03/12/pluralsight-angular-http-communication/ 
 pl, redux fundamentals, https://www.pluralsight.com/courses/redux-fundamentals 
 ngrx play by play, http://alfafile.net/file/nBwv 
+intro to linked data and documents, http://pcdownload.in/2017/01/29/technics-publications-introduction-to-linked-data-and-the-semantic-web/ 
+pl, advanced node, samer buma, http://pcdownload.in/2017/02/17/pluralsight-advanced-node-js/ 
+node with rx, http://pcdownload.in/2017/12/21/packt-publishing-rx-ified-node-application/ 
+google cloud functions, http://pcdownload.in/2017/12/21/pluralsight-google-cloud-functions-getting-started/ 
+rxjs essentials, yakov fain, http://pcdownload.in/2017/09/14/oreilly-rxjs-essentials/ 
+pl serverless api, http://pcdownload.in/2018/04/10/pluralsight-play-by-play-build-a-serverless-node-web-api/ 
+pl, webpack deep dive, kent c dodds, http://pcdownload.in/2018/04/07/pluralsight-webpack-deep-dive/ 
+pl, jafar husain, rxjs deep dive, http://pcdownload.in/2018/04/07/pluralsight-asynchronous-programming-in-javascript-with-rx-js-observables/ 
+pl, node mean, scott moss, http://pcdownload.in/2018/04/06/pluralsight-api-design-in-node-js-featuring-express-mongo/ 
+json-webtoke, http://pcdownload.in/2018/04/03/pluralsight-angular-security-using-json-web-tokens/ 
+pl, web annimations api, http://pcdownload.in/2018/03/28/pluralsight-building-uis-with-the-web-animations-api/ 
+pl, sarah drasner, svg animations , http://pcdownload.in/2018/03/27/pluralsight-advanced-svg-animation/ 
+pl, node express4, http://pcdownload.in/2018/03/24/pluralsight-building-web-applications-with-node-js-and-express-4-0-update/ 
+pl, firestore geetting staarted, http://pcdownload.in/2018/03/16/pluralsight-firebase-firestore-getting-started/ 
+pl, brice wilson, angular http communicatiion, http://pcdownload.in/2018/03/12/pluralsight-angular-http-communication/ 
+pl, kevin whinnery, aws node, http://pcdownload.in/2018/03/08/pluralsight-zero-to-production-node-js-on-amazon-web-services/ 
+pl, douglas crockford, js good parts, http://pcdownload.in/2018/03/08/pluralsight-good-parts-of-javascript-and-the-web/ 
+pl, es6 right parts, http://pcdownload.in/2018/03/02/pluralsight-es6-the-right-parts/ 
+lynda, express essentials, http://pcdownload.in/2018/04/11/lynda-express-essential-training/ 
+lynda, deploy node apps, http://pcdownload.in/2018/04/10/lynda-node-js-deploying-applications/ 
+lynda, ios bluetooth, http://pcdownload.in/2018/04/06/lynda-ios-core-bluetooth-for-developers/ 
+lynda, http essentials, http://pcdownload.in/2018/04/05/lynda-http-essential-training/ 
+lynda, node design patterns, http://pcdownload.in/2018/03/28/lynda-node-js-design-patterns/ 
+lynda, maintaining angular apps, http://pcdownload.in/2018/03/16/lynda-angular-maintaining-applications/ 
+lynda, monetize youtube, http://pcdownload.in/2018/03/12/lynda-marketing-and-monetizing-on-youtube/ 
+lynda, angular routing, http://pcdownload.in/2018/03/03/lynda-angular-routing/ 
+pl, modern async js, http://pcdownload.in/2016/08/09/pluralsight-modern-asynchronous-javascript/ 
+pl, webpack transpiling, http://pcdownload.in/2018/01/31/pluralsight-webpack-transpiling-and-bundling-javascript/ 
+pl, containers, http://pcdownload.in/2017/01/25/pluralsight-containers-and-images-the-big-picture/ 
+pl, docker getting stated, https://www.pluralsight.com/courses/docker-windows-getting-started 
+serverless fundamentals, http://pcdownload.in/2018/04/10/oreilly-serverless-fundamentals-for-microservices-an-introduction-to-core-concepts-and-best-practices/ 
+functional js libs, http://pcdownload.in/2017/07/31/packt-publishing-mastering-functional-javascript-libraries/ 
+reactive js programming, http://pcdownload.in/2017/03/31/packt-publishing-reactive-javascript-programming/ 
+lynda, express essentials, http://pcdownload.in/2018/04/11/lynda-express-essential-training/ 
+pl, express 4 with node, http://pcdownload.in/2018/03/24/pluralsight-building-web-applications-with-node-js-and-express-4-0-update/ 
+packtpub, real world rx, http://pcdownload.in/2017/12/21/packt-publishing-real-world-rx/ 

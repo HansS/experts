@@ -113,3 +113,4 @@ stephen fluin, demos with angular, angular in cordova, C:\Users\Folio\web\mobile
 stephen fluin, demos with angular video, D:\_downloads\Demos with Angular Stephen Fluin 
 oasis digital angular bootcamp, c:\Users\Folio\web\frontend\javascript\frameworks\angular\angularbootcamp-courses\abc 
 angular algolia, instant search, https://community.algolia.com/angular-instantsearch/getting-started.html 
+medium article serie, c:\Users\Folio\web\frontend\javascript\frameworks\angular\Akshay-Nihalaney-RealWorld-App-Medium-Serie 

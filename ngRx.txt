@@ -54,4 +54,7 @@ Mike Ryan: step by step Books Collection (ngrx entities medium article)
 import { createEntityAdapter } from '@ngrx/entity';
 const bookAdapter = createEntityAdapter<Book>();
 
-2 
+2 medium article serie, c:\Users\Folio\web\frontend\javascript\frameworks\angular\Akshay-Nihalaney-RealWorld-App-Medium-Serie 
+safaribooksonline, architecting angular applications with redux, https://www.safaribooksonline.com/library/view/architecting-angular-applications/9781787122406/1396b08f-7d17-4695-9e15-523a697fed29.xhtml 
+bo vandersteene, ngrx pagination, nx-breadcrumbs, https://github.com/bovandersteene 
+ngrx with entities sample, contacts, https://github.com/avatsaev/angular-contacts-app-example 

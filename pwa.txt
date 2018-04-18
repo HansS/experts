@@ -18,3 +18,4 @@ angular-cli.json, serviceWorker: true, only installed when: ng build --prod (ins
 maxim salnikov, https://github.com/webmaxru/pwatter.git, 
 microsoft pwa builder, http://manifoldjs.com/generator 
 lynda pwa 2017, D:\A10-projects\angular\Progessive-Web-Apps-Lynda 
+angular service worker video stephen fluin, demo in angular 

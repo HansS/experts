@@ -44,3 +44,10 @@ vidoe cory rylan, d:\_downloads\ngHouston - Beginner Reactive programming with R
 dominic elm, reactive snakes example 
 rxjs doc website, http://rxjsdocs.com/#/ 
 
+rxjs gitbook, https://xgrommx.github.io/rx-book/ 
+rx intro, andre staltz, https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 
+leranrx,https://www.learnrxjs.io/operators/transformation/mergemap.html 
+packtpub, real world rx, http://pcdownload.in/2017/12/21/packt-publishing-real-world-rx/ 
+reactive js programming, http://pcdownload.in/2017/03/31/packt-publishing-reactive-javascript-programming/ 
+michael hladkey, biophoton, angular rxjs expert, ngvikings 2018 rx streams 
+martin hochel, github.com/hotell, react angular expert, ngvienna, ngparty 

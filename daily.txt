@@ -635,3 +635,88 @@ duncan hunter, play by play, ngrx companies
 ngrx example app, platform/ngrx-example
 Loiane Groner, ngrx example, brazilian girl , javascript expert, js books on packtpub
 google firebase blog, https://firebase.googleblog.com 
+
+Mo 09:17 26.03.2018
+---------------------------------------------------------------------------------------------------------------------------------
+ruderschule zzh, http://ruderschule-ursinaroesch.blogspot.ch/2018/02/ruderdaten-2018-und-zukunftige.html
+intro to linked data and documents, http://pcdownload.in/2017/01/29/technics-publications-introduction-to-linked-data-and-the-semantic-web/ 
+rdf support with sparql, https://github.com/antoniogarrote/rdfstore-js 
+learning sparql, http://www.learningsparql.com/ 
+
+Di 07:20 27.03.2018
+-----------------------------------------------------------------------------------------------------------------------------------------
+medium article serie, c:\Users\Folio\web\frontend\javascript\frameworks\angular\Akshay-Nihalaney-RealWorld-App-Medium-Serie 
+pl, advanced node, samer buma, http://pcdownload.in/2017/02/17/pluralsight-advanced-node-js/ 
+node with rx, http://pcdownload.in/2017/12/21/packt-publishing-rx-ified-node-application/ 
+
+Mi 05:36 28.03.2018
+--------------------------------------------------------------------------------------------------------------------------------------------
+ngrx alligator
+ngrx platform sampleschema.org expert, http://dataliberate.com/ 
+
+Do 08:07 29.03.2018
+-------------------------------------------------------------------------------------------------------------------------------------------
+historyhub, http://historyhub.ie/
+safari login, sjou@n.spamtrap.co 
+
+Mo 09:08 02.04.2018
+-----------------------------------------------------------------------------------------------------------------------------------------
+rxjs book, https://xgrommx.github.io/rx-book/
+leranrx,https://www.learnrxjs.io/operators/transformation/mergemap.html 
+what web can do today,https://whatwebcando.today/ 
+graphdb download 
+
+Mi 08:49 11.04.2018
+--------------------------------------------------------------------------------------------------------------------------------------------
+NgRx with UltimateAngular NgRx Effects Course (free)
+pl serverless api, http://pcdownload.in/2018/04/10/pluralsight-play-by-play-build-a-serverless-node-web-api/ 
+
+Do 08:10 12.04.2018
+-------------------------------------------------------------------------------------------------------------------------------------------
+open source switch box, telerik, hristo borisov
+masterin ionic blog, http://masteringionic.com/blog/ 
+pl, modern async js, http://pcdownload.in/2016/08/09/pluralsight-modern-asynchronous-javascript/ 
+pl, webpack transpiling, http://pcdownload.in/2018/01/31/pluralsight-webpack-transpiling-and-bundling-javascript/ 
+pl, containers, http://pcdownload.in/2017/01/25/pluralsight-containers-and-images-the-big-picture/ 
+pl, docker getting stated, https://www.pluralsight.com/courses/docker-windows-getting-started 
+rowing technique videos, https://www.decentrowing.com/105-how-to-row-on-a-rowing-machine.html  
+safaribooksonline, architecting angular applications with redux, https://www.safaribooksonline.com/library/view/architecting-angular-applications/9781787122406/1396b08f-7d17-4695-9e15-523a697fed29.xhtml 
+ble expert, https://www.novelbits.io/  
+book, https://book.learnbluetooth.com/bluetooth-5-ebook/ 
+Bluetooth Developer Studio, D:\_downloads\Bluetooth Developer Studio Introduction 
+decentrowing.com, australia rowing site, trial free subscription till 15.05.2018 
+angular service worker video stephen fluin 
+Using first port, {"description":"Puck.js 51db","path":"e2:3f:ad:07:51:db","type":"bluetooth"}Using first port, {"description":"Puck.js 51db","path":"e2:3f:ad:07:51:db","type":"bluetooth"} 
+http://www.digitalkameraprofi.de 
+
+Fr 06:19 13.04.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ayurveda kerala, "D:\_downloads\Ayurvedic Psychology   Ayurveda & Health - YouTube" 
+ayurveda, dr chopra,https://ayurvedic-healing-institute.thinkific.com/ 
+ayurveda doctor, Dr. Suhas Kshirsagar , ayurvedichealing.com 
+ayurveda doctor, Dr. Suhas Kshirsagar , ayurvedichealing.com 
+ayurveda site, easyayurveda.com 
+bo vandersteene, ngrx pagination, nx-breadcrumbs, https://github.com/bovandersteene 
+ngrx with entities sample, contacts, https://github.com/avatsaev/angular-contacts-app-example 
+ayurveda course 450, https://www.vedanet.com/  
+
+Mo 14:41 16.04.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------
+safaribooksonline, yakov fain, angular repetition
+firestore chat, D:\A10-projects\firebase-firestore\packtpub
+safaribooksonline, build firestore chat, https://www.safaribooksonline.com/library/view/building-a-realtime/9781788834483/#toc  
+serverless fundamentals, http://pcdownload.in/2018/04/10/oreilly-serverless-fundamentals-for-microservices-an-introduction-to-core-concepts-and-best-practices/ 
+
+Di 08:40 17.04.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------
+yoga, integraation of all living realities,
+http://pcdownload.in/2017/07/31/packt-publishing-mastering-functional-javascript-libraries/lynda, express essentials, http://pcdownload.in/2018/04/11/lynda-express-essential-training/ 
+pl, express 4 with node, http://pcdownload.in/2018/03/24/pluralsight-building-web-applications-with-node-js-and-express-4-0-update/ 
+packtpub, real world rx, http://pcdownload.in/2017/12/21/packt-publishing-real-world-rx/ 
+
+Mi 10:10 18.04.2018
+------------------------------------------------------------------------------------------------------------------------------------------------
+yoga, creative intelligence, maharishi mahesh yogi, seelisberg yoga, ayurveda
+martin hochel, angular react expert
+biophoton, angular fellow of manfred steyermichael hladkey, biophoton, angular rxjs expert, ngvikings 2018 rx streams 
+martin hochel, github.com/hotell, react angular expert, ngvienna, ngparty 

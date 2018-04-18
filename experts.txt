@@ -150,3 +150,5 @@ raja yogan, angular2 ionic authentication OAuth, https://github.com/rajayogan?ta
 mirko nasato, ionic angular 2,http://www.encodedknowledge.com/,  
 mosh hamedani, angular 2 for enterprise  
 asim hassan, angular 2 from theorie to practice ebook angular 2  
+michael hladkey, biophoton, angular rxjs expert, ngvikings 2018 rx streams 
+martin hochel, github.com/hotell, react angular expert, ngvienna, ngparty 

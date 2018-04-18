@@ -24,3 +24,7 @@ espruino workshop, gordon williams, puck.js creator,  https://github.com/gfwilli
 google interact wiht ble device on web, https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web 
 andreas spiess, esp32 bluetooth heartrate 
 neil kolban, esp32 bluetooth expert 
+ble expert, https://www.novelbits.io/ 
+book, https://book.learnbluetooth.com/bluetooth-5-ebook/ 
+Bluetooth Developer Studio, D:\_downloads\Bluetooth Developer Studio Introduction 
+Using first port, {"description":"Puck.js 51db","path":"e2:3f:ad:07:51:db","type":"bluetooth"}Using first port, {"description":"Puck.js 51db","path":"e2:3f:ad:07:51:db","type":"bluetooth"} 
