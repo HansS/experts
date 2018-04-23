@@ -1,5 +1,6 @@
 ng build <options...>
   Builds your app and places it into the output path (dist/ by default).
+-----------------------------------------------------------------------------------------------------------------------
   aliases: b
   --target (String) (Default: development) Defines the build target.
     aliases: -t <value>, -dev (--target=development), -prod (--target=production), --target <value>
@@ -66,6 +67,7 @@ ng build <options...>
 
 ng completion <options...>
   Adds autocomplete functionality to `ng` commands and subcommands.
+-----------------------------------------------------------------------------------------------------------------------
   --all (Boolean) (Default: true) Generate a completion script compatible with both bash and zsh.
     aliases: -a, -all
   --bash (Boolean) (Default: false) Generate a completion script for bash.
@@ -74,12 +76,14 @@ ng completion <options...>
     aliases: -z, -zsh
 
 ng doc <keyword> <options...>
+-----------------------------------------------------------------------------------------------------------------------
   Opens the official Angular API documentation for a given keyword.
   --search (Boolean) (Default: false) Search whole angular.io instead of just api.
     aliases: -s, --search
 
 ng e2e <options...>
   Run e2e tests in existing project.
+-----------------------------------------------------------------------------------------------------------------------
   aliases: e
   --target (String) (Default: development) Defines the build target.
     aliases: -t <value>, -dev (--target=development), -prod (--target=production), --target <value>
@@ -169,6 +173,8 @@ ng e2e <options...>
     aliases: -c <value>, --config <value>
   --specs (Array) (Default: ) Override specs in the protractor config. Can send in multiple specs by repeating flag (ng e2e --specs=spec1.ts --specs=spec2.ts).
     aliases: -sp <value>, --specs <value>
+  --suite (String) Override suite in the protractor config. Can send in multiple suite by comma separated values (ng e2e --suite=suiteA,suiteB).
+    aliases: -su <value>, --suite <value>
   --element-explorer (Boolean) (Default: false) Start Protractor's Element Explorer for debugging.
     aliases: -ee, --elementExplorer
   --webdriver-update (Boolean) (Default: true) Try to update webdriver.
@@ -178,6 +184,7 @@ ng e2e <options...>
 
 ng eject <options...>
   Ejects your app and output the proper webpack configuration and scripts.
+-----------------------------------------------------------------------------------------------------------------------
   --target (String) (Default: development) Defines the build target.
     aliases: -t <value>, -dev (--target=development), -prod (--target=production), --target <value>
   --environment (String) Defines the build environment.
@@ -243,6 +250,7 @@ ng eject <options...>
 
 ng generate <schematic> <options...>
   Generates and/or modifies files based on a schematic.
+-----------------------------------------------------------------------------------------------------------------------
   aliases: g
   --dry-run (Boolean) (Default: false) Run through without making any changes.
     aliases: -d, --dryRun
@@ -257,16 +265,19 @@ ng generate <schematic> <options...>
 
 ng get <options...>
   Get a value from the configuration. Example: ng get [key]
+-----------------------------------------------------------------------------------------------------------------------
   --global (Boolean) (Default: false) Get the value in the global configuration (in your home directory).
     aliases: --global
 
 ng help <command-name (Default: all)> <options...>
   Shows help for the CLI.
+-----------------------------------------------------------------------------------------------------------------------
   --short (Boolean) (Default: false) Display command name and description only.
     aliases: -s, --short
 
 ng lint <options...>
   Lints code in existing project.
+-----------------------------------------------------------------------------------------------------------------------
   aliases: l
   --fix (Boolean) (Default: false) Fixes linting errors (may overwrite linted files).
     aliases: -fix
@@ -279,20 +290,18 @@ ng lint <options...>
 
 ng new <options...>
   Creates a new directory and a new Angular app eg. "ng new [name]".
+-----------------------------------------------------------------------------------------------------------------------
   aliases: n
   --dry-run (Boolean) (Default: false) Run through without making any changes. Will list all files that would have been created when running "ng new".
     aliases: -d, --dryRun
   --verbose (Boolean) (Default: false) Adds more details to output logging.
     aliases: -v, --verbose
-  --skip-install (Boolean) (Default: false) Skip installing packages.
-    aliases: -si, --skipInstall
-  --skip-commit (Boolean) (Default: false) Skip committing the first commit to git.
-    aliases: -sc, --skipCommit
   --collection (String) Schematics collection to use.
     aliases: -c <value>, --collection <value>
 
 ng serve <options...>
   Builds and serves your app, rebuilding on file changes.
+-----------------------------------------------------------------------------------------------------------------------
   aliases: server, s
   --target (String) (Default: development) Defines the build target.
     aliases: -t <value>, -dev (--target=development), -prod (--target=production), --target <value>
@@ -381,11 +390,13 @@ ng serve <options...>
 
 ng set <options...>
   Set a value in the configuration.
+-----------------------------------------------------------------------------------------------------------------------
   --global (Boolean) (Default: false) Set the value in the global configuration rather than in your project's.
     aliases: -g, --global
 
 ng test <options...>
   Run unit tests in existing project.
+-----------------------------------------------------------------------------------------------------------------------
   aliases: t
   --watch (Boolean) Run build when files change.
     aliases: -w, --watch
@@ -418,11 +429,21 @@ ng test <options...>
   --app (String) Specifies app name to use.
     aliases: -a <value>, -app <value>
 
+ng update <options...>
+  Updates your application.
+-----------------------------------------------------------------------------------------------------------------------
+  --dry-run (Boolean) (Default: false) Run through without making any changes.
+    aliases: -d, --dryRun
+  --next (Boolean) (Default: false) Install the next version, instead of the latest.
+    aliases: -next
+
 ng version
   Outputs Angular CLI version.
+-----------------------------------------------------------------------------------------------------------------------
   aliases: v, --version, -v
 
 ng xi18n <options...>
+-----------------------------------------------------------------------------------------------------------------------
   Extracts i18n messages from source code.
   --i18n-format (String) (Default: xlf) Output format for the generated file.
     aliases: -f <value>, -xmb (--i18n-format=xmb), -xlf (--i18n-format=xlf), --xliff (--i18n-format=xlf), --i18nFormat <value>

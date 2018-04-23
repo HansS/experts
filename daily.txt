@@ -736,3 +736,17 @@ node-universtity, 50$ a year
 angular schematics , vitaly bobov 
 Das grosse Buch vom Ultra Marathon 
 ultra marathon training seminar 250Euro, http://www.hubertbeck.de/ 
+ngrx testing ngconf 2018 mike ryan brandon roberts 
+yt:D:\_downloads\Web Push Notifications with Firebase - YouTube, firebase push notificatio 
+
+Fr 10:41 20.04.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+ngconf 2018 collect ngrx talks!
+yoga, maharishi mahesh yogi, meditation heals -> spirit -> mind -> body (focus your mind on spot of suffering and within 5 or 10 minutes suffering disappears)
+
+Mo 08:50 23.04.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ngconf 2018 panel questions (new render engine, tree shakeable libraries, ng new library, no ngModule in future angular v7 v8? rxjs not tied to angualar versio nr
+ngrx-ngconf2018 yt videolist ytl
+
+
