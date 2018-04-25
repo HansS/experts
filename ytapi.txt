@@ -1,0 +1,162 @@
+youtube api 
+angular yt factory, npm i angular-youtube-api-factory 
+
+base-path:
+https://www.googleapis.com/youtube/v3/
+api-key:
+------------------------------------------------------------------------------------------------------------------------------------
+channel playlists
+-------------------------------------------------------------------------------------------------------------------------------------
+channelId={CHN-ID}&
+playlists?part=snippet,contentDetails&
+maxResults={MAX-RES}&
+&key={API-KEY}" 
+
+json-result only 1 item:
+-------------------------------------------------------------------------
+{
+  "kind": "youtube#playlist",
+
+  "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/ycm2KHgFUM02_1k_UAv_iYnwBZM\"",
+
+  "id": "PLw5h0DiJ-9PCsbV-xQy8GSH_bqEX8Xsxw",
+
+  "snippet": {
+    "publishedAt": "2018-04-25T07:26:28.000Z",
+
+    "channelId": "UCYlW9EuQnlNRtEYqVtpfbDw",
+
+    "title": "NgConf 2018 - Workshops",
+
+    "description": "",
+
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/BULrf2pkfJY/default.jpg",
+
+        "width": 120,
+
+        "height": 90
+      },
+
+      "medium": {
+        "url": "https://i.ytimg.com/vi/BULrf2pkfJY/mqdefault.jpg",
+
+        "width": 320,
+
+        "height": 180
+      },
+
+      "high": {
+        "url": "https://i.ytimg.com/vi/BULrf2pkfJY/hqdefault.jpg",
+
+        "width": 480,
+
+        "height": 360
+      },
+
+      "standard": {
+        "url": "https://i.ytimg.com/vi/BULrf2pkfJY/sddefault.jpg",
+
+        "width": 640,
+
+        "height": 480
+      },
+
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/BULrf2pkfJY/maxresdefault.jpg",
+
+        "width": 1280,
+
+        "height": 720
+      }
+    },
+
+    "channelTitle": "Hans Schenker bei Google",
+
+    "localized": {
+      "title": "NgConf 2018 - Workshops",
+
+      "description": ""
+    }
+  },
+
+  "contentDetails": {
+    "itemCount": 5
+  }
+
+}
+--------------------------------------------------------------------------------------------------------------------------------------
+playlistitems
+---------------------------------------------------------------------------------------------------------------------------------------
+playlistId={PL-ID}&
+playlistItems?part=snippet,contentDetails&
+maxResults={MAX-RES}&
+key={API-KEY}
+
+results: path to video id
+object/items/snippet/resourceid/videoid/urlvalue
+
+json-result only 1 item:
+-------------------------------------------------------------------------
+
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/qm8kAa_36fe9AVerAxdFroSIrUY\"",
+ "pageInfo": {
+  "totalResults": 5,
+  "resultsPerPage": 25
+ },
+ "items": [
+  {
+
+
+   "kind": "youtube#playlistItem",
+   "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/bGx1-bk7v9-obY76k_wJCp9J8kM\"",
+   "id": "UEx3NWgwRGlKLTlQQ3NiVi14UXk4R1NIX2JxRVg4WHN4dy41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2018-04-25T07:26:28.000Z",
+    "channelId": "UCYlW9EuQnlNRtEYqVtpfbDw",
+    "title": "Writing A Custom Angular Build - Steve Belovarich",
+    "description": "ng-conf is a two day, single track conference focused on delivering the highest quality training in the Angular JavaScript framework. 1500+ developers from across the country will converge on beautiful Salt Lake City, UT to participate in training sessions by the Google Angular team, and other Angular experts. In addition to the invaluable training, ng-conf will deliver a premier conference experience for attendees, providing opportunities to network with other developers, relax at social events, and engage in some of the unique entertainment opportunities available in Utah.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BULrf2pkfJY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BULrf2pkfJY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BULrf2pkfJY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BULrf2pkfJY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BULrf2pkfJY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hans Schenker bei Google",
+    "playlistId": "PLw5h0DiJ-9PCsbV-xQy8GSH_bqEX8Xsxw",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BULrf2pkfJY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "BULrf2pkfJY",
+    "videoPublishedAt": "2018-04-20T13:38:09.000Z"
+   }
+  },
+ 

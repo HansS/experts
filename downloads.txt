@@ -435,3 +435,6 @@ reactive js programming, http://pcdownload.in/2017/03/31/packt-publishing-reacti
 lynda, express essentials, http://pcdownload.in/2018/04/11/lynda-express-essential-training/ 
 pl, express 4 with node, http://pcdownload.in/2018/03/24/pluralsight-building-web-applications-with-node-js-and-express-4-0-update/ 
 packtpub, real world rx, http://pcdownload.in/2017/12/21/packt-publishing-real-world-rx/ 
+pl, network protocols, http://pcdownload.in/2018/04/21/pluralsight-networking-concepts-and-protocols/ 
+pl, modern web security, "http://pcdownload.in/2018/04/18/pluralsight-play-by-play-modern-web-security-patterns/" 
+pl, swagger play by play, http://pcdownload.in/2017/02/25/pluralsight-play-by-play-understanding-api-functionality-through-swagger/ 

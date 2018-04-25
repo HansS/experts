@@ -51,3 +51,4 @@ packtpub, real world rx, http://pcdownload.in/2017/12/21/packt-publishing-real-w
 reactive js programming, http://pcdownload.in/2017/03/31/packt-publishing-reactive-javascript-programming/ 
 michael hladkey, biophoton, angular rxjs expert, ngvikings 2018 rx streams 
 martin hochel, github.com/hotell, react angular expert, ngvienna, ngparty 
+rx operators, daniel stern, udemy 

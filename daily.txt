@@ -750,3 +750,23 @@ ngconf 2018 panel questions (new render engine, tree shakeable libraries, ng new
 ngrx-ngconf2018 yt videolist ytl
 
 
+Di 09:05 24.04.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------
+pl, modern web security, "http://pcdownload.in/2018/04/18/pluralsight-play-by-play-modern-web-security-patterns/" 
+pl, swagger play by play, http://pcdownload.in/2017/02/25/pluralsight-play-by-play-understanding-api-functionality-through-swagger/ 
+firestore getting started 
+rx operators, daniel stern, udemy 
+operator 1 bis 16 , create, pluck, map mapTo, filter , first, from, fromPromise, interval, timer, range, distinctUntilChanged, empty,
+jeffrey prosnik, app-shell, websites today
+jeffrey prosnik , youtube api v3
+
+Mi 14:09 25.04.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ngconf, ng-modules, maxim koretski, blog.angularindepth.com
+ngconf, vscode can do that, burke holland, vscodecandothat.com
+rowing technique, biorower.com
+https://peteroshaughnessy.com, peter oshaugnessy is a web bluetooth expert 
+jason editor online, https://jsoneditoronline.org/ 
+json to typescript interfaces 
+json from yt lists save to firestore 
+work:c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\yt-service 
