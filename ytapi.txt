@@ -94,8 +94,10 @@ playlistItems?part=snippet,contentDetails&
 maxResults={MAX-RES}&
 key={API-KEY}
 
-results: path to video id
-object/items/snippet/resourceid/videoid/urlvalue
+results: path to video id:
+
+object/items[0]/snippet/resourceid/videoid/urlvalue
+object/items[0]/contentDetails/videoid/urlvalues
 
 json-result only 1 item:
 -------------------------------------------------------------------------
@@ -158,5 +160,5 @@ json-result only 1 item:
     "videoId": "BULrf2pkfJY",
     "videoPublishedAt": "2018-04-20T13:38:09.000Z"
    }
-  },
+  }
  

@@ -1,4 +1,0 @@
-git workflow with waffle, https://www.youtube.com/playlist?list=PLw5h0DiJ-9PCxol0Vc2506iRG1R-NhayS 
-max schwarzmueller, nodejs, D:\_downloads\Building a RESTful API with Node js - YouTube 
-d3 in motion, eric kelleher, D:\_downloads\D3 js in Motion - YouTube 
- fem workshop: css layout, D:\_downloads\CSS Grids and Flexbox - YouTube 

@@ -12,3 +12,4 @@ ngrx typescript
 pluralsight, advanced typescript, http://pcdownload.in/2016/11/16/pluralsight-advanced-typescript/ 
 marius schultz, advanced typescript ,, egghead.io, 
 json to typescript interfaces 
+json to typescript interfaces, http://json2ts.com/# 

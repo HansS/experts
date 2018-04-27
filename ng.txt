@@ -114,3 +114,6 @@ stephen fluin, demos with angular video, D:\_downloads\Demos with Angular Stephe
 oasis digital angular bootcamp, c:\Users\Folio\web\frontend\javascript\frameworks\angular\angularbootcamp-courses\abc 
 angular algolia, instant search, https://community.algolia.com/angular-instantsearch/getting-started.html 
 medium article serie, c:\Users\Folio\web\frontend\javascript\frameworks\angular\Akshay-Nihalaney-RealWorld-App-Medium-Serie 
+ngconf 2018 summaries, https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/ 
+nitay neeman, angular cli expert 
+angular-cli wiki, https://github.com/angular/angular-cli/wiki 

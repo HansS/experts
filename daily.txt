@@ -770,3 +770,19 @@ jason editor online, https://jsoneditoronline.org/
 json to typescript interfaces 
 json from yt lists save to firestore 
 work:c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\yt-service 
+json to typescript interfaces, http://json2ts.com/#  
+
+Do 09:13 26.04.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------
+angular mountain view meeting stephen fluin: angular-cli schematics: Hans Larson, Felipe Silva, Charles Lyding, Mike Brocchi
+cli course , scotchio
+cli stories on github: @angular/material, angularfirebase2,...
+cli.angular.io
+ ngconf 2018 summaries, https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/ 
+
+Fr 15:35 27.04.2018
+------------------------------------------------------------------------------------------------------------------------------------------------
+rx opertors, daniel stern, udemy.com
+oasis digital ngconf 2018 recap, v6 not released!, ngrx track!!!,ngrx-data, schematics, ngupdate, ng add, community
+work: advanced photo app lars bilde, D:\_downloads\Building a Family Photo Sharing App - Series 1 of 5 - YouTube 
+work: advanced photo app,c:\Users\Folio\web\firebase\firestore\Family-Photo-Sharing-App---Series-1 

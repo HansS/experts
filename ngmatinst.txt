@@ -1,6 +1,7 @@
 npm i -S @angular/material @angular/cdk @angular/animations hammerjs @angular/flex-layout
 
 create a layout module for all material component imports
+
 import hammerjs in main.ts
 import FlexLayoutModule
 

@@ -1,10 +1,12 @@
-addy osmani, total tooling tips youtube list downlaod  
-web security, youtube list ocw.mit.edu  
-git workflow with waffle, https://www.youtube.com/playlist?list=PLw5h0DiJ-9PCxol0Vc2506iRG1R-NhayS
-max schwarzmueller nodejs, D:\_downloads\Building a RESTful API with Node js - YouTube
-d3 in motion, eric kelleher, D:\_downloads\D3 js in Motion - YouTube
-fem workshop, css layout, D:\_downloads\CSS Grids and Flexbox - YouTube
-ngrx-ngconf2018, D:\_downloads\NgRx - NgConf 2018 - YouTube
-rowing technique charlotte, D:\_downloads\Rowing Technique - with Master Rower - YouTube
+name, url	
+addy osmani total tooling tips,
+web security ocw.mit.edu,  
+git workflow with waffle, 	https://www.youtube.com/playlist?list=PLw5h0DiJ-9PCxol0Vc2506iRG1R-NhayS
+max schwarzmueller nodejs, 	D:\_downloads\Building a RESTful API with Node js - YouTube
+d3 in motion,eric kelleher, 	D:\_downloads\D3 js in Motion - YouTube
+fem workshop,css layout, 	D:\_downloads\CSS Grids and Flexbox - YouTube
+ngrx-ngconf2018, 		D:\_downloads\gRx - NgConf 2018 - YouTube
+rowing technique charlotte, 	D:\_downloads\Rowing Technique - with Master Rower - YouTube
 
 
+advanced photo app lars bilde, c:\Users\Folio\web\firebase\firestore\Family-Photo-Sharing-App---Series-1 

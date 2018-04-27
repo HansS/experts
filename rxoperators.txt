@@ -57,3 +57,21 @@ Intermediate Operators
 
 24 throw() // immediately enters an error state whhile emitting no values
 
+25 fromEvent() // read from standard in
+
+25 skip(predicate ) // inverse of take 
+
+26 skipWhile(condition)
+
+27 skipUntil(timer)
+
+28 last(predicate)  // last value which passes predicate , last only fires when observable complestes, with take(1) the observable completes
+
+29 obs1.concat(obs2) // concats 2 obs in order first obs1 when complete then obs2
+
+30 concatAll()    // emits values when all obs are completed
+
+31 concatMap()      // like map, but the value returned from mutator must be an observable
+
+
+ 
