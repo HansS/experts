@@ -73,5 +73,46 @@ Intermediate Operators
 
 31 concatMap()      // like map, but the value returned from mutator must be an observable
 
+32 sample() // emits latest element at a specified interval
 
+31 reduce() // aggregate all elements of an obs after it completes
  
+32 scan() // aggregated value every time an element is published
+
+33 // groupBy() // after obs completes returns a obs
+
+34 timeout() // errors if 2 consequent elements timeout a specified duration
+
+usage in the browser
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+34 fromEvent(element, event) //
+
+35 merge()  // does not care about order, combine source and provider
+
+36  mergeMap() // source obs
+ 
+37 mergeAll() // merge all obs
+
+38 buffer() // collects values from source until provided obs emits
+
+39 bufferCount()
+
+40 bufferTime()
+
+41 bufferTogggle()
+
+42 bufferWhen()
+
+43 partition() // returns 2 0obslike filter, but the filtered out in a special array
+
+44 throttle() // emits only after specified time, only emits last value
+
+45 throttleTime() // emitts only last value after passed time
+
+46 zip()
+
+
+
+section 4: advanced operators
+-----------------------------------------------------------------------------------------------------------------------------------------------
