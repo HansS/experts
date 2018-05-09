@@ -1,3 +1,6 @@
+show video url:
+https://www.youtube.com/watch?v=hewP0NI4epo
+
 youtube api 
 angular yt factory, npm i angular-youtube-api-factory 
 

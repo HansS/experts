@@ -1,5 +1,6 @@
 
 
+
 Di 02.01.2018
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 ngrx experts: mike ryan, robert brandon, duncan hunter, angularfirebase, todd mottongrx docs on github, https://github.com/ngrx/platform/tree/master/docs/store 
@@ -796,3 +797,93 @@ work:c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\yt-service
 work: advanced photo app,c:\Users\Folio\web\firebase\firestore\Family-Photo-Sharing-App---Series-1 
 learn:udemy, rxoperators, advanced ops
 increase learner engagementlearn: udemy, rx-operators 
+
+Di 08:10 01.05.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ionic capacitar
+stencil
+angular elements === stencil
+yt:allon savory: die wüste begrünen mit kuh herden
+ket for endurance
+ionic capacitar: ytc tech crab, simon grimm, paul halliday, angularfirebase
+rudertechnik, kurs richterswil, learn
+
+
+
+
+Mi 07:00 02.05.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------
+learn: yt , ngrx - paul spears oasis digital
+learn: yt ngrx - ionic , jesse sanderson, ng-conf 2018
+work: ngrx-links, angular-ngrx, ngrx-links, firebase firestore links; list, add, delete, edit
+work: angular routing with container component: LinksComponent, presentational component: LinkListComponent, LinkAddComponent, LinkEditComponent, LinkDetailsComponent
+
+
+Do 07:00 03.05.2018
+----------------------------------------------------------------------------------------------------------------------------------------------------
+09:00 Zahnarzt
+angular mvp(resenter)
+ionic vs reactnative vs nativscript
+nativscript
+nativscripting.com
+paulhalliday.io
+
+
+Fr 07:00 04.05.2018
+----------------------------------------------------------------------------------------------------------------------------------------------------
+learn: descentrowing.com, capture beginner video with camtasia
+ngconf 2018 interviews on devchattv: manfred steyer, brandon roberts, mike ryan
+learn: ngconf 2018 mike brochi: angular schematics: read file, write file, chain
+manfred steyer yt: performance, schematics
+ngrx-data: john papa, ward bell, ngrx-data
+ngrx-data is influenced by breezejs (Ward Bell)
+ng add: works with vmware and ngbootstrap, does not work with pwa and material
+ng update for project and angular/cli
+acadmind: angular v6, angular elements
+work: yt-service
+
+
+
+
+Sa 07:00 05.05.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Ruderabschluss Tag Richterswil
+
+clarity design, D:\A10-projects\css\clarity-design 
+css design guidelines collection on github, https://adele.uxpin.com/  
+
+Mo 15:00 07.05.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+stephen fluin - ngbolivia: what's new in angular 6 presentation 5.5.2018
+ngrx ngarhus
+ng update
+
+---------------------------------------------------------------------
+install and add @angular/material with cli
+----------------------------------------------------------------------
+descentrowing.com - how to hold oat grip when feathering: reckstangengriff nach vorne rollen mit daumen unterstützung
+
+npm i @angular/material , @angular/cdk, @angular/animations, hammerjs
+ng add @angular/material
+ng add @angular/material:material-nav
+ng add @angular/material:material-dashboard
+ng add @angular/material:material-table
+
+Di 16:29 08.05.2018
+--------------------------------------------------------------------------------------------------------------------------
+ngrx entities
+ngrx effects - todd motto
+learn: ngrx gerard sans - ngrx entity with schematics
+nativescript - nathan walker, sebastian witalec, 
+nativescript - paul halliday
+work: ngrx-todo-schematics sample
+nativescript free course: https://courses.nativescripting.com/courses/171150/lectures/5020525
+angular for designers, stephen fluin, nstudio, xplat, pagedraw, compodoc
+learn: rxjs intro with brian troncone - https://gist.github.com/btroncone/a6e4347326749f938510
+learn: brian troncone, learnrx.io
+learn: new rxjs site: reactivex.io
+work: duncan hunter: ngrx enterprise with nx: C:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\duncan-hunter\Enterprise-Angular-applications-with-ngrx-and-nx\
+ngrx platform example-app (google books api)
+work: build your ngrx example-app with the help of @ngrx/schematics
+learn: manfred steyer book on leanpub: ngrx schematics
+learn: manfred steyer blog: ngrx schematics blog article

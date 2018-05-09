@@ -2,16 +2,19 @@ ngrx install
 -------------------------------------------------------------------------------------------
 
 
-ngrx-schematics
+install ngrx-schematics
 -------------------------------------------------------------------------------------------------------
 npm install @ngrx/schematics --save-dev
 
+config ngrx-schematics as default schematics
+-----------------------------------------------------------------------------------------------------
+ng config cli.defaultCollection @ngrx/schematics
+
+
 initial store and effects
 -----------------------------------------------
-ng generate store State --root --statePath store --module app.module.ts --collection=@ngrx/schematics
-ng generate store State --root --statePath store --module app.module.ts --collection=@ngrx/schematics
-
-ng generate effect App --root --module app.module.ts --collection @ngrx/schematics
+ng generate store State --root --statePath store --name store --module app.module.ts --collection=@ngrx/schematics
+ng generate effect App --name App --root --module app.module.ts --collection @ngrx/schematics
 
 generate users feature (folder users, class User)
 -------------------------------------------------
@@ -19,5 +22,9 @@ ngm modulename in singular
 
 // grouped: actions , reducers, effects
 ng generate feature users/User -m users.module.ts --group  --collection=@ngrx/schematics 
+
 // flat
 ng generate feature users/User -m users.module.ts  --collection=@ngrx/schematics 
+
+// entity: includes feature, is a feature with entity
+ng generate entity --path tests --name Test -m tests/tests.module.ts  --collection=@ngrx/schematics

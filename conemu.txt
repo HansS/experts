@@ -1,4 +1,8 @@
-files
+cli directories
+----------------------------------------------------------------------------------
+alias mdi=md $* && cd $*
+ 
+cli files
 ----------------------------------------------------------------------------------
 alias dp=dir /p
 alias la= ls -al
@@ -118,19 +122,19 @@ alias ngc=ng g c $*
  
 module with crud
 ----------------------------------------------------------
-alias ngm=ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g pipe \$*s\$*-filter && ng g c $*s\$*-list-item  && ng g c $*s\$*-add && ng g c $*s\$*-edit && ng g c $*s\$*-details && touch src\app\$*s\$*s.json && echo { "$*s": [{ "id": 1, "name": "Name" }] } >>  src\app\$*s\$*s.json && touch src\app\$*s\$*.interface.ts && echo export interface $* {id: number; name: string; } >> src\app\$*s\$*.interface.ts && dir && ng g s \$*s\$* -m \$*s\$*s.module.ts
+alias ngm=ng g m $*s --routing && ng g c $*s && ng g c $*s\$*-list && ng g pipe \$*s\$*-filter && ng g c $*s\$*-list-item  && ng g c $*s\$*-add && ng g c $*s\$*-edit && ng g c $*s\$*-details && touch src\app\$*s\$*s.json && echo { "$*s": [{ "id": 1, "name": "Name 1" },{ "id": 2, "name": "Name 2" },{ "id": 3, "name": "Name 3" }] } >>  src\app\$*s\$*s.json && touch src\app\$*s\$*.model.ts && echo export interface $* {id: string; name: string; } >> src\app\$*s\$*.model.ts && dir && ng g s \$*s\$* -m \$*s\$*s.module.ts
  
 auth module
 -----------------------------------------------------------
-alias ngma=ng g m auth --routing && ng g c auth \auth\auth -m \auth\auth.module.ts && ng g c \auth\login \auth\auth -m \auth\auth.module.ts && ng g c \auth\signup \auth\auth -m auth.module.ts && dir && ng g s auth \auth\auth -m /auth/auth.module.ts
+alias ngma=ng g m auth --routing && ng g c auth \auth\auth -m \auth\auth.module.ts && ng g c \auth\login \auth\auth -m \auth\auth.module.ts && ng g c \auth\register \auth\auth -m \auth\auth.module.ts && dir && ng g s auth \auth\auth -m /auth/auth.module.ts
  
 material
 ---------------------------------------------------------
-alias ngmat=npm i -S @angular/material @angular/cdk hammerjs @angular/flex-layout && ng g m layout
+alias ngmat=npm i -S @angular/material @angular/cdk @angular/animations hammerjs && ng add @angular/material && ng generate @angular/material:material-nav --name=hs-nav && ng generate @angular/material:material-table --name=hs-table
  
 bootstrap
 ----------------------------------------------------------
-alias bsi= npm i -S bootstrap jquery tether
+alias bsi= npm i -S bootstrap jquery popper.js
  
 node server
 --------------------------------------------------------
@@ -141,13 +145,13 @@ npm
 alias ni=npm install
 alias nis=npm install -S $*
 alias nid=npm install -D $*
-
+ 
 alias nist=npm install && npm start
-
+ 
 alias ns=npm start
-
+ 
 alias nr=npm run $*
-
+ 
  
  
 yarn
@@ -168,14 +172,23 @@ alias gs=git status
 ngrx dir 
 --------------------------------------------------------------------------------------
 alias cwarx=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans && dir
-
+ 
 ngrxi install dependencies
 ----------------
-alias ngrxi= npm install @ngrx/store @ngrx/effects @ngrx/router-store @ngrx/entity @ngrx/store-devtools --save
+alias ngrxi= npm install --save @ngrx/core  @ngrx/store @ngrx/effects @ngrx/router-store @ngrx/entity @ngrx/store-devtools
+ 
+ngrxsi schematics install
+------------------------
+alias ngrxsi=npm install @ngrx/schematics --save-dev && ng generate store State --root --statePath store  --module app.module.ts --collection @ngrx/schematics && ng generate effect App --root --module app.module.ts --collection @ngrx/schematics
+ 
+ngrx feature module
+----------------------------------------------
+ 
+alias ngrxf=ng generate feature --name $* -m $*s.module.ts --collection=@ngrx/schematics
 
-ngrx schematics
------------------
-npm install @ngrx/schematics --save-dev && npm install @ngrx/store && npm install @ngrx/effects && npm install @ngrx/entity && npm install @ngrx/store-devtools && ng set defaults.schematics.collection=@ngrx/schematics && ng generate store State --root --module app.module.ts --collection @ngrx/schematics && ng generate effect App --root --module app.module.ts --collection @ngrx/schematics
+ngrx entity 
+----------------------------
+aliax ngrxe=ng generate entity --name $* -m $*s.module.ts --collection=@ngrx/schematics
 
  
 firebase dir install
@@ -185,15 +198,14 @@ alias fbi=npm install firebase angularfire2 --save
 alias fb=cd c:\Users\Folio\web\firebase\ && dir
 alias fba= cd c:\Users\Folio\web\firebase\authentication && dir
 alias fbdb= cd c:\Users\Folio\web\firebase\database && dir
+alias fbh= cd c:\Users\Folio\web\firebase\hosting && dir
 alias fbs= cd c:\Users\Folio\web\firebase\firestore && dir
 alias fbf= cd c:\Users\Folio\web\firebase\functions && dir
-alias fbh= cd c:\Users\Folio\web\firebase\hosting && dir
 alias fbg= cd c:\Users\Folio\web\firebase\geofire && dir
 alias fbio= cd c:\Users\Folio\web\firebase\iot && dir
 alias fbm= cd c:\Users\Folio\web\firebase\messageing && dir
 alias fbst= cd c:\Users\Folio\web\firebase\storage && dir
 alias fbui= cd c:\Users\Folio\web\firebase\ui && dir
- 
  
 schematics
 -------------------------------------------------------------------------------------------------------
@@ -202,3 +214,4 @@ schematics
 google maps places directions locations
 ------------------------------------------------------------------------------------------------------
 alias gma=cd c:\Users\Folio\web\google\maps
+ 

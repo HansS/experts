@@ -439,3 +439,7 @@ pl, network protocols, http://pcdownload.in/2018/04/21/pluralsight-networking-co
 pl, modern web security, "http://pcdownload.in/2018/04/18/pluralsight-play-by-play-modern-web-security-patterns/" 
 pl, swagger play by play, http://pcdownload.in/2017/02/25/pluralsight-play-by-play-understanding-api-functionality-through-swagger/ 
 lynda, increase learner engagement, http://pcdownload.in/2016/08/11/lynda-increase-learner-engagement/ 
+data centric apps in js with breezejs, http://pcdownload.in/2017/06/21/pluralsight-building-data-centric-apps-with-angular-and-breezejs/ 
+packt , github masterclass, jan 2018, http://pcdownload.in/2018/01/25/packt-publishing-complete-git-and-github-masterclass-beginner-to-git-expert/ 
+choose a mobile platform, http://pcdownload.in/2018/05/08/lynda-choosing-a-cross-platform-development-tool-cordova-ionic-react-native-titanium-and-xamarin/ 
+javascript security , http://pcdownload.in/2018/05/03/pluralsight-play-by-play-javascript-security/ 
