@@ -887,3 +887,37 @@ ngrx platform example-app (google books api)
 work: build your ngrx example-app with the help of @ngrx/schematics
 learn: manfred steyer book on leanpub: ngrx schematics
 learn: manfred steyer blog: ngrx schematics blog article
+
+Mi 14:22 09.05.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx google calendar api sample on yt and github:https://www.youtube.com/watch?v=8pl0DEeHA2E&t=577s, https://github.com/buddhasoft/mentarea-front
+google developer calendar api getting started
+work: ngrx hans: google-events:C:\Users\Folio\web\google\caldendar\hans\google-events
+github ngrx google calendar api sample: https://github.com/buddhasoft/mentarea-front 
+google calendar api quickstart, https://developers.google.com/calendar/quickstart/js 
+google api, https://developers.google.com/api-client-library/javascript/samples/samples#authorizing-and-making-authorized-requests 
+https://developers.google.com/api-client-library/javascript/samples/samples 
+https://developers.google.com/api-client-library/javascript/samples/samples 
+https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/gapi.client.calendar/gapi.client.calendar-tests.ts 
+https://developers.google.com/calendar/overview 
+https://developers.google.com/calendar/v3/reference/events 
+use google api explorer, "https://developers.google.com/apis-explorer/#s/calendar/v3/calendar.events.list?calendarId=ioqt4l8g1fe2cp6e6cu3cujoig%2540group.calendar.google.com&fields=description%252Citems&_h=4&" 
+
+Do 08:30 10.05.2018
+---------------------------------------------------------------------------------------------------------------------
+google io 2018: angular firebae tensorflow iot
+ayurveda cooking
+kitchari cooking
+ayurveda food ytl
+k
+gapi with promises, https://developers.google.com/api-client-library/javascript/features/promises 
+gapi auth, https://developers.google.com/identity/sign-in/web/reference 
+google calendar api, wcplanner, http://cs.wellesley.edu/~mashups/pages/ 
+google calendar essential training, http://pcdownload.in/2018/02/01/lynda-google-calendar-essential-training/ 
+gcal as commandline 
+gcal cli, https://github.com/toniov/gcal-cli 
+google calendar with node, https://github.com/nealfennimore/google-api-node-express 
+schedule shell commands with google caledar events, https://github.com/toniov/gcalcron 
+google api with firebase auth, https://github.com/vanderlin/google-api-firebase-boilerplate 
+gcal article on medium, https://medium.com/@antonioval/google-calendar-programmatic-event-listing-and-bulk-insert-made-easy-505fa281e9ed 
+google api firebase auth article on medium, https://medium.com/@vanderlin/google-api-firebase-auth-1b18416b4e74 
