@@ -10,3 +10,5 @@ rowing technique charlotte, 	D:\_downloads\Rowing Technique - with Master Rower 
 
 
 advanced photo app lars bilde, c:\Users\Folio\web\firebase\firestore\Family-Photo-Sharing-App---Series-1 
+yt:d:\_downloads\Wiederverwendbare npm-Pakete und Plug-in-Systeme fÅr Angular 
+javascript secuirty, 

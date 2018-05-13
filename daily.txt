@@ -921,3 +921,19 @@ schedule shell commands with google caledar events, https://github.com/toniov/gc
 google api with firebase auth, https://github.com/vanderlin/google-api-firebase-boilerplate 
 gcal article on medium, https://medium.com/@antonioval/google-calendar-programmatic-event-listing-and-bulk-insert-made-easy-505fa281e9ed 
 google api firebase auth article on medium, https://medium.com/@vanderlin/google-api-firebase-auth-1b18416b4e74 
+work: C:\Users\Folio\web\google\caldendar\hans\google-events 
+tutsplus.com, reginald dawson, code google calendar api 
+google calendar api for node , https://developers.google.com/calendar/quickstart/nodejs 
+yt:d:\_downloads\Wiederverwendbare npm-Pakete und Plug-in-Systeme fÅr Angular 
+safari:nemt@u.0u.ro nemt123 
+Advanced API Security: Securing APIs with OAuth 2.0, OpenID Connect, JWS ... von Prabath Siriwardena 
+book:Getting Started with OAuth 2.0: Programming Clients for Secure Web API ... von Ryan Boyd 
+
+Sa 08:06 12.05.2018
+------------------------------------------------------------------------------------------------------------------------------
+angular json webtoken
+ngrx coursetro, designcourse, 
+angular-university.io
+safarinonlinebooks.com
+lynda, angular apps , roy sivan
+lynda ,angular routing, http://pcdownload.in/2018/03/03/lynda-angular-routing/

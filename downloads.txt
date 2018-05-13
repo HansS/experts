@@ -443,3 +443,5 @@ data centric apps in js with breezejs, http://pcdownload.in/2017/06/21/pluralsig
 packt , github masterclass, jan 2018, http://pcdownload.in/2018/01/25/packt-publishing-complete-git-and-github-masterclass-beginner-to-git-expert/ 
 choose a mobile platform, http://pcdownload.in/2018/05/08/lynda-choosing-a-cross-platform-development-tool-cordova-ionic-react-native-titanium-and-xamarin/ 
 javascript security , http://pcdownload.in/2018/05/03/pluralsight-play-by-play-javascript-security/ 
+angular json webtoken, http://pcdownload.in/2018/04/03/pluralsight-angular-security-using-json-web-tokens/ 
+lynda, angular routing 2018, http://pcdownload.in/2018/03/03/lynda-angular-routing/  
