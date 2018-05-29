@@ -117,3 +117,7 @@ medium article serie, c:\Users\Folio\web\frontend\javascript\frameworks\angular\
 ngconf 2018 summaries, https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/ 
 nitay neeman, angular cli expert 
 angular-cli wiki, https://github.com/angular/angular-cli/wiki 
+manfred steyer, angular enterprise videos online 100.-, https://tutorials.entwickler.de/ 
+egghead, juri strumpflohner, angular dynamic components 
+maxim koretskyi, video dom change? 
+henrique oriol, udemy , advanced angular components 

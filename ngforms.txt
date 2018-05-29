@@ -69,3 +69,7 @@ myField: AbstractControl
 constructor(fb:FormBuilder)
   this.myForm = fb.group({'myField': ['initial value', Validators.required]});
   this.myField = this.myForm.controls('myField')
+
+form.io
+ngx-formly
+juristrumpflohner, egghead.io

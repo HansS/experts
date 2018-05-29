@@ -937,3 +937,112 @@ angular-university.io
 safarinonlinebooks.com
 lynda, angular apps , roy sivan
 lynda ,angular routing, http://pcdownload.in/2018/03/03/lynda-angular-routing/
+
+So 17:23 13.05.2018
+-------------------------------------------------------------------------------------------------------------------------------
+descentrowing.com, stream download addin in chrome
+lynda.com, jwt angular mongo
+lynda, wordpress rest
+lynda  wordpress angular web apps
+LYNDA, jest testing
+
+ayurveda, vasant lad, the doctor from india 
+
+Mo 10:47 14.05.2018
+----------------------------------------------------------------------------------------------------------------------------------------
+work: design api with node and express, lynda (users, contacts, events)
+pluralsight, scott moss, node api design express, http://pcdownload.in/2018/04/06/pluralsight-api-design-in-node-js-featuring-express-mongo/ 
+pluralsight, node express 4.o, jonathan mill, http://pcdownload.in/2018/03/24/pluralsight-building-web-applications-with-node-js-and-express-4-0-update/ 
+meret bissegger, wildpflanzen kochen, http://meretbissegger.ch/wildpflanzen-kochkurse/ 
+ex libris, 50.-, meret bissegger, MEINE WILDE PFLANZENKšCHE 
+pl, daniel stern, http://pcdownload.in/2018/05/12/pluralsight-testing-react-applications-with-jest/  
+
+Di 16:36 16.05.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------
+angular dynamic components workshop, ngconf 2018, maxim koretskyi, angularindepth.com
+angularindepth.com blog, rxjs, angular source explained
+udemy, 
+juri strumpflohner, egghead.io, angular dynamic components
+rxjs marble testing
+angularair, ngrx testing with jest, digitaloasis, jesse warden
+daniel stern, react jest testing, pci downloand
+enrique oriol, udemy , angulaar components 101,
+enrique oriol, author on angularindepth.com
+typescript ytl download, D:\_downloads\TSConf 2018 - YouTube, TSConf2018
+juri strumpflohner, ionic ycard app, sports promotion, C:\Users\Folio\web\mobile\ionic\juri-strumpflohner\ycard 
+juri strumpflohner, ionic ycard app, sports promotion, C:\Users\Folio\web\mobile\ionic\juri-strumpflohner\ycard 
+wireshark the art of network sniffing, http://pcdownload.in/2017/05/03/udemy-wireshark-the-art-of-sniffing/ 
+
+Fr 17:40 18.05.2018
+----------------------------------------------------------------------------------------------------------------------------------------------
+https://jonsuh.com/100-days-of-scriptures/
+jonathan suh, git shortcuts
+jonathan suh, https://jonsuh.com/blog/javascript-templating-without-a-library/
+
+Sa 10:20 19.05.2018
+---------------------------------------------------------------------------------------------------------------------------------------------
+learn git branching, https://learngitbranching.js.org/
+juri strumpflohner dynamic angular tabs sample, juristr.com
+ngHouston Typescript strict option, James Henry
+James Henry Advanced Typescript, D:\A10-projects\typescript\James-Henry\Typescript Advanced
+
+juri, https://juristr.com/blog/2017/07/ng2-dynamic-tab-component/ 
+maxim korretski workshop dyn angular components, "https://www.youtube.com/watch?v=vz9cNCkaPsY&list=PLw5h0DiJ-9PDyHiRwuP2c_kuxx1URzUMx" 
+bitovi.com, create your own jquery tutorial  
+oreilly, javascript templating, http://pcdownload.in/2015/06/02/oreilly-javascript-templating/ 
+
+Mo 18:35 22.05.2018
+-----------------------------------------------------------------------------------------------------------------------------------
+angular meeting: AngularFirebase-Redux (no need for actions and reducers, ngrx is used for local state, AFR is used for remote state
+pagedraw.io, for designer design layout create angular components from your layout
+ngx-formly, create dynamic forms
+eggheadi.io, juri strumpflohner dynamic forms
+udemy.com, angular-university, angular 6
+dr robert lustig, ucd, sugar is the american enemy nbr 1
+andre staltz, programming with abstractions, yt
+angular glossary: view, viewcontainer, viewcontainerref, elementref, templateref
+hyperapp, new minimal spa framework (2k), with redux (action, view, state)
+jorge bucaran, author of hyperapp.js, venezuela now in japan, speaks fluent japanese!!!
+https://debugmode.net/ , custom angular dynamic components
+
+Di 07:04 23.05.2018
+---------------------------------------------------------------------------------------------------------------------------------------
+angular-air: angular-cli v6
+safarionlinebooks login, jviv@xf.sluteen.com 
+
+Fr 09:34 25.05.2018
+-------------------------------------------------------------------------------------------------------------------------------------
+manfred steyer video, angular enterprise, entwickler.de
+https://ng-run.com/ , run your angular project online
+don coleman - cordova plugin to publish ble service, https://github.com/don/cordova-plugin-ble-peripheral/tree/master/examples/flashlight/hooksmanfred steyer, angular enterprise videos online 100.-, https://tutorials.entwickler.de/ 
+ngrx v6 out, ngrx-data with ward bell
+tim deschryver new member on ngrx team,https://medium.com/@timdeschryver/ngrx-normalizing-state-d3960a86a3aa
+ward bell, new team member on ngrx
+iot home automation, ytl
+andrew chalkley, javascript microcontroller
+udemy ngrx angular-university
+egghead monthly subscription 24.05 - 24.06, cancel 23.06
+isaac mann, angular components article serie on medium, D:\A10-projects\angular\Angular-Components\Isaac-Mann-ToggleComponent
+ngrx, ng update, ng add, https://medium.com/@timdeschryver/ng-update-the-setup-2d2c54d05a0e
+ngrx-data lab, getting started, https://github.com/johnpapa/ngrx-data-lab/blob/master/README.md
+angular nx, http://pcdownload.in/2018/05/23/pluralsight-play-by-play-building-enterprise-angular-apps-with-nx/ 
+
+Mo 08:07 28.05.2018
+----------------------------------------------------------------------------------------------------------------------------------------
+christoffer noriing, angular architecture
+ngxs, daniel .., auth witn ngxs
+pl, angular unit testing, http://pcdownload.in/2018/05/23/pluralsight-unit-testing-in-angular/  
+pl, vscode can do that, http://pcdownload.in/2018/05/16/pluralsight-play-by-play-visual-studio-code-can-do-that/ 
+pl, firebase auth, http://pcdownload.in/2018/05/15/pluralsight-authenticating-users-with-firebase-authentication-service-playbook/ 
+
+Di 10:03 29.05.2018
+-------------------------------------------------------------------------------------------------------------------------------------------
+michael hladky, biophoton, manfred steyer college, angular college, rxjs expert, rxjs morser app, rxjs schedulers
+ngrx duncan hunter
+nx duncan hunter
+ngrx course angular-university
+angular structurual directives are dynamic components
+angular.io dynamic components, JobAdComponents sample (see download)
+egghead, juri strumpflohner, angular dynamic components 
+maxim koretskyi, video dom change? 
+henrique oriol, udemy , advanced angular components 
