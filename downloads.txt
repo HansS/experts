@@ -446,3 +446,4 @@ javascript security , http://pcdownload.in/2018/05/03/pluralsight-play-by-play-j
 angular json webtoken, http://pcdownload.in/2018/04/03/pluralsight-angular-security-using-json-web-tokens/ 
 lynda, angular routing 2018, http://pcdownload.in/2018/03/03/lynda-angular-routing/  
 pl, firebase auth, http://pcdownload.in/2018/05/15/pluralsight-authenticating-users-with-firebase-authentication-service-playbook/ 
+lynda, angular php, http://pcdownload.in/2018/03/03/packt-publishing-web-development-with-angular-and-php/ 

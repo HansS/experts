@@ -121,3 +121,6 @@ manfred steyer, angular enterprise videos online 100.-, https://tutorials.entwic
 egghead, juri strumpflohner, angular dynamic components 
 maxim koretskyi, video dom change? 
 henrique oriol, udemy , advanced angular components 
+assim hussain, good custom directives video, and a long ebook 
+maxim koretski workshop, c:\Users\Folio\web\frontend\javascript\frameworks\angular\components\dom-manipulation-workshop-maxim-koretskyi 
+maxim koretskiy workshop video, D:\A10-projects\angular\Angular-Components\Maxim-Korretskyi-NgConf-2018-Workshop 

@@ -76,3 +76,20 @@ progressive web apps
 pouchdb, indexeddb 
 ngrx, nx , victor savkin 
 typescript expert, marius schulz, egghead course, https://blog.mariusschulz.com/archive 
+
+docker
+ngrx schematics
+angular dynamic components
+angular nx
+angular schematics
+custom angular schematics
+ngrx firebase
+angular-material
+ionic pro - nativescript ??
+firebase functions
+firebase security rules
+fierbase firestore
+firebase storage
+firebase notifications
+firebase analytics
+firebase ngrx no reducers, no actions -> david east angular meetup

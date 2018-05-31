@@ -1046,3 +1046,67 @@ angular.io dynamic components, JobAdComponents sample (see download)
 egghead, juri strumpflohner, angular dynamic components 
 maxim koretskyi, video dom change? 
 henrique oriol, udemy , advanced angular components 
+assim hussain, good custom directives video, and a long ebook 
+maxim koretski workshop, c:\Users\Folio\web\frontend\javascript\frameworks\angular\components\dom-manipulation-workshop-maxim-koretskyi 
+maxim koretskiy workshop video, D:\A10-projects\angular\Angular-Components\Maxim-Korretskyi-NgConf-2018-Workshop 
+
+Mi 07:53 30.05.2018
+----------------------------------------------------------------------------------------------------------------------------
+angular cli, workspace, ng add, ng update, schematics
+schematics is not only for angular, angular file creation, change..
+Superfoods:	antioidants full, bio available, bio identicallly, organic intelligent food, non genetic manipulated
+		lively food, food filled with prana, no dead food
+Superfood list	- 1 whole grains (quinoa, amaranth, brown rice, barley, lentils, oats mixed with mung black and kidney beans and legumes
+		- 2 clarified butter, ghee, raw cold press oils: olivenöl, kokosöl, sesamöl (sesamy), rapsöl, sonnenblumenöl,
+		- 3 leafy greens: spinach, kale, cilantro, leeks (lauch), collard greens (grünkohl)
+		- 4 broccol, coliflower, cabbage
+ 		- 5 sweet potatoes, karrots
+		- 6 fish, salmon, turkey
+		- 7 mango, kiwi, orange, pomoranate, avocado, papaya, apples
+		. 8 red and orange pepper, green chili, tomatoes, artichokes, zuchini, bok
+		- 9 tumeric, ginger, cinamon, black pepper, cumin, 
+		. 10 nuts (brain food): walnuts, almonds, pines, brazil nut, peacuns
+		- 11 dairy products: 
+		- 12 berries: blueberries, blackberries, raspberries, strawberries
+		- 13 seeds: flax, sesame, pumpkins, sunflower seeds
+		- 14 seets: honey, mable siroup, jaggery
+
+-------------------------------------------------------------------------------
+The one who sees outside dreams, the one who sees inside awakens!
+-------------------------------------------------------------------------------
+manfred steyer angularfire2-crud, c:\Users\Folio\web\frontend\javascript\frameworks\angular-firestore\manfred-steyer\angularfire2-crud
+pluralsight, play by play nx, duncan hunter, c:\Users\Folio\web\frontend\javascript\frameworks\angular-nx\hans\demo\test
+video duncan hunter interviews justin schwartzenberger on nx
+video, paolo galfione on nx, schematics, italian spoken
+ngrx auth sample, michael herman, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\michael-herman\angular-auth-ngrx
+code and article michael herman, ngrx auth
+nx, see data library, can be used without nx, dive into source code, learn observable operators
+
+Do 08:27 31.05.2018
+-----------------------------------------------------------------------------------------------------------------------------------------
+minko gechev angular tooling: codelyzer, ngref, ngworld, ngast, ast explorer
+codedamn, yt list angular 6 proxi config, https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe
+angular compiler, analyze, parse, code
+
+ngr authentiction, michael herman, medium article or personel blog 
+lynda, angular php, http://pcdownload.in/2018/03/03/packt-publishing-web-development-with-angular-and-php/ 
+
+nativescript is better integrated in angular-cli than ionic
+nativescript plays well with nx and schematics
+
+ionic has its own cli and wants to hold ownership of the directory in which it is created
+duncan hunter tries to integrate ionic into nx (see pluralsight, nx play by play
+
+see youtube video ng2018, sani yusuf, one code base 5 apps
+
+angular with php, allows for more job opportunities, because php is everywhere
+
+angular and wordpress, because wordpress is everywhere
+
+upgrade from windows 10 home to windows 10 pro , 26.- chf, makes it possible to run docker without vmware
+
+you can not neglec docker, docker is coming, docker is everywhere
+angular and docker (dan whalin)
+
+ionic fb auth, C:\Users\Folio\web\mobile\ionic\todd-shelton-fb-auth
+ionic fb auth videos, D:\A10-projects\firebase-Authentication\Pluralsight - Authenticating Users with Firebase Authentication Service Playbook
