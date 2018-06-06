@@ -1110,3 +1110,64 @@ angular and docker (dan whalin)
 
 ionic fb auth, C:\Users\Folio\web\mobile\ionic\todd-shelton-fb-auth
 ionic fb auth videos, D:\A10-projects\firebase-Authentication\Pluralsight - Authenticating Users with Firebase Authentication Service Playbook
+jÅrg malpell, triathlon dietikon , schwimm trainer dietikon 
+
+Fr 09:42 01.06.2018
+--------------------------------------------------------------------------------------------------------------------------------------------
+ngrx intro video, angularngrxacademy
+brian love, ngrx tutorials
+ervis trupja, angular firebase books with auth
+traversy media, deveveloper workflow
+
+Mo 08:11 04.06.2018
+----------------------------------------------------------------------------------------------------------------------------------------------
+daid east, angularfirebase-redux library (ngrx remote state management)
+
+Di 08:14 05.06.2018
+----------------------------------------------------------------------------------------------------------------------------------------------
+luke hoban, pulumi, cloud programming
+start pomodooro project
+ 
+Mi 08:13 06.06.2018
+----------------------------------------------------------------------------------------------------------------------------------------------
+npm angular-crud, manfred steyer
+ryan chenkie, angular security
+packtpub, angular enterprise
+angular custom controls
+httpclient, manfred steyer
+pomodoro project
+work: c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-auth\hans\af-fb-auth // based on Max Schwarzm¸ller, Udemy, Firebase Material Ngrx
+angular enterprise, 
+fb auth, authorization with angularfire2, material layout, max schwarzm¸ller
+
+create auth-control
+
+conemu.txt Command List
+conemu: af commmands af:Angularfire
+
+fbdirectories
+fbinstall
+fbconfig
+
+af2directories
+af2install
+af2config
+
+matdirectories
+matinstall
+matconfig
+
+ngrxdirectoires
+ngrxinstall
+ngrxconfig
+
+schematicsdirectories
+schematicsinstall
+schematicsconfig
+
+ionicdirectories
+ionicinstall
+ionicconfigangular enterprise book, c:\Users\Folio\web\frontend\javascript\frameworks\angular\doguhan-uluca 
+paul halliday, ionic register login with firebase 
+ngrx medium article on ngrx actioncreators, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\christian-janker-action-creators\loading-sample 
+ionic create lazy page, ionic generate page About --constants 

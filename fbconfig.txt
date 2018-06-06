@@ -1,3 +1,37 @@
+pomodoro
+---------------------------------------------------------
+
+<script src="https://www.gstatic.com/firebasejs/5.0.4/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyA9LhJrqHizRbRAb7K0INvBZTUzzGX_yM0",
+    authDomain: "pomodoro-5b494.firebaseapp.com",
+    databaseURL: "https://pomodoro-5b494.firebaseio.com",
+    projectId: "pomodoro-5b494",
+    storageBucket: "pomodoro-5b494.appspot.com",
+    messagingSenderId: "176160439172"
+  };
+  firebase.initializeApp(config);
+</script>
+
+courses
+----------------------------------------------------------
+
+<script src="https://www.gstatic.com/firebasejs/5.0.4/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCehcxHFQ3oJWWvBWa9xlgD5CCSS6RCQg4",
+    authDomain: "courses-e30e6.firebaseapp.com",
+    databaseURL: "https://courses-e30e6.firebaseio.com",
+    projectId: "courses-e30e6",
+    storageBucket: "",
+    messagingSenderId: "65848383480"
+  };
+  firebase.initializeApp(config);
+</script>
+
 esm-pix
 --------------------------------------------------------------------------
 
