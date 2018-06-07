@@ -1171,3 +1171,17 @@ ionicconfigangular enterprise book, c:\Users\Folio\web\frontend\javascript\frame
 paul halliday, ionic register login with firebase 
 ngrx medium article on ngrx actioncreators, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\christian-janker-action-creators\loading-sample 
 ionic create lazy page, ionic generate page About --constants 
+
+Do 10:08 07.06.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------$
+women in tech, suz hinton (iot, tessel, firmata (js to c protocol) windows iot core)
+women in tech, jen tong, google, firebase iot
+deborah kurata, angular
+shmuela jacobs, angular
+ytl women in tech
+ionic firestore tutorial based on javebrad tutorial songlist on firestore, yt download
+ytl firebase - firestore
+ytl firebase - Admin SDK
+ytl firebase - Functions
+firecast, doug stevenson, async await in typescript !!
+ytdl firebase firstore tutorial
