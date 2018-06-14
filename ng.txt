@@ -125,3 +125,4 @@ assim hussain, good custom directives video, and a long ebook
 maxim koretski workshop, c:\Users\Folio\web\frontend\javascript\frameworks\angular\components\dom-manipulation-workshop-maxim-koretskyi 
 maxim koretskiy workshop video, D:\A10-projects\angular\Angular-Components\Maxim-Korretskyi-NgConf-2018-Workshop 
 angular enterprise book, c:\Users\Folio\web\frontend\javascript\frameworks\angular\doguhan-uluca 
+udemy 3 best angular 6 videos: max schwarzm, angular 6, brad traversy angular front to back, mark angular 6 concepts, c:\Users\Folio\web\frontend\javascript\frameworks\angular\mark-rajcok-udemy-ng6-concepts\a2c3-app2 

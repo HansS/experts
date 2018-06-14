@@ -1,4 +1,4 @@
-
+07:57 11.06.2018
 
 
 Di 02.01.2018
@@ -1184,4 +1184,25 @@ ytl firebase - firestore
 ytl firebase - Admin SDK
 ytl firebase - Functions
 firecast, doug stevenson, async await in typescript !!
-ytdl firebase firstore tutorial
+ytdl firebase firstore tutorialwork:udemy af fb auth, max schwarzmÅller , auth with angularfire2 
+, firebase funcions, doug stevenson, c:\Users\Folio\web\firebase\functions\function-faker-image\functions 
+ionic team, ionic pwa toolkit 
+ionic team, ionic pwa toolkit, C:\Users\Folio\web\mobile\ionic\ionic-team 
+brad traversy, firestore sample, c:\Users\Folio\web\firebase\firestore\traversy\angularfs 
+udemy 3 best angular 6 videos: max schwarzm, angular 6, brad traversy angular front to back, mark angular 6 concepts, c:\Users\Folio\web\frontend\javascript\frameworks\angular\mark-rajcok-udemy-ng6-concepts\a2c3-app2 
+
+Fr 07:39 08.06.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ryan dahl is back, from node to deno (typescript based!)
+ngrx sample course angular-university, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\angular-university\angular-ngrx-course 
+
+Mo 07:57 11.06.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+hot belly diet (agni - ignite), dr suhar kshirsagar (keralaayurveda)
+github codeconept, ionic angularfire2 auth,
+pl, auth with firebase play by play, http://pcdownload.in/2018/05/15/pluralsight-authenticating-users-with-firebase-authentication-service-playbook/ 
+
+Mi 10:34 13.06.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+learn: firebase, typescript, vscode, node cli, node
+work: firebase auth (fb, angularfire2)

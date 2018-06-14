@@ -5,3 +5,4 @@ david easet videos
 state update, a single field value subscription, 
 firestore fits into the world of progressive web apps 
 angularfire v5 for firestore 
+brad traversy, firestore sample, c:\Users\Folio\web\firebase\firestore\traversy\angularfs 

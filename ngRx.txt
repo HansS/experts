@@ -61,3 +61,4 @@ ngrx with entities sample, contacts, https://github.com/avatsaev/angular-contact
 google calendar api with ngrx, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\buddhasoft\mentarea-front 
 github ngrx google calendar api sample: https://github.com/buddhasoft/mentarea-front 
 ngrx medium article on ngrx actioncreators, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\christian-janker-action-creators\loading-sample 
+ngrx sample course angular-university, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\angular-university\angular-ngrx-course 

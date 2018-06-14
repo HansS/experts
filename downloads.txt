@@ -450,3 +450,5 @@ lynda, angular php, http://pcdownload.in/2018/03/03/packt-publishing-web-develop
 pl, node cli programmming, http://pcdownload.in/2018/06/06/pluralsight-building-command-line-applications-in-node-js/ 
 pl, functional js libraries, http://pcdownload.in/2018/06/02/pluralsight-functional-javascript-libraries-playbook/ 
 pl, duncan hunter, angular testing, http://pcdownload.in/2018/06/01/pluralsight-play-by-play-fundamentals-of-angular-testing/ 
+packtpub, angular front to back with firestore, http://pcdownload.in/2018/05/31/packt-publishing-angular-front-to-back/ 
+pl, auth with firebase play by play, http://pcdownload.in/2018/05/15/pluralsight-authenticating-users-with-firebase-authentication-service-playbook/ 

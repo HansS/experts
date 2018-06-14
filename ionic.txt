@@ -155,3 +155,4 @@ ionic play by play share code , http://pcdownload.in/2017/12/15/pluralsight-play
 ionic firebase auth, wes doyle, C:\Users\Folio\web\mobile\ionic-angularfire2\wes-doyle\ionic-menu-demo 
 masterin ionic blog, http://masteringionic.com/blog/ 
 ionic create lazy page, ionic generate page About --constants 
+ionic team, ionic pwa toolkit, C:\Users\Folio\web\mobile\ionic\ionic-team 
