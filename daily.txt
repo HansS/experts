@@ -1206,3 +1206,14 @@ Mi 10:34 13.06.2018
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 learn: firebase, typescript, vscode, node cli, node
 work: firebase auth (fb, angularfire2)
+
+Do 11:39 14.06.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+sri ramanam, Self Enquiry, Teachings of Ramana
+wes grimes, ngrx best practices,D:\A10-projects\Angular-NgRx\Wes-Rimes-Best-Practices
+ngrx sample wes grimes, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\wes-grimes-entities 
+wes grimes, ngrx best practices sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\wes-grimes-entities\angular-ngrx-chuck-norris 
+
+Fr 07:41 15.06.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+vitaly bobrov, ngrx schematics,c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\vitaly-bobrov\ngrx-swkb
