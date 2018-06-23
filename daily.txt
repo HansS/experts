@@ -1217,3 +1217,67 @@ wes grimes, ngrx best practices sample, c:\Users\Folio\web\frontend\javascript\f
 Fr 07:41 15.06.2018
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 vitaly bobrov, ngrx schematics,c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\vitaly-bobrov\ngrx-swkb
+work: c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\ngrx-chat-firebase 
+
+So 17:41 17.06.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+https://blog.strongbrew.io/A-scalable-angular2-architecture/
+https://blog.strongbrew.io/A-scalable-angular-architecture-part2/
+https://blog.strongbrew.io/Cancellable-optimistic-updates-in-Angular2-and-Redux/
+
+Mo 18:46 18.06.2018
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+todd motto , custom store, https://github.com/toddmotto/ac-store.git, https://www.youtube.com/watch?v=6Z-1v1UnoM8
+gion kunz, custom store, d:\_downloads\Angular the Redux Way by Gion Kunz
+egghead, juri strumpflohner, ng http, 
+ngrx schematics , test, 
+work: C:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\ngrx-todo\src\app\links
+conemu ngrx schematics
+pys 28 ok
+
+ngrx schematics entity: creates actions and reducer with entitystate
+ngrx schematics feature creates feature with standard actions and reducer with feature module in angular module
+
+ngrx todd motto video, custom redux store (store, state, reducers, subscribers, reduce function
+
+angular package format, juri strumpflohner, video ngvikings 2018, ngbe 2018, egghead short video
+create angular library with ngrx schematics: ng g library
+
+Di 07:05 19.06.2018
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+angular-cli, david müllerchen, yt
+angular schematics, manfred steyer
+angular-crud, manfred steyer custom schematics
+angular meeting, schematics: felipe silva, charles lyding, mike brocchi, hans larson
+ngrx store and effects, todd motto, ultimateangular
+
+
+Mi 07:00 - 18:00 Adliswil - Klausenpass - Adliswil
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Velofahrt bei schönstem Wetter.
+Aufstieg auf Klausenpass mit etwa 6 Zwischenhalten
+Abfahrt vorbei Urnerboden , Rüedu and Alice
+Glarus - Pfäffikon - Zürich - müde am Ende - viel Arbeit
+
+Do 06:58 21.06.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+angular-air: angular component devkit
+ngrx: todd motto
+
+Fr 07:39 22.06.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Nithyananda - 25 states of consciousness
+-----------------------------------------
+body and mind can be in different states:
+states: deep sleep, dream, wake, turiya
+wayes: with thoughts, without thoughts
+body mind and the consciousness states: dream, deep sleep, wake, turiya
+body: deep sleep, mind deep sleep -> coma
+body: dream, mind: deep sleep -> bed wetting
+body: wake, mind: deep sleep -> sleep walker
+body: turiya, mind: deep sleep -> 
+
+Sa 07:00 23.06.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+sadhguru yoga
+angular schematics, cli 6, angular.json
