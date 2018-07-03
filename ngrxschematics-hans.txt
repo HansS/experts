@@ -19,11 +19,17 @@ ng generate store State --statePath=state --root -m=app.module.ts --collection @
 -------------------------------------------------
 ngm modulename in singular
 
-ng g feature featurename/state/featurname -g=true -m=featurename
-ng g feature courses/state/courses -g=true -m=courses
+ng g feature path/featurename/state/Featurname -m=../featurename
+ng g feature courses/state/Course -m=../courses
 
-auth
------------------
-ngma
-ng g feature auth/state/auth --flat=true -m=auth
+feature: auth (effects are included)
+------------------------------------------------
+ng g feature auth/state/Auth -m=../auth
 
+effects
+------------------------------------------------
+ng g effect auth/state/Auth -m=../auth
+
+entity
+-----------------------------------------------
+ng g entity auth/entity/Auth -m=../auth

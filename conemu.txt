@@ -1,48 +1,56 @@
-cli directories
+----------------------------------------------------------------------------------------
+*** bash cli directories
 ----------------------------------------------------------------------------------
 alias mdcd=md $* && cd $*
- 
-cli files
+alias cb=cd..
+alias cbb=cd.. && cd.. 
+
+--------------------------------------------------------------------
+*** bash cli files
 ----------------------------------------------------------------------------------
 alias dp=dir /p
 alias la= ls -al
 alias t= type $*
  
-cli search
+------------------------------------------------------------------------------
+*** bash cli search
 --------------------------------------------------------------------------------
 alias grp=grep '$*' *.txt
-alias cb=cd..
-alias cbb=cd.. && cd..
 alias ec= echo $*
 alias ecd= echo $* >> daily.txt 
 alias ecdl= echo $* >> downloads.txt
  
-vscode
+-----------------------------------------------------------------------------------
+*** vscode
 -----------------------------------------------------------------------------------
 alias vc= code .
 alias vcr=code . -r
  
 set PATH=%ConEmuBaseDir%\Scripts;%PATH%
- 
-daily
+
+-------------------------------------------------------------- 
+*** daily
 ----------------------------------------------------------------
 alias cwd=cd c:\users\folio\dropbox\experts &&  dir /p
 alias cwdo=cd c:\users\folio\dropbox\experts && notepad.exe daily.txt
-alias npd=notepad.exe daily.txt
 alias td=type daily.txt
  
-notepad
+---------------------------------------------------------------------------------
+*** notepad
 --------------------------------------------------------------------------------
 alias np=notepad.exe $*
- 
-backend node
+alias npd=notepad.exe daily.txt
+alias npp=notepad.exe pys.txt
+
+------------------------------------------------------------------------------ 
+*** backend node
 ------------------------------------------------------------------------------
 alias cwn= cd C:\Users\Folio\web\backend\node && dir /p
 alias cwnd= cd c:\Users\Folio\web\backend\node && dir /p
 alias cwxp= cd c:\Users\Folio\web\backend\express && dir /p
  
- 
-frontend html css javascript
+-------------------------------------------------------------------------------- 
+*** frontend html css javascript
 --------------------------------------------------------------------------------
 html
 alias cwh= cd c:\Users\Folio\web\frontend\html && dir /p
@@ -53,13 +61,15 @@ alias cwsf= cd c:\Users\Folio\web\frontend\css\flexbox && dir /p
 javascript
 alias cwj= cd c:\Users\Folio\web\frontend\javascript
  
-frontend google
+------------------------------------------------------------------------
+*** frontend google
 -------------------------------------------------------------------------
 alias gg= cd C:\Users\Folio\web\google
 alias ggc= cd C:\Users\Folio\web\google\caldendar\hans
-angular directories
+
 -----------------------------------------------------------------------------------
-angular
+*** angular directories
+------------------------------------------------------------------------------------
 alias cwa= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular && dir /p
 angular hans
 alias cwah=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans && dir /p
@@ -77,8 +87,9 @@ ngrx
 alias cwang=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngRx && dir /p
 google-maps agm
 alias cwag= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-google-maps 
- 
-mobile directories mobile ionic
+
+------------------------------------------------------------------------------------ 
+*** mobile directories
 -------------------------------------------------------------------------------------
 mobile
 alias cwm= cd C:\Users\Folio\web\mobile && dir /p
@@ -87,7 +98,8 @@ ionic
 alias cwmi=cd  C:\Users\Folio\web\mobile\ionic && dir /p
 alias cwmih=cd  C:\Users\Folio\web\mobile\ionic\hans && dir /p
  
-ionic
+------------------------------------------------------------------------------------------
+*** ionic
 -------------------------------------------------------------------------------------
 alias icble=ionic cordova plugin add cordova-plugin-ble-central npm install --save @ionic-native/ble
 alias icrad=ionic cordova run android --device
@@ -104,13 +116,14 @@ alias igta=ionic g tabs
 alias isl=ionic serve -l
 alias is= ionic serve
  
-bundlers
+--------------------------------------------------------------------------------------
+*** bundlers directories
 -------------------------------------------------------------------------------------
-alias cwfw=cd C:\Users\Folio\web\frontend\module-bundlers\webpack && dir /p
-alias cwph= cd C:\Users\Folio\web\frontend\module-bundlers\webpack\hans && dir /p
+alias cwwp=cd C:\Users\Folio\web\frontend\module-bundlers\webpack && dir /p
+alias cwwph= cd C:\Users\Folio\web\frontend\module-bundlers\webpack\hans && dir /p
  
- 
-angular-cli 
+----------------------------------------------------------- 
+*** angular-cli 
 ---------------------------------------------------------
 serve/open
 alias ngo= ng serve -o
@@ -123,26 +136,33 @@ component name
 ------------------
 alias ngc=ng g c $*
  
-module with crud
 ----------------------------------------------------------
-alias ngm=ng g m $*s --routing && ng g c $*s && ng g c $*s/$*-list --prefix="" -m=$*s && ng g pipe $*s/$*-filter  && ng g c $*s/$*-add -m=$*s && ng g c $*s/$*-edit --prefix="" -m=$*s && ng g c $*s/$*-details --prefix="" -m=$*s && ng g s --prefix="" /$*s/$* -m=$*s &&touch src/app/$*s/$*s.json && echo { "$*s": [{ "id": 1, "name": "Name 1" },{ "id": 2, "name": "Name 2" },{ "id": 3, "name": "Name 3" }] } >>  src/app/$*s/$*s.json && touch src/app/$*s/$*.model.ts && echo export interface $* {id: string; name: string; } >> src/app/$*s/$*.model.ts && dir
- 
-auth module
+*** angular module with crud and ngrx entity
+----------------------------------------------------------
+alias ngm=ng g m $*s --routing && ng g c $*s && ng g c $*s/components/$*-list --prefix="" -m=$*s && ng g pipe shared/$*s/$*-filter  && ng g c $*s/components/$*-add -m=$*s/$*s && ng g c $*s/components/$*-edit --prefix="" -m=$*s/$*s && ng g c $*s/components/$*-details --prefix="" -m=$*s/$*s && ng g s --prefix="" /$*s/$* -m=$*s/$*s &&touch src/app/$*s/$*s.json && echo { "$*s": [{ "id": "1", "name": "Name 1" },{ "id": "2", "name": "Name 2" },{ "id": "3", "name": "Name 3" }] } >>  src/app/$*s/$*s.json && dir && ng g entity $*s/state/$* -m=../$*s && ng g effect $*s/state/$* -m=$*s
+
+----------------------------------------------------------- 
+*** angular auth module components/
 -----------------------------------------------------------
-alias ngma=ng g m auth --routing && ng g c auth auth/auth -m=auth && ng g c auth/login m=auth && ng g c auth/signin -m=auth && ng g s auth -m=auth && ng g s auth-guard -m=auth 
-material
+alias ngma=ng g m auth --routing && ng g c auth auth/auth -m=auth && ng g c auth/login m=auth && ng g c auth/signin -m=auth && ng g s auth/auth -m=auth && ng g s auth/auth-guard -m=auth 
+
+-----------------------------------------------------------------
+*** angular material
 ---------------------------------------------------------
 alias ngmat=npm i -S @angular/material @angular/cdk @angular/animations hammerjs && ng add @angular/material && ng generate @angular/material:material-nav --name=hs-nav && ng generate @angular/material:material-table --name=hs-table
  
-bootstrap
+------------------------------------------------------------
+*** bootstrap
 ----------------------------------------------------------
 alias bsi= npm i -S bootstrap jquery popper.js
  
-node server
+---------------------------------------------------------
+*** node server
 --------------------------------------------------------
 alias hso= hs -o -p 4444
- 
-npm
+
+------------------------------------------------------------------------------------- 
+*** npm
 -------------------------------------------------------------------------------------
 alias ni=npm install
 alias nis=npm install -S $*
@@ -155,12 +175,13 @@ alias ns=npm start
 alias nr=npm run $*
  
  
- 
-yarn
+------------------------------------------------------------------ 
+*** yarn
 --------------------------------------------------------------------
 alias ya=yarn
- 
-git
+
+-------------------------------------------------------------------------------------------- 
+*** git
 --------------------------------------------------------------------------------------------
 alias gitgo=git add . && git commit -m "new stuff" && git push && git status
 alias gc=git clone $*
@@ -170,29 +191,30 @@ alias np=notepad $*
 alias ga=git add .
 alias gs=git status
  
- 
-ngrx dir 
+--------------------------------------------------------------------------------------- 
+*** ngrx dir 
 --------------------------------------------------------------------------------------
 alias cwarx=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans && dir
  
-ngrxi install dependencies
-----------------
-alias ngrxi= npm install --save @ngrx/core  @ngrx/store @ngrx/effects @ngrx/router-store @ngrx/entity @ngrx/store-devtools
+ngrx install: 		ngrxi 
+----------------------------------------------
+alias ngrxi= npm install -S @ngrx/core  @ngrx/store @ngrx/effects @ngrx/router-store @ngrx/entity @ngrx/store-devtools && npm i -D @ngrx/schematics && ng config cli.defaultCollection @ngrx/schematics && ng g --help
  
-ngrxsi schematics install
-------------------------
-alias ngrxsi=npm install @ngrx/schematics --save-dev && ng generate store State --root --statePath store --name store --module app.module.ts --collection @ngrx/schematics && ng generate effect App --name App --root --module app.module.ts --collection @ngrx/schematics && ng config cli.defaultCollection @ngrx/schematics && npm install rxjs-compat
+ngrx schematics store and effects install in angular root app: 	ngrxsmi 
+-------------------------------------------------------------------------
+alias ngrxsmi=ng g store AppState --root --state-path=store --state-interface=AppState -m=app && ng g effect app --root -m=app 
  
-ngrx feature module
+ngrx feature module: 	ngrxsmf
 ----------------------------------------------
  
-alias ngrxf=ng generate feature --name $* -m $*s.module.ts --collection=@ngrx/schematics
+alias ngrxsmf=ng generate feature --name $* -m $*s.module.ts --collection=@ngrx/schematics
  
-ngrx entity 
+ngrx entity: 		ngrxsme
 ----------------------------
-aliax ngrxe=ng generate entity --name $* -m $*s.module.ts --collection=@ngrx/schematics
+alias ngrxsme=ng generate entity --name $* -m $*s.module.ts --collection=@ngrx/schematics
  
-firebase dir install
+--------------------------------------------------------------------------------------
+*** firebase dir install
 -------------------------------------------------------------------------------------
 alias fbi=npm install firebase angularfire2 --save
  
@@ -208,7 +230,8 @@ alias fbme= cd c:\Users\Folio\web\firebase\messageing && dir
 alias fbstg= cd c:\Users\Folio\web\firebase\storage && dir
 alias fbui= cd c:\Users\Folio\web\firebase\ui && dir
 
-angularfire
+------------------------------------------------------------------------------------------------------ 
+*** angularfire
 -------------------------------------------------------------------------------------------------------
 alias afa= cd c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-auth
 alias afsto=cd c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-firestore
@@ -216,12 +239,13 @@ alias afnrx= cd c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-ng
 alias afrdx= cd c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-redux
 alias afrtdb= cd c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-rtdb
 alias afstg= cd c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-storage
- 
-schematics
+
+------------------------------------------------------------------------------------------------------ 
+*** schematics
 -------------------------------------------------------------------------------------------------------
  
- 
-google maps places directions locations
+------------------------------------------------------------------------------------------------------- 
+*** google maps places directions locations
 ------------------------------------------------------------------------------------------------------
 alias gma=cd c:\Users\Folio\web\google\maps
  
