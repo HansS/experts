@@ -1,35 +1,5 @@
-ngrx install
--------------------------------------------------------------------------------------------
-
-
-0 - install ngrx-schematics
--------------------------------------------------------------------------------------------------------
-npm install @ngrx/schematics --save-dev
-
-1 - config ngrx-schematics as default schematics
------------------------------------------------------------------------------------------------------
-ng config cli.defaultCollection @ngrx/schematics
-
-
-2 - initial store and effects
------------------------------------------------
-ng generate store State --statePath=state --root -m=app.module.ts --collection @ngrx/schematics && ng generate effect state/App --root --module app.module.ts --collection @ngrx/schematics
-
-3 - generate users feature (folder:users, model:User)
--------------------------------------------------
-ngm modulename in singular
-
-ng g feature path/featurename/state/Featurname -m=../featurename
-ng g feature courses/state/Course -m=../courses
-
-feature: auth (effects are included)
-------------------------------------------------
-ng g feature auth/state/Auth -m=../auth
-
-effects
-------------------------------------------------
-ng g effect auth/state/Auth -m=../auth
-
-entity
------------------------------------------------
-ng g entity auth/entity/Auth -m=../auth
+conemu ngrx commands: 
+ngrxi:		install ngrx and set schematics collection ton @ngrx/schematics
+ngrxsmi, 	install root store and effects in app
+ngrxsmf, 	create angular module and ngrx feature module with inputed name in singular
+ngrxsme		create angular module and ngrx entity with inputed name in singular

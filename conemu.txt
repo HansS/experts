@@ -4,7 +4,7 @@
 alias mdcd=md $* && cd $*
 alias cb=cd..
 alias cbb=cd.. && cd.. 
-
+ 
 --------------------------------------------------------------------
 *** bash cli files
 ----------------------------------------------------------------------------------
@@ -27,7 +27,7 @@ alias vc= code .
 alias vcr=code . -r
  
 set PATH=%ConEmuBaseDir%\Scripts;%PATH%
-
+ 
 -------------------------------------------------------------- 
 *** daily
 ----------------------------------------------------------------
@@ -41,7 +41,7 @@ alias td=type daily.txt
 alias np=notepad.exe $*
 alias npd=notepad.exe daily.txt
 alias npp=notepad.exe pys.txt
-
+ 
 ------------------------------------------------------------------------------ 
 *** backend node
 ------------------------------------------------------------------------------
@@ -66,7 +66,7 @@ alias cwj= cd c:\Users\Folio\web\frontend\javascript
 -------------------------------------------------------------------------
 alias gg= cd C:\Users\Folio\web\google
 alias ggc= cd C:\Users\Folio\web\google\caldendar\hans
-
+ 
 -----------------------------------------------------------------------------------
 *** angular directories
 ------------------------------------------------------------------------------------
@@ -87,7 +87,7 @@ ngrx
 alias cwang=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngRx && dir /p
 google-maps agm
 alias cwag= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-google-maps 
-
+ 
 ------------------------------------------------------------------------------------ 
 *** mobile directories
 -------------------------------------------------------------------------------------
@@ -137,15 +137,24 @@ component name
 alias ngc=ng g c $*
  
 ----------------------------------------------------------
-*** angular module with crud and ngrx entity
+*** angular module with crud components
 ----------------------------------------------------------
-alias ngm=ng g m $*s --routing && ng g c $*s && ng g c $*s/components/$*-list --prefix="" -m=$*s && ng g pipe shared/$*s/$*-filter  && ng g c $*s/components/$*-add -m=$*s/$*s && ng g c $*s/components/$*-edit --prefix="" -m=$*s/$*s && ng g c $*s/components/$*-details --prefix="" -m=$*s/$*s && ng g s --prefix="" /$*s/$* -m=$*s/$*s &&touch src/app/$*s/$*s.json && echo { "$*s": [{ "id": "1", "name": "Name 1" },{ "id": "2", "name": "Name 2" },{ "id": "3", "name": "Name 3" }] } >>  src/app/$*s/$*s.json && dir && ng g entity $*s/state/$* -m=../$*s && ng g effect $*s/state/$* -m=$*s
-
+alias ngm=ng g m $*s --routing && ng g c $*s && ng g c $*s/components/$*-list --prefix="" -m=$*s && ng g pipe shared/$*s/$*-filter  && ng g c $*s/components/$*-add -m=$*s/$*s && ng g c $*s/components/$*-edit --prefix="" -m=$*s/$*s && ng g c $*s/components/$*-details --prefix="" -m=$*s/$*s && ng g s --prefix="" /$*s/$* -m=$*s/$*s &&touch src/app/$*s/$*s.json && echo { "$*s": [{ "id": "1", "name": "Name 1" },{ "id": "2", "name": "Name 2" },{ "id": "3", "name": "Name 3" }] } >>  src/app/$*s/$*s.json
+ 
+with ngrx entity
+-----------------
+alias ngmrxe=ng g m $*s --routing && ng g c $*s && ng g c $*s/components/$*-list --prefix="" -m=$*s && ng g pipe shared/$*s/$*-filter  && ng g c $*s/components/$*-add -m=$*s/$*s && ng g c $*s/components/$*-edit --prefix="" -m=$*s/$*s && ng g c $*s/components/$*-details --prefix="" -m=$*s/$*s && ng g s --prefix="" /$*s/$* -m=$*s/$*s && touch src/app/$*s/$*s.json && echo { "$*s": [{ "id": "1", "name": "Name 1" },{ "id": "2", "name": "Name 2" },{ "id": "3", "name": "Name 3" }] } >>  src/app/$*s/$*s.json && dir && ng g entity $*s/state/$* -m=../../$*s  --reducers ../../store/index.ts && ng g effect $*s/state/$* -m=$*s --reducers ../../store/index.ts
+ 
+ 
+with feature module
+-----------------
+alias ngmrxf=ng g m $*s --routing && ng g c $*s && ng g c $*s/components/$*-list --prefix="" -m=$*s && ng g pipe shared/$*s/$*-filter  && ng g c $*s/components/$*-add -m=$*s/$*s && ng g c $*s/components/$*-edit --prefix="" -m=$*s/$*s && ng g c $*s/components/$*-details --prefix="" -m=$*s/$*s && ng g s --prefix="" /$*s/$* -m=$*s/$*s &&touch src/app/$*s/$*s.json && echo { "$*s": [{ "id": "1", "name": "Name 1" },{ "id": "2", "name": "Name 2" },{ "id": "3", "name": "Name 3" }] } >>  src/app/$*s/$*s.json && ng generate feature $*s/state/$* -m $*s/$*s --reducers ../../store/index.ts
+ 
 ----------------------------------------------------------- 
 *** angular auth module components/
 -----------------------------------------------------------
 alias ngma=ng g m auth --routing && ng g c auth auth/auth -m=auth && ng g c auth/login m=auth && ng g c auth/signin -m=auth && ng g s auth/auth -m=auth && ng g s auth/auth-guard -m=auth 
-
+ 
 -----------------------------------------------------------------
 *** angular material
 ---------------------------------------------------------
@@ -160,7 +169,7 @@ alias bsi= npm i -S bootstrap jquery popper.js
 *** node server
 --------------------------------------------------------
 alias hso= hs -o -p 4444
-
+ 
 ------------------------------------------------------------------------------------- 
 *** npm
 -------------------------------------------------------------------------------------
@@ -179,7 +188,7 @@ alias nr=npm run $*
 *** yarn
 --------------------------------------------------------------------
 alias ya=yarn
-
+ 
 -------------------------------------------------------------------------------------------- 
 *** git
 --------------------------------------------------------------------------------------------
@@ -207,11 +216,11 @@ alias ngrxsmi=ng g store AppState --root --state-path=store --state-interface=Ap
 ngrx feature module: 	ngrxsmf
 ----------------------------------------------
  
-alias ngrxsmf=ng generate feature --name $* -m $*s.module.ts --collection=@ngrx/schematics
+alias ngrxsmf=ng generate feature $* -m $*s/$*s --reducers ../store/index.ts
  
 ngrx entity: 		ngrxsme
 ----------------------------
-alias ngrxsme=ng generate entity --name $* -m $*s.module.ts --collection=@ngrx/schematics
+alias ngrxsme=ng generate entity $*s/entity/$*s/entity/$* -m ../$* --reducers ../../store/index.ts
  
 --------------------------------------------------------------------------------------
 *** firebase dir install
@@ -229,7 +238,7 @@ alias fbio= cd c:\Users\Folio\web\firebase\iot && dir
 alias fbme= cd c:\Users\Folio\web\firebase\messageing && dir
 alias fbstg= cd c:\Users\Folio\web\firebase\storage && dir
 alias fbui= cd c:\Users\Folio\web\firebase\ui && dir
-
+ 
 ------------------------------------------------------------------------------------------------------ 
 *** angularfire
 -------------------------------------------------------------------------------------------------------
@@ -239,7 +248,7 @@ alias afnrx= cd c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-ng
 alias afrdx= cd c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-redux
 alias afrtdb= cd c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-rtdb
 alias afstg= cd c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-storage
-
+ 
 ------------------------------------------------------------------------------------------------------ 
 *** schematics
 -------------------------------------------------------------------------------------------------------
@@ -248,4 +257,4 @@ alias afstg= cd c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-st
 *** google maps places directions locations
 ------------------------------------------------------------------------------------------------------
 alias gma=cd c:\Users\Folio\web\google\maps
- 
+  

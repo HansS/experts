@@ -1296,3 +1296,27 @@ pys
 ngrx story
 ngrx udemy, angular-university
 ionic firestore auth, C:\Users\Folio\web\mobile\ionic\agarwal-samarth 
+
+Mi 07:39 04.07.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+yt playlist: Yoga with Swami Niranjananada (Bihar Yoga School)
+yt ngair serverless
+firebase masterclass authentication, siddharth ajmera udemy,  c:\Users\Folio\web\firebase\authentication\siddhart-ajmera-udemy\FirebaseAuthenticationSample 
+komprimiersocken migros 29.- 
+amarand rezept 
+rxjs workshop ondemand 199.- 
+yt webplatform podcast rxjs 
+bash scripting for ngrx schemtics commands: ./test-script.sh 
+udemy, ngrx enity section 5 entity in depth
+
+
+Do 17:03 05.07.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+pys
+udemy, ngrx enity section 6
+work:c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\labs\ngrx-todo
+conemu ngrx commands: 
+ngrxi:		install ngrx and set schematics collection ton @ngrx/schematics
+ngrxsmi, 	install root store and effects in app
+ngrxsmf, 	create angular module and ngrx feature module with inputed name in singular
+ngrxsme		create angular module and ngrx entity with inputed name in singular
