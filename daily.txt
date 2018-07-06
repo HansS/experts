@@ -1319,4 +1319,4 @@ conemu ngrx commands:
 ngrxi:		install ngrx and set schematics collection ton @ngrx/schematics
 ngrxsmi, 	install root store and effects in app
 ngrxsmf, 	create angular module and ngrx feature module with inputed name in singular
-ngrxsme		create angular module and ngrx entity with inputed name in singular
+ngrxsme		create angular module and ngrx entity with inputed name in singularrxjs workshop, ryan chenkie, "https://www.youtube.com/watch?v=UaTLlcS9klU&t=13s" 
