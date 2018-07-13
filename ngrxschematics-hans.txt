@@ -1,5 +1,53 @@
 conemu ngrx commands: 
+
+ngrxalle = ngrxi + ngrxsmi + ngrxsme
+
+----------------------------------------------------------------------------------
 ngrxi:		install ngrx and set schematics collection ton @ngrx/schematics
+----------------------------------------------------------------------------------
+npm install @ngrx/schematics --save-dev && ng config cli.defaultCollection @ngrx/schematics
+
+-----------------------------------------------------------------------------------------
 ngrxsmi, 	install root store and effects in app
+-----------------------------------------------------------------------------------------
+ng g store AppState --root --module app.module.ts && ng g effect App --root --module app.module.ts
+
 ngrxsmf, 	create angular module and ngrx feature module with inputed name in singular
 ngrxsme		create angular module and ngrx entity with inputed name in singular
+
+
+------------------------------------------------
+***selectors*** create entity selectors inside module directory
+--------------------------------------------------
+link sample:
+------------
+echo "import { createFeatureSelector, createSelector } from "@ngrx/store"; import * as fromlink from "./link.reducer"; export const selectlinkState = createFeatureSelector<fromlink.State>("link"); export const getSelectedlinkId = (state: fromlink.State) => state.selectedlinkId; export const selectlinkIds = createSelector(selectlinkState,fromlink.selectlinkIds); export const selectlinkEntities = createSelector(selectlinkState,fromlink.selectlinkEntities);export const selectAlllinks = createSelector(selectlinkState,fromlink.selectAlllinks); export const selectlinkTotal = createSelector(selectlinkState,fromlink.selectlinkTotal); export const selectCurrentlinkId = createSelector(selectlinkState,fromlink.getSelectedlinkId);export const selectCurrentlink = createSelector(selectlinkEntities,selectCurrentlinkId,(entities, id) => entities[id]); export const getSelectedUserId = (state: State) => state.selectedUserId; const { selectIds, selectEntities, selectAll, selectTotal } = adapter.getSelectors(); export const selectUserIds = selectIds; export const selectUserEntities = selectEntities; export const selectAllUsers = selectAll; export const selectUserTotal = selectTotal;" >> link.selectors.ts
+
+general sample input singular:
+------------
+echo "import { createFeatureSelector, createSelector } from "@ngrx/store"; import * as from$* from "./$*.reducer"; export const select$*State = createFeatureSelector<from$*.State>("$*"); export const getSelected$*Id = (state: from$*.State) => state.selected$*Id; export const select$*Ids = createSelector(select$*State,from$*.select$*Ids); export const select$*Entities = createSelector(select$*State,from$*.select$*Entities);export const selectAll$*s = createSelector(select$*State,from$*.selectAll$*s); export const select$*Total = createSelector(select$*State,from$*.select$*Total); export const selectCurrent$*Id = createSelector(select$*State,from$*.getSelected$*Id);export const selectCurrent$* = createSelector(select$*Entities,selectCurrent$*Id,(entities, id) => entities[id]); export const getSelected$*Id = (state: State) => state.selected$*Id; const { selectIds, selectEntities, selectAll, selectTotal } = adapter.getSelectors(); export const select$*Ids = selectIds; export const select$*Entities = selectEntities; export const selectAll$*s = selectAll; export const select$*Total = selectTotal;" >> $*.selectors.ts
+
+++++
+---------------------------------------------------------------------
+***update reducer for selectors***
+---------------------------------------------------------------------
+export const getSelectedLinkId = (state: State) => state.selectedLinkId;
+
+// select the array of Link ids
+export const selectLinkIds = selectIds;
+
+// select the dictionary of Link entities
+export const selectLinkEntities = selectEntities;
+
+// select the array of Links
+export const selectAllLinks = selectAll;
+
+// select the total Link count
+export const selectLinkTotal = selectTotal;
+
+---------------------------------------------------------------------------
+***entities*** inside feature directory create entity directory with entities and effect
+---------------------------------------------------------------------------
+ng g entity state/entity/$* -m=../../$*s  --reducers ../../../store/index.ts && ng g effect state/entity/$* -m=$*s --reducers ../../../store/index.ts
+ng g entity state/entity/link -m=../../links  --reducers ../../../store/index.ts && ng g effect state/entity/link -m=links --reducers ../../../store/index.ts
+

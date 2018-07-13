@@ -1320,3 +1320,30 @@ ngrxi:		install ngrx and set schematics collection ton @ngrx/schematics
 ngrxsmi, 	install root store and effects in app
 ngrxsmf, 	create angular module and ngrx feature module with inputed name in singular
 ngrxsme		create angular module and ngrx entity with inputed name in singularrxjs workshop, ryan chenkie, "https://www.youtube.com/watch?v=UaTLlcS9klU&t=13s" 
+
+Fr 07:24 06.07.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+deepak chopra + swami sarvapryananda , consciousness, vedanta
+pys
+udemy ngrx , courses list
+udemy bash scripts, https://www.linuxtrainingacademy.com/ 
+
+Sa 17:55 06.07.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx entity sample: article, https://www.concretepage.com/angular-2/ngrx/ngrx-entity-example
+D:\A10-projects\Angular-NgRx\NgRx-Enitities-Articles
+
+Mo 8.7.2018
+-----------------------------------------------------------------------------------------
+work: C:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\ngrx-articles-concretepage
+article sample of concretepage.com
+ngrx: gerard sans odessajs 2018, fabio guelfi portuges yt, porawit poboonma yt 
+improve yr attention: https://www.skillshare.com/classes/Productivity-Today-Managing-Attention-in-the-Digital-Age-Learn-with-Todoist/1016846630/classroom/discussions?enrolledRedirect=1
+ngrx authentication sample: github gerard sans, githhub: fabio guelfi
+
+Di 17:26 10.07.2018
+------------------------------------------------------------------------------------------------------------------------------------
+ngrx getting stated, pluralsight deborah kurata
+ngrx links lab, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\labs\ngrx-schematics
+work: c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\labs\ngrx-schematics
+safarionline, zgov@dfg6.kozow.com 
