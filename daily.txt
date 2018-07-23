@@ -1347,3 +1347,54 @@ ngrx getting stated, pluralsight deborah kurata
 ngrx links lab, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\labs\ngrx-schematics
 work: c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\labs\ngrx-schematics
 safarionline, zgov@dfg6.kozow.com 
+
+Mo 07:52 16.07.2018
+.......................................................................................................................................
+intermittend fasting
+ketogenic diet - epilepsie
+2 meals a day
+upton sinclair - the fasting cure
+albert einstein - relativity
+First Law of Newton: F = m a
+
+Di 08:03 17.07.2018
+------------------------------------------------------------------------------------------------------------------------------------------
+krishnamurti - is there anything sacred? (it is thought made)
+
+Mi 10:55 18.07.2018
+------------------------------------------------------------------------------------------------------------------------------------------
+http://miloszpiechocki.com/, little erik meijer, milosz piechocki
+
+Do 11:37 19.07.2018
+-----------------------------------------------------------------------------------------------------------------------------------------
+pys 35 1-7
+angular schematics (rangle.io, angular cli mountain meeting, manfred steyer, mike brocchi ngconf 2018, netanel basal reduxor ngrx-gen)
+https://nitayneeman.com/posts/understanding-the-angular-cli-workspace-file/ 
+plural, urkv@asdhgsad.com 
+
+Fr 07:17 20.07.2018
+-----------------------------------------------------------------------------------------------------------------------------------------
+pys
+rxjs - codingstyle
+entities - udemy angularuniversity
+work: ngrx labs: ngrx-crud-schematics
+
+Sa 08:38 21.07.2018
+-----------------------------------------------------------------------------------------------------------------------------------------
+peter sommerhoff, css flexbox and grid expert, on udemy and safari
+stephen fluin, http operators
+udemy, wireless hacking, santos omar ( bluetooth protocol)
+firebase, udemy, michael rosata
+
+So 11:10 22.07.2018
+-----------------------------------------------------------------------------------------------------------------------------------
+tparser.org , angular ngrx getting started download,
+http://tparser.org/flexbox
+angular ngrx getting started course repetition
+
+Mo 09:17 23.07.2018
+--------------------------------------------------------------------------------------------------------------------------------------
+repair chrome
+functional javascript course on yt, https://www.youtube.com/watch?v=KWTrWZZ4QGs
+c:\Users\Folio\web\frontend\javascript\functional\shine-li\jsfp-course
+ngrx getting started 5 

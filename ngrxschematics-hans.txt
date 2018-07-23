@@ -19,31 +19,55 @@ ngrxsme		create angular module and ngrx entity with inputed name in singular
 ------------------------------------------------
 ***selectors*** create entity selectors inside module directory
 --------------------------------------------------
-link sample:
+todo sample:
 ------------
-echo "import { createFeatureSelector, createSelector } from "@ngrx/store"; import * as fromlink from "./link.reducer"; export const selectlinkState = createFeatureSelector<fromlink.State>("link"); export const getSelectedlinkId = (state: fromlink.State) => state.selectedlinkId; export const selectlinkIds = createSelector(selectlinkState,fromlink.selectlinkIds); export const selectlinkEntities = createSelector(selectlinkState,fromlink.selectlinkEntities);export const selectAlllinks = createSelector(selectlinkState,fromlink.selectAlllinks); export const selectlinkTotal = createSelector(selectlinkState,fromlink.selectlinkTotal); export const selectCurrentlinkId = createSelector(selectlinkState,fromlink.getSelectedlinkId);export const selectCurrentlink = createSelector(selectlinkEntities,selectCurrentlinkId,(entities, id) => entities[id]); export const getSelectedUserId = (state: State) => state.selectedUserId; const { selectIds, selectEntities, selectAll, selectTotal } = adapter.getSelectors(); export const selectUserIds = selectIds; export const selectUserEntities = selectEntities; export const selectAllUsers = selectAll; export const selectUserTotal = selectTotal;" >> link.selectors.ts
+import { createFeatureSelector, createSelector } from "@ngrx/store";
+import * as fromTodo from "./entity/todo.reducer";
 
-general sample input singular:
-------------
-echo "import { createFeatureSelector, createSelector } from "@ngrx/store"; import * as from$* from "./$*.reducer"; export const select$*State = createFeatureSelector<from$*.State>("$*"); export const getSelected$*Id = (state: from$*.State) => state.selected$*Id; export const select$*Ids = createSelector(select$*State,from$*.select$*Ids); export const select$*Entities = createSelector(select$*State,from$*.select$*Entities);export const selectAll$*s = createSelector(select$*State,from$*.selectAll$*s); export const select$*Total = createSelector(select$*State,from$*.select$*Total); export const selectCurrent$*Id = createSelector(select$*State,from$*.getSelected$*Id);export const selectCurrent$* = createSelector(select$*Entities,selectCurrent$*Id,(entities, id) => entities[id]); export const getSelected$*Id = (state: State) => state.selected$*Id; const { selectIds, selectEntities, selectAll, selectTotal } = adapter.getSelectors(); export const select$*Ids = selectIds; export const select$*Entities = selectEntities; export const selectAll$*s = selectAll; export const select$*Total = selectTotal;" >> $*.selectors.ts
+export const selectTodoState = createFeatureSelector<fromTodo.State>("Todo");
+export const getSelectedTodoId = (state: fromTodo.State) =>
+  state.selectedTodoId;
+export const selectTodoIds = createSelector(
+  selectTodoState,
+  fromTodo.selectIds
+);
+export const selectTodoEntities = createSelector(
+  selectTodoState,
+  fromTodo.selectEntities
+);
+export const selectAllTodos = createSelector(
+  selectTodoState,
+  fromTodo.selectAll
+);
+export const selectTodoTotal = createSelector(
+  selectTodoState,
+  fromTodo.selectTotal
+);
+export const selectCurrentTodoId = createSelector(
+  selectTodoState,
+  fromTodo.getSelectedTodoId
+);
+export const selectCurrentTodo = createSelector(
+  selectTodoEntities,
+  selectCurrentTodoId,
+  (entities, id) => entities[id]
+); 
+
+
+generate selectors from cli in module directory
+-------------------------------------------------
+echo "import { createFeatureSelector, createSelector } from "@ngrx/store";import * as from$* from "./entity/$*.reducer";export const select$*State = createFeatureSelector<from$*.State>("$*");export const getSelected$*Id = (state: from$*.State) =>state.selected$*Id;export const select$*Ids = createSelector(select$*State,from$*.selectIds);export const select$*Entities = createSelector(select$*State,from$*.selectEntities);export const selectAll$*s = createSelector(select$*State,from$*.selectAll);export const select$*Total = createSelector(select$*State,from$*.selectTotal);export const selectCurrent$*Id = createSelector(select$*State,from$*.getSelected$*Id);export const selectCurrent$* = createSelector(select$*Entities,selectCurrent$*Id,(entities, id) => entities[id]);" >> $*.selectors.ts 
+// sample
+
 
 ++++
 ---------------------------------------------------------------------
 ***update reducer for selectors***
 ---------------------------------------------------------------------
-export const getSelectedLinkId = (state: State) => state.selectedLinkId;
+export const getSelectedUserId = (state: State) => state.selectedUserId;
 
-// select the array of Link ids
-export const selectLinkIds = selectIds;
-
-// select the dictionary of Link entities
-export const selectLinkEntities = selectEntities;
-
-// select the array of Links
-export const selectAllLinks = selectAll;
-
-// select the total Link count
-export const selectLinkTotal = selectTotal;
+// get the selectors
+const { selectIds, selectEntities, selectAll, selectTotal } = adapter.getSelectors();
 
 ---------------------------------------------------------------------------
 ***entities*** inside feature directory create entity directory with entities and effect
