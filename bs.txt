@@ -1,3 +1,36 @@
+bootstrap install
+------------------
+npm i -S bootstrap
+
+styles.scss
+-----------
+@import '~bootstrap/scss/bootstrap-reboot';
+@import '~bootstrap/scss/bootstrap-grid';
+
+or in angular.json
+-------------------
+{
+"projects": {
+"angular-bootstrap-example": {
+"...": "...",
+"architect": {
+"build": {
+"options": {
+"...": "...",
+"styles": [
+"node_modules/bootstrap/dist/css/bootstrap-reboot.css",
+"node_modules/bootstrap/dist/css/bootstrap-grid.css",
+"src/styles.scss"
+]
+}
+}
+}
+}
+}
+}
+
+
+
 bootstrap cheat sheet with snippets and preview, https://hackerthemes.com/bootstrap-cheatsheet/ 
 bootstrap4 samples, https://bootstrapcreative.com/pattern/  
 webpack bootstrap start, c:\Users\Folio\web\frontend\css\bootstrap\webpack-101-bootstrap  
