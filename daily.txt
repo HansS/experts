@@ -1411,3 +1411,58 @@ Mi 08:47 25.07.2018
 pys
 tutti: shimaono, ruderboot, pfeilbogen
 safari: ozfy@t.psh.me
+
+Mo 06:09 30.07.2018
+-------------------------------------------------------------------------------------------------------------------------------------------
+pwa helper site for angular and firebase, https://pwa.ng/
+
+Do 15:24 02.08.2018
+------------------------------------------------------------------------------------------------------------------------------------------
+ngHouston: ng form validation, alain chautard, angulartraining.com
+bootstrap 4 essentials: form layout
+lynda, linkedin, trial till 2.9.2018
+swisscom cloud
+myswisscom mobile
+gschmöis app uni zh - dialekt forschung
+bike, shimano tutti.ch
+www.recallact.com, video learning
+yt , polen, alex rickabaugh, angular ivy
+
+Fr 16:20 03.08.2018
+---------------------------------------------------------------------------------------------------------------------------------------------
+jog
+rpeat: ngHouston: ng form validation, alain chautard, angulartraining.com
+einkauf kartoffeln, swisscom schmiede wiedikon, 128 giga phone a6 , ende august nochmal
+rxjs, codingwithstyle
+angular labs, bs-forms
+
+work:C:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\bs-forms\src\app\links 
+safari, sgvw@pagamenti.tk 
+
+Di 06:57 07.08.2018
+---------------------------------------------------------------------------------------------------------------------------------------------
+yoga sutras on soundcloud from nithyananda: https://soundcloud.com/nithyananda-radio/sets/paramahamsa-nithyananda-speaks-on-patanjali-yoga-sutra-1-to-85
+himalaya institute: Secrets of Yoga Sutras - Audible
+archive.org: secrets of yoga
+node cli yt downloader, https://github.com/HansS/node-ytdl 
+angular schematics, "https://www.youtube.com/watch?v=1CuNnbyVlBQ&t=0s&list=PLw5h0DiJ-9PB8XH7k1bzD_UGPQ21mea0f&index=2" 
+angular templating, C:\Users\Folio\Downloads 
+learn, c:\Users\Folio\web\frontend\javascript\frameworks\angular\alain-chautard-angulartraining.com\ng2-training 
+
+Mi 08:35 08.08.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+yoga master course, https://yogainternational.com/ecourse/bundle/yoga-sutra-master-course
+ngair, jason jean, nrwl nx schematics explained 
+nrwl nx explained, C:\Users\Folio\Downloads\ngAir 170 - From Zero to However Far We Can Get With Nx 
+nrwl jason jean github.io, c:\Users\Folio\web\frontend\javascript\frameworks\angular-firebase\jason-jean-nrwl\jjeanio 
+jason jean, medium.com article, nrwl nx ngrx facade, https://blog.nrwl.io/nrwl-nx-6-2-angular-6-1-and-better-state-management-e139da2cd074 
+
+Do 08:20 09.08.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+angular firestore, paul spears on yt: ngHouston, c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-firestore\paul-spears\lets-chat
+ultra run - samples on yt: zermatt marathon, swissalpine, west highland way, eiger irontrail, 
+tuttti samsung galaxy s3 420.-, https://www.bohnettrade.ch/de/categories/it-hardware/pc-notebooks--tablets/tablets--2in1/350457-sm-t825nzsaaut-samsung-galaxy-tab-s3 
+
+Mo 16:33 20.08.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+temp-email: nnyw@drivetagdev.com
