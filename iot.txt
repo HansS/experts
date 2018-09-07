@@ -20,3 +20,9 @@ oreilly, electronics cookbook, http://pcdownload.in/2017/12/06/oreilly-electroni
 packt, electronics workbench, http://pcdownload.in/2017/08/21/packt-publishing-the-electronics-workbench-a-setup-guide/ 
 packt, electronics for arduino makers 
 neil kolban, esp32 bluetooth expert 
+adafruit arduino ble,https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/overview 
+https://www.antratek.de/lora-iot-kit, lora iot kit versand ch 155.- 
+microsoft iot pack, https://www.play-zone.ch/de/elektronik-kit-zubehoer/iot-internet-of-things/microsoft-iot-pack-for-raspberry-pi-3-swiss-edition.html 
+iot workshop chopen zh , http://www.heltec.cn/project/wifi-lora-32/?lang=en 
+arduino praxiseinstieg, thomas brÅhlmann, http://arduino-praxis.ch/ 
+aliexpress, lora iot kit 175$, https://www.aliexpress.com/item/Aihasd-LoRa-IoT-Development-Kit-868M-Frequency-Internet-of-things/32826789364.html 

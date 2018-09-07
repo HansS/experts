@@ -452,3 +452,5 @@ pl, functional js libraries, http://pcdownload.in/2018/06/02/pluralsight-functio
 pl, duncan hunter, angular testing, http://pcdownload.in/2018/06/01/pluralsight-play-by-play-fundamentals-of-angular-testing/ 
 packtpub, angular front to back with firestore, http://pcdownload.in/2018/05/31/packt-publishing-angular-front-to-back/ 
 pl, auth with firebase play by play, http://pcdownload.in/2018/05/15/pluralsight-authenticating-users-with-firebase-authentication-service-playbook/ 
+wifi hacking, "http://pcdownload.in/2018/02/04/cisco-press-wireless-networks-iot-and-mobile-devices-hacking-the-art-of-hacking-series/" 
+ibm waatson, http://pcdownload.in/2017/06/15/oreilly-introduction-to-cognitive-computing-with-ibm-watson-services/ 

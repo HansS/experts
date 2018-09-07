@@ -1436,6 +1436,7 @@ einkauf kartoffeln, swisscom schmiede wiedikon, 128 giga phone a6 , ende august 
 rxjs, codingwithstyle
 angular labs, bs-forms
 
+
 work:C:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\bs-forms\src\app\links 
 safari, sgvw@pagamenti.tk 
 
@@ -1466,3 +1467,81 @@ tuttti samsung galaxy s3 420.-, https://www.bohnettrade.ch/de/categories/it-hard
 Mo 16:33 20.08.2018
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 temp-email: nnyw@drivetagdev.com
+safari, isyw@e.wupics.com 
+wifi hacking, "http://pcdownload.in/2018/02/04/cisco-press-wireless-networks-iot-and-mobile-devices-hacking-the-art-of-hacking-series/" 
+
+Do 13:48 23.08.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Krishnamurti - Attention
+IOT - GPS Lora - Andreas Spiess - Adafruit
+Lora GPS
+NgHouston  - Nested Forms
+ztrack - gps tracker 78.-
+krishnamurti - flame of attention
+adafruit feather board with lora,  Adafruit Feather 32u4 RFM95 LoRa Radio- 868 or 915 MHz - RadioFruit 
+https://www.youtube.com/playlist?list=PLmL13yqb6OxfE_abZxThN3DD7NWMGl7_F, dragon lora kit, https://www.youtube.com/playlist?list=PLmL13yqb6OxfE_abZxThN3DD7NWMGl7_F
+lora iot devkit, http://www.dragino.com/products/lora/item/120-lora-iot-kit.html 
+lora gps with dragino, http://www.dragino.com/products/module/item/108-lora-gps-shield.html 
+
+Mo 10:39 27.08.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx, lynda
+ngrx, github.com/loiane
+arduino iot, thingsworx.com
+johnny-five, node iot, firmata
+flexbox
+bootstrap 4
+embedded systems, nptel iit, https://nptel.ac.in/courses/108102045/ 
+embedded c++ webinar, "https://www.youtube.com/watch?time_continue=1&v=V0iUF22-m5I" 
+
+Do 10:28 30.08.2018
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ionic 4, ngHouston
+kwinten pinsman, rxjs memory leaks
+michael hladky, state conepts
+pouchdb
+couddb
+ibm cloudant
+ibm watson
+ibm waatson, http://pcdownload.in/2017/06/15/oreilly-introduction-to-cognitive-computing-with-ibm-watson-services/ 
+josh moroony , "ionic elite 175 $, https://www.joshmorony.com/elite/?utm_source=navbar&utm_campaign=advancedcourse&utm_medium=site#buy"  
+fitbit api ionic app 
+raspberry home automation 
+
+Fr 11:24 31.08.2018
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sa 09:59 01.09.2018
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+youtube ultra traim mont blanc live. columbia sportswear, https://www.columbiasportswear.co.uk/events-utmb
+
+So 10:34 02.09.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+yt utmb live
+lora dev kit ali express, https://www.aliexpress.com/item/Aihasd-LoRa-IoT-Development-Kit-868M-Frequency-Internet-of-things/32826789364.html
+
+Mo 10:39 03.09.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Di 15:36 04.09.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+dynamic forms, ngx-formly, juri-strumpflohner, ngtalks 2018
+dynamic components, shmuela jacobs, ngtalks 2018
+angular schematics, vitali bobrow, ngtalks 2018
+utmb 2018. xavier thevenard
+ultra training, with combex (xavier thevenaard)
+grand jura traversee, mit langlauf skis
+iot starter kit, http://iotthinks.com/ 
+yt lora workshop (vietnam) , github.com/iotthinks/easyloragateway 
+
+Fr 09:45 06.09.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular bundle size , stephen fluin
+briebug, angularfire 0 to 100 in 30 minutes
+packtpub trial gianni.schenker@gmail.com G.........!06102018
+safari trial, gianni.schenker@gmail.com, g........4
+packtpub, angular with webpack 4, tarun sharma
+packtpub, rxjs hands on
+ytl, angular architecture,C:\Users\Folio\Downloads\Asynchronous Programming in Java Script Using RxJs - YouTube
+ngtalks, rxjs schedulers, hladkey
+
