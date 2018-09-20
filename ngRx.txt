@@ -26,7 +26,7 @@ ngrx experts
 todd motto
 brian troncone
 mike ryan
-duncan hunter
+duncan hunter, ngrx gitbook, ngrx play by play pluralsight
 Loiane Groner, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\Loiane-Groner-Brazil\angular-ngrx-example
 oren eini, echo player, ngrx book
 biophton, manfred steyer fellow for workshops
@@ -36,6 +36,7 @@ christoffer noring
 netanel basal
 nextzy.me
 brecht billiet, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\brecht-billiet\reactive_apps_workshop, old but with auth
+kwinten pisman, strongbrew
 gion kunz
 
 oasis
@@ -64,3 +65,7 @@ ngrx medium article on ngrx actioncreators, c:\Users\Folio\web\frontend\javascri
 ngrx sample course angular-university, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\angular-university\angular-ngrx-course 
 ngrx sample wes grimes, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\wes-grimes-entities 
 wes grimes, ngrx best practices sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\wes-grimes-entities\angular-ngrx-chuck-norris 
+ionic ngrx firebase sample, https://github.com/tja4472/ionic-angular-angularfire-ngrx-basic 
+angular reactive auth with ngrs, https://brianflove.com/2017/04/10/angular-reactive-authentication/ 
+ngrx samples, https://github.com/tja4472 
+ngrx artcles on medium, https://medium.com/@bencabanes 

@@ -52,3 +52,5 @@ reactive js programming, http://pcdownload.in/2017/03/31/packt-publishing-reacti
 michael hladkey, biophoton, angular rxjs expert, ngvikings 2018 rx streams 
 martin hochel, github.com/hotell, react angular expert, ngvienna, ngparty 
 rx operators, daniel stern, udemy 
+rx articles, https://blog.strongbrew.io/rxjs-best-practices-in-angular/ 
+ngrx samples, https://github.com/tja4472 

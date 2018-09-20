@@ -1534,7 +1534,7 @@ grand jura traversee, mit langlauf skis
 iot starter kit, http://iotthinks.com/ 
 yt lora workshop (vietnam) , github.com/iotthinks/easyloragateway 
 
-Fr 09:45 06.09.2018
+Do 09:45 06.09.2018
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 angular bundle size , stephen fluin
 briebug, angularfire 0 to 100 in 30 minutes
@@ -1542,6 +1542,90 @@ packtpub trial gianni.schenker@gmail.com G.........!06102018
 safari trial, gianni.schenker@gmail.com, g........4
 packtpub, angular with webpack 4, tarun sharma
 packtpub, rxjs hands on
-ytl, angular architecture,C:\Users\Folio\Downloads\Asynchronous Programming in Java Script Using RxJs - YouTube
+ytl, angular architecture,C:\Users\Folio\Downloads\A09:29 07.09.2018synchronous Programming in Java Script Using RxJs - YouTube
 ngtalks, rxjs schedulers, hladkey
 
+Fr 09:29 07.09.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+iot lora
+lte, nb-iot
+gps lora
+trials with gianni: safari, lynda (linkedin), packtpub
+packtpub: webpack 4
+lynda: lora
+safari: ruebbelke angular
+
+Mo 08:55 10.09.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+safari, neem@mailfs.com 
+
+Mo 09:04 17.09.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+trials: linkedin: 	06.10.2018, 
+	pluralsight	, safaribooksonline
+
+Di09:03 18.09.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+firebase expert doug stevenson, seth luginbihl, chris esplin, angularfirebase
+firebase cloud functions, doug stevenson - tic-tac-toe-firebase
+firebase cloud functions, doug stevenson - android things - doorbell with camera
+duncan hunter, gitbook for ngrx workshop, ndcsydney 2018 09, c:\Users\Folio\web\frontend\javascript\frameworks\angular-rxjs\duncan-hunter\angular-and-ngrx-gitbook
+duncan hunter, firebase functions, ndc 2018 video
+ytl, fb shop, c:\Users\Folio\web\firebase\fullstack\fb-shop, C:\Users\Folio\Downloads\Online Store App - Angular 6, Angular Material & Firebase - YouTube
+learn: fb-shop, c:\Users\Folio\web\firebase\fullstack\fb-shop
+work: fb-links, c:\Users\Folio\web\firebase\firestore\hans\fb-links
+
+Mi 08:43 19.09.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx gitbook, duncan hunter
+firebase book, angularfire
+https://blog.strongbrew.io/rxjs-best-practices-in-angular/
+ionic ngrx firebase sample, https://github.com/tja4472/ionic-angular-angularfire-ngrx-basic 
+angular reactive auth with ngrs, https://brianflove.com/2017/04/10/angular-reactive-authentication/ 
+ngrx samples, https://github.com/tja4472
+ 
+learn: ngrx in depth , angular-university 
+learn: Angular NgRx Getting Started - Deborah K., C:\Users\Folio\Downloads\Pluralsight  Angular NgRx - Getting Started\06. Strongly Typing the State 
+read:https://blog.strongbrew.io/rxjs-best-practices-in-angular/  
+read:https://blog.angular-university.io/ngrx-entity/ 
+video:C:\Users\Folio\web\firebase\firestore\angularfirebase-codeio\60-ngrx-entity-demo 
+
+Do 06:39 20.09.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+sadhguru in paris am 3.10.2018, http://www.ishayoga.eu/index.php/sathsang-with-sadhguru/ , 35 euro
+ngrx artcles on medium, https://medium.com/@bencabanes 
+ngrx schematics, 
+
+Fr 21.09.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+09 - 12 IoT Workshop Neuchatel
+13 - 17 IoT Conference
+17 - 18 Apero
+
+Sa 22.09.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Post Velokleider, 8.50 2Tage Sendung
+learn: ngrx in depth , angular-university 
+learn: Angular NgRx Getting Started - Deborah K., C:\Users\Folio\Downloads\Pluralsight  Angular NgRx - Getting Started\06. Strongly Typing the State 
+read:https://blog.strongbrew.io/rxjs-best-practices-in-angular/  
+read:https://blog.angular-university.io/ngrx-entity/ 
+video:C:\Users\Folio\web\firebase\firestore\angularfirebase-codeio\60-ngrx-entity-demo 
+
+
+
+So 23.09.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Mo 24.09.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Auszahlung Adliswil
+evtl angularfirebase: 250.- Lifetime Membership
+
+19:26 Abreise Neuchatel Gleis 5 IC 535
+learn: ngrx in depth , angular-university 
+learn: Angular NgRx Getting Started - Deborah K., C:\Users\Folio\Downloads\Pluralsight  Angular NgRx - Getting Started\06. Strongly Typing the State 
+read:https://blog.strongbrew.io/rxjs-best-practices-in-angular/  
+read:https://blog.angular-university.io/ngrx-entity/ 
+video:C:\Users\Folio\web\firebase\firestore\angularfirebase-codeio\60-ngrx-entity-demo 
+ 

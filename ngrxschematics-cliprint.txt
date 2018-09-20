@@ -202,8 +202,12 @@ options:
 usage: 
 
 ng g m threads
-ng g feature thread --reducers=state/store/index.ts -m=threads/threads
+ng g feature thread --reducers=store/index.ts -m=threads/threads
+ng g feature link --reducers=store/index.ts -m=links/links
+
 ng g entity threads/thread --reducers=state/store/index.ts -m=threads/threads
+ng g entity links/link --reducers=store/index.ts -m=links/links
+
 ng g effect threads/thread --feature=thread -m=threads/threads
 ng g store ThreadState --flat=false --state-path=threads/store --state-interface=ThreadState -m=threads/threads
 
