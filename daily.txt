@@ -1605,11 +1605,18 @@ Fr 21.09.2018
 Sa 22.09.2018
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Post Velokleider, 8.50 2Tage Sendung
+
 learn: ngrx in depth , angular-university 
 learn: Angular NgRx Getting Started - Deborah K., C:\Users\Folio\Downloads\Pluralsight  Angular NgRx - Getting Started\06. Strongly Typing the State 
 read:https://blog.strongbrew.io/rxjs-best-practices-in-angular/  
 read:https://blog.angular-university.io/ngrx-entity/ 
 video:C:\Users\Folio\web\firebase\firestore\angularfirebase-codeio\60-ngrx-entity-demo 
+
+nptel internet of things, https://www.youtube.com/channel/UC6ZY_csXZc7YZZm2W8HcQ6A/videos
+ucla university sensortile,http://iot.ee.ucla.edu/UCLA-STMicro/index.php/UCLA_-_STMicroelectronics
+http://iot.ee.ucla.edu/UCLA-STMicro/index.php/UCLA_-_STMicroelectronics#Tutorials
+internet of things book, https://www.crcpress.com/Internet-of-Things-IoT-Technologies-Applications-Challenges-and-Solutions/Tripathy-Anuradha/p/book/9781138035003
+iot webinars, http://axelta.com/AxWebinar.php
 
 
 
@@ -1628,4 +1635,63 @@ learn: Angular NgRx Getting Started - Deborah K., C:\Users\Folio\Downloads\Plura
 read:https://blog.strongbrew.io/rxjs-best-practices-in-angular/  
 read:https://blog.angular-university.io/ngrx-entity/ 
 video:C:\Users\Folio\web\firebase\firestore\angularfirebase-codeio\60-ngrx-entity-demo 
- 
+ rx workshop, channel9, https://channel9.msdn.com/Series/Rx-Workshop/Rx-Workshop-Introduction 
+
+
+Di 25.09.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+intel iot training, https://software.intel.com/en-us/video-series/get-into-iot-with-intelintel iot intro, C:\Users\Folio\Downloads\Intel© Commercial IoT Workshops   Intel Software - YouTube 
+
+
+Mi 11:37 26.09.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx course on yt, https://github.com/angulardeveloper-io/ngrx-store-app.git, angulardeveleper.io
+
+
+Sa 08:42 29.09.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx sample, farata yakov fain, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\farata-yakov-fain\ng-auction
+
+Di 09:17 02.10.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx entities for articles after the sample of concretepage.com - arvind lai
+https://www.ionicfirebaseapp.com/, ionic apps for 30$
+ngrx sample with videos, https://github.com/angulardeveloper-io/ngrx-store-app 
+ngrx working sample hans, C:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\entity-articles 
+web sample, https://www.concretepage.com/angular-2/ngrx/ngrx-entity-example 
+christoffer noring book, ngrx entity 
+
+
+Mi 10:33 03.10.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+typescript , daniele rosenwasser , microsoft ignite video
+crazytechlabs, iot azure, microsoft ignote 2018
+ionic 4, udemy, filip jerga, github jerga99,
+ionic 4, app to access heartstone api
+
+
+Do 15:42 04.10.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+google cloud vs aws, ngair, jeff whelpy, firbase plus
+firebase security ytl
+morning routines, yt triathlon tran
+npm future of js, npx, npm ci
+package.community
+npm.community
+good health through foods
+an avocado a day
+kwinten pinsman, memory leaks with rxjs by not unscribing from a subscrition
+
+Fr 16:19 05.10.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+functional typescript, Timothy Clifford, yt https://www.youtube.com/watch?v=huIHUim76AM
+tsmonad, typscript functional library
+tslint functional rules, immutable
+https://github.com/gcanti, gulio canti, functional typescript expert
+dominik tarr,         , scuttlebutt, git for people, personal peer to peer network
+nicholas jamieson, medium,, rxjs expert
+udemy, samarth agarwal, feedly , ionic and firestore
+ionic 4 pwa, https://github.com/mbaljeetsingh?tab=repositories
+nest, express based typescript reactive framework
+x-plat, nx for mobile
+baljeet singh, ionic expert, ionic 3 with loopback

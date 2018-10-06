@@ -1,3 +1,4 @@
+alias et=echo $1 $2
 ----------------------------------------------------------------------------------------
 *** bash cli directories
 ----------------------------------------------------------------------------------
@@ -78,7 +79,7 @@ alias cward= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-redux 
 rxjs
 alias cwarx= cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-rxjs && dir /p
 angularfire2
-alias cwaf = cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire && dir /p
+alias cwaf=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-angularfire && dir /p
 material
 alias cwam=cd c:\Users\Folio\web\frontend\javascript\frameworks\angular-material && dir /p
 typescript
@@ -135,14 +136,11 @@ alias ngn=ng new $* --routing --style scss --prefix hs && dir && cd $* && ng g c
 component name
 ------------------
 alias ngc=ng g c $*
-
-
  
-NgRx Libraries install and set @ngrx/schematics as default schematics
-----------------------------------------------------------------------------------
-ngrxi:		install ngrx and set schematics collection ton @ngrx/schematics
-----------------------------------------------------------------------------------
-
+------------------------------
+*** conemu ngrx commands: 
+-----------------------------
+ 
 NgRx Libraries
 ------------------------------------------------------------------------------------------------
 alias ngrxi=npm install @ngrx/schematics --save-dev && ng config cli.defaultCollection @ngrx/schematics
@@ -153,30 +151,28 @@ install root store and effects in app
 alias ngrxsms = ng g store AppState --root --module app.module.ts
 alias ngrxsme = ng g effect App --root --module app.module.ts
 ----------------------------------------------------------
-
+ 
 *** angular module with crud components
 ----------------------------------------------------------
 alias ngm=ng g m $*s --routing && ng g c $*s && ng g c $*s/components/$*-list --prefix="" -m=$*s && ng g pipe shared/$*s/$*-filter  && ng g c $*s/components/$*-add -m=$*s/$*s && ng g c $*s/components/$*-edit --prefix="" -m=$*s/$*s && ng g c $*s/components/$*-details --prefix="" -m=$*s/$*s && ng g s --prefix="" /$*s/$* -m=$*s/$*s &&touch src/app/$*s/$*s.json && echo { "$*s": [{ "id": "1", "name": "Name 1" },{ "id": "2", "name": "Name 2" },{ "id": "3", "name": "Name 3" }] } >>  src/app/$*s/$*s.json
  
-
+ 
 ngrx angular module 
 ----------------------------------------
 alias ngrxmf=ng g m $*s --routing && ng g c $*s && ng g c $*s/components/$*-list --prefix="" -m=$*s && ng g pipe shared/$*s/$*-filter  && ng g c $*s/components/$*-add -m=$*s/$*s && ng g c $*s/components/$*-edit --prefix="" -m=$*s/$*s && ng g c $*s/components/$*-details --prefix="" -m=$*s/$*s && ng g s --prefix="" /$*s/$* -m=$*s/$*s && echo { "$*s": [{ "id": "1", "title": "Name 1" },{ "id": "2", "title": "Name 2" },{ "id": "3", "title": "Name 3" }] } >>  src/app/$/$*s.json 
-
-
+ 
+ 
 ngrx feature and ngrx selectors
 ----------------------------------------------
 alias ngrxf = ng g feature $*s/state/$* -m $*s/$*s --reducers ../../reducers/index.ts 
-
+ 
 ngrx feature selectors
 ----------------------------------------------
 alias ngrxfs = echo "import { createFeatureSelector, createSelector } from "@ngrx/store"; import * as from$* from "./$*.reducer"; export const select$*State = createFeatureSelector<from$*.State>("$*"); export const getSelected$*Id = (state: from$*.State) => state.selected$*Id; export const select$*Ids = createSelector(select$*State,from$*.select$*Ids); export const select$*Entities = createSelector(select$*State,from$*.select$*Entities);export const selectAll$*s = createSelector(select$*State,from$*.selectAll$*s); export const select$*Total = createSelector(select$*State,from$*.select$*Total); export const selectCurrent$*Id = createSelector(select$*State,from$*.getSelected$*Id);export const selectCurrent$* = createSelector(select$*Entities,selectCurrent$*Id,(entities, id) => entities[id]);" >> $s*/state/$*.selector.ts
-
  
-ngrxall
------------------------------------------------------------ 
-alias ngrxalle=npm install @ngrx/schematics --save-dev && ng config cli.defaultCollection @ngrx/schematics && ng g store AppState --root --module app.module.ts && ng g effect App --root --module app.module.ts && ng g m $*s --routing && ng g c $*s && ng g c $*s/components/$*-list --prefix="" -m=$*s && ng g pipe shared/$*s/$*-filter  && ng g c $*s/components/$*-add -m=$*s/$*s && ng g c $*s/components/$*-edit --prefix="" -m=$*s/$*s && ng g c $*s/components/$*-details --prefix="" -m=$*s/$*s && ng g s --prefix="" /$*s/$* -m=$*s/$*s && touch src/app/$*s/$*s.json && echo { "$*s": [{ "id": "1", "name": "Name 1" },{ "id": "2", "name": "Name 2" },{ "id": "3", "name": "Name 3" }] } >>  src/app/$*s/$*s.json && dir && ng g entity $*s/state/$* -m=../../$*s  --reducers ../../store/index.ts && ng g effect $*s/state/$* -m=$*s --reducers ../../store/index.ts
-alias ngrxallf= ngrxi && ngrxsmi && ngmrxf $*
+ 
+ 
+ 
  
 ----------------------------------------------------------- 
 *** angular auth module components/
@@ -186,7 +182,7 @@ alias ngma=ng g m auth --routing && ng g c auth auth/auth -m=auth && ng g c auth
 -----------------------------------------------------------------
 *** angular material
 ---------------------------------------------------------
-alias ngmat=npm i -S @angular/material @angular/cdk @angular/animations hammerjs && ng add @angular/material && ng g @angular/material:material-nav --name=hs-nav && ng g @angular/material:material-table --name=hs-table
+alias ngmat=npm i -S @angular/material @angular/cdk @angular/animations hammerjs && ng add @angular/material && ng generate @angular/material:material-nav --name=hs-nav && ng generate @angular/material:material-table --name=hs-table
  
 ------------------------------------------------------------
 *** bootstrap
@@ -239,20 +235,16 @@ alias ngrxi= npm install -S @ngrx/core  @ngrx/store @ngrx/effects @ngrx/router-s
  
 ngrx schematics store and effects install in angular root app: 	ngrxsmi 
 -------------------------------------------------------------------------
-alias ngrxsmi=ng g @ngrx/schematics:store AppState --root --state-path=store --state-interface=AppState -m=app && ng g @ngrx/schematics:effect app --root -m=app 
+alias ngrxsmi=ng g store AppState --root --state-path=store --state-interface=AppState -m=app && ng g effect app --root -m=app 
  
 ngrx feature module: 	ngrxsmf
 ----------------------------------------------
  
-alias ngrxsmf=ng g @ngrx/schematics:feature $* -m $*s/$*s --reducers ../store/index.ts
+alias ngrxsmf=ng generate feature $* -m $*s/$*s --reducers ../store/index.ts
  
 ngrx entity: 		ngrxsme
 ----------------------------
-alias ngrxsme=ng g @ngrx/schematics:entity $*s/entity/$*s -m ../$* --reducers ../../store/index.ts
-
-ngrx feature selectors
-------------------------
-alias ngrxsel=echo $*.selector.ts >> import { createFeatureSelector, createSelector } from "@ngrx/store"; import * as from$* from "./$*.reducer"; export const select$*State = createFeatureSelector<from$*.State>("$*"); export const getSelected$*Id = (state: from$*.State) => state.selected$*Id; export const select$*Ids = createSelector(select$*State,from$*.select$*Ids); export const select$*Entities = createSelector(select$*State,from$*.select$*Entities);export const selectAll$*s = createSelector(select$*State,from$*.selectAll$*s); export const select$*Total = createSelector(select$*State,from$*.select$*Total); export const selectCurrent$*Id = createSelector(select$*State,from$*.getSelected$*Id);export const selectCurrent$* = createSelector(select$*Entities,selectCurrent$*Id,(entities, id) => entities[id]);
+alias ngrxsme=ng generate entity $*s/entity/$*s/entity/$* -m ../$* --reducers ../../store/index.ts
  
 --------------------------------------------------------------------------------------
 *** firebase dir install

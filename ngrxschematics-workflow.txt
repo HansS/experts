@@ -6,20 +6,50 @@ npm install @ngrx/schematics --save-dev && ng config cli.defaultCollection @ngrx
 
 root store and app.effects:	
 ----------------------------
-ng g store Store --state-path store -si AppState --root -m app.module.ts
+ng g store Store --state-path store --root -m app.module.ts
 ng g effect App --root --m app.module.ts
 
 angular feature module: ngm <modulename in singular>
 ----------------------
 ng g m ...
 
-ngrx entities
+
+
+*************ngrx entities
 --------------------------------------------------------------------------------------
-ng g entity products/entity/Product -m ../products --reducer ../store/index.ts
+ng g entity entity/Product -m ../products -r ../store/index.ts
 
-ngrx feature module
+add the following in reducer file
+-------------------------------------------------------------------------------
+*1 state: selectedProductId: number | null;
+
+*2 initialState: selectedProductId: null;
+
+*3 export const getSelectedProductId = (state: State) => state.selectedProductId;
+
+
+
+*******ngrx feature module
 -------------------------------------
-ng g feature products/state/Product -m products/products --reducer ../../store/index.ts
+ng g feature state/Product -m ../products -r ../store/index.ts
 
 
-ng g entity items/entity/item -m ../items --reducer ../reducers/index.ts
+add the following in reducer file
+-------------------------------------------------------------------------------
+state: selectedProductId: number | null;
+
+initialState: selectedProductId: null;
+
+export const getSelectedProductId = (state: State) => state.selectedProductId;
+
+-----------------------------------------------------------------------------
+01 ngn <appname>
+02 ngrxi
+03 ng g store Store --state-path store --root -m app.module.ts
+04 ng g effect App --root --m app.module.ts
+05 ngm <entity>
+06 ng g entity <name-pl>/entity -m ../<name-pl> -r ../store/index.ts
+06 ng g effect --feature <name> -m <name-pls>
+06 update reducer for *1 *2 *3
+07 go into feature entity directory: echo "import { createFeatureSelector, createSelector } from "@ngrx/store"; import * as fromArticle from "./Article.reducer"; export const selectArticleState = createFeatureSelector<fromArticle.State>("Article"); export const getSelectedArticleId = (state: fromArticle.State) => state.selectedId; export const selectArticleIds = createSelector(selectArticleState,fromArticle.selectIds); export const selectArticleEntities = createSelector(selectArticleState,fromArticle.selectEntities);export const selectAllArticles = createSelector(selectArticleState,fromArticle.selectAll); export const selectArticleTotal = createSelector(selectArticleState,fromArticle.selectTotal); export const selectCurrentArticleId = createSelector(selectArticleState,fromArticle.getSelectedId);export const selectCurrentArticle = createSelector(selectArticleEntities,selectCurrentId,(entities, id) => entities[id]);" >> Article.selector.ts
+08 correction for selector files

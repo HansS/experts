@@ -69,3 +69,6 @@ ionic ngrx firebase sample, https://github.com/tja4472/ionic-angular-angularfire
 angular reactive auth with ngrs, https://brianflove.com/2017/04/10/angular-reactive-authentication/ 
 ngrx samples, https://github.com/tja4472 
 ngrx artcles on medium, https://medium.com/@bencabanes 
+ngrx course on yt, https://github.com/angulardeveloper-io/ngrx-store-app.git, angulardeveleper.io 
+
+ngrx experts on angularindepth.com: A big thank you to Nate Lapinski, Max Wizard K, Alex Okrushko and Todd Palmer for reviewing this post.
