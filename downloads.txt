@@ -455,3 +455,4 @@ pl, auth with firebase play by play, http://pcdownload.in/2018/05/15/pluralsight
 wifi hacking, "http://pcdownload.in/2018/02/04/cisco-press-wireless-networks-iot-and-mobile-devices-hacking-the-art-of-hacking-series/" 
 ibm waatson, http://pcdownload.in/2017/06/15/oreilly-introduction-to-cognitive-computing-with-ibm-watson-services/ 
 pl aws lamdba hands on, http://pcdownload.in/2018/04/30/packt-publishing-build-a-serverless-app-with-aws-lambda-hands-on/ 
+interesting downloads , scanlibs.com 

@@ -1695,3 +1695,98 @@ ionic 4 pwa, https://github.com/mbaljeetsingh?tab=repositories
 nest, express based typescript reactive framework
 x-plat, nx for mobile
 baljeet singh, ionic expert, ionic 3 with loopback
+
+Sa 14:01 06.10.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+interesting downloads , scanlibs.com
+nest, node express based web framework with similiair concepts as angular has (typescript, decorators, modules, dependency injection, services, ...)
+https://www.youtube.com/watch?v=rKIy0rlzqsU&list=PLBeQxJQNprbhvbBAmoyIJykggzE_JIhWe, nest tutorial
+hp laptop tablet, x2 369 minus 150 für anniversary coupon, 219.- !!! https://store.hp.com/SwitzerlandStore/Merch/Product.aspx?id=X9Y25EA&opt=UUZ&sel=NTB# (Tel 09:30 bis 12:00)
+
+
+Mo 11:12 08.10.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ionic pro exercisses
+heart rate variability, hrvplus app,
+ryan chenkie, angular security
+kim maida, angular security
+jes computers oerlikon, baumackerstrasse, hp x2 300.-
+sagerunning.com, ultra training program 100km/week , 20$
+ng-book2 with ngrx
+delete firebase projects
+udemy , angular firebase firestore, smarth agarwal
+ionic dev test, with Ionic Dev, black start screen
+
+Di 11:02 09.10.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+udacity promises
+jeremy fairbank observables, async await
+jeremy fairbank, practial functional programming
+ionic pro setup, pro-test
+ionic firestore, udemy
+
+Do 10:38 11.10.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+oauth2 intro, udemy
+github repos javaascript
+tensorflow
+machine learning crash course, https://developers.google.com/machine-learning/crash-course/ml-intro
+https://developers.google.com/machine-learning/crash-course/
+angularfire daivd east angularfire samples on github, https://github.com/davideast/rxfire-samples 
+google auth2 signin with javascript, https://developers.google.com/identity/sign-in/web/reference 
+yt google auth2 signin with javascript, https://www.youtube.com/watch?v=qzq0kEUa5lU 
+
+
+Fr 17:11 12.10.2018
+------------------------------------------------------------------------------------
+spotify oauth2
+spotifyapp simon grimm devdactic, spotifyapp yt, spotifyapp eduonix
+ngrx auth gistia (pdf onedrive), ngrx michael herman with http interceptor, ngrx platform sample with auth
+oauth2 witn insomnia
+ironman hawaii breakfast sebi  kienle, lionel sanders, dave scott and andy ??
+
+
+
+
+
+Sa 18:00 13.10.2018
+-------------------------------------------------------------------------------
+Hawaii Ironman 2018 live, https://www.facebook.com/IRONMANnow
+
+
+Mo 14:54 15.10.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+oauth and openid connnect yt videos
+oauth in action , book , onedrive\data\oauth
+oauth javascript client, https://github.com/mulesoft/js-client-oauth2.git
+ytl oauth intro from netninja, "https://www.youtube.com/watch?v=sakQbeRjgwg&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x" 
+oauth templage from fun-fun-functions-on-yt, C:\Users\Folio\web\oauth\yt-fun-fun-functions\oauth-bridge-template 
+fun-fun-functions, spotify prototype , "https://www.youtube.com/watch?v=Mg7Ma5i8NgM&list=PLqGj3iMvMa4LFqyGab_aR7M0zfQm2KTuX" 
+
+Di 10:11 16.10.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+yt Supercharging your Angular library with `ng add` with Stanimira Vlaeva
+github Stanimira Vlaeva, https://github.com/sis0k0/catchy
+
+Mi 10:42 17.10.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+aging: is the process of rotten mechanical parts of a machine or the humain body (by metabolism or movement), 
+Niemals Alt Buch (siehe leseprobe)
+typescript structural typing, atomicobject.io typescript on blog
+swagger 
+
+Do 08:49 18.10.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10 most seen web security
+---------------------------
+oauth
+firebase firestore
+ionic , ionic pro, ionic 4, ionic capacitar
+pwa
+ngrx
+angular schematics
+ngrx schematics
+schematics
+async, async await
+advanced typescript
+
