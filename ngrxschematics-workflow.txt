@@ -2,7 +2,7 @@ ngn <appname>
 
 ngrx install: 			ngrxi
 ------------------
-npm install @ngrx/schematics --save-dev && ng config cli.defaultCollection @ngrx/schematics
+npm install @ngrx/schematics --save-dev &&   @ngrx/schematics
 
 root store and app.effects:	
 ----------------------------
@@ -13,11 +13,14 @@ angular feature module: ngm <modulename in singular>
 ----------------------
 ng g m ...
 
+or generate ngrx container with reference to store
+----------------------------------------------------
+ng generate container users/users --state ../store/index.ts --stateInterface State
 
 
-*************ngrx entities
+*************ngrx entities inside feature directory
 --------------------------------------------------------------------------------------
-ng g entity entity/Product -m ../products -r ../store/index.ts
+ng g entity entity/link -m ../links -r ../../store/index.ts
 
 add the following in reducer file
 -------------------------------------------------------------------------------

@@ -1790,3 +1790,6 @@ schematics
 async, async await
 advanced typescript
 
+Fr 12:03 19.10.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ionic todo with ionic schematics and ngrx schematics
