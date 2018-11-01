@@ -1793,3 +1793,52 @@ advanced typescript
 Fr 12:03 19.10.2018
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ionic todo with ionic schematics and ngrx schematics
+
+Mi 08:26 24.10.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular scenario driven dev for components, angular-playground.it
+
+09:48 25.10.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+udemy, build enterprise apps with nx,https://www.udemy.com/building-enterprise-angular-apps-with-nx/learn/v4/t/lecture/11911046?start=0
+post verschlüsselte emails für gian.schenker@gmail.com und hans.schenker@windowslive.com
+post: hubert schürmann und adliswil incamail
+3 liter most stallikon, zh caritas, 4 schachteln eier, migros leimbach kaffee
+
+Fri 11:20 26.10.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3 hour run hirzel
+udemy, nx enterprise
+langlauf ausrüstung beat wüthrich solothurn, 15:30
+
+Sa 14:42 27.10.2018
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+safari: udxa@xing886.uu.gl
+mo safari online
+
+Mo 10:33 29.10.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+yt, james henry, typescript state 2018 10
+udemy nx enterprise
+safari, yakov fain angular, 16:00 - 19:00
+
+Di 12:25 30.10.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+firebase security for firestore , do it with admin sdk on firebase functions
+nestjs, express reactive es6
+https://github.com/tja4472/ngrx-ionic-angularfire 
+pwa sample: https://github.com/tja4472/pwa-2018.git 
+safari, yakov fain angular, 16:00 - 19:00
+
+Mi 08:43 31.10.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+joerg krause, deutscher it geek, leanpub books,https://github.com/joergkrause/bootstrap4-kurz-und-gut.git
+
+safari, yakov fain angular, 16:00 - 19:00joerg krause on leanpub, https://leanpub.com/u/joergkrause 
+kelvin mai, ytl - Frontend:Angular Ngrx Appolo GraphQL Backend:Postgresql NestJS "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=nestjs" 
+
+Do 15:40 01.11.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+bs4 gil hernandez, teamtreehouse
+ferdinand walcher, angular-schule, ngrx yt video download, github angular-schule, ngrx jena
+bs4, products-ws,C:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\products-ws
