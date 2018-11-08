@@ -1842,3 +1842,24 @@ Do 15:40 01.11.2018
 bs4 gil hernandez, teamtreehouse
 ferdinand walcher, angular-schule, ngrx yt video download, github angular-schule, ngrx jena
 bs4, products-ws,C:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\products-ws
+
+Fr 07:51 02.11.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+udemy, complete node, max schwarzmueller
+udemy, advanced js, max schwarzmueller
+ben lesh, rxjs advanced use cases, ytl
+ngrx clips: C:\Users\Folio\OneDrive\Data\Angular-NgRx\angular-schule-ferdinand-malcher
+udemy rxjs operators, https://www.udemy.com/rxjs-operators/learn/v4/t/lecture/9290300?start=0
+
+Sa 09:09 03.11.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ben lesh, rxjs deep dive , rxjs v7
+andre staltz, callbag, similair behavior as observables
+andre staltz, egghead , beyond operators
+angulardeveloper.io, ngrx store, ytl - https://www.youtube.com/playlist?list=PLaMbwDs23r4KXoMucJEyUAvamQ-kFNBvC
+
+Do 08:36 08.11.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular universal part 1, "https://www.youtube.com/watch?v=QDasXnb6EFI&t=1s" 
+angular universal part 2, "https://www.youtube.com/watch?v=VV3_0zIr3lo&t=8s" 
+angular universal angular-schule,ferdinand walcher,"https://www.youtube.com/watch?v=R2bfqHOuZSs" 

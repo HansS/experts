@@ -6,21 +6,22 @@ npm install @ngrx/schematics --save-dev &&   @ngrx/schematics
 
 root store and app.effects:	
 ----------------------------
-ng g store Store --state-path store --root --state-interface AppState -m app.module.ts
+ng g store Store --state-path store --root --state-interface AppState -m app && ng g effect App --root --m app
 ng g effect App --root --m app.module.ts
 
 angular feature module: ngm <modulename in singular>
 ----------------------
-ng g m ...
+ngm product
 
 or generate ngrx container with reference to store
 ----------------------------------------------------
-ng generate container users/users --state ../store/index.ts --stateInterface State
+ng generate container products -f --state store/index.ts --stateInterface State
 
 
-*************ngrx entities inside feature directory
+*************ngrx entities inside!!! feature directory
 --------------------------------------------------------------------------------------
-ng g entity entity/link -m ../links -r ../../store/index.ts
+ng g entity state/link -m ../links -r ../store/index.ts
+
 
 add the following in reducer file
 -------------------------------------------------------------------------------
@@ -34,7 +35,7 @@ add the following in reducer file
 
 *******ngrx feature module
 -------------------------------------
-ng g feature state/Product -m ../products -r ../store/index.ts
+ng g feature Product -m ../products -r ../store/index.ts
 
 
 add the following in reducer file
@@ -54,5 +55,5 @@ export const getSelectedProductId = (state: State) => state.selectedProductId;
 06 ng g entity <name-pl>/entity -m ../<name-pl> -r ../store/index.ts
 06 ng g effect --feature <name> -m <name-pls>
 06 update reducer for *1 *2 *3
-07 go into feature entity directory: echo "import { createFeatureSelector, createSelector } from "@ngrx/store"; import * as fromArticle from "./Article.reducer"; export const selectArticleState = createFeatureSelector<fromArticle.State>("Article"); export const getSelectedArticleId = (state: fromArticle.State) => state.selectedId; export const selectArticleIds = createSelector(selectArticleState,fromArticle.selectIds); export const selectArticleEntities = createSelector(selectArticleState,fromArticle.selectEntities);export const selectAllArticles = createSelector(selectArticleState,fromArticle.selectAll); export const selectArticleTotal = createSelector(selectArticleState,fromArticle.selectTotal); export const selectCurrentArticleId = createSelector(selectArticleState,fromArticle.getSelectedId);export const selectCurrentArticle = createSelector(selectArticleEntities,selectCurrentId,(entities, id) => entities[id]);" >> Article.selector.ts
+07 go into feature entity directory: echo "import { createFeatureSelector, createSelector } from "@ngrx/store"; import * as fromArticle from "./Article.reducer"; export const selectArticleState = createFeatureSelector<fromArticle.State>("Article"); export const getSelectedArticleId = (state: fromArticle.State) => state.selectedId; export const selectArticleIds = createSelector(selectArticleState,fromArticle.selectIds); export const selectArticleEntities = createSelector(selectArticleState,fromArticle.selectEntities);export const selectAllArticles = createSelector(selectArticleState,fromArticle.selectAll); export const selectArticleTotal = createSelector(selectArticleState,fromArticle.selectTotal); export const selectCurrentArticleId = createSelector(selectArticleState,fromArticle.getSelectedId);export const selectCurrentArticle = createSelector(selectArticleEntities,selectCurrentId,(entities, id) => entities[id]);" >> article.selectors.ts
 08 correction for selector files
