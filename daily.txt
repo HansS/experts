@@ -1,6 +1,7 @@
 07:57 11.06.2018
 
 
+
 Di 02.01.2018
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 ngrx experts: mike ryan, robert brandon, duncan hunter, angularfirebase, todd mottongrx docs on github, https://github.com/ngrx/platform/tree/master/docs/store 
@@ -1863,3 +1864,28 @@ Do 08:36 08.11.2018
 angular universal part 1, "https://www.youtube.com/watch?v=QDasXnb6EFI&t=1s" 
 angular universal part 2, "https://www.youtube.com/watch?v=VV3_0zIr3lo&t=8s" 
 angular universal angular-schule,ferdinand walcher,"https://www.youtube.com/watch?v=R2bfqHOuZSs" 
+
+Fr 11:58 09.11.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Angular Server-Side Rendering, Angular Universal, Isomorphic Javascript:
+Ferdinand Malcher, Angular.Schule.de
+Jason Jean, Universal Team, 2 times NgAir (see yesterday)
+Angular University, pluralsight trial:dgmx@reddit.usa.cc 
+
+Mo 15:25 12.11.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular-universal: ferdinand malcher, angular-university.io, lynda ssr in angular, nx jason jean,server side rendering ytl, david east 
+david east, ssr angular firebase, "https://github.com/davideast/angular-universal-express-firebase" 
+sagerunningcom 
+sagerunning.com , ultra training plan 16.- 
+
+Di 10:20 13.11.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+nir kaufmann, angularup 2018, ngrx schematics, thinking in redux
+esquery, tsquery, tsquery playground, ast explorer, ast, uri shaked, angularup 2018
+stm32wb workshop genf 5.12.2018 08:30 20 minuten ausserhalb genf, möglich jghb lausanne 35, sbb 15
+article: node express typescript https://itnext.io/building-restful-web-apis-with-node-js-express-mongodb-and-typescript-part-1-2-195bdaf129cf 
+html to jade, https://html2jade.org/ 
+codepen.io for jade editing 
+webtools.txt 
+tim caswell, author of connect library, connect for middleware 
