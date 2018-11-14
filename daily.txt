@@ -1889,3 +1889,12 @@ html to jade, https://html2jade.org/
 codepen.io for jade editing 
 webtools.txt 
 tim caswell, author of connect library, connect for middleware 
+test with jest, http://blog.skarby.info/jest-with-angular/ 
+yt test with jest, https://www.youtube.com/watch?v=8tFaG9dW6nE 
+typescript node express article, https://itnext.io/building-restful-web-apis-with-node-js-express-mongodb-and-typescript-part-1-2-195bdaf129cf 
+Express, React and MongoDB - Fullstack Typescript Part 1, "https://www.youtube.com/watch?v=0nvHIctn_sA&t=442s" 
+
+Mi 07:36 14.11.2018
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx auth error sample, https://github.com/kelvin-mai/ngrx-ideas
+ngrx todos, express typescript stephen fluin, https://fluin.io/blog/adding-node-typescript-to-angular-app 

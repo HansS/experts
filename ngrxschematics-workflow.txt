@@ -20,7 +20,7 @@ ng generate container products -f --state store/index.ts --stateInterface State
 
 *************ngrx entities inside!!! feature directory
 --------------------------------------------------------------------------------------
-ng g entity state/link -m ../links -r ../store/index.ts
+ng g entity state/link -m ../links -r ../../store/index.ts
 
 
 add the following in reducer file
