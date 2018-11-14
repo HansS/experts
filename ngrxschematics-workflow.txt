@@ -32,20 +32,6 @@ add the following in reducer file
 *3 export const getSelectedProductId = (state: State) => state.selectedProductId;
 
 
-
-*******ngrx feature module
--------------------------------------
-ng g feature Product -m ../products -r ../store/index.ts
-
-
-add the following in reducer file
--------------------------------------------------------------------------------
-state: selectedProductId: number | null;
-
-initialState: selectedProductId: null;
-
-export const getSelectedProductId = (state: State) => state.selectedProductId;
-
 -----------------------------------------------------------------------------
 01 ngn <appname>
 02 ngrxi

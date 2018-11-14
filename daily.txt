@@ -1898,3 +1898,5 @@ Mi 07:36 14.11.2018
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ngrx auth error sample, https://github.com/kelvin-mai/ngrx-ideas
 ngrx todos, express typescript stephen fluin, https://fluin.io/blog/adding-node-typescript-to-angular-app 
+angular ngrx with entities and router, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\angulardeveloper.io\ngrx-store-app 
+angular ngrx deborah kurata, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\deborah-kurata-ngrx-getting-started-2018\Angular-NgRx-GettingStarted 
