@@ -1900,3 +1900,20 @@ ngrx auth error sample, https://github.com/kelvin-mai/ngrx-ideas
 ngrx todos, express typescript stephen fluin, https://fluin.io/blog/adding-node-typescript-to-angular-app 
 angular ngrx with entities and router, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\angulardeveloper.io\ngrx-store-app 
 angular ngrx deborah kurata, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\deborah-kurata-ngrx-getting-started-2018\Angular-NgRx-GettingStarted 
+angularconsole ngrx uses dataservice which is not suitable for me 
+ngrx pessimistic update (wait for server) or optimistic update (save in browser - send to server - in case of error dispatch undo action) 
+ngrx race conditions - use concatMap, switchMap or mergeMap 
+
+Fr 10:30 16.11.2018
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+google dev summit 2018 day 1
+app shell model , ady osmany
+app shell pete hunt
+progressive web apps , frontendmasters, dl
+angular universal, craig spence, "https://www.youtube.com/watch?v=EiiZAGkiUXE&index=20&list=PLAw7NFdKKYpGr_je48akFwcw8tYUk4nzl&t=0s" 
+angular universal, github craig spence, c:\Users\Folio\web\frontend\javascript\frameworks\angular-universal\craig-spence-angularconnect-2018\universally-speaking 
+ngrx thomas burleson, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\thomas-burleson-nx\ngrx-ticket-management 
+angular masterclass trademe, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\trademe-craig-spence-nea-zealand 
+chrome dev summit 2018 all session videos, https://www.youtube.com/playlist?list=PLNYkxOF6rcIDjlCx1PcphPpmf43aKOAdF 
+funfunfunctions with paul lewis, custom elements sample coding 
+paul lewis shadow dom 
