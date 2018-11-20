@@ -1917,3 +1917,28 @@ angular masterclass trademe, c:\Users\Folio\web\frontend\javascript\frameworks\a
 chrome dev summit 2018 all session videos, https://www.youtube.com/playlist?list=PLNYkxOF6rcIDjlCx1PcphPpmf43aKOAdF 
 funfunfunctions with paul lewis, custom elements sample coding 
 paul lewis shadow dom 
+
+Mo 14:11 19.11.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Typescript advanced , james henri
+lynda, typescript new featres
+
+
+Di 16:40 20.11.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+paul lewis, web components, yt 
+microsoft ignite 2018, typescript, daniel rosenwasser
+microsft ignite 2018, john papa, node mongo, github vikings
+udemy, ngrx in deppth, ngrx entities
+
+
+Mi 
+_______________________________________________________________________________________________________________________________________________________________james q quick, vs code learn, https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw/videos 
+mongoose to typescript, https://www.npmjs.com/package/mongoose-to-typescript 
+brian love, typescript express mongoose starter, https://github.com/blove/typescript-express-starter/tree/1-mongodb 
+typescript mongoose, https://github.com/szokodiakos/typegoose 
+brian love, testing ngrx effects, https://brianflove.com/2018/06/28/ngrx-testing-effects/ 
+angular schematics, briebug, https://www.youtube.com/watch?v=eSpSPCdMtwA 
+briebug, brian love, ngrx testing, https://www.youtube.com/watch?v=ieRY0KZWkXY 
+john papa, angular express mongoose sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-netxpert\john-papa\vikings 
+work: c:\Users\Folio\web\frontend\javascript\frameworks\angular-netxpert\users 
