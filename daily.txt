@@ -1932,8 +1932,9 @@ microsft ignite 2018, john papa, node mongo, github vikings
 udemy, ngrx in deppth, ngrx entities
 
 
-Mi 
-_______________________________________________________________________________________________________________________________________________________________james q quick, vs code learn, https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw/videos 
+Mi 08:52 21.11.2018
+_______________________________________________________________________________________________________________________________________________________________
+james q quick, vs code learn, https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw/videos 
 mongoose to typescript, https://www.npmjs.com/package/mongoose-to-typescript 
 brian love, typescript express mongoose starter, https://github.com/blove/typescript-express-starter/tree/1-mongodb 
 typescript mongoose, https://github.com/szokodiakos/typegoose 
@@ -1942,3 +1943,32 @@ angular schematics, briebug, https://www.youtube.com/watch?v=eSpSPCdMtwA
 briebug, brian love, ngrx testing, https://www.youtube.com/watch?v=ieRY0KZWkXY 
 john papa, angular express mongoose sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-netxpert\john-papa\vikings 
 work: c:\Users\Folio\web\frontend\javascript\frameworks\angular-netxpert\users 
+ngrx doc site, https://ngrx.io/docs 
+
+Do 08:56 21.11.2018
+-----------------------------------------------------------------------------------------------------------------------------------------
+kelvin mai, nestjs, typeorm, angular, typescript, postgres, ideas app, ytl - https://www.youtube.com/watch?v=EHlhvy-fh90&list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc&index=2
+ben awad, udemy jonas schmedtmann, complete js, advanced css 
+kelvin mai, node typescript, D:\A10-projects\node-typescript 
+kelvn mai, ngrx ideas, https://github.com/kelvin-mai/ngrx-ideas 
+kelvn mai, ngrx customers, https://github.com/kelvin-mai/ngrx-customers.git , https://angulardeveloper.io/
+
+angulardeveloper.io ngrx course, site text articles and youtube list, https://www.youtube.com/playlist?list=PLaMbwDs23r4KXoMucJEyUAvamQ-kFNBvC 
+angulardeveloper.io, git clone, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\angulardeveloper.io\ngrx-store-app 
+primeng tutorial, https://www.youtube.com/playlist?list=PLlsBGFEkOmMYrN8Cv9RDQ1zEibx0bSXgD 
+ngrx router-store, justin austin ngair, https://medium.com/@amcdnl/angular-routing-data-with-ngrx-effects-1cda1bd5e579 
+ngrx router-store github,  c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\justin-austin-ngair-router-store\ngrx-router 
+
+Do 08:26 22.11.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular links, http://ngdoc.io/#
+kevin schuchard, briebug, schematics expert, https://www.kevinschuchard.com/ 
+ngrx entities, briebug, james spivey, https://www.youtube.com/watch?v=cG3nRXHXbdk 
+briebug ngrx entity sample on stackblitz, https://stackblitz.com/edit/briebug-entity-demo-2018-11?file=src/app/state/briebug/briebug.actions.ts 
+briebug ngrx demo, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\briebug\ngrx-demo 
+grassrooted, gemÅse verkauf do fr 10 - 18 in hb zh 
+bioboerse (github trademe) , https://www.bioaktuell.ch/bioboerse/anzeigen-bioboerse/offers//sonstiges.html 
+bioboerse, grassrooted 
+kupfer kÑsebecken, https://www.bioaktuell.ch/bioboerse/anzeigen-bioboerse/anzeigendetail/advertisement/37535.html 
+work:c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\fb-experts 
+doc:"D:\A10-projects\angular-enterprise\NgRx\articles\NgRx - Best Practices for Enterprise Angular Applications.pdf" 
