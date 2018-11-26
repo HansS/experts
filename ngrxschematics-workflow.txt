@@ -15,7 +15,7 @@ ngm product
 
 or generate ngrx container with reference to store
 ----------------------------------------------------
-ng generate container products -f --state store/index.ts --stateInterface State
+ng generate container products -f --state state/product.reducer.ts --stateInterface ProductState
 
 
 *************ngrx entities inside!!! feature directory

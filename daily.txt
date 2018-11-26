@@ -1972,3 +1972,21 @@ bioboerse, grassrooted
 kupfer k„sebecken, https://www.bioaktuell.ch/bioboerse/anzeigen-bioboerse/anzeigendetail/advertisement/37535.html 
 work:c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\fb-experts 
 doc:"D:\A10-projects\angular-enterprise\NgRx\articles\NgRx - Best Practices for Enterprise Angular Applications.pdf" 
+rxjs sample for data binding, https://github.com/chrizzzle/rxjs-data-binding 
+joe eames angular links website, http://ngdoc.io/ 
+ngrx sample fromm auth0, https://github.com/auth0-blog/pet-tags-ngrx 
+C:\Users\Folio\Downloads\Lynda -  Learning NgRx 
+work:c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\google-books 
+
+So 16:01 25.11.2018
+---------------------------------------------------------------------------------------------------
+roy hinnen, buch, triathlon total
+schwimmkanal, hüttenstr 11 horgen , bus 137, mo abend 18_20, di 11-15, sa 8-12
+roy hinnen, trainings formeln download
+roy hinnen yt
+
+Mo 11:12 26.11.2018
+---------------------------------------------------------------------------------------------------
+Ideas App, User Feature in ngrx
+Udemy, ngFor, ngIf, ngSwitch,ng-template, ng-container, Pipes, ngClass, ngStyle, ViewChild, ViewChildren
+18:00 Microsoft Surface Pro 3
