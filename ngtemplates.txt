@@ -1,5 +1,7 @@
-Component
----------
+
+Component + Template = View displayed in ViewContainer
+-----------------------------------------------------
+
 A class with the @Component() decorator that associates it with a companion template. 
 Together, the component and template define a view. A component is a special type of directive. 
 The @Component() decorator extends the @Directive() decorator with template-oriented features.
