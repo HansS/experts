@@ -1990,3 +1990,9 @@ Mo 11:12 26.11.2018
 Ideas App, User Feature in ngrx
 Udemy, ngFor, ngIf, ngSwitch,ng-template, ng-container, Pipes, ngClass, ngStyle, ViewChild, ViewChildren
 18:00 Microsoft Surface Pro 3
+
+Di 16:15 27.11.2018
+--------------------------------------------------------------------------------------------------------
+microsoft surface pro 4 kauf, kloten, jason, weyach, 400.-
+udemy, auni, angular core deep dive
+dynamic forms, ultimate-angular, https://github.com/toddmotto/angular-dynamic-forms
