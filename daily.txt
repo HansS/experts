@@ -1996,3 +1996,18 @@ Di 16:15 27.11.2018
 microsoft surface pro 4 kauf, kloten, jason, weyach, 400.-
 udemy, auni, angular core deep dive
 dynamic forms, ultimate-angular, https://github.com/toddmotto/angular-dynamic-forms
+
+Mi 16:14 28.11.2018
+--------------------------------------------------------------------------------------------------------
+mike north , typescript, web securiy, sass,vs code, torrent download,C:\Users\Folio\Downloads\SASS Fundamentals by Mike North 2017 ENG
+mike north, vs code, C:\Users\Folio\Downloads\Visual Studio Code
+mike north, web security, C:\Users\Folio\Downloads\Web Security
+mike north, typescript, C:\Users\Folio\Downloads\TypeScript Fundamentals
+maxim koretskyi, ngair, advanced angular components
+maxim koretsky, yt, dynamic angular components
+angular quiz app, as sample for dynamic components, multiple choice with different question types (dynamic components)
+dynamic component use cases: modal window, tooltip, dynamic tabs
+swiss angular: 3.Dec ZH, ionic 4, firebase, pwa
+udemy course, angular components like a pro, my courses
+ultimate-angular, dynamic components todd motto
+
