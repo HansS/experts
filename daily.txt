@@ -2026,3 +2026,11 @@ ngrx, ndc austraila sept 2018, melingy,slide copy
 typescript expert, marius schultz, https://blog.mariusschulz.com/2017/01/06/typescript-2-1-keyof-and-lookup-types
 D:\A10-projects\typescript\Advanced-Typescript-Tarun-Sharma-2018
 work: dyn components, c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\dyn-components 
+material theme generator,http://materialtheme.arcsine.org/ 
+
+Mo 14:26 03.12.2018
+-----------------------------------------------------------------------------------------------------------------------------------------
+udemy, services and dependency injection
+ngrx brandon roberts
+ngrx alain chautard, angulartraining
+angularfirebase angular vue react
