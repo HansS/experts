@@ -2034,3 +2034,16 @@ udemy, services and dependency injection
 ngrx brandon roberts
 ngrx alain chautard, angulartraining
 angularfirebase angular vue react
+
+Di 14:19 04.12.2018
+--------------------------------------------------------------------------------------------------------------------------------------------
+ngconcepts1.txt , Basic Building Blocks of Angular
+nir kaufmann, angular directives, ngpoloand 2017, how to write your own structural directive
+angular microsyntax, how to write your own custom structural directive
+juri strumpflohner, angular directives packtpub course, sensors dashboard, reusable modal dialog, tabs component sample
+misko hevery, angular 1 directive yt video,
+juri strumpflohner, tabs component, :\Users\Folio\web\frontend\javascript\frameworks\angular-components\juri-strumpflohner-egghead\egghead-create-dynamic-tabs-component-angular 
+read:git commit best practices, C:\Users\Folio\web\tools\git\commit-guidelines 
+how the internet works, jen kramer, https://internetfundamentals.com/watch/ 
+frontend masters flexbox course, jen kramer, github.com/jen4web, C:\Users\Folio\Downloads\CSS Grids and Flexbox for Responsive Web Design 
+css flexbox-workshop, https://thecssworkshop.com/account 

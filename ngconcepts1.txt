@@ -1,16 +1,46 @@
 Angular
 -------------------------------------------------------------------------------------
+Angular View Layer - a browser extensibility toolkit
+Angular Directive - a browser instruction
+
 Angular is a platform and framework for building client applications in HTML and TypeScript. 
 Angular is written in TypeScript. 
 It implements core and optional functionality as a set of TypeScript libraries 
 that you import into your apps
 
+With Angular Core we can essentially extend the browser native functionality and 
+create our own HTML tags and attributes, and associate some behavior to them.
+
+Angular Compiler
+------------------------------------------------------------------------------------
+Angular is a sophisticated compiler, which takes an NgModule type and produces an NgModuleFactory (viktor savkin)
+
+Jit Compilation - at run time
+
+AOT Compilation - ahead of time as a build step of the application
+-------------------------------------------------------------------------
+To make AOT work the application has to have a clear separation of the static and dynamic data in the application
+classes and decorators, which the new versions of JavaScript and TypeScript support, made it way easier
+The central part of Angular is its compiler.
+The compilation can be done just in time (at runtime) and ahead of time (as a build step).
+
+The AOT compilation creates smaller bundles, tree shakes dead code, 
+makes your templates type-safe, and improves the bootstrap time of your application.
+The AOT compilation requires certain metadata to be known statically, 
+so the compilation can happen without actually executing the code.
 
 NgModule
 -----------------------------------------------------------------------------------
+An NgModule has components declared in it. While creating the module factory, the compiler will take the template 
+of every component in the module, and using the information about declared components and pipes, 
+will produces a component factory. The component factory is 
+a JavaScript class the framework can use to stamp out components
+
 Modules are the basic building blocks of A and are the units of compilation.
 NgModules, which provide a compilation context for components. 
 an Angular app is defined by a set of NgModules
+
+NgModules are the unit of compilation and distribution of Angular components and pipes
 
 1 RootModule
 --------------------------------------------------------------------------------
@@ -26,6 +56,11 @@ Components
 Components define views, which are sets of screen elements that Angular can choose among 
 and modify according to your program logic and data.
 
+A component knows how to interact with its host element.
+A component knows how to interact with its content and view children.
+A component knows how to render itself.
+A component configures dependency injection.
+A component has a well-defined public API of input and output properties
 
 
 Template
@@ -47,6 +82,9 @@ and <base> elements have no useful role. Pretty much everything else is fair gam
 You can extend the HTML vocabulary of your templates with components and directives 
 that appear as new elements and attributes. In the following sections, you'll learn 
 how to get and set DOM (Document Object Model) values dynamically through data binding.
+
+Templates give us is a clear boundary separating the view layer from the rest of the framework, 
+so we swap the implementation of the view layer without breaking any applications
 
 DOM Element - ElementRef
 ------------------------------------------------------------------------------------
@@ -264,6 +302,16 @@ AD : update DOM Element (can be an custom Attribute, a CSS Class
 SD : add DOM Element (*ngFor)
      remove DOM Element (*ngIf)
 
+Host Element
+---------------------------------------------------------------------------------------------------------
+To turn an Angular component into something rendered in the DOM you have to associate an Angular component 
+with a DOM element. We call such elements host elements.
+
+A component can interact with its host DOM element in the following ways:
+It can listen to its events. (@HostListener Decorator)
+It can update its properties. (@HostBinding Decorator)
+It can invoke methods on it. (elementRef.nativeElement.invoke('focus'))
+
 HostListener
 ---------------------------------------------------------------------------------
 Binds a CSS event to a host listener and supplies configuration metadata. 
@@ -271,6 +319,11 @@ Angular invokes the supplied handler method when the host element emits the spec
 and updates the bound element with the result. If the handler method returns false, 
 applies preventDefault on the bound element.
 
+
+Queries
+In addition to access its host element, a component can interact with its children. 
+There are two types of children a component can have: content children and view children
+@ViewChild, @ViewChildren, @ContentChild, @ContentChildren
 
 Directive Microsyntax for writing your own structural directives
 --------------------------------------------------------------------------------------
@@ -376,3 +429,17 @@ a component's runtime behavior by implementing life-cycle hooks. For more inform
 see the Lifecycle Hooks guide.
 
 
+Directive use cases
+---------------------------------------------------------------------------------
+Autofocus on input fields
+
+Async email/username validators
+
+Autosize for textareas
+
+Debounce directive for input fields
+
+Infinite scroll
+
+Sticky directive (makes an element fixed position when it reaches a certain scrolling distance)
+modal dialog box
