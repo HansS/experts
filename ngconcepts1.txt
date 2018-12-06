@@ -1,3 +1,95 @@
+Angular Architecture
+-------------------------------------------------------------------------------------------
+A Module
+-------
+The basic building blocks of an Angular application are NgModules, 
+which provide a compilation context for components. 
+NgModules collect related code into functional sets; 
+an Angular app is defined by a set of NgModules. 
+An app always has at least a root module that enables bootstrapping, 
+and typically has many more feature modules.
+
+A Component Directive is a class with an associated template
+------------------------------------------------------------
+Components define views, which are sets of screen elements that Angular 
+can choose among and modify according to your program logic and data.
+
+Separate view layer from logic layer through Dependency Injection
+-------------------------------------------------------------------
+Components use services, which provide specific functionality not directly related to views. 
+Service providers can be injected into components as dependencies, 
+making your code modular, reusable, and efficient.
+
+Angular Services
+---------------------------------------------------------------------
+Router Service
+Http Service
+Forms Service
+Platform Service
+Injection Service
+ChangeDetection Service
+ViewFactory Service
+ComponentFactory Service
+
+Angular is based on following Technologies
+----------------------------------------------------------------------------------------
+A is written in Typescript (classes, decorators, observables)
+A is heavily based on the library RxJs
+A uses Webpack as treeshaking and bundling tool
+A uses Npm as package manager
+
+
+Angular Mental Model: From Static HTML to Dynamic HTML
+-----------------------------------------------------------------------------------------
+Change HTML Static view to a HTML Dynamic View with Data Binding and Change Detection.
+Static Form becomes a dynamic Form with data binding and validation
+
+Data Binding
+--------------
+Angular separates updating the application model and updating the view through data binding
+
+Event bindings are used to update the application model.
+Change detection uses property bindings to update the view. 
+
+Updating the view is unidirectional and top-down. 
+This makes the system more predictable and performant.
+
+We make the system more efficient by using the OnPush change detection strategy 
+for the components that depend on immutable input and only have local mutable state.
+
+Directives
+----------
+A extends the DOM with directives
+
+Directives are the A way to interact with the DOM (CRUD DOM Elements).
+
+Component Directive	C creates a DOM Element, has a template attached to it
+			and creates its own view.
+
+Attribute Directive	U update a DOM Element
+-------------------------------------------------------------------------------
+Attribute directives alter the appearance or behavior of an existing element. 
+In templates they look like regular HTML attributes, hence the name.
+
+Structural Directive	D delete a DOM Element
+-----------------------------------------------------------------------------
+Structural directives are responsible for HTML layout. They shape or reshape 
+the DOM's structure, typically by adding, removing, or manipulating elements.
+
+Template = HTML + Directives
+---------
+Directives are placed in a template
+
+View
+----
+A Template gets compiled by the template compiler and gets instanciated into
+a living View
+
+Services
+----------
+All not View related stuff in A is located in services.
+
+
 Angular
 -------------------------------------------------------------------------------------
 Angular View Layer - a browser extensibility toolkit
@@ -69,6 +161,18 @@ You may be familiar with the component/template duality from your experience wit
 model-view-controller (MVC) or model-view-viewmodel (MVVM). In Angular, 
 the component plays the part of the controller/viewmodel, 
 and the template represents the view.
+
+Template Syntax
+---------------------------------------------------------------------------------
+Template Syntax:
+
+Interpolation				{ expression }
+Property binding			[ disabled ] ="isDisabled()"
+Event binding				(click) = "onClick($event)"
+Attribute binding			[highlight]
+Class binding				[.highlight]
+Style binding				[ngStyle.backgroundColor]="background()"
+Two-way data binding with ngModel 	[(name)] = "contact.name"
 
 HTML is the language of the Angular template. 
 Almost all HTML syntax is valid template syntax. The <script> element is a notable exception; 

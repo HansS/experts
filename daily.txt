@@ -2047,3 +2047,23 @@ read:git commit best practices, C:\Users\Folio\web\tools\git\commit-guidelines
 how the internet works, jen kramer, https://internetfundamentals.com/watch/ 
 frontend masters flexbox course, jen kramer, github.com/jen4web, C:\Users\Folio\Downloads\CSS Grids and Flexbox for Responsive Web Design 
 css flexbox-workshop, https://thecssworkshop.com/account 
+
+Mi 18:35 05.12.2018
+----------------------------------------------------------------------------------------------------------------------------------------------
+viktor savkin, state practice rules
+viktor savkin, essential angular, angular router
+leanpub, 
+angular elements for web components
+leanpub, web components with angular (2012 -angularjs)
+juri strumpflohner, web components, packtpub
+lukas ruebbelke, ngrx course, yt download
+denis vuiyka, developing with angular, excellent uptodate 2018, 10$
+
+Fr 11:34 06.12.2018
+----------------------------------------------------------------------------------------------------------------------------------------------
+damian vujnovic, javascript decorators ndc 2018
+skillsmatter, damian vujnovic javascript talks
+skillsmatter, raspberri pi talks
+skillsmatter, lora talks
+skillsmatter, chris norings, ngrx
+stenciljs, ionic 4 built with stenciljs created components at @ionic/core
