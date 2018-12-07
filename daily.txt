@@ -2059,7 +2059,7 @@ juri strumpflohner, web components, packtpub
 lukas ruebbelke, ngrx course, yt download
 denis vuiyka, developing with angular, excellent uptodate 2018, 10$
 
-Fr 11:34 06.12.2018
+Do 11:34 06.12.2018
 ----------------------------------------------------------------------------------------------------------------------------------------------
 damian vujnovic, javascript decorators ndc 2018
 skillsmatter, damian vujnovic javascript talks
@@ -2067,3 +2067,13 @@ skillsmatter, raspberri pi talks
 skillsmatter, lora talks
 skillsmatter, chris norings, ngrx
 stenciljs, ionic 4 built with stenciljs created components at @ionic/core
+
+Fr 10:54 07.12.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------
+acadmind, 2019 trends, graphql, stencil, angular, node , ionic, web platform: html, css, js
+ionic stencil, udemy, angular core, changedetection, every component has its own changedetector, onpush only when object reference changes, checks @Input() and async pipe
+ngrx sample, kelvin mai, 09 user feature module, 10 ngrx entity and selectors
+podwysocki, rxjs advent calendar 01 and 02
+
+
+work:c:\Users\Folio\web\frontend\javascript\frameworks\angular-firebase\hans\fb-links 
