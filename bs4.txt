@@ -1,0 +1,12 @@
+Bootstrap 4 Component Snippets
+
+collapsable navbar
+------------------------------------------------------------------------------------------------------------
+nav	navbar navbar-expand-md bg-primary
+a	navbar-brand
+button	navbar-toggler data-toggle="collapse" data-target="#navbarToggler" <span class="navbar-toggler-icon">
+div	collapse navbar-collapse id="navbarToggler"
+ul	navbar-nav
+li	nav-item
+a	nav-link
+

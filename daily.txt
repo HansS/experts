@@ -2074,6 +2074,18 @@ acadmind, 2019 trends, graphql, stencil, angular, node , ionic, web platform: ht
 ionic stencil, udemy, angular core, changedetection, every component has its own changedetector, onpush only when object reference changes, checks @Input() and async pipe
 ngrx sample, kelvin mai, 09 user feature module, 10 ngrx entity and selectors
 podwysocki, rxjs advent calendar 01 and 02
-
-
 work:c:\Users\Folio\web\frontend\javascript\frameworks\angular-firebase\hans\fb-links 
+
+Sa 08:26 08.12.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+work:c:\Users\Folio\web\frontend\javascript\frameworks\angular\deborah-kurata\angular-gettingstarted-me 
+
+Mo 08:22 10.12.2018
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+lynda trial ends 13.12.2018, subscription cancelled
+lynda, bootstrap 4 design, villalobo, C:\Users\Folio\web\frontend\css\bootstrap4\linkedin-ray-villalobo\bootstrap4-layouts-me
+vs code snippet for bs4-navbar
+kelvin mai, rx crud ytl, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\kelvin-mai-yt\ngrx-ideas
+getbootstrap.com, components doc, learn from doc not from videos
+ngrx sample, loiane groner, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\loiane-groner
+work:C:\Users\Folio\web\frontend\css\bootstrap4\linkedin-ray-villalobo\bootstrap4-layouts-me
