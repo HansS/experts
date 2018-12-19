@@ -2089,3 +2089,51 @@ kelvin mai, rx crud ytl, c:\Users\Folio\web\frontend\javascript\frameworks\angul
 getbootstrap.com, components doc, learn from doc not from videos
 ngrx sample, loiane groner, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\loiane-groner
 work:C:\Users\Folio\web\frontend\css\bootstrap4\linkedin-ray-villalobo\bootstrap4-layouts-me
+javascript allonge es6, only the latest chapters, metaobject...
+follow villalobo bs4 design course till 13.12 
+
+Di 08:40 11.12.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+brad westfall, html and css teacher, https://github.com/bradwestfall/Student-Resources.git
+brad westfall, questionable.io, create your own test questions
+algolia, fulltext search javascript, 35$/mo
+lunr, javascript search,https://lunrjs.com/
+fullext search in js: lunrjs (free), algolia (35$7mo), elasticsearch and http://elasticlunr.com/example/index.html
+c:\Users\Folio\web\frontend\javascript\frameworks\angular-algolia\angularfirebase\algolia-firestore-instantsearch 
+brad westfall, css and html teaching 
+brad westfall, css and html teaching, C:\Users\Folio\web\frontend\teaching\brad-westfall 
+work:C:\Users\Folio\web\frontend\css\bootstrap4\linkedin-ray-villalobo\bootstrap4-layouts-
+me 
+
+Mi 15:36 12.12.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngbe 2018, kwinten pisman, nx apps and libs,
+ngbe 2018, dynamic components, Ashnita Bali
+ngrx sample, ashnita bali,c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\ashnita-bali-ngbe-2018\learn-angular-firestore 
+kelvin mai, ngrx serie with nestjs api on graphql
+
+Do 08:44 13.12.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+git changelog
+github desktop
+ngrx entity sample, sandi barr, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\sandi-barr
+
+Mo 13:03 17.12.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs, matthew podwysocki, advent calendar , 25 videos
+glitch, online editor for web, node, firebase
+https://github.com/how-to-firebase, fullstackfirebase.com, chris esplin
+twint app for postfinance
+udemy fullstackfirebase, chris esplin, github.com/how-to-firebase, https://github.com/how-to-firebase/firelist-angular
+
+angular firebase hotel booking app, https://github.com/theaworld/theahotel.git 
+
+Mi 10:20 19.12.2018
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+javascript podcast, john pappa, ward bell, dan wahlin, "https://realtalkjavascript.simplecast.fm"
+rxjs.dev, new rxjs website, rxjs team, learning team
+rxjs switchmap
+rob wormald, angular elements, "https://realtalkjavascript.simplecast.fm"
+mike hartington, ionic stenciljs, "https://realtalkjavascript.simplecast.fm"
+medium series, Tomek Sulkowski, DevToolTips, https://medium.com/@tomsu/devtools-tips-day-1-the-console-dollars-3aa0d93e923c
+https://rxjs-dev.firebaseapp.com/ 
