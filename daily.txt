@@ -2137,3 +2137,40 @@ rob wormald, angular elements, "https://realtalkjavascript.simplecast.fm"
 mike hartington, ionic stenciljs, "https://realtalkjavascript.simplecast.fm"
 medium series, Tomek Sulkowski, DevToolTips, https://medium.com/@tomsu/devtools-tips-day-1-the-console-dollars-3aa0d93e923c
 https://rxjs-dev.firebaseapp.com/ 
+
+Do 13:28 20.12.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular elements, google developer fest, raul jimenez, togglecomponent sample
+
+Fr 07:29 21.12.2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+dr mendy pelz, detox before fast, metabolic reset
+axel's athletik, skic-sc-de, axel teichmann, trainer langlauf deutschland
+stephen fluin, angular animations for hierarchical routing, angular
+oasis angular bootcamp program 
+ECHO ist eingeschaltet (ON).
+C:\Users\Folio\OneDrive\Data\Angular\Bootcamps
+
+So 14:52 23.12.2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+learn 2019:
+---------------------------
+new learning style with microsoft surface, microsoft office 365
+
+advanced typescript: james henry, mariuz schulz blog, philipp burgmer, entwickler.de (50.-)
+
+advanced rxjs: mergemap, switchmap, concatmap,
+advanced sass: jonas schmedtmann, bootstrap 4,
+angular elements,
+angular cdk, component development kit
+stenciljs and ionic 4
+angular animations
+angular material
+ngrx deep dive
+angular schmeatics
+angular nx, nx connect, victor savkin
+
+angular.io: cli
+angularindepth
+medium/angular
+medium/ngrx
