@@ -2315,3 +2315,11 @@ Mo 12:12 07.01.2019
 rupert spira, being aware of being aware
 rupert spira, The Nature of Consciousness
 angular 7 firestore crud employee sample, c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-firestore\codaffection-github-yt\Angular-7-CRUD-with-Firestore\Angular 7 
+github codaffection, angular firestore quizapp
+david east, angular fire storage, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\storage\david-east\angularfire-storage
+david east, firestore, yt ngair 135, https://www.youtube.com/watch?v=t-auGKG1yjs
+work: firestore links, c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-firestore\hans\links
+learn: D:\A10-projects\angular-af2-firestore\Firestore-Quiz-App-Github-Codaffection
+angularfirebase: firestore statechanges sample: https://angularfirebase.com/lessons/state-changes-angularfire2-with-ngrx/
+
+ 
