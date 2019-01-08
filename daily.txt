@@ -2321,5 +2321,15 @@ david east, firestore, yt ngair 135, https://www.youtube.com/watch?v=t-auGKG1yjs
 work: firestore links, c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-firestore\hans\links
 learn: D:\A10-projects\angular-af2-firestore\Firestore-Quiz-App-Github-Codaffection
 angularfirebase: firestore statechanges sample: https://angularfirebase.com/lessons/state-changes-angularfire2-with-ngrx/
-
+read: The Angular Firebase Survival Guide
  
+Di 10:48 08.01.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+skillshare.com trial for 2 month: cancel 28-02-2019
+coursetro, basic skills for frontend dev -> skillshare 2 month free trial
+learn: skillshare bootstrap 4, https://github.com/KhanradCoder/Learn-Bootstrap.git
+ionic 4 beta link, https://beta.ionicframework.com/docs/ 
+learn: ionic 4 master course, https://github.com/codediodeio/ionic4-master-course 
+audio: C:\Users\Folio\Downloads\Wisdom of Your Cells 
+work: C:\Users\Folio\web\mobile\ionic\hans\conference-app 
+yt awais mirza, https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA/videos 
