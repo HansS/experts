@@ -2333,3 +2333,17 @@ learn: ionic 4 master course, https://github.com/codediodeio/ionic4-master-cours
 audio: C:\Users\Folio\Downloads\Wisdom of Your Cells 
 work: C:\Users\Folio\web\mobile\ionic\hans\conference-app 
 yt awais mirza, https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA/videos 
+work: ionic 4 esm-pix
+ionic pro: esm-pix, git push ionic master
+
+Mi 10:33 09.01.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+firebase functions intro jeff delaney, c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-firestore\jeff-delaney-fireship.io
+ionic 4 sidemenu, https://ionicacademy.com/side-menu-ionic-4/ 
+
+ionic 4 coder, simon grimm, ionicacademy, https://github.com/saimon24?tab=repositories 
+ionic 4 coder, jeff delaney, ionic 4 master course
+ionic 4 coder, awais mirza, yt videos
+ionic 4 coder, josh moroni
+ionic 4 coder, Baljeet Singh, ytl:https://www.youtube.com/watch?v=w0QTIlpo-Pg&t=5s
+
