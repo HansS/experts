@@ -2347,3 +2347,64 @@ ionic 4 coder, awais mirza, yt videos
 ionic 4 coder, josh moroni
 ionic 4 coder, Baljeet Singh, ytl:https://www.youtube.com/watch?v=w0QTIlpo-Pg&t=5s
 
+Do 11:48 10.01.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tomasz Ducin, ducin.it
+Marius Schultz, Typescript Expert, Egghead.io
+learn: oleksandr poshtaruk, hands-on rxjs in web dev, https://www.packtpub.com/web-development/hands-rxjs-web-development-video
+ngrx sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\Tomasz-Ducin-playing-ngrx\playing-with-ngrx 
+work: C:\Users\Folio\web\mobile\ionic\esmpix 
+packtpub a year 80$ 
+
+Fr 11:53 11.01.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+netninja, firebase auth with pure javasscript
+nx enterprise book, download from nrwl
+duncan hunter github , gibook angular enterprise
+gesundheit, dr novak, gesunde lebensmittel, kommen von gesunder produktion
+netninja, firestore ytl download
+strongbrew brecht, angular enterprise practices
+ionic 4 capacitar tutorial raja yogan, http://tphangout.com/ionic-4-camera-with-capacitor/ 
+codedamn ytl, https://github.com/codedamn/social-media-app-ionic4 
+ionic conference app, as capacitar sample, https://github.com/dotNetkow/ionic-conference-app 
+
+Mo 09:21 14.01.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+learn: https://github.com/PacktPublishing/Hands-on-RxJS-for-Web-development.git, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\packtpub\Hands-on-RxJS-for-Web-development
+gesundheit: markus rothkranz, prof dr spitz spitzen-gesundheit, prof dr michael greger - nutrientfacts.org, dr boz, dr berg, wim hof
+learn: https://github.com/PacktPublishing/Advanced-TypeScript-3-Programming-Projects.git, c:\Users\Folio\web\frontend\typescript\packtpub\Advanced-TypeScript-3-Programming-Projects
+learn: joris hermans, node mongo typescript expert, https://www.packtpub.com/application-development/web-development-nodejs-mongodb-and-express-video
+samir medjoub, angular vuejs ngrx ionic node coder, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\samir-medjoub 
+samir medjoub, vuejs firebase course 
+learn: skillshare typescript mastercourse angular-university 
+work: fb auth, max schwarzmueller, C:\Users\Folio\web\frontend\javascript\frameworks\angularfire-firestore\max-schwarzmueller-udemy\ng-fire-04-basic-auth 
+
+Di 08:29 15.01.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+health: http://amentaeliteathlete.com/index.html
+Pilzzucht, Deutschland, https://dikarbion.eu/Glaenzender-Lackporling-Koernerbrut-Pilzbrut 
+pilzzucht Deutschland, pilzwald.de, https://pilzwald.de/ 
+Pilzgarten, http://www.pilzgarten.at/index/pilzarten/reishi/ 
+Pilzzuchtshop, https://www.pilzzuchtshop.eu/pilzbrut-fuer-holz-stroh-kaffeesatz-u.a.-bio/33/reishi-pilzbrut-bio 
+learn: firebase angular material, https://ajonp.com/ 
+ajonp.com github clones, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\ajonpllc-github 
+sample: angular ngrx material starter, tomas trajan,  c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\tomas-trajan\angular-ngrx-material-starter 
+sample: victor savkin github repo clones, c:\Users\Folio\web\frontend\javascript\frameworks\angular\viktor-savkin 
+
+Mi 08:46 16.01.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://www.nutritionscience.in/
+health: make dates crunched a sugar replacement 
+health: 21 days with nutrientscience.in 
+angular: resolve as a data provider, when a url fires you can resolve data from backend or local 
+af-auth: https://github.com/AngularTemplates/firebase-authentication-with-angular-5 
+ng: resolvers, https://alligator.io/angular/route-resolvers/ 
+ng: angular templates, https://angular-templates.io/ 
+fbf: auth triggers, https://firebase.google.com/docs/functions/auth-events 
+ng: ng-auth-firebase-ui, https://github.com/AnthonyNahas/ngx-auth-firebaseui.git 
+ng: fb auth, patrick schroeder, https://github.com/jakblak/ngFireAuth 
+afa: angular fb auth, patrick schroeder, https://github.com/jakblak/ngFireAuth 
+afa: angular fb auth material, udemy course patrick schroeder, https://www.udemy.com/angular-firebase-firestore/?couponCode=YTNG-SPECIAL 
+afa: angular fb auth, youtube, https://www.youtube.com/watch?v=KpfJCEvpS9g 
+health: 21 days plant based eating kickstart, https://www.nutritionscience.in/products/21-day-plant-based-kickstart/categories/910328/posts/3011757 
+health: kerala ayurveda intro, https://www.keralaayurveda.us/courses/lesson/1a-individual-constitution-intro/ 
