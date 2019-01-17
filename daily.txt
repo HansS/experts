@@ -2408,3 +2408,4 @@ afa: angular fb auth material, udemy course patrick schroeder, https://www.udemy
 afa: angular fb auth, youtube, https://www.youtube.com/watch?v=KpfJCEvpS9g 
 health: 21 days plant based eating kickstart, https://www.nutritionscience.in/products/21-day-plant-based-kickstart/categories/910328/posts/3011757 
 health: kerala ayurveda intro, https://www.keralaayurveda.us/courses/lesson/1a-individual-constitution-intro/ 
+health: amen-ra 
