@@ -208,3 +208,16 @@ work: c:\Users\Folio\web\frontend\netxpert-ws\netxpert
 learn: angular flex-layout wiki, https://github.com/angular/flex-layout/wiki 
 life: turne bis zur urne 
 life: live long and die youg 
+
+Di 09:09 22.01.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+kettlebell training, dayly 24min, 2 x 20kg kettlebell = 2x 40.- + 16 lieferung = ca 100.-
+bash scripting video, egghead, cameron nokes, https://github.com/ccnokes/advanced-bash-automation-for-web-developers.git
+
+
+learn: bash advanced skripting,  C:\Users\Folio\tools\bash\cameron-nokes-egghead\advanced-bash-automation-for-web-developers 
+angular material, https://material.angular.io/components/categories 
+learn: angular 7 workshop with nrwl schematics and material, c:\Users\Folio\web\frontend\javascript\frameworks\angular\lukas-ruebbelke-frontendmasters\angular-core-workshop 
+learn: ngrx lukas rubbelke 2019, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\lukas-ruebbelke-frontendmasters\angular-reactive-workshop 
+learn: angular material sidenav, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\angular6-sidenav-example 
+learn: angular material lynda, carrots website, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\robby-millsap-lynda\carrots 
