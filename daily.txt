@@ -221,3 +221,26 @@ learn: angular 7 workshop with nrwl schematics and material, c:\Users\Folio\web\
 learn: ngrx lukas rubbelke 2019, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\lukas-ruebbelke-frontendmasters\angular-reactive-workshop 
 learn: angular material sidenav, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\angular6-sidenav-example 
 learn: angular material lynda, carrots website, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\robby-millsap-lynda\carrots 
+
+Mi 08:11 23.01.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx weaather app, https://www.youtube.com/watch?v=9jchiqUWq3U
+
+Do 08:37 24.01.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ayurveda.com, new session, freitag 25.01
+podcast: real talk javascript, john pappa, ward bell, dan wahlin, https://realtalkjavascript.simplecast.fm/
+podcast: javascriptjabber.com
+podcast: webplatform
+podcast: syntax
+ayurveda: https://www.ayurveda-herbs.com/blog 
+learn: angular material, https://ajonp.com/lessons/10-angular-material-theming/ 
+ytl: angular material, https://www.youtube.com/channel/UCnKZ8gEb78zXKMi1ns-IQ2g/about 
+learn: ionic capacitar, https://bracketsacademy.com/2018/12/26/capacitor-and-ionic-integration/#more 
+code: ionic expert, https://github.com/didinj?tab=repositories 
+read: ionic expert blog, https://www.djamware.com/post/5c42ca7580aca754f7a9d1e8/ionic-4-and-angular-7-tutorial-http-interceptor-example 
+food: wintersuppen, https://www.migros-impuls.ch/de/ernaehrung/gesundes-essen/winter/wintersuppen-zum-geniessen 
+learn: codedam, ionic social app, C:\Users\Folio\web\mobile\ionic\codedam\social-media-app-ionic4 
+ionic: C:\Users\Folio\web\mobile\ionic\ionicacademy\v4\ionic4-angular7-example 
+ytl: ionic angular firebase, https://www.youtube.com/playlist?list=PLYxzS__5yYQnpK36-GJjm7IEAuHR7IExa 
+ytl: ionic angular firebase, https://www.youtube.com/playlist?list=PLYxzS__5yYQnpK36-GJjm7IEAuHR7IExa 
