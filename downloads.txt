@@ -456,3 +456,7 @@ wifi hacking, "http://pcdownload.in/2018/02/04/cisco-press-wireless-networks-iot
 ibm waatson, http://pcdownload.in/2017/06/15/oreilly-introduction-to-cognitive-computing-with-ibm-watson-services/ 
 pl aws lamdba hands on, http://pcdownload.in/2018/04/30/packt-publishing-build-a-serverless-app-with-aws-lambda-hands-on/ 
 interesting downloads , scanlibs.com 
+js app dev, quiz app, https://scanlibs.com/javascript-bootcamp-build-applications/ 
+web dev bootcamp 2019, https://scanlibs.com/complete-web-development-bootcamp-video/ 
+course downloader, rutracker.org 
+hands-on rxjs, packtpub, https://scanlibs.com/hands-rxjs-web-development-video/#download 

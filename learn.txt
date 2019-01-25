@@ -1,0 +1,20 @@
+kayakalpa, long living, https://learn.kayakalpayoga.com/courses/enrolled/430454
+learn kayakalpa, https://learn.kayakalpayoga.com/courses/enrolled/430454
+learn: D:\A10-projects\angular-af2-firestore\Firestore-Quiz-App-Github-Codaffection
+learn: skillshare bootstrap 4, https://github.com/KhanradCoder/Learn-Bootstrap.git
+learn: ionic 4 master course, https://github.com/codediodeio/ionic4-master-course 
+learn: oleksandr poshtaruk, hands-on rxjs in web dev, https://www.packtpub.com/web-development/hands-rxjs-web-development-video
+learn: https://github.com/PacktPublishing/Hands-on-RxJS-for-Web-development.git, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\packtpub\Hands-on-RxJS-for-Web-development
+learn: https://github.com/PacktPublishing/Advanced-TypeScript-3-Programming-Projects.git, c:\Users\Folio\web\frontend\typescript\packtpub\Advanced-TypeScript-3-Programming-Projects
+learn: joris hermans, node mongo typescript expert, https://www.packtpub.com/application-development/web-development-nodejs-mongodb-and-express-video
+learn: skillshare typescript mastercourse angular-university 
+learn: firebase angular material, https://ajonp.com/ 
+learn: angular flex-layout wiki, https://github.com/angular/flex-layout/wiki 
+learn: bash advanced skripting,  C:\Users\Folio\tools\bash\cameron-nokes-egghead\advanced-bash-automation-for-web-developers 
+learn: angular 7 workshop with nrwl schematics and material, c:\Users\Folio\web\frontend\javascript\frameworks\angular\lukas-ruebbelke-frontendmasters\angular-core-workshop 
+learn: ngrx lukas rubbelke 2019, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\lukas-ruebbelke-frontendmasters\angular-reactive-workshop 
+learn: angular material sidenav, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\angular6-sidenav-example 
+learn: angular material lynda, carrots website, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\robby-millsap-lynda\carrots 
+learn: angular material, https://ajonp.com/lessons/10-angular-material-theming/ 
+learn: ionic capacitar, https://bracketsacademy.com/2018/12/26/capacitor-and-ionic-integration/#more 
+learn: codedam, ionic social app, C:\Users\Folio\web\mobile\ionic\codedam\social-media-app-ionic4 

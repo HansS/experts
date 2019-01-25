@@ -244,3 +244,44 @@ learn: codedam, ionic social app, C:\Users\Folio\web\mobile\ionic\codedam\social
 ionic: C:\Users\Folio\web\mobile\ionic\ionicacademy\v4\ionic4-angular7-example 
 ytl: ionic angular firebase, https://www.youtube.com/playlist?list=PLYxzS__5yYQnpK36-GJjm7IEAuHR7IExa 
 ytl: ionic angular firebase, https://www.youtube.com/playlist?list=PLYxzS__5yYQnpK36-GJjm7IEAuHR7IExa 
+'food: ' kichererbsen suppe 
+food: kichererbsen suppe 
+js app dev, quiz app, https://scanlibs.com/javascript-bootcamp-build-applications/ 
+js app dev, quiz app, https://scanlibs.com/javascript-bootcamp-build-applications/ 
+learn: complete web dev bootcamp, https://scanlibs.com/complete-web-development-bootcamp-video/ 
+book: angular dev, https://leanpub.com/developing-with-angular 
+code: angular dev, https://github.com/DenysVuika/developing-with-angular.git 
+read:  
+ayurveda: vasant lad, ayurveda.com 
+learn: javascript podcast, syntax 
+learn: real talk js, john pappa, ward bell, dan wahlin, https://realtalkjavascript.simplecast.fm 
+hands-on rxjs, packtpub, https://scanlibs.com/hands-rxjs-web-development-video/#download 
+learn: senior nanodegree web developer, https://scanlibs.com/senior-web-developer-nanodegree/ 
+
+09:23 25.01.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+migros app, migros m-budget produkte
+hands-on rxjs downloand
+ochsner sport fussgelenkst¸tze, 80.-
+aso ankle stabilizer 
+aso knîchel bandage deutschland 55euro, https://www.physiosupplies.de/marken/a-s-o/a-s-o-knochelbandage?gclid=Cj0KCQiAhKviBRCNARIsAAGZ7CfCKQixNPy4LvONZEbJMZMjcVW76i8fhN7mTReCzzNJxHJrv96lhIkaAnv7EALw_wcB 
+fussgelenk stÅtze us , 45dollar + 20 lieferung, https://www.storkz.com/checkout/cart/ 
+zamst knîchelstÅtze mit schiene l or r 55euro, Zamst A2 DX Knîchelschutz, rechts 
+Soles Kno˘chelbandage, bandage beidseitig 20euro 
+ngrx site, https://ngrx.io/
+book:  
+ayurveda:  
+read:  
+ytl:  
+learn:  
+food:  
+work:  
+mind:   
+work:  
+mind:   
+mind:   
+learn:  
+train:   
+site:   
+code:   
+health:   

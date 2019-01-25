@@ -1,0 +1,7 @@
+work: firestore links, c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-firestore\hans\links
+work: C:\Users\Folio\web\mobile\ionic\hans\conference-app 
+work: ionic 4 esm-pix
+work: C:\Users\Folio\web\mobile\ionic\esmpix 
+work: fb auth, max schwarzmueller, C:\Users\Folio\web\frontend\javascript\frameworks\angularfire-firestore\max-schwarzmueller-udemy\ng-fire-04-basic-auth 
+work: netxpert workspace ,  C:\Users\Folio\web\frontend\netxpert 
+work: c:\Users\Folio\web\frontend\netxpert-ws\netxpert
