@@ -285,3 +285,36 @@ train:
 site:   
 code:   
 health:   
+chrome extension - resource override 
+angular pwa, christian liebel thinktecture, c:\Users\Folio\web\frontend\javascript\frameworks\angular-pwa\christian-liebel-thinktecture.com\basta-2018-pwa-workshop 
+
+Sa 10:17 26.01.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+code: angular reactive forms, shmuela jacobs, c:\Users\Folio\web\frontend\javascript\frameworks\angular\shmuela-jacobs
+expert: angular pwa, christian liebel
+expert: angular reactive forms, shmuela jacobs
+learn: hands-on rxjs, https://scanlibs.com/hands-rxjs-web-development-video/#download , D:\A10-projects\__learn\Hands-On-RxJs-Packtpub
+download: https://scanlibs.com
+
+download: https://scanlibs.com/angular-material-design-video/  
+download: angular enterprise, https://scanlibs.com/angular-6-enterprise-ready-web-apps/  
+download: angular pro book  
+book: angular pro , https://turbobit.net/vragjwwcv152.html   
+download: ngrx getting started, https://scanlibs.com/angular-ngrx-getting-started/  
+download: angular 7 complete max schwarzmueller, https://scanlibs.com/angular-complete-guide/#download  
+download: reative with angular, https://scanlibs.com/reactive-angular-ngrx-video/  
+download: javascript bootcamp 2019, https://scanlibs.com/modern-javascript-bootcamp/  
+download: complete web dev bootcamp 2019, https://scanlibs.com/complete-web-development-bootcamp-video/  
+site:   
+site: angular update  
+health: blutanalyse labor in der schweiz, https://www.swissanalysis.ch  
+ayurveda: ayurveda food rezepte, https://www.ayurfood.ch/category/rezepte/   
+ayurveda: email ayurfood, info@ayurfood.ch   
+
+So 04:13 27.01.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+yoga:   
+mind: krishnamurti  
+food:   
+train:   
+meditation:   
