@@ -318,3 +318,23 @@ mind: krishnamurti
 food:   
 train:   
 meditation:   
+download: css flexbox grid, http://turbobit.net/ymv5em1bc1ox.html  
+download: css advanced and sass, https://scanlibs.com/advanced-css-and-sass/#download  
+download: master es6, https://scanlibs.com/rediscovering-javascript-master/#download  
+download: es6 training, https://scanlibs.com/accelerated-es6-training-video/  
+download: es6 bootcamp, https://scanlibs.com/es6-bootcamp-video/  
+download: github book, https://scanlibs.com/version-control-git-and-github/#download  
+download: git and jenkins ci, https://scanlibs.com/robot-framework-test-automation-jenkins-git/  
+download: git version control    
+
+
+Mo 10:39 28.01.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+download: graphql bootcamp  
+download: graphql bootcamp, https://scanlibs.com/?s=graphql  
+download: lean angular 6/7 step by step, https://scanlibs.com/laearn-angular-step-project-video/  
+download: advanced bash scripting  
+download: advanced bash scripting, https://scanlibs.com/?s=bash  
+download: bash scripting solutions, https://scanlibs.com/?s=bash  
+plan: angular 7 new features  
+plan: angular 6 step by step  
