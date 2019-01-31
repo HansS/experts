@@ -338,3 +338,42 @@ download: advanced bash scripting, https://scanlibs.com/?s=bash
 download: bash scripting solutions, https://scanlibs.com/?s=bash  
 plan: angular 7 new features  
 plan: angular 6 step by step  
+plan: angular-firebase-create-instagram-like-portal, D:\A10-projects\__learn\Angular-Fire\EsmPix  
+work: esmpix, C:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\esmpix  
+
+Di 07:24 29.01.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+exercise, 09 - 11:00
+late breakfast, ca 11:00
+ionic 4 breaking changes, https://github.com/ionic-team/ionic/blob/master/angular/BREAKING.md
+learn: angular instagram, D:\A10-projects\__learn\Angular-Fire\EsmPix  
+buy: webcam 30$, https://www.aliexpress.com/item/Wireless-2-4G-WIFI-Mini-Web-Camera-HD-720P-IR-CUT-Night-Vision-Two-Way-Audio/32971303986.html 
+subscription: ionicacademy, 29$, ends 10.03.2019 
+nestjs, bo vandersteene, bruno, josh morony
+code: nest app and api, C:\Users\Folio\web\backend\nest\auth0
+work: esmpix, C:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\esmpix  
+download: nanodegree fullstack web developer, https://scanlibs.com/full-stack-web-developer-nanodegree/  
+
+Mi 09:56 30.01.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+advanced types in typescript, smartive video
+typescript documentation, advanced types,
+nanodegree react, https://scanlibs.com/react-nanodegree/ 
+angular 7 max schwarzmueller, https://scanlibs.com/angular-complete-guide/ 
+download: angular 7 max schwarzmueller, https://scanlibs.com/angular-complete-guide/  
+download: angular web dev in 2 hours, https://scanlibs.com/angular-web-development-2-hours-video/  
+download: angular with graphql, https://scanlibs.com/graphql-angular-apollo-full-stack/#download  
+angular enterprise
+download: build react firestore app, https://scanlibs.com/build-aapp-react-redux-firestore/  
+
+Do 08:40 31.01.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+learn: typescript, advanced types doc, https://www.typescriptlang.org/docs/handbook/advanced-types.html  
+learn: typescript, advanced types, basarat ali, https://www.youtube.com/watch?v=Rl-KT-2OBew  
+learn: typescript, deep dive, https://basarat.gitbooks.io/typescript/content/docs/getting-started.html  
+book: typescript, https://basarat.gitbooks.io/typescript/content/docs/getting-started.html   
+site: css, handle your images, "https://www.imgix.com/?utm_campaign=2018-02-Ads&utm_source=css-tricks&utm_medium=banner"  
+site: css, https://css-tricks.com/video-screencasts/  
+learn: typescript, mariusz schulz, https://mariusschulz.com/blog/typescript-2-1-keyof-and-lookup-types  
+learn: typescript decorators, ndc 2017 damian vujic  
+learn: typescript decorators, D:\A10-projects\__learn\Typescript-3-Web-Frontend  
