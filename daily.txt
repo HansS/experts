@@ -377,3 +377,65 @@ site: css, https://css-tricks.com/video-screencasts/
 learn: typescript, mariusz schulz, https://mariusschulz.com/blog/typescript-2-1-keyof-and-lookup-types  
 learn: typescript decorators, ndc 2017 damian vujic  
 learn: typescript decorators, D:\A10-projects\__learn\Typescript-3-Web-Frontend  
+learn online: ionicacademy.com, 25.02.2019 
+learn: typescript advanced tyoi  
+learn: typescript advanced typing, https://github.com/patwritescode/advanced-types-meetup.git  
+learn: graphql expert, patrick dunn, https://www.patrickdunn.org/  
+site: weather api, https://openweathermap.org/api  
+api: weather api, https://openweathermap.org/api 
+learn online: ionic 4, memori app, https://ionicacademy.com/courses/building-a-memory-book-v4/ 
+learn: nestjs, modern node express based with angular like syntax  
+work: angular material lynda, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\angular-material-lynda\am-lynda  
+web scrape marius schultz typescript evolution blog, https://mariusschulz.com/blog 
+github: advanced typescript, marius schulz, https://github.com/mariusschulz/egghead-advanced-typescript.git  
+github: async await, marius schulz, https://github.com/mariusschulz/egghead-async-await  
+
+alias grp=grep '$*' *.txt
+alias ec= echo $*
+alias ecd= echo $* >> daily.txt 
+alias ecdl= echo learn: $* >> daily.txt && type daily.txt
+alias ecdapi= echo api: $* >> daily.txt && type daily.txt
+alias ecdlo= echo learn online: $* >> daily.txt && type daily.txt
+alias ecdw= echo work: $* >> daily.txt && type daily.txt
+alias ecdy= echo youtube: $* >> daily.txt && type daily.txt
+alias ecdyo= echo yoga: $* >> daily.txt && type daily.txt
+alias ecdf= echo food: $* >> daily.txt && type daily.txt
+alias ecdh= echo health: $* >> daily.txt && type daily.txt
+alias ecdr= echo read: $* >> daily.txt && type daily.txt
+alias ecdb= echo book: $* >> daily.txt  && type daily.txt
+alias ecdby= echo buy: $* >> daily.txt  && type daily.txt
+alias ecda= echo ayurveda: $* >> daily.txt  && type daily.txt
+alias ecdt= echo train: $* >> daily.txt && type daily.txt
+alias ecdm= echo mind: $* >> daily.txt && type daily.txt
+alias ecdme= echo meditation: $* >> daily.txt && type daily.txt
+alias ecdc= echo code: $* >> daily.txt && type daily.txt
+alias ecds= echo site: $* >> daily.txt && type daily.txt
+alias ecdsub= echo subscription: $* >> daily.txt && type daily.txt
+alias ecde= echo expert: $* >> daily.txt && type daily.txt
+alias ecdd= echo download: $* >> daily.txt && type daily.txt
+alias ecdp= echo plan: $* >> daily.txt && type daily.txt
+alias ecdi= echo ionic: $* >> daily.txt && type daily.txt
+alias ecdg= echo github: $* >> daily.txt && type daily.txt
+youtube: nestjs course, https://www.youtube.com/playlist?list=PLw5h0DiJ-9PBNzGs6wc7XXEpvvdvjxDI7  
+youtube: nestjs course followup, https://www.youtube.com/playlist?list=PLw5h0DiJ-9PBkjJ2enLCfPFqMootMz0oD  
+youtube: create graphql server, https://www.youtube.com/watch?v=YATgpAMZ9dY  
+learn: firestore codelab, https://codelabs.developers.google.com/codelabs/firestore-web/#0  
+learn: google codelabs, https://codelabs.developers.google.com/  
+learn: firestore angular friendlychat codelab, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/index.html?index=..%2F..index#0  
+learn: firestore youtube, https://www.youtube.com/channel/UCnKZ8gEb78zXKMi1ns-IQ2g/videos  
+youtube: firestore books, https://www.youtube.com/channel/UCnKZ8gEb78zXKMi1ns-IQ2g/videos  
+work: firestore chat, c:\Users\Folio\web\frontend\javascript\frameworks\firebase\firestore-github\friendlychat-web\web  
+learn: angular material max, video 45  
+work: netxpert nx workspace  
+work: netxpert nx workspace, C:\Users\Folio\web\work\netxpert-ws  
+
+Sa 11:58 02.02.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+youtube: vscode node debugging, john papa, ngatlanta 2018, sample github vikings
+youtube: angularair, angular dry forms, sander elias
+learn online: ngrx spanish, udemy.com
+site: rangle.io
+site: johnpapa.com
+site: angular cli new doc site, https://next.angular.io/cli/generate#library-command  
+learn: angular cli new doc site, https://next.angular.io/cli/generate#library-command  
+work: angular workspace created mit ng cli, c:\Users\Folio\web\frontend\javascript\frameworks\angular\angular-ws  
