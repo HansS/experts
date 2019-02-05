@@ -96,7 +96,9 @@ ng install <addon-name>
   aliases: i
 
 ng new <app-name> <options...>
+-------------------------------------------------------------------------------------
   Creates a new directory and runs ember init in it.
+
   --dry-run (Boolean) (Default: false)
     aliases: -d
   --verbose (Boolean) (Default: false)

@@ -439,3 +439,28 @@ site: johnpapa.com
 site: angular cli new doc site, https://next.angular.io/cli/generate#library-command  
 learn: angular cli new doc site, https://next.angular.io/cli/generate#library-command  
 work: angular workspace created mit ng cli, c:\Users\Folio\web\frontend\javascript\frameworks\angular\angular-ws  
+
+So 08:22 03.02.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+learn: study biological pyschology, https://study.com/academy/topic/biological-bases-of-behavior-homework-help.html  
+subscription: biological psychology, 12 lectures on basic biology in human psyche, https://study.com/academy/topic/biological-bases-of-behavior-homework-help.html  
+subscription: biological psychology, one month, cancel 28-02-2019  
+learn online: psychology of aging, https://study.com/academy/course/psychology-of-adulthood-and-aging-course.html  
+learn: angular yt, Kalyan Chatterjee,  
+job: frontend dev rapperswil, jobs@racerfish.com 
+job: frontend dev zurich, jobs@inventage.com 
+job: frontend dev 40%, https://freshjobs.ch/job/frontend-developer-binkert-partnerinnen-zurich/ 
+job: frontend dev ,jobs@netvertising.ch 
+job: daniel.rueegg@intersim.ch 
+job: web projektleiter, https://amazee.bamboohr.com/jobs/view.php?id=30 
+buy: samsung galaxy a6 speicher 126gb + huelle = 40.-, Christian Stettler 8008, ZÅrich 0797407814 
+
+Di 08:47 05.02.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+learn: google frienly-pix web version
+code: jave bratt ionic 4 book, learn online: ionic apps with firestore, https://www.udemy.com/ionic-apps-with-firebase/learn/v4/content  
+learn online: ionic apps with firestore, https://www.udemy.com/ionic-apps-with-firebase/learn/v4/content  
+learn online: fireship.io  
+work: friendlychat-ng,  C:\Users\Folio\web\mobile\ionic\hans\friendlychast-ng, firebase, material installed  
+learn: fireship.io video lessons, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\fireship.io  
+learn: ionic 4 projects, jave bratt, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\jave-bratt-ionic  
