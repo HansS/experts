@@ -832,3 +832,40 @@ code: firebase chat, angular-university, https://github.com/angular-university/n
 work: fu cheng ionic fb, D:\A10-projects\__learn\Ionic\ionic4-apps-firebase-apress\code  
 work: ionicacademy chat, D:\A10-projects\__learn\Ionic\ionicacademy\firebase-chat-app  
 work: angular-university ngrx chat, D:\_downloads\[udemy] Vasco - Angular NgRx Store Masterclass - Covers Angular 4 [2017, ENG]  
+work: rxjs chat, ng-book 6, D:\A10-projects\web\angular\ng-book-angular-6\rxjs\rxjs-chat  
+github: ngrx chat, https://github.com/angular-university/ngrx-course  
+github: js chat, https://github.com/firebase/friendlypix-web  
+learn:   
+learn: engadin webcams, "https://webtv.feratel.com/webtv/?cam=4212&design=v3&c0=0&c2=1&lg=de&s=0&lc=4210"  
+ionic: floating action button, https://ionicframework.com/docs/components/#fabs  
+ionic: ionic list, https://ionicframework.com/docs/components/#lists  
+youtube: wes doyle fb chat 3, https://www.youtube.com/watch?v=IVaek-TWE9I  
+youtube: wes doyle fb chat 2, https://www.youtube.com/watch?v=p82OeXq_Aoo  
+youtube: fb chat js only, https://www.youtube.com/playlist?list=PL02g-PgcFojMQtrZZUg7fIdrmWG-je_uO  
+learn: pusher chat-kit doc, https://docs.pusher.com/chatkit/quick_start/javascript  
+site: angular articles, techiediaries.com  
+learn: ionic coursera, https://www.coursera.org/learn/ionic-cordova  
+code: firebase groupchat , angularfirebase, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\angularfirebase-group-chat  
+github: firestore group-chat, https://github.com/AngularFirebase/144-firestore-group-chat  
+work: chat use cases pusher chat-kit. D:\A10-projects\__learn\Ionic\pusher-chat-kit  
+site: Hosting URL: https://friendly-chat-8c06f.firebaseapp.com  
+
+Sa 09:18 09.02.2019
+----------------------------------------------------------------------------------------------------------------------------------------------site: angular 7, ionic 4 , https://www.youtube.com/channel/UCo1uXpOZneIU6kkzzPvj5oQ/videos  
+site: angular 7, ionic 4, https://www.youtube.com/channel/UCo1uXpOZneIU6kkzzPvj5oQ/videos  
+youtube: angular 7, ionic 4, https://www.youtube.com/channel/UCo1uXpOZneIU6kkzzPvj5oQ/videos  
+youtube: advanced angular , https://www.youtube.com/channel/UCMdEvelZ3uNkK2ZEmehU7Cg/playlists  
+github: electron, fabian gosebrink offering.solutions, https://github.com/FabianGosebrink?tab=repositories  
+expert: angular, tomas trajan, https://github.com/tomastrajan  
+learn: electron  
+code: angular ngrx material starter,  c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\tomas-trajan-ngrx-starter-with-material\angular-ngrx-material-starter  
+code: rxjs patterns, blog.strongbrew.io kwinten pisman  
+expert: rxjs, kwinten pisman, strongbrew.io  
+expert: electron, fabian gosebrink, swissangular.com, angular-academy.ch  
+expert: electron, hans thorsten  
+learn: one codebase many platforms, fabian gosebrink  
+code: angular firebase chat app, https://www.djamware.com/post/5a629d9880aca7059c142976/build-ionic-3-angular-5-and-firebase-simple-chat-app  
+code: firstore timestamp, var docRef = db.collection('objects').doc('some-id');  // 
+      Update the timestamp field with the value from the server 
+      var updateTimestamp = docRef.update({     timestamp: firebase.firestore.FieldValue.serverTimestamp() });  
+
