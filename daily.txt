@@ -869,3 +869,21 @@ code: firstore timestamp, var docRef = db.collection('objects').doc('some-id'); 
       Update the timestamp field with the value from the server 
       var updateTimestamp = docRef.update({     timestamp: firebase.firestore.FieldValue.serverTimestamp() });  
 
+learn online: angular apps with firebase, udemy course, flavio oliveira, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\flavio-oliveira-build-angular-apps-with-firebase\ngFire-Course  
+
+Mo 09:10 11.02.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+spirit: roger gabriel, spirit teacher chopra center (7 spiritual laws)
+healh: dr jason fung, metabolic effects of intermittent fasting or alternate day fasting
+learn: apps with angular and firebase, udemy course
+spirit: deepak chopra, chopra.com  
+ayurveda: deepak chopra, chopra.com   
+health: deepak chopra, chopra.com  
+health: intermittent fasting, dr jason fung  
+
+Di 08:29 12.02.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+learn: angular material, oasis digital, rachel nuccioli  
+learn: angular firestore chat, paul spears, oasis digital solution  
+work: esm-chat, C:\Users\Folio\web\mobile\ionic\angularfirebase\esm-chat  
+work: ionic angular firebase post app, ionicacademy,  C:\Users\Folio\web\mobile\ionic\ionicacademy\firebaseApp  
