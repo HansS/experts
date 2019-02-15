@@ -887,3 +887,59 @@ learn: angular material, oasis digital, rachel nuccioli
 learn: angular firestore chat, paul spears, oasis digital solution  
 work: esm-chat, C:\Users\Folio\web\mobile\ionic\angularfirebase\esm-chat  
 work: ionic angular firebase post app, ionicacademy,  C:\Users\Folio\web\mobile\ionic\ionicacademy\firebaseApp  
+youtube: make your own instagram with uploadcare, https://www.youtube.com/playlist?list=PLBOh8f9FoHHjtZJFAYKQRT_sRunC5M0tA  
+expert: ionic expert, paul stelzer, https://github.com/paulstelzer?tab=repositories  
+expert: ionic firebase , instagram, chat, https://github.com/mehulmpt, youtube codedamn  
+learn: firebase fullstack, https://github.com/how-to-firebase/full-stack-firebase/tree/master/notes  
+learn: fullstack firebase course, https://github.com/how-to-firebase/full-stack-firebase.git  
+code: ionic firebase posts, ionicacademy, C:\Users\Folio\web\mobile\ionic\ionicacademy\firebaseApp  
+work: firebase functions fb project, c:\Users\Folio\web\firebase\functions\doug-stevenson-fb-team\fb-functions  
+work: ionic firstore uploadcare, esmpix, C:\Users\Folio\web\mobile\ionic\hans\esmpix  
+github: ionic firestore uploadcare, codedamn, ionic 4 social-app,https://github.com/codedamn/social-media-app-ionic4  
+work: ionic firestore uploadcare, codedamn, C:\Users\Folio\web\mobile\ionic\codedamn-github  
+
+Do 02:01 14.02.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+React or Angular - the question of a ui designer on internet: https://github.com/Rohitkrops/form/issues/1
+--------------------------------------------------------------
+I am former Microsoft Technology Programmer but 6 years ago I started with Web Programming on 
+Web Standards, Html, Css and Javascript.
+
+When you program in raw Javascript you have to do a lot of work to create a solid Web App.
+
+You need the help of a framework.
+
+React, VueJs and Angular are the main frameworks these days. React is actually not a framework, 
+it is a frontend library, helping you in creating the views in Html, Css and Javascript.
+
+A Framework is more than a library, it gives you more assistance than a library.
+
+Angular is the framework with the biggest support but the learning curve is the steepest of all three.
+Angular is best used in Enterprise Scenarios.
+
+React is a frontend library in helping you to create a Web Frontend. May more people engage 
+in React because it is easier to learn and not so demanding like Angular.
+
+VueJs is in the concepts similar to Angular, but easier to learn, thats why most people want to learn it.
+The community is not so big like in React or Angular.
+learn: chat app docs, https://github.com/codesundar/firebase-chat-ionic  
+expert: ionic , codesundar, https://github.com/codesundar?tab=repositories  
+
+Fr 11:19 15.02.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+expert: angular schematics, kalyan chatterjee, blackbox, https://github.com/kalyan11021980  
+learn: angular schematics, https://github.com/kalyan11021980/schematics-nguniversal-logger.git  
+angular universal, kalyan chatterjee, blackbox, https://github.com/kalyan11021980/angular-ssr-starter.git 
+youtube: angular elements weather component sample, https://www.youtube.com/playlist?list=PLBiJ_OHa1m2ZczkyqdHEOlVPRDLXfpULZ  
+code: chat title font, https://fonts.google.com/specimen/Damion  
+code: chat title font, https://www.pixelsurplus.com/freebies/ambarella  
+code: angular auth0 sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-auth0\sam-julien-oauth-team  
+code: rxjs log operator, 
+const log = (tag: string) =   next = Next]`, 'color: #4CAF50;', next),   error = Error]`, 'color: #F44336;', error),   () = Complete]`, 'color: #2196F3;') );  
+const log = (tag: string) => tap(
+  next => console.log(`%c[${tag}: Next]`, 'color: #4CAF50;', next),
+  error => console.log(`%c${tag}: Error]`, 'color: #F44336;', error),
+  () => console.log(`%c[${tag}: Complete]`, 'color: #2196F3;')
+);article: ionic 4 login with rxjs behaiorsubject, https://devdactic.com/ionic-4-login-angular/ 
+article: ionic 4 login with rxjs behaiorsubject, https://devdactic.com/ionic-4-login-angular/ 
+article: ionic 4 firebase login, https://devdactic.com/ionic-4-firebase-angularfire/ 
