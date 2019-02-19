@@ -1,7 +1,13 @@
-work: firestore links, c:\Users\Folio\web\frontend\javascript\frameworks\angularfire-firestore\hans\links
-work: C:\Users\Folio\web\mobile\ionic\hans\conference-app 
-work: ionic 4 esm-pix
-work: C:\Users\Folio\web\mobile\ionic\esmpix 
-work: fb auth, max schwarzmueller, C:\Users\Folio\web\frontend\javascript\frameworks\angularfire-firestore\max-schwarzmueller-udemy\ng-fire-04-basic-auth 
-work: netxpert workspace ,  C:\Users\Folio\web\frontend\netxpert 
-work: c:\Users\Folio\web\frontend\netxpert-ws\netxpert
+work: esm-chat, C:\Users\Folio\web\mobile\ionic\angularfirebase\esm-chat  
+work: ionic angular firebase post app, ionicacademy,  C:\Users\Folio\web\mobile\ionic\ionicacademy\firebaseApp  
+work: firebase functions fb project, c:\Users\Folio\web\firebase\functions\doug-stevenson-fb-team\fb-functions  
+work: ionic firstore uploadcare, esmpix, C:\Users\Folio\web\mobile\ionic\hans\esmpix  
+work: ionic firestore uploadcare, codedamn, C:\Users\Folio\web\mobile\ionic\codedamn-github  
+work: firebase firestore firestorage posts, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\fb-posts  
+add posts lazy module
+add firebase-storage module
+add firebae-firestore module
+add angular-material module
+git init
+git push hanss/fb-posts
+

@@ -943,3 +943,72 @@ const log = (tag: string) => tap(
 );article: ionic 4 login with rxjs behaiorsubject, https://devdactic.com/ionic-4-login-angular/ 
 article: ionic 4 login with rxjs behaiorsubject, https://devdactic.com/ionic-4-login-angular/ 
 article: ionic 4 firebase login, https://devdactic.com/ionic-4-firebase-angularfire/ 
+youtube: rxjs advanced patterns, michael hladky, biophoton, "https://www.youtube.com/watch?v=ZaUxIX_Q0R4&list=WL&index=3&t=152s"  
+expert: angular expert, matt vaughn, angularlicio.us, "https://www.youtube.com/watch?v=ZaUxIX_Q0R4&list=WL&index=3&t=152s"  
+expert: angular testing, joe eames, https://github.com/joeeames  
+
+Sa 12:04 16.02.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+learn: angular 2019, lars bilde, D:\A10-projects\__learn\Angular\Lars-Bilde-Angular-2019  
+code: ngrx ideas app, kelvin mai, https://www.youtube.com/playlist?list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc  
+
+So 11:20 17.02.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+code: angular 7 firstore file upload, https://www.youtube.com/watch?v=jtZa6iiBMG  
+code: angular 7 firstore file upload, https://github.com/AldoHub/Angular-Firestore-FireStorage-Uploads.git  
+expert: angular, aldo caamal, https://github.com/AldoHub  
+code: ngrx weatherapp, https://github.com/AldoHub/Ngrx-Angular-7.git  
+code: angular 7 fb auth, https://github.com/AldoHub/Angular7-FirebaseAuthForms.git  
+code: angular 6 firestore, aldo caamal, https://github.com/AldoHub/Angular6-Firestore.git  
+youtube: angular 7, aldo caamal, https://www.youtube.com/channel/UCsbBhGOM5l927nz5-jTIqlw/videos  
+youtube: ngrx course, kelvin mai, https://www.youtube.com/playlist?list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc  
+youtube: angularfire, paul spears, oasis digital, https://www.youtube.com/watch?v=-CTSBeaz4x4  
+youtube: angular material, ajonp, https://www.youtube.com/playlist?list=PLUKgAjyG9B0YYANiZIkcqUyE_v_Zwoara  
+expert: nestj, denis limarenko, C:\Users\Folio\web\backend\nest\denis-limarenko  
+learn: advanced web apps in angular, lars bilde, "https://www.youtube.com/watch?v=r5AU0LCLv9s&list=PL8jcXf-CLpxptJ2mE4xnVd5I0iSGnabEc"  
+health: The best spices for longevity and rejuvenation include ginger, turmeric, cinnamon, cardamom, fennel, cumin, coriander, basil, fenugreek, mint, saffron, bay, and rosemary. Those to be used with caution owing to their hot and drying nature include black pepper, mustard, horseradish, cayenne, red and green chilies.  
+ayurveda: spices, The best spices for longevity and rejuvenation include ginger, turmeric, cinnamon, cardamom, fennel, cumin, coriander, basil, fenugreek, mint, saffron, bay, and rosemary. Those to be used with caution owing to their hot and drying nature include black pepper, mustard, horseradish, cayenne, red and green chilies.   
+expert: ayurveda, vasant lad, ayurveda.com  
+expert: ayurveda, suhas kshirsagar, ayurvedichealing.com  
+
+Mo 13:58 18.02.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+solawi, wädichörbli.ch, hof blum , richterwil, samstagern
+Resilient Character, Srikumar Rao 
+learn: Srikumar Rao, creativity and personal mastery  
+learn: creativity and personal master, srikumar rao, https://theraoinstitute.com  
+learn: creativity and personal master, audible.de, as gianni  
+code: angular 7 posts on firestore with image upload to firestorage, aldo kaamal, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\aldo-caamal-angular-firestore\Angular-Firestore-FireStorage-Uploads   
+mind: srikumar rao, rumi poems, einstein is the universe benevolent, good thing or bad thing, what are your ifs (if i have house , i will be happy...)
+mind: srikumar rao, 5 points: 1 - Good thing or bad thing, 2 - Benevolent Universe, 3 - Focus on process not the outcome, 4 - Be Grateful, Reframe your mental models (assumptions)
+ecdl: creativity and personal master, srikumar rao, audible.de download on S6
+ecdl: change your schedule, suhas kshirsagar, audiobooks download on S8
+  work: firebase firestore firestorage posts, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\fb-posts  
+
+Di 07:53 19.02.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+learn: firestore geolocation queries in realtime, https://github.com/firebase/geofire-js
+code: fireship.io, google maps with geofire-js
+code: vuejs firestore chat app,  c:\Users\Folio\web\frontend\javascript\libraries\geofire-js\SAVuegram  
+download:   
+food:   
+doc: vuejs firestore chat app, D:\A10-projects\__learn\VueJs\Social-App 
+ayurveda: vuejs firestore chat app, https://savvyapps.com/blog/definitive-guide-building-web-app-vuejs-firebase   
+download: vuejs firestore chat app, https://savvyapps.com/blog/definitive-guide-building-web-app-vuejs-firebase  
+plan:   
+github: vuejs firestore chat app, https://github.com/savvyapps/SAVuegram  
+site: vuejs firestore chat app, https://savvyapps.com/  
+code: firestore firestorage, aldo kaamal, yt,  c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\aldo-caamal-angular-firestore  
+code: angularfire geofire, angularfirebase.com, c:\Users\Folio\web\frontend\javascript\libraries\geofire-js\fireship.io  
+code: angularfire geofire, angularfirebase.com, c:\Users\Folio\web\frontend\javascript\libraries\geofire-js\fireship.io  
+youtube: angularfire geofire, angularfirebase.com, "https://www.youtube.com/watch?time_continue=4&v=lO1S-FAcZU8"  
+site: ionic geolocation, https://ionicframework.com/docs/native/geolocation  
+site: ionic geolocation, https://www.djamware.com/post/5a48517280aca7059c142972/ionic-3-angular-5-firebase-and-google-maps-location-tracking  
+expert: ionic, djamware.com, C:\Users\Folio\web\mobile\ionic\djamware.com  
+site: ionic, djamware.com , https://www.djamware.com/post/5a48517280aca7059c142972/ionic-3-angular-5-firebase-and-google-maps-location-tracking  
+github: ionic, djamware.com, "https://github.com/didinj?utf8=%E2%9C%93&tab=repositories&q=ionic"  
+code: ionic simple chat, djamware.com, https://www.djamware.com/post/5a629d9880aca7059c142976/build-ionic-3-angular-5-and-firebase-simple-chat-app  
+github: ionic simple chat, djamware.com, https://github.com/didinj/ionic3-angular5-firebase-simple-chat  
+youtube: angularfire kaamal, D:\A10-projects\__learn\Angular\Angular-Fire\Kaamal-Posts-with-Image  
+work: c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\angularfirebase  
+work: c:\Users\Folio\web\frontend\javascript\libraries\geofire-rx\angularfirebase  
