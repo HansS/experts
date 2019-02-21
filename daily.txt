@@ -1012,3 +1012,40 @@ github: ionic simple chat, djamware.com, https://github.com/didinj/ionic3-angula
 youtube: angularfire kaamal, D:\A10-projects\__learn\Angular\Angular-Fire\Kaamal-Posts-with-Image  
 work: c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\angularfirebase  
 work: c:\Users\Folio\web\frontend\javascript\libraries\geofire-rx\angularfirebase  
+learn: geofire doc, https://github.com/firebase/geofire-js/blob/master/docs/reference.md  
+work: angularfire chat, https://angularfirebase.com/lessons/build-group-chat-with-firestore/  
+work: angularfire megachat, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\angularfirebase\angularfirebase-group-chat\firestore-group-chat  
+work: angularfire megachat videos, D:\A10-projects\__learn\Angular\Angular-Fire\AngularFirebase-Firestore-GroupChat\_videos  
+work: angularfire geolocation , https://www.djamware.com/post/5a48517280aca7059c142972/ionic-3-angular-5-firebase-and-google-maps-location-tracking  
+github: angularfire geolocation, https://github.com/didinj/ionic3-angular5-position-tracken.git  
+work: angularire simple chat, https://github.com/didin/ionic3-angular5-position-tracken.git  
+work: angularire simple chat, https://www.djamware.com/post/5a629d9880aca7059c142976/build-ionic-3-angular-5-and-firebase-simple-chat-app  
+github: ionic 3 simple chat, https://github.com/didinj/ionic3-angular5-firebase-simple-chat.git  
+youtube: advanced angular web apps, lars bilde, "https://www.youtube.com/watch?v=r5AU0LCLv9s&list=PL8jcXf-CLpxptJ2mE4xnVd5I0iSGnabEc"  
+youtube: advanced angular web apps, lars bilde, D:\A10-projects\__learn\Angular\Lars-Bilde-Angular-2019  
+github: ionic image loader, https://github.com/saimon24/ionic-image-loader  
+github: ionic image capture, https://github.com/saimon24/devdactic-ionic_image_capture  
+github: ionic firebase upload photos, https://github.com/DRIMTIM/image-upload  
+github: ionic awesome places, https://github.com/DRIMTIM/awesomePlaces.git  
+
+
+Mittwoch 15:29 20.02.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+code: ionic 4 social media app with uploadcare image cloud, C:\Users\Folio\web\mobile\ionic\codedamn-github\social-media-app-ionic4  
+learn: angular 7 material firestore, patrick schroeder, Angular 7 with Angular Material and Firebase Cloud Firestore  
+github: angular samples, techiediaries, https://github.com/techiediaries?tab=repositories  
+site: pusher chatkit, https://docs.pusher.com/chatkit  
+github: ionic 4 chatkit demo, techiediaries.com, https://github.com/techiediaries/chatkit-ionic-demo/tree/master/frontend  
+
+health: Barbara O'Neill, D:\A10-projects\__learn\Personal\_healty-eating\Barbara-ONeill-Health-Talks  
+health: health information, https://www.healthline.com/  
+
+Donnerstag 07:57 21.02.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+youtube: angular modules, loriane groner, https://github.com/loiane/angular-ngrx-example.git
+site: loiane groner,loiane.com, https://github.com/loiane  
+learn: angular ngrx, loiane groner, https://github.com/loiane/angular-ngrx-example  
+learn: serverless angular firebase, loiane groner,   
+learn: angular travis ci, loiane groner, https://github.com/loiane/angular-travisci-firebase  
+code: vscode ext angular ngrx ionic, loiane groner  
+learn: travis-ci, markus muehlberger tutsplus, D:\_downloads\TutsPlus - Continuous Integration Workflow  
