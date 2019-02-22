@@ -1049,3 +1049,9 @@ learn: serverless angular firebase, loiane groner,
 learn: angular travis ci, loiane groner, https://github.com/loiane/angular-travisci-firebase  
 code: vscode ext angular ngrx ionic, loiane groner  
 learn: travis-ci, markus muehlberger tutsplus, D:\_downloads\TutsPlus - Continuous Integration Workflow  
+
+Fr 06:07 22.02.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+health: barbara o'neill, D:\A10-projects\__learn\Personal\_healty-eating\Barbara-ONeill-Health-Talks
+github: firechat, https://github.com/FirebaseExtended/firechat.git  
+site: nestjs, https://medium.com/search?q=nestjs  
