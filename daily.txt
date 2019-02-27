@@ -1055,3 +1055,38 @@ Fr 06:07 22.02.2019
 health: barbara o'neill, D:\A10-projects\__learn\Personal\_healty-eating\Barbara-ONeill-Health-Talks
 github: firechat, https://github.com/FirebaseExtended/firechat.git  
 site: nestjs, https://medium.com/search?q=nestjs  
+
+Sa 04:42 23.02.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ionic: ionic 4 pwa, https://github.com/mbaljeetsingh/ionic4-angular-news-udemy.git
+ionic: ionic 4 pwa, https://www.udemy.com/ionic-4-build-pwa-and-mobile-apps-with-angular/?couponCode=NGIONIC4
+github: ionic image upload, https://github.com/didinj/ionic3-base64-image-upload.git  
+code: ionic team photo gallery app ionic 4, https://ionicframework.com/docs/developer-resources/guides/first-app-v4/intro/  
+site: ionic capacitar, https://blog.ionicframework.com/capacitor-in-2019-native-progressive-web-apps-for-all/  
+
+So 16:51 24.02.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+lean: angularfirebase chat, flavio oliveira, https://www.skillshare.com/classes/Angular-5-and-Firebase-Building-real-world-app-features/427576470?via=watch-history
+
+Mo 08:36 25.02.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+chat: angularfire chat app, flavio oliveira, udemy course, https://github.com/foli/ngFire-Course.git
+expert: ionic, raja yogan, http://tphangout.com/ionic-3-multiple-markers-on-maps-with-firestore-part-1/  
+css blue, #009de1 
+site: dokumente umwandeln, https://online-umwandeln.de/  
+expert: ionic, raja yogan,  
+expert: ionic, chris (james) griffiths, masteringionic.com  
+work: esmpost  
+site: firebase, esmpost  
+site: ionic pro, esmpost, ionic dev  
+work: ionic conference app, sample app,  C:\Users\Folio\web\mobile\ionic\ionic-team\ionic-conference-app  
+buy: ionic book, mastering ionic, chris griffiths, D:\A10-projects\__learn\Mobile\Ionic\james-griffiths   
+site: ionic desktop app pro, info@elishconsulting.com  
+
+Mi 09:23 27.02.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+expert: ngrx, eliran eliassy, https://github.com/eliraneliassy?tab=repositories
+ecds: ngrx, https://github.com/eliraneliassy/ngrx-metareducers-poc.git
+health: anti aging, david singlair, metmorfin,https://www.xtrapharm.ch/metformin-streuli.html  
+code: ionic google maps, https://github.com/daniellaera/ionic-app  
+learn: ionic capacitor, daniel laeroa, https://github.com/daniellaera/ionic-app  
