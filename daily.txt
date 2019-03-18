@@ -1090,3 +1090,31 @@ ecds: ngrx, https://github.com/eliraneliassy/ngrx-metareducers-poc.git
 health: anti aging, david singlair, metmorfin,https://www.xtrapharm.ch/metformin-streuli.html  
 code: ionic google maps, https://github.com/daniellaera/ionic-app  
 learn: ionic capacitor, daniel laeroa, https://github.com/daniellaera/ionic-app  
+
+Do 14:39 28.02.2019 - Schmutziger Donnerstag
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+expert: ionic 4, https://github.com/JamiBot
+youtube: jamibot, https://www.youtube.com/c/JamiBot
+health: okinawa diet  
+health: medmorphin, anti aging  
+learn:   
+learn: nx.dev, "https://www.youtube.com/watch?time_continue=4&v=XZpp52IqD2A"  
+
+Di 08:20 12.03.2019
+----------------------------------------------------------------------------------------------learn: angular one week course,c:\Users\Folio\web\frontend\javascript\frameworks\angular\rap-payne-angular-labs-one-week\AngularLabs  
+learn: angular one week course,c:\Users\Folio\web\frontend\javascript\frameworks\angular\rap-payne-angular-labs-one-week\AngularLabs  
+autobiografie, https://www.meet-my-life.net/ 
+learn: ngrx jesse sanders briebug, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\briebug-jesse-sanders  
+
+Mi 13:48 13.03.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+learn: schematics, Stanimira Vlaeva, https://github.com/sis0k0/schematics-samples.git
+learn: schematics Christoffer Noring
+
+Do 07:15 14.03.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fr 10:58 15.03.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+advanced typescript, todd motto
+s
