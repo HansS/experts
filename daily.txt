@@ -1150,3 +1150,14 @@ Mi 12:37 27.03.2019
 rxjs, michael hladky, ngindia, youtube
 angular routes, deborah kurata, updated to angular 7
 speakers and presentations of ng-my.org, july 2019, kualalumpur
+
+Fr 15:04 29.03.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+frontendmasters typescript course with mike north, D:\_downloads\TypeScript Fundamentals\1. TypeScript
+
+Di 12:26 02.04.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+loiane groner, angular serverless with firebase, ionic3, ngrx angular firebase, vs code tips, angular best practices
+loiane groner, generic crudservice,
+learn: cloud, kumulus, robert starmer  
+learn: kumulus, https://learn.kumul.us/courses/take/ccb-010-NIST-cloud-computing-basics/lessons/3729258-lecture-1-the-official-us-nist-definition-of-cloud-computing  
