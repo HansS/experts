@@ -1161,3 +1161,25 @@ loiane groner, angular serverless with firebase, ionic3, ngrx angular firebase, 
 loiane groner, generic crudservice,
 learn: cloud, kumulus, robert starmer  
 learn: kumulus, https://learn.kumul.us/courses/take/ccb-010-NIST-cloud-computing-basics/lessons/3729258-lecture-1-the-official-us-nist-definition-of-cloud-computing  
+
+Mi 08:49 03.04.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+victor savkin, nx workflow (vscode, angular console extension
+nx tools: cypress, jest, nestjs, prettier 
+book: nx enterprise   
+youtube: nx ngrx  
+learn: ngrx, oscar lagatte  
+Katerina Skroumpelou,firebase expert, https://github.com/mandarini/chat-workshop-docs.git 
+Katerina Skroumpelou blog, https://psyber.city/ 
+tomas trajan, angular schematics expert, https://medium.com/@tomastrajan/%EF%B8%8F-how-to-create-your-first-custom-angular-schematics-with-ease-%EF%B8%8F-bca859f3055d 
+angular fire chat app, katarina skroumpelou, C:\Users\Folio\Katerina-Skroumpelou-Fb-Team\love 
+learn: nestjs, jestjs, cypress, nx  book, firebase, angular/fire, material, ngrx, angular schemaatics  
+learn: nrwl airline nx, c:\Users\Folio\web\frontend\javascript\frameworks\angular-nx\nrwl-airline  
+learn: nrwl airline nx, angular enterprise book victor savkin, E:\A10-projects\__learn\Nrwl-Nx  
+nx tutorial, https://nx.dev/tutorial/01-create-application 
+
+Do 09:50 04.04.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+jamibot, yt . firestore angularfire, https://github.com/JamiBot
+youtube: jamibot, ytl, https://www.youtube.com/channel/UCXThdhZ3YunQJMx91EXAV4A/playlists  
+yt ngrx brandon roberts, https://www.youtube.com/channel/UClb3aBqsBD_srhaSGTAEq-Q 
