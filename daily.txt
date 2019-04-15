@@ -1183,3 +1183,51 @@ Do 09:50 04.04.2019
 jamibot, yt . firestore angularfire, https://github.com/JamiBot
 youtube: jamibot, ytl, https://www.youtube.com/channel/UCXThdhZ3YunQJMx91EXAV4A/playlists  
 yt ngrx brandon roberts, https://www.youtube.com/channel/UClb3aBqsBD_srhaSGTAEq-Q 
+
+Fr 10:37 05.04.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx expert, https://github.com/eliraneliassy/bmc-course-project
+rainer stropek, angular basic course on htl, https://github.com/rstropek/htl-mobile-computing 
+ngrx articles, chris norring, https://dev.to/softchris 
+
+Mo 11:53 08.04.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx, gerard sans, chris  norring, josh morony, deborah kurata, tomas trajan, alain chautard, loiane groner
+ngrx duncan hunter, eliran eliassy, lukas ruebbelke 
+ngrx angularfirebase, https://github.com/AngularFirebase/60-ngrx-entity-demo 
+
+Di 15:32 09.04.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx nestjs expert, Aslan Vatsaev, https://github.com/avatsaev/angular-contacts-app-example.git
+ngrx article, ngrx best practices, wes grimes, iitnext, https://wesleygrimes.com/angular/2018/05/30/ngrx-best-practices-for-enterprise-angular-applications.html 
+install: npm desktop manager 
+
+Mi 11:58 10.04.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs practical, angular university,
+rxjs learn, brian troncone, https://github.com/btroncone/learn-rxjs.git
+rxjs learn, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\brian-troncone
+rxjs in practice, angular-university, E:\A10-projects\__learn\Rxjs\Angular-University-RxJs-in-Practice 
+learn rxjs, kwinten pisman, ytl, E:\A10-projects\__learn\Rxjs\Kwinten-Pisman-RxJs-Intro 
+learn rxjs strongbrew online course, https://blog.strongbrew.io/build-the-operators-from-rxjs-from-scratch/?lectureId=intro#app 
+nx sample, kwinten pisman, c:\Users\Folio\web\frontend\javascript\frameworks\angular-nx\kwinten-pisman 
+rxjs new site, https://rxjs.dev/ 
+learn rxjs pdf, file:///E:/A10-projects/__learn/Rxjs/learn-rxjs.pdf 
+rxjs operators, daniel stern, udemy, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\daniel-stern 
+ngrx entity feature sample, angularfirebase, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\angularfirebase\ngrx-entity-state-changes 
+
+Do 10:13 11.04.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx getting started, deborah kurata, E:\_downloads\Pluralsight  Angular NgRx - Getting Started\04. First Look at NgRx
+kwinten pisman, rxjs learn, https://blog.strongbrew.io/build-the-operators-from-rxjs-from-scratch/?lectureId=intro#app 
+rxjs expert, Milosz Piechocki, https://github.com/miloszpp/reactive-bands 
+rxjs expert, milosz piechocki, reactive bands project, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\Milosz-Piechocki-Reactive-Bands-YTL\reactive-bands 
+
+Fr 14:09 12.04.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs, Niklas Wortmann
+rxjs, Hannah Howard,
+rxjs, Nicholas Jamieson
+nrwl nx, isaac mann
+rxjs, matthias meier 
+intermittent fasting walter longo, https://www.l-nutra.com/ 
