@@ -1231,3 +1231,73 @@ rxjs, Nicholas Jamieson
 nrwl nx, isaac mann
 rxjs, matthias meier 
 intermittent fasting walter longo, https://www.l-nutra.com/ 
+
+MO 15:27 15.04.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+nrwl nx, jason jean presentation at rangle.io
+rangle.io, augury labs (new install via npm)
+angular 7 tutorial, techiediaries.com 
+angular routing, techiediaries.com, c:\Users\Folio\web\frontend\javascript\frameworks\angular\techiediaries-blog 
+nx tutorial, https://nx.dev/tutorial/03-display-todos 
+udemy ngrx course , entity 
+
+Di 11:33 16.04.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+nestjs, nest-commerce, kelvin mai, 
+nestjs, new yt
+
+Mi 12:08 17.04.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx kelvin mai, 
+
+Do 15:34 18.04.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+javascript testing: jest for unit testing and integration testing
+javscript teseting: end2end with google puppeteer
+academind, javascript testing intro
+traversymedia, jest crash course
+angular auth jwt, E:\A10-projects\__learn\Angular\Angular-Auth-Jwt-BahdCasts 
+
+Mo 14:07 22.04.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx entity
+
+Di 11:41 23.04.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx docs, ngrx.io
+
+Mi 14:27 24.04.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx udemy angular-university
+ngrx snippets vs code
+
+Do 12:06 25.04.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx udemy
+
+Fr 11:40 26.04.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+philipp burgmer, thecodecampus.de, https://github.com/theCodeCampus/workshop-angular-up-to-date.git, 2019-04
+philip burgmer, typescript expert
+
+Sa 12:16 27.04.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular schematics,  manfred steyer
+angular-crud, github, manfred steyer
+london marathon live, https://www.bbc.co.uk/programmes/p00r01np
+
+Mo 15:04 29.04.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+keto experte, daniel pugge auf yt, https://www.youtube.com/watch?v=P-f-zU2p400
+ngrx advanced, jesse sanders
+ngrx 8, alex okroschenko, firebase console pm, ngrx contributor
+keto messgerät von daniel pugge, https://www.amazon.de/gp/product/B07FJL8XZC
+
+ngrx expert, alex okrushko, https://blog.angularindepth.com/@alex.okrushko 
+currex sole runpro 
+scholl gel sohle sport, ochsner-sport 
+
+Do 14:11 02.05.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngconf: day 2 17:00 - 19:00
+ngrx version 8
