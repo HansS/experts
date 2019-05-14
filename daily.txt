@@ -1301,3 +1301,56 @@ Do 14:11 02.05.2019
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ngconf: day 2 17:00 - 19:00
 ngrx version 8
+
+Sa 09:51 04.05.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx workshop , mike ryan brandon roberts. may 2017 salt lake city
+typescript 3 practical guide, http://sd-edge.org/tutorials/682657-typescript-30-a-practical-guide.html 
+
+So 09:00 05.05.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs tutorial, kwinten pisman, https://www.learnrxjs.io/operators/transformation/switchmap.html 
+
+MO 09:44 06.05.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx tutorial, thomas burleson, https://github.com/ThomasBurleson/ngrx-ticket-management.git
+ngrx video, ngconf 2019, thomas burleson
+ngrx sample, thomas burleson, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\thomas-burleson\contact-manager 
+faltbare leki stoecke 60.-, "https://www.outdoortrends.de/camp-xenon-trekking-faltstock.html?number=CA.262601&odt_outside_eu=1&gclid=Cj0KCQjwtr_mBRDeARIsALfBZA4wc4fd545iTspc5YMhzZkYzZXf4I7FLIR0BMSWFa05Zd-H8wt3Lm0aAq2DEALw_wcB#" 
+leki teleskop, https://www.tutti.ch/de/vi/thurgau/sport-outdoor/sonstige-sportarten/neue-leki-nordic-walking-stoecke-teleskop/27890685 
+
+Di 11:25 07.05.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngconf 2019, capitalone monorepo james henry, jameshenryblog, sample github.com/MikeHaas763/ngconf
+
+Mi 12:11 08.05.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+nrwl connect, email invitation
+nrwl connect app, https://connect.nrwl.io/app
+
+Do 14:16 09.05.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs tutorial, bitovi, https://www.bitovi.com/academy/learn-rxjs.html
+rxjs learnings:kwinten pisman, andre saltz (egghead 2017) introtorxjs.com, bitovi rxjs, learnrx.io, ultimateangular (end of 2019), angular-university (udemy), strongbrew.io blog
+
+Sa 11:16 11.05.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+nestjs tutorial, https://www.youtube.com/playlist?list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL
+sngrx sample mike ryan 2019.05, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\mike-ryan-ngrx-team\fluffy-memory 
+typescript presentation, fullstack typescript, build 2019 , loiane groner
+
+So 14:12 12.05.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs presentation, ben lesh, news feed with auto refresh, https://github.com/benlesh/add-features-with-rxjs.git
+rxjs news sample, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\ben-lesh\add-features-with-rxjs 
+
+Mo 11:30 13.05.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs presentation, kwinten pisman and dominic elm, uphillconf 2019, https://github.com/KwintenP/rxjs-recipes-talk.git, youtube: https://www.youtube.com/watch?v=W8T3eqUEOSI
+
+rxjs advanced caching, dominic elm, https://www.youtube.com/watch?v=j7Gb1qw23ks 
+rxjs expert seth house, https://www.youtube.com/watch?v=hkVq7u94Vzw 
+rxjs blod, advanced caching, thoughtram dominic elm, https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html 
+rxjs blog, streams of data not streams of actions (ngrx!!!), https://blog.strongbrew.io/the-sip-principle/ 
+rxjs patterns, google search on strongbrew.io, "https://www.google.com/search?newwindow=1&rlz=1C1SQJL_deCH806CH806&ei=ConZXN-0K_HhmwXy9Y7QAw&q=site%3A+strongbrew.io+rxjs+patterns&oq=site%3A+strongbrew.io+rxjs+patterns&gs_l=psy-ab.3..35i39.2532.20081..20750...2.0..2.109.3811.39j5......0....1..gws-wiz.....6..0i71j0i10j0i30j0i10i30j0j0i131j0i203j0i10i203j0i22i30j35i304i39j0i19j0i13i30i19j0i13i5i30i19j0i22i30i19.7sdODhYClhk" 
+rxjs operators video kwinten pisman, https://github.com/KwintenP/rxjs-operators-from-scratch.git 
