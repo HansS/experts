@@ -1350,7 +1350,29 @@ rxjs presentation, kwinten pisman and dominic elm, uphillconf 2019, https://gith
 
 rxjs advanced caching, dominic elm, https://www.youtube.com/watch?v=j7Gb1qw23ks 
 rxjs expert seth house, https://www.youtube.com/watch?v=hkVq7u94Vzw 
-rxjs blod, advanced caching, thoughtram dominic elm, https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html 
+rxjs blog, advanced caching, thoughtram dominic elm, https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html 
 rxjs blog, streams of data not streams of actions (ngrx!!!), https://blog.strongbrew.io/the-sip-principle/ 
 rxjs patterns, google search on strongbrew.io, "https://www.google.com/search?newwindow=1&rlz=1C1SQJL_deCH806CH806&ei=ConZXN-0K_HhmwXy9Y7QAw&q=site%3A+strongbrew.io+rxjs+patterns&oq=site%3A+strongbrew.io+rxjs+patterns&gs_l=psy-ab.3..35i39.2532.20081..20750...2.0..2.109.3811.39j5......0....1..gws-wiz.....6..0i71j0i10j0i30j0i10i30j0j0i131j0i203j0i10i203j0i22i30j35i304i39j0i19j0i13i30i19j0i13i5i30i19j0i22i30i19.7sdODhYClhk" 
 rxjs operators video kwinten pisman, https://github.com/KwintenP/rxjs-operators-from-scratch.git 
+
+Di 14:34 14.05.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+sadhguru on krishnamurti
+krishnamurti on "Is it possible to live a honest life"
+integrity means wholeness, clarity, no corruption, no illusions, be in medidative state, where there is not constant action
+typescript path mapping, alain chautard, https://blog.angulartraining.com/path-mapping-with-typescript-cac16d12c416?__s=biu6ii8afat6fhota1sc 
+
+Do 11:16 16.05.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs in angular, stephen fluin devox2017
+angular sample stephen fluin, https://github.com/StephenFluin/baby-log.git
+garmin fenix 3 hr saphir, https://www.tutti.ch/de/vi/basel/sport-outdoor/sonstige-sportarten/garmin-fenix-3-hr-saphir/27674123 
+rxjs guide to higher order mapping operators, https://blog.angular-university.io/rxjs-higher-order-mapping/ 
+egghead advanced operators, andre staltz 
+rxjs static vs instance operators 
+rxjs value observable vs higher order observables 
+rxjs higher order observables replacing nested subscriptions which is a bad pattern 
+rxjs in practice udemy course, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\angular-university-udemy\rxjs-course 
+
+Fr 14:54 17.05.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
