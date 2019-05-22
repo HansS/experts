@@ -1405,3 +1405,21 @@ aslan vatsaev, nestjs angular pwa, C:\Users\Folio\web\backend\nest\aslan-vatsaje
 michael hladky, solid statemanagement in angular 
 kim maida, rxjs state management in angular , c:\Users\Folio\web\frontend\javascript\frameworks\angular-state\kim-maida-ngconf-2019
 ngrx new action creators, https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da 
+
+Mi 09:05 22.05.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+türkische küche, https://www.youtube.com/user/AhmetKocht
+indische küche, https://www.youtube.com/channel/UCPnAy7LJpbvgzeuIr8xleDg
+learn rx with brian troncone, https://gist.github.com/btroncone/a6e4347326749f938510 
+node ts chat server, james wright, C:\Users\Folio\web\backend\node\james-wright-chat-server 
+endurance, the hybrid athelete, https://www.jtsstrength.com/product/the-hybrid-athlete/ 
+js lib, fast-clone, https://github.com/codeandcats/fast-clone 
+rxjs state, dan wahlin, observable-stor, https://github.com/DanWahlin/Observable-Store 
+angular login and register sample, https://github.com/cornflourblue/angular-7-registration-login-example 
+rxjs workshop, ngconf 2018, ward bell, https://github.com/wardbell/rxjs-in-ng-workshop.git 
+rxjs workshop ward bell github repo, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\ward-bell-ngconf-2018-workshop\rxjs-in-ng-workshop 
+egghead downloads, E:\_downloads\egghead 
+rxjs essentials with yakov fain, E:\A10-projects\__learn\Rxjs\Rxjs-Essentials-Yakov-Fain 
+rxjs playground, https://rxjs-playground.github.io/#/ 
+rxjs reactive-how, https://reactive.how/ 
+ultra training, https://www.sagerunning.com/ 
