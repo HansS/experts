@@ -1376,3 +1376,32 @@ rxjs in practice udemy course, c:\Users\Folio\web\frontend\javascript\libraries\
 
 Fr 14:54 17.05.2019
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sa 13:06 18.05.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+sauna oberbuchsiten, http://www.club-olymp.ch/price.html
+18.06.2019 14:00 - 16:00 2std rudern auf zugersee, https://do.sportloop.ch/OfferingPreviewCourse/OfferingPreview_Course?offeringId=985bc8a0-5bc1-48ac-a08d-6dada6b6b8f5 
+"Stocklauftraining auf das Weissfluhjoch mit Roman Furger, Jason RÅesch & Roman Schaad, 23.07.2019 15 - 18:00" 
+wim hof methode, 30x tief ein und aus, rund, nach 30 tief ein und atem anhalten, 5 runden ca 30min tÑglich 
+sportloop sporthilfe angebote fÅr 5o,. Mitglied, rudern, biathlon, stocklauftraining gratis 
+
+So 16:16 19.05.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+health, The 4 Pillar Plan: Sleep, Eat, Move, Relax, https://drchatterjee.com/rainbow-chart/
+neurogenesis: growing new neurons in hipocampos
+
+Mo 13:23 20.05.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wim hof, 5x30 + 1
+wim hof, joe rogan yt interview,
+rxjs, kwinten pisman + dominic elm , https://www.youtube.com/watch?v=W8T3eqUEOSI&t=1s
+ rxjs presentation, jeremy fairbank, "https://www.youtube.com/watch?v=42nYg3Q1_0k&t=3349s" 
+
+
+Di 14:22 21.05.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aslan Vatsaev,nestjs expert, https://github.com/avatsaev?tab=repositories 
+aslan vatsaev, nestjs angular pwa, C:\Users\Folio\web\backend\nest\aslan-vatsajev
+michael hladky, solid statemanagement in angular 
+kim maida, rxjs state management in angular , c:\Users\Folio\web\frontend\javascript\frameworks\angular-state\kim-maida-ngconf-2019
+ngrx new action creators, https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da 
