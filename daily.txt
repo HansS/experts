@@ -1423,3 +1423,12 @@ rxjs essentials with yakov fain, E:\A10-projects\__learn\Rxjs\Rxjs-Essentials-Ya
 rxjs playground, https://rxjs-playground.github.io/#/ 
 rxjs reactive-how, https://reactive.how/ 
 ultra training, https://www.sagerunning.com/ 
+
+Do 09:29 23.05.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+natürlich gesund, https://www.youtube.com/channel/UC3vtDdPc61Y4KyM5njdc1DQ/videos
+rxjs sample operators, sander elias, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\sander-elias-ng-berlin 
+
+Fr 10:45 24.05.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+learn to learn, barabara oakley, coursera, https://www.coursera.org/learn/learning-how-to-learn/lecture/75EsZ/introduction-to-the-focused-and-diffuse-modes
