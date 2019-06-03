@@ -1432,3 +1432,79 @@ rxjs sample operators, sander elias, c:\Users\Folio\web\frontend\javascript\libr
 Fr 10:45 24.05.2019
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 learn to learn, barabara oakley, coursera, https://www.coursera.org/learn/learning-how-to-learn/lecture/75EsZ/introduction-to-the-focused-and-diffuse-modes
+yoga expert, Pandit Rajmani Tigunait, himalayaninstitute.org 
+secret of yoga sutras, https://www.amazon.de/Secret-Yoga-Sutra-Samadhi-Pada/dp/0893892777 
+swami krishnananda, https://www.swami-krishnananda.org/vision/vision_1.html 
+rxjs talk, alex rickabaugh, google team, "https://www.youtube.com/watch?v=9A-vM95I3UU&feature=em-comments" 
+ngrx course, paul halliday, https://developer.school/posts/introduction-to-ngrx-store/ 
+ngrx course, paul halliday, github repo, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\paul-halliday\introduction-to-ngrx-store 
+free access from 24.05 to 31.05.2019, egghead.io 
+zatto gutschein-code: PRA7Y3FN356445 
+
+Sa 11:20 25.05.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs higher order components course, andre statlz egghead.io,
+angular pro components, udemy, enrique oriol
+ angular advanced components github repo, enrique oriol, udemy course,  c:\Users\Folio\web\frontend\javascript\frameworks\angular\enrique-oriol-udemy\AngularComponentsAdvanced 
+rxsjs pro course, udemy.com, https://www.udemy.com/rxjs-nivel-pro/ 
+
+Mo 10:45 27.05.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs expert, Wojciech Trawinski, youtube, https://www.youtube.com/watch?v=s0KreKg23sw
+rxjs expert, Wojciech Trawinski, medium, https://medium.com/@wojtrawi
+rxjs expert, Wojciech Trawinski, github; https://github.com/wojtrawi
+
+rxjs hands on course, Oleksandr Poshtaruk, https://github.com/PacktPublishing/Hands-on-RxJS-for-Web-development 
+
+Di 08:47 28.05.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs workshop andre staltz, https://github.com/staltz/uphill-rxjs-workshop.git 
+guide to rxjs, andre staltz, https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 
+d-ribose, https://www.ketoshop.ch/collections/supplements/products/d-ribose-pulver-100-geschmacksneutral-500g 
+
+Do 14:22 30.05.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+tomasz ducin, typescript static typing expert, functional programmer, https://github.com/ducin/playing-with-ngrx.git
+marblejs, node web framework based on rxjs and typescript, jozek flakus
+ngrx sample, tomasz ducin, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\tomasz-ducin-typescript-static-typing\playing-with-ngrx
+tomasz ducin, github repos, https://github.com/ducin 
+learn typescript, yt tutorial , sharun tarma, https://www.youtube.com/playlist?list=PLIGDNOJWiL19yoowEtDCOrENRBHH3qLty 
+learn typescript, yt program-artist, https://www.youtube.com/playlist?list=PLtm06noQc9vmfoC4U0w90HTIRzpVKeXlC 
+typescript repo for program-artist, https://github.com/slavik57/typescript-playground 
+rxjs ping pong sample, https://www.youtube.com/watch?v=vS1-jzngpmw 
+
+Fr 11:41 31.05.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+letztes Training vor dem 100km
+hsrw.eu, yt videos spa, https://www.youtube.com/watch?v=-Qd_3ctJ8Yc&t=18s
+learn javascript concepts, https://www.youtube.com/playlist?list=PLTo9PCskHpbGD8irDinu1x0Bn49Beo6eg
+
+So 08:01 02.06.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+elektronik entsorgung, https://marco-entsorgung.ch/
+hochschule sommerkurs web programmierung,https://www.youtube.com/playlist?list=PLdmCcVrtplOxBVjFPrnM2IMHC-qX9jid9 
+mitochondria expert, dr lee know, http://leeknow.weebly.com/ 
+
+
+Mo 07:27 03.06.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+functional javascript expert, reginald braithwaite,https://www.youtube.com/watch?v=3t75HPU2c44 
+functional javascript expert, michael rosata, onethingsimple.com
+functional javascript expert, eric elliott, book: Composing Software 2019
+functional javascript expert, christian johansen, leanpub course paid
+functional javascript expert, professor frisby, brian lonsdorf
+functional javascript expert, brian lonsdord
+functional javascript expert, joe nelson with brian lonsdorf on frontendmasters.com
+functional javascript expert, bianca giandolfo
+functional javascript expert, eric elliott, book - Composing Software - E:\_downloads\Elliot E. - Composing Software - 2019 
+elm for beginners, https://courses.knowthen.com/courses/enrolled/86520 
+functional concepts in ramda, https://courses.knowthen.com/courses/enrolled/453979 
+functional programing in javascript for beginners, E:\_downloads\functional-programming-beginners-javascript 
+reactive programming in angualar and ngrx, E:\_downloads 
+Composing Software, book, eric elliott, E:\_downloads\Elliot E. - Composing Software - 2019 
+functional reactive programming, book, E:\_downloads 
+mastering functional libraries, E:\_downloads\Lynda - Mastering Functional JavaScript Libraries 
+learning functional programming, packtpub course, E:\_downloads\Packtpub - Learning Functional JavaScript 
+hardcore functional programming, pluralsight, brian lonsdorf, E:\_downloads\Pluralsight - Hardcore Functional Programming in JavaScript 
+professor frisby functional programmming, brian lonsdord, E:\_downloads\Professor Frisby Introduces Composable Functional JavaScript 
+reactive programming with rxjs, book, E:\_downloads 
