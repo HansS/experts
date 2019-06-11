@@ -6,7 +6,7 @@ npm install @ngrx/schematics --save-dev &&   @ngrx/schematics
 
 root store and app.effects:	
 ----------------------------
-ng g store Store --state-path store --root --state-interface AppState -m app && ng g effect App --root --m app
+ng g store Store --state-path store --root --state-interface AppState -m app
 ng g effect App --root --m app.module.ts
 
 angular feature module: ngm <modulename in singular>
