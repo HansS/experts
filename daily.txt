@@ -1564,3 +1564,26 @@ alex okrushko, ngrx workshop,  c:\Users\Folio\web\frontend\javascript\frameworks
 alex okrushko, ngrx articles on angularindepth.com, https://blog.angularindepth.com/@alex.okrushko 
 beginning functional js, E:\_downloads\functional-programming-beginners-javascript 
 elm for beginners, free video course, courses.knowthen.com 
+
+Mi 09:24 12.06.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+user stories, bdd, https://revelry.co/behavior-driven-development-bdd/?__s=doo7ezjwfa5guppyospt&utm_source=drip&utm_medium=email&utm_campaign=June+2019+%E2%80%94+UI+Monthly+Digest
+better user stories, https://revelry.co/better-user-stories/
+lean agile process, https://revelry.co/lean-agile/#projects
+how to write user stories, https://www.freecodecamp.org/news/how-and-why-to-write-great-user-stories-f5a110668246/?__s=doo7ezjwfa5guppyospt&utm_source=drip&utm_medium=email&utm_campaign=June+2019+%E2%80%94+UI+Monthly+Digest
+angular programming challenge, https://medium.com/upstate-interactive/programming-challenges-a-system-for-vetting-job-candidates-20fe7dae1612
+paul halliday, free angular 8 course with ngrx, https://www.youtube.com/watch?v=OcwwahqeASw
+paul halliday, angular 8 course on blog, https://developer.school/posts/introduction-to-ngrx-store/
+paul halliday, developer-school, https://github.com/developer-school/introduction-to-ngrx-store 
+fireship.io, 5 new features of angularfire, "https://www.youtube.com/watch?v=KkNpEDU5RMA&feature=em-uploademail" 
+ngrx nestjs, aslan vatsaev, https://github.com/avatsaev/angular-contacts-app-example.git 
+microsoft typescript blog, https://devblogs.microsoft.com/typescript/announcing-typescript-3-5/ 
+
+Do 07:32 13.06.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular firebase, school management system, https://www.youtube.com/playlist?list=PLp0TENYyY8lHnfxOOzZ_hTnPF8Hh3eKDo
+angular firebase, school management system,,https://github.com/AmitXShukla/Online-School-Management-App-Angular-Firebase
+angular expert, amit shukla, https://github.com/AmitXShukla?tab=repositories 
+ngrx course, christopher noring, packtpub, may 2019 
+ngrx course, christopher noring, packtpub, may 2019, https://www.packtpub.com/web-development/architecting-reactive-angular-applications-redux-and-ngrx-video#tab-label-table.of.contents 
+redux architecture talk, code your own store, todd motto, ngpoland 2017, https://www.youtube.com/watch?v=6Z-1v1UnoM8 
