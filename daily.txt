@@ -1587,3 +1587,58 @@ angular expert, amit shukla, https://github.com/AmitXShukla?tab=repositories
 ngrx course, christopher noring, packtpub, may 2019 
 ngrx course, christopher noring, packtpub, may 2019, https://www.packtpub.com/web-development/architecting-reactive-angular-applications-redux-and-ngrx-video#tab-label-table.of.contents 
 redux architecture talk, code your own store, todd motto, ngpoland 2017, https://www.youtube.com/watch?v=6Z-1v1UnoM8 
+faltbare trekking st”cke, "https://www.ebay.ch/itm/122310133879?format=1&hlpv=1&cond=1" 
+
+Fr 09:33 14.06.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular reactive forms, oasis digital, andrew wiens, https://github.com/AngularBootCamp/reactive-forms.git
+angular reactive forms, oasis digital, andrew wiens, https://www.youtube.com/watch?v=-M0CVXN2C_o
+react redux course free, wes bos, https://courses.wesbos.com/account/access/5d03566b85f96c03c1e49669 
+js code your own redux store, "https://www.youtube.com/watch?v=6Z-1v1UnoM8&t=1568s" 
+cross skate shop, http://www.cross-skate-shop.com/ 
+http://www.cross-skating.de/ 
+simple redux store, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\todd-motto-simple-redux-store 
+js state management caleb oki, https://blog.logrocket.com/state-management-pattern-in-javascript-sharing-data-across-components-f4420581f535/ 
+js state management, https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/ 
+redux state management explained, "https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt" 
+redux tutorial yt, https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt 
+flux from scratch 
+do it yourself state management in js, https://itnext.io/do-it-yourself-client-side-state-management-part-2-f1767b5bfc9b 
+handstand school, https://calisthenics.school/shop/ 
+rennrad in deutschland kaufen , https://www.fahrrad-xxl.de/ 
+
+Sa 10:12 15.06.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+getchev, angular performance
+brian love, rxjs intro
+angular enterprise, duncan hunter, https://duncanhunter.gitbook.io/enterprise-angular-applications-with-ngrx-and-nx/introduction/introduction
+
+kindle trial 15.07. 9 pro monat 
+static typing with typescript, tomas ducin, https://www.youtube.com/watch?v=IgF44Qz9OpM 
+rxjs, andre staltz creates the basic rxjs library, E:\A10-projects\__learn\Rxjs\Andre-Staltz-Create-your-own-RxJs-2016 
+netanel basal, explains rxjs architecture, https://github.com/NetanelBasal?tab=repositories 
+netanel basal, explains rxjs architecture, https://netbasal.com/whos-afraid-of-observables-bde0dc4f48cc 
+simple state management, http://meiosis.js.org/tutorial/toc.html 
+meiosis presentation, yt video, https://www.youtube.com/watch?v=KJSM2uFDzDY 
+meiosis documentation, https://meiosis.js.org/docs/toc.html 
+
+So 08:23 16.06.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+meiosis: reactive loop and stream of functions
+meiosis setup: https://www.youtube.com/watch?v=-2KDYMmrTtc
+rxjs articles, freecodecamp, https://www.freecodecamp.org/news/tag/reactive-programming/ 
+rxstate on npm, https://www.npmjs.com/package/rxstate 
+
+Mo 10:35 17.06.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+javascript state management, andy bell, css trick, https://github.com/andybelldesign/vanilla-js-state-management.git
+js state, https://blog.cloudboost.io/a-concise-and-powerful-state-management-library-iflow-44de13953bfc 
+js proxy, https://developers.google.com/web/updates/2016/02/es2015-proxies 
+js proxy, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy 
+js proxy in angular ,oren farhi, http://orizens.com/wp/topics/decluttering-angular-components-the-proxy-pattern/ 
+js proxy in angular ,oren farhi, https://github.com/orizens/echoes-player/tree/master/src/app/containers/playlist-view 
+fullstack developer israel, tikal,https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A/playlists 
+karte schweiz online, https://map.schweizmobil.ch 
+js proxies, eirik vullum, yt 
+state with js proxies, Michel Weststrate, "https://www.youtube.com/watch?v=FKRVDfpQ9cw&list=PLw5h0DiJ-9PAe85c63OaepziEWIji8iX_&index=5&t=0s" 
+js state library immer, http://immer-react-next-2018.surge.sh/ 
