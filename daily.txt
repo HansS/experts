@@ -1642,3 +1642,13 @@ karte schweiz online, https://map.schweizmobil.ch
 js proxies, eirik vullum, yt 
 state with js proxies, Michel Weststrate, "https://www.youtube.com/watch?v=FKRVDfpQ9cw&list=PLw5h0DiJ-9PAe85c63OaepziEWIji8iX_&index=5&t=0s" 
 js state library immer, http://immer-react-next-2018.surge.sh/ 
+ozon therapy, 500mg Ozongenerator zur Wasseraufbereitung 
+ozon terapie, https://www.aerobic-oxygen.ch/ 
+ozon generator, "https://www.amazon.de/Generator-Ozongenerator-Gem%C3%BCse-Sterilisator-Ozon-Wasser-Entgiftung/dp/B07GTCWNX8/ref=sr_1_2_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Urteilchen+Ozon-Generator&qid=1560790385&s=gateway&sr=8-2-spons&psc=1" 
+
+Di 10:54 18.06.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs state management, christian nwamba, telerik, https://github.com/christiannwamba/notes-app.git
+rxjs state management, christian nwamba, telerik blog post, https://www.telerik.com/blogs/managing-state-using-rxjs-subjects-in-angular-applications
+rxjs state management, christian nwamba, telerik, github, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\christian-nwamba-telerik\notes-app 
+eat an avocado and an apple a day 
