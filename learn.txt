@@ -1,20 +1,27 @@
-kayakalpa, long living, https://learn.kayakalpayoga.com/courses/enrolled/430454
-learn kayakalpa, https://learn.kayakalpayoga.com/courses/enrolled/430454
-learn: D:\A10-projects\angular-af2-firestore\Firestore-Quiz-App-Github-Codaffection
-learn: skillshare bootstrap 4, https://github.com/KhanradCoder/Learn-Bootstrap.git
-learn: ionic 4 master course, https://github.com/codediodeio/ionic4-master-course 
-learn: oleksandr poshtaruk, hands-on rxjs in web dev, https://www.packtpub.com/web-development/hands-rxjs-web-development-video
-learn: https://github.com/PacktPublishing/Hands-on-RxJS-for-Web-development.git, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\packtpub\Hands-on-RxJS-for-Web-development
-learn: https://github.com/PacktPublishing/Advanced-TypeScript-3-Programming-Projects.git, c:\Users\Folio\web\frontend\typescript\packtpub\Advanced-TypeScript-3-Programming-Projects
-learn: joris hermans, node mongo typescript expert, https://www.packtpub.com/application-development/web-development-nodejs-mongodb-and-express-video
-learn: skillshare typescript mastercourse angular-university 
-learn: firebase angular material, https://ajonp.com/ 
-learn: angular flex-layout wiki, https://github.com/angular/flex-layout/wiki 
-learn: bash advanced skripting,  C:\Users\Folio\tools\bash\cameron-nokes-egghead\advanced-bash-automation-for-web-developers 
-learn: angular 7 workshop with nrwl schematics and material, c:\Users\Folio\web\frontend\javascript\frameworks\angular\lukas-ruebbelke-frontendmasters\angular-core-workshop 
-learn: ngrx lukas rubbelke 2019, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\lukas-ruebbelke-frontendmasters\angular-reactive-workshop 
-learn: angular material sidenav, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\angular6-sidenav-example 
-learn: angular material lynda, carrots website, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\robby-millsap-lynda\carrots 
-learn: angular material, https://ajonp.com/lessons/10-angular-material-theming/ 
-learn: ionic capacitar, https://bracketsacademy.com/2018/12/26/capacitor-and-ionic-integration/#more 
-learn: codedam, ionic social app, C:\Users\Folio\web\mobile\ionic\codedam\social-media-app-ionic4 
+
+functional programming, functional programing in javascript for beginners, code, 
+functional programming, functional programing in javascript for beginners, videos, E:\_downloads\functional-programming-beginners-javascript
+
+flux architecture, architecture of angular apps, christopher noring, book, file:///E:/A10-projects/__learn/Angular/Angular-Enterprise/angular-redux-chris-noring/architecting-angular-applications-redux.epub
+flux architecture, architecture of angular apps, christopher noring, clone, E:\A10-projects\__learn\Angular\Angular-Enterprise\angular-redux-chris-noring\_code\Architecting-AngularApplicationswithReduxRxJSandNgRx
+
+rxjs hands on web,videos, oleksandr poshtaruk, E:\A10-projects\__learn\Rxjs\Hands-On-RxJs-Packtpub
+rxjs hands on web, packtpub, https://www.packtpub.com/web-development/hands-rxjs-web-development-video
+
+rxjs hands on web,github, https://github.com/PacktPublishing/Hands-on-RxJS-for-Web-development.git, 
+rxjs hands on web,clone, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\packtpub\Hands-on-RxJS-for-Web-development
+E:\A10-projects\__learn\Rxjs\Hands-On-RxJs-Packtpub
+
+https://github.com/PacktPublishing/Advanced-TypeScript-3-Programming-Projects.git, c:\Users\Folio\web\frontend\typescript\packtpub\Advanced-TypeScript-3-Programming-Projects
+joris hermans, node mongo typescript expert, https://www.packtpub.com/application-development/web-development-nodejs-mongodb-and-express-video
+skillshare typescript mastercourse angular-university 
+firebase angular material, https://ajonp.com/ 
+angular flex-layout wiki, https://github.com/angular/flex-layout/wiki 
+bash advanced skripting,  C:\Users\Folio\tools\bash\cameron-nokes-egghead\advanced-bash-automation-for-web-developers 
+angular 7 workshop with nrwl schematics and material, c:\Users\Folio\web\frontend\javascript\frameworks\angular\lukas-ruebbelke-frontendmasters\angular-core-workshop 
+ngrx lukas rubbelke 2019, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\lukas-ruebbelke-frontendmasters\angular-reactive-workshop 
+angular material sidenav, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\angular6-sidenav-example 
+angular material lynda, carrots website, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\robby-millsap-lynda\carrots 
+angular material, https://ajonp.com/lessons/10-angular-material-theming/ 
+ionic capacitar, https://bracketsacademy.com/2018/12/26/capacitor-and-ionic-integration/#more 
+codedam, ionic social app, C:\Users\Folio\web\mobile\ionic\codedam\social-media-app-ionic4 

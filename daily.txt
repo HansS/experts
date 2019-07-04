@@ -1652,3 +1652,110 @@ rxjs state management, christian nwamba, telerik, https://github.com/christiannw
 rxjs state management, christian nwamba, telerik blog post, https://www.telerik.com/blogs/managing-state-using-rxjs-subjects-in-angular-applications
 rxjs state management, christian nwamba, telerik, github, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\christian-nwamba-telerik\notes-app 
 eat an avocado and an apple a day 
+
+Mi 08:26 19.06.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular conference 2019,ngvikings, https://www.youtube.com/channel/UCImlZXX470Pl8N_CUy3E2Zw/videos
+rxjs, collect, combine, cache, deborah kurata, https://www.youtube.com/watch?v=HE-xh_RBIno 
+Architecting "Reactive Angular Applications with Redux and NgRx: Getting Started | packtpub.com, " 
+rxjs pub sub, rupesh tiwari, https://rupeshtiwari.com/simple-pub-sub-with-rxjs/ 
+pub sub with google map markers, https://github.com/hzub/pubsub-demo.git 
+hackernoon bootcamp teacher ryan christiani, https://www.youtube.com/channel/UCGzkH_sGqhiZfsk2khuhmZg 
+let's learn es6, https://www.youtube.com/playlist?list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX 
+react intro, ryan christiani, https://www.youtube.com/playlist?list=PL57atfCFqj2jDsue69oUMOcuwlUC_wC6v 
+angular state management, jason watmore, message service, https://jasonwatmore.com/post/2019/02/07/angular-7-communicating-between-components-with-observable-subject 
+angular expert, jure baijt, https://github.com/jurebajt, jurebaijt.com 
+js proxie sample with json normalizr, matthew chang, https://github.com/MatthewChang/ReactNYCTalk 
+js proxie sample with json normalizr, matthew chang, https://www.youtube.com/watch?v=DTrs5kIdeDk 
+js array to normalized objects, https://github.com/adrian-afergon/data-normalizr 
+thinking in ramda blog, http://randycoulman.com/blog/categories/thinking-in-ramda/ 
+normalizr articles on medium.com, https://medium.com/search?q=normalizr 
+normalizr in angular, https://blog.angularindepth.com/the-benefits-of-application-state-normalization-in-angular-f93392ca9f44 
+redux normalize data docs, https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape 
+redux use normalizr, ngrx entities, https://www.youtube.com/watch?v=pffEkpuZpPo 
+learn redux in react, https://www.youtube.com/watch?v=YvRDgLEY6sE 
+learning redux, E:\_downloads\Lynda - Learning Redux 
+ngrx fizzbuzz tim deschryver, https://blog.angularindepth.com/common-and-easy-to-make-mistakes-when-youre-new-to-ngrx-49404ac973ea 
+redux review flatiron school, https://www.youtube.com/watch?v=JfMXye_v7og 
+redux normalize data, flatiron school, https://www.youtube.com/watch?v=YvRDgLEY6sE 
+ramda tutorial, "https://www.youtube.com/watch?v=Cltoo-NJ2JM&list=PLrhzvIcii6GMeyUfpn-o5xVCH3_UykrzI" 
+kaya kalpa yoga course online 70.-, https://learn.kayakalpayoga.com/p/kaya-kalpa-yoga-practice 
+
+Do 10:22 20.06.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx v8 chris hardin briebug, https://www.youtube.com/watch?v=R7L9w4KPHxU&feature=em-lbcastemail
+microsoft search data l”schen, C:\ProgramData\Microsoft\Search 
+tachyons css with webpack, https://github.com/tachyons-css/tachyons-webpack 
+
+Fr 09:09 21.06.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+svelte, rich harris, "compilers are the new framework", see stencil.js, svelte.js
+css utility libraries, https://css-tricks.com/need-css-utility-library/
+css utility library, tachyons
+
+css utility library, tailwind 
+css utility library, demo, https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ 
+oliver sturm , react , react hooks, https://www.youtube.com/watch?v=l3RlMF6VClU 
+js modern template engine, lit-html,https://lit-html.polymer-project.org/guide 
+react redux todo list, oliver sturm, https://github.com/oliversturm/oliswelt-redux/tree/master/src 
+javascript template engine, lit-html, docs, https://lit-html.polymer-project.org/guide 
+lit html google article. https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html 
+tagged template literals, leigh halliday, https://www.leighhalliday.com/tagged-template-literals 
+leigh halliday on yt, https://www.youtube.com/user/leighhalliday 
+tagged template literals with typescript annotations, https://basarat.gitbooks.io/typescript/docs/template-strings.html 
+tagged template literals, wes bos, https://wesbos.com/tagged-template-literals/ 
+template string, https://www.youtube.com/watch?v=uCcxKp_HbKk 
+advanced react tutorials, yt, techsith, https://www.youtube.com/playlist?list=PL7pEw9n3GkoUZX3e9lBbmQqdCpgAWYooz 
+techsith github, https://github.com/techsithgit?tab=repositories 
+lit-html, css-tricks, https://css-tricks.com/html-templates-via-javascript-template-literals/ 
+tag template literal function, https://exploringjs.com/impatient-js/ch_template-literals.html#tagged-templates 
+tagged template literals intro, https://www.freecodecamp.org/news/a-quick-introduction-to-tagged-template-literals-2a07fd54bc1d/ 
+download: tagged template literals, kent c dodds, https://www.youtube.com/watch?v=UJrkauaA7-I  
+learn: tagged template literals, kent c dodds, https://www.youtube.com/watch?v=UJrkauaA7-I  
+
+Sa 11:34 22.06.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+js: testable javascript, mark ethan trostler, https://www.youtube.com/watch?v=VaUWWrVB3AE
+ js: functional js workshop, https://github.com/vakila/functional-workshop 
+redux, tutorial for beginners blog articles, https://www.valentinog.com/blog/redux/ 
+react, react hooks tutorial, yt, https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI 
+react, react hooks tutorial, yt, https://www.youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A 
+react, taming state in react, robin wieruch, "https://github.com/taming-the-state-in-react/taming-the-state-in-react.git" 
+react, react beginner tutorial, steve griffith, canada, professor, https://www.youtube.com/playlist?list=PLyuRouwmQCjm1N4jlJ7b3WWjDA8MjfDbg 
+
+Mo 14:05 01.07.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+fahrradwerkstatt, https://www.youtube.com/playlist?list=PLCLnrkmezkJQCuDeyxE4viYg4q5BvIcDj
+learn: E:\_downloads\functional-programming-beginners-javascript 
+tutorial: webpack tutorial, https://symfonycasts.com/screencast/webpack-encore/require-import 
+webpack: c:\Users\Folio\web\frontend\module-bundlers\webpack\webpack-boilerplate\webpack-development-setup 
+
+Di 09:11 02.07.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+javascript: expert Frederik Christensen,building a javascript application, https://www.youtube.com/user/Fidde12345/search?query=building+a+javascript+application
+javascript: expert Frederik Christensen, yt channel: https://www.youtube.com/channel/UC0BAd8tPlDqFvDYBemHcQPQ, github: https://github.com/fChristenson
+
+
+code: c:\Users\Folio\web\frontend\javascript\james-moore-fpjs-for-beginners\fpjs-me 
+
+Mi 08:51 03.07.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+training: hit or mitochondria creation
+angular: angular spring crud
+webpack:everything is a plugin, "https://www.youtube.com/watch?v=xse6JKcfbzs&list=WL&index=30&t=0s" 
+webpack: conig basics, https://www.youtube.com/playlist?list=PLnUE-7Cz5mHFU_qrXCxZlk0925nCMYKVS 
+webpack: css, yt, https://www.youtube.com/playlist?list=PLnUE-7Cz5mHExcBWO9VV_GN-fniE2l-CR 
+webpack: chunks, "https://www.youtube.com/watch?v=-xzWMKuiS2o&list=PLnUE-7Cz5mHERezkTJfh0iU0LESkHmSxA" 
+webpack: tutorial with colt, reecodecamp, yt, https://www.youtube.com/watch?v=MpGLUVbqoYQ 
+webpack: tutorial on yt, code on github, https://github.com/Colt/webpack-demo-app 
+webpack: tutorial colt steele, https://www.youtube.com/watch?v=MpGLUVbqoYQ 
+webpack: tutorial colt steele, github repo clone, c:\Users\Folio\web\frontend\module-bundlers\webpack\colt-steel-yt-tutorial\webpack-demo-app 
+angular: bad practices, yt 
+
+Do 08:14 04.07.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx: ngrx workshop, alex okrushko, https://github.com/alex-okrushko/ngrx-workshop.git
+ngrx: oasis digital ocean, chris
+code: adventofcode.com, code exercises 
+course: nestjs, Ariel Weinberger, udemy,C:\Users\Folio\web\backend\nest\ariel-weinberger-udemy-course 
+course: complete nodejs, udemy, jonas schmedtman 
