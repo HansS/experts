@@ -39,11 +39,23 @@ briebug, ng schematics with brian love, kevin schuchard
 ngHouston, ng schematics with brian love, kevin schuchard
 ast , ast explorer
 typescript ast, uri shaked
+Ff
+Ff
 
 dr jörg spitz - spitzen-praevention.de, vitamin d
 -------------------------------------------------
 es-waere-ist-so-einfach-vorbeugung-von-alzheimer-demenz-in-deutschland
-fit-mit-fett-ein-leben-lang-kostenfreier-vortrag-“Fit mit Fett – ein Leben lang” - 
+fit-mit-fett-ein-leben-lang-kostenfreier-vortrag-“Fit mit     apiKey: "AIzaSyDUxiFCZaLuAHwV8E0kV3xBQ8embh2hXAw",
+    authDomain: "esmpost-b52a7.firebaseapp.com",
+    databaseURL: "https://esmpost-b52a7.firebaseio.com",
+    projectId: "esmpost-b52a7",
+    storageBucket: "esmpost-b52a7.appspot.com",    apiKey: "AIzaSyDUxiFCZaLuAHwV8E0kV3xBQ8embh2hXAw",
+    authDomain: "esmpost-b52a7.firebaseapp.com",
+    databaseURL: "https://esmpost-b52a7.firebaseio.com",
+    projectId: "esmpost-b52a7",
+    storageBucket: "esmpost-b52a7.appspot.com",
+    messagingSenderId: "535043404589"
+    messagingSenderId: "535043404589"Fett – ein Leben lang” - 
 Hohe Dosen - neue Chancen? Die Behandlung von Autoimmunerkrankungen mit Vitamin D (Coimbra Protokoll)
 Autophagie - wie werfen wir die körpereigene Reinigungsmaschine an!
 hohe-dosen-neue-chancen-die-behandlung-von-autoimmunerkrankungen-mit-vitamin-d-coimbra-protokoll
@@ -1759,3 +1771,19 @@ ngrx: oasis digital ocean, chris
 code: adventofcode.com, code exercises 
 course: nestjs, Ariel Weinberger, udemy,C:\Users\Folio\web\backend\nest\ariel-weinberger-udemy-course 
 course: complete nodejs, udemy, jonas schmedtman 
+ngrx: 5 tips ngrx, alex okrushko, https://blog.angularindepth.com/5-tips-to-improve-user-experience-of-your-angular-app-with-ngrx-6e849ca99529 
+ngrx: aster ngrx 8 dev, E:\A10-projects\__learn\Angular\Angular-NgRx\Auth0-Sam-Julien 
+health: mitochondria expert, Roland Pankewich,https://www.youtube.com/watch?v=zR3ln-F9IXM 
+health: https://www.theenergyblueprint.com/blog/ 
+webpack: webpack typescript starter, github Yann RENAUDIN 
+webpack: create-ts-lib based on webpack typescript starter by Yann Renaudin 
+
+fr 07:07 05.07.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ionic: joshmorony.com, eliteionic.com
+health: health: mitochondria and microbiom, https://microbiomelabs.com/  
+health: make yr own tou 
+learn: webpack 4 undamentals, sean larkin, rontendmasters 
+health: mitochondria and gutbiom connection through bacteria, bacteria in gut deliver metabolits or mitochondria in cell 
+health: mitochondria and gutbiom, https://microbiomelabs.com/ 
+health: vitamin k2 plays essential role, https://gomegaspore.wistia.com/medias/6j051nyk4u 
