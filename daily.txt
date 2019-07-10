@@ -1787,3 +1787,43 @@ learn: webpack 4 undamentals, sean larkin, rontendmasters
 health: mitochondria and gutbiom connection through bacteria, bacteria in gut deliver metabolits or mitochondria in cell 
 health: mitochondria and gutbiom, https://microbiomelabs.com/ 
 health: vitamin k2 plays essential role, https://gomegaspore.wistia.com/medias/6j051nyk4u 
+
+sa 06:17 06.07.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+blog: https://blog.bitsrc.io/
+angular: unsubscribe the right way, tomas trajan, https://blog.angularindepth.com/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0
+code: public repository or components, https://docs.bit.dev/ 
+health: dr sten ekberg, yt, https://www.youtube.com/channel/UCIe2pR6PE0dae9BunJ38F7w 
+angular: schematics Stanimira Vlaeva, github: https://github.com/sis0k0/schematics-samples 
+angular: schematics, stanmira vlaeva, code, c:\Users\Folio\web\frontend\javascript\frameworks\angular-schematics\stanmira-vlaeva\schematics-samples 
+angular: schematics, angularup , https://www.youtube.com/watch?v=5AqO2fABSaY 
+stenciljs: yt list, "https://www.youtube.com/watch?v=ZmIMtgwyj90&list=PLvEcp0ZFan-ggOC9eMgzy-wnf5lmJSUsD" 
+stenciljs: expert, https://github.com/MadnessLabs/ml-project 
+irebase: app with irebase, https://www.youtube.com/watch?v=6vh3ohnitWk 
+
+so 12:04 07.07.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+via alpina: https://www.novo-monde.com/via-alpina-bilan-budget-suisse/
+itness, https://humancharger.com/ 
+itness: https://bengreenfieldfitness.com/ 
+bio-hacking, https://www.youtube.com/user/bengreenfieldfitness/playlists 
+
+Mo 09:46 08.07.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+itness: https://pushing-limits.de/triathlon/ftp-die-funktionelle-leistungsschwelle-inklusive-ftp-test-anleitung/
+run: the science o running, https://www.scienceofrunning.com 
+run: the science o running, yt,Steve Magness, https://www.youtube.com/playlist?list=PLJES5D9ZIzezyCBnc1R2nBs_a4fA8q0Wr 
+
+Di 11:27 09.07.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: ui state with rxjs, code, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\michael-hladky-biophoton-dyn-ui\ng-operate-heavily-dynamic-uis 
+rxjs: ui state with rxjs, yt, https://www.youtube.com/watch?v=FxXRQ2Lj4nw 
+ngrx: briebug, jesse sanders, https://github.com/briebug 
+
+Mi 08:55 10.07.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+typescript: expert gulio canti, https://dev.to/javascript_tuto/advanced-typescript-tooling-at-scale-303i
+typescript: abstract data type with http request, https://github.com/devex-web-frontend/remote-data-ts 
+typescript: abstract data types, antorn sutarmin, yt,"https://www.youtube.com/watch?v=8fWK2iYgsz8&list=WL&index=2&t=0s" 
+ngrx: update to ngrx 8, wes grimes, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\wes-grimes\angular-ngrx-chuck-norris-v8 
+ngrx: update to ngrx 8, chris hardin, oasis digital ocean, "https://www.youtube.com/watch?v=R7L9w4KPHxU&t=144s" 
