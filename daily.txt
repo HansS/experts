@@ -1827,3 +1827,28 @@ typescript: abstract data type with http request, https://github.com/devex-web-f
 typescript: abstract data types, antorn sutarmin, yt,"https://www.youtube.com/watch?v=8fWK2iYgsz8&list=WL&index=2&t=0s" 
 ngrx: update to ngrx 8, wes grimes, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\wes-grimes\angular-ngrx-chuck-norris-v8 
 ngrx: update to ngrx 8, chris hardin, oasis digital ocean, "https://www.youtube.com/watch?v=R7L9w4KPHxU&t=144s" 
+code: angular, angularbootcamp digital ocean, https://github.com/AngularBootCamp 
+ultra: https://www.trainingpeaks.com/blog/tags/ultrarunning/ 
+ultra: https://lifelongendurance.com/ 
+run: https://www.trainingpeaks.com/blog/thresholds-411/ 
+run: traing und leistung, yt, https://www.youtube.com/playlist?list=PLdo7hHiMpg_N6RkHw6zR3imjrt0489052 
+run: https://www.proathletes.de 
+
+Do 09:54 11.07.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+nestjs: voting app, yt, https://www.youtube.com/playlist?list=PLT1ZV9g-F-vO2FZET_to9tgxPkb9gSnus
+nestjs: portugues tutorial, yt, https://www.youtube.com/playlist?list=PLSUVXkYSBqdG7Ci9UFN_Wa-UzN-BKYbLk 
+
+r 06:55 12.07.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular conerence: https://www.youtube.com/channel/UCfiGD529EyGGA6fbQsl99BQ/videos
+angular elements: manred steyer, https://github.com/manfredsteyer/ngconf-angular-elements-workshop.git 
+
+sa 13:22 13.07.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx: angular-schule workshop, https://github.com/angular-schule/2019-06-angular-workshop-ludwigsburg.git
+code: c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\angular-schule\ngrx-books 
+ngrx-v8: alex okrushko, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx-v8\alex-okrushko\aid-workshop 
+ngrx-v8: chris hardin, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx-v8\chris-hardin\toh-ngrx8 
+ngrx-v8: tomas trajan, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx-v8\tomas-trajan\angular-ngrx-material-starter 
+rxjs: rx visualizer, https://rxviz.com/ 
