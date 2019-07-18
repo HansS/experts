@@ -1847,8 +1847,31 @@ angular elements: manred steyer, https://github.com/manfredsteyer/ngconf-angular
 sa 13:22 13.07.2019
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ngrx: angular-schule workshop, https://github.com/angular-schule/2019-06-angular-workshop-ludwigsburg.git
-code: c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\angular-schule\ngrx-books 
-ngrx-v8: alex okrushko, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx-v8\alex-okrushko\aid-workshop 
-ngrx-v8: chris hardin, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx-v8\chris-hardin\toh-ngrx8 
-ngrx-v8: tomas trajan, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx-v8\tomas-trajan\angular-ngrx-material-starter 
-rxjs: rx visualizer, https://rxviz.com/ 
+
+mo 08:02 15.07.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx: angular-schule workshop, nx: nx workshop, https://github.com/nrwl/workshop-nx-starter.git 
+ECHO ist eingeschaltet (ON).
+nx: nx workshop, https://github.com/nrwl/workshop-nx-starter 
+
+di 09:29 16.07.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+angular conerence: https://www.youtube.com/channel/UCfiGD529EyGGA6fbQsl99BQ
+angular conerene: angularup israel, https://www.youtube.com/playlist?list=PLITwMYPTraCOJpNm-mMIcIOrPRXrRmomn
+course: angular redux reactive, packtpub, download, http://torrentmafia.xyz/architecting-reactive-angular-applications-with-redux-and-ngrx/ 
+code: angular redux reactive, packtpub, video course, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\chris-noring\Architecting-Reactive-Angular-Applications-with-Redux-and-NgRx-Video- 
+
+mi 07:54 17.07.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+packtpub trial: bis heute in einer woche
+angular: cors , proxy.config.json or proxy.conf.js, video loiane groner, https://www.youtube.com/watch?v=D9oFe6rHjpY&feature=em-uploademail
+cms: contentful with angular, react, ... 
+typescript: functional typescript , book, packtpub, https://www.packtpub.com/application-development/hands-functional-programming-typescript 
+ECHO ist eingeschaltet (ON).
+angular: angular router irst, Doguhan Uluca, "https://www.youtube.com/watch?v=XKuFNiV-TWg" 
+
+do 11:18 18.07.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ionic: angular ionic irebase, yt, https://www.youtube.com/watch?v=f1UT33WWW3c&list=PLWAV35x1wN8VYfB0zO6e_1gAgFjC_gpqG
+stenciljs: ionic stenciljs irebase, yt, https://www.youtube.com/playlist?list=PLWAV35x1wN8UabH6I3nrLL-fF_KOq93td
+angular: john papa best practices, code: ngrx v8 sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\ngrx-fruits 
