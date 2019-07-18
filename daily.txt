@@ -1875,3 +1875,7 @@ do 11:18 18.07.2019
 ionic: angular ionic irebase, yt, https://www.youtube.com/watch?v=f1UT33WWW3c&list=PLWAV35x1wN8VYfB0zO6e_1gAgFjC_gpqG
 stenciljs: ionic stenciljs irebase, yt, https://www.youtube.com/playlist?list=PLWAV35x1wN8UabH6I3nrLL-fF_KOq93td
 angular: john papa best practices, code: ngrx v8 sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\ngrx-fruits 
+ECHO ist eingeschaltet (ON).
+code: ngrx v8 sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\ngrx-fruits 
+ngrx: ngrx-v8-install.txt, installation ngrx version 8 
+yt: evan vue , creator o vuejs, classiy rameworks, https://www.youtube.com/watch?v=ANtSWq-zI0s 
