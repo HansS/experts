@@ -1879,3 +1879,16 @@ ECHO ist eingeschaltet (ON).
 code: ngrx v8 sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\ngrx-fruits 
 ngrx: ngrx-v8-install.txt, installation ngrx version 8 
 yt: evan vue , creator o vuejs, classiy rameworks, https://www.youtube.com/watch?v=ANtSWq-zI0s 
+
+mo 07:16 22.07.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx: a reactive state o mind, mike ryan workshop, https://github.com/CodeSequence/ngconf2019-ngrx-workshop.git
+ngrx: v8 sample, wes grimes, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\wes-grimes\angular-ngrx-chuck-norris-v8 
+ngrx: v8 sample, wes grimes, yt, ecd ngrx: v8 sample, wes grimes, yt, "https://www.youtube.com/watch?v=VTfbdAJmspw&list=WL&index=12&t=0s" 
+
+mo 12:30 29.07.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx: v8 nx-team, https://github.com/ZackDeRose/workshop-nx-starter.git
+test 
+handy: Samsung SM-G950 64GB Galaxy S8 Samsung SM-G950 64GB Galaxy S8 
+notebook: HP EliteBook Folio 9470m 
