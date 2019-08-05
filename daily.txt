@@ -1893,9 +1893,55 @@ test
 handy: Samsung SM-G950 64GB Galaxy S8 Samsung SM-G950 64GB Galaxy S8 
 notebook: HP EliteBook Folio 9470m 
 
-mi 11:29 30.07.2019
+di 11:29 30.07.2019
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ngrx: nx robert brandon, now in nx team, https://github.com/brandonroberts/bookish-engine-ngrx.git
 code: write better js, https://www.cdevn.com/practical-ways-to-write-better-java-script 
 code: js patterns to level up code, https://dev.to/skill_pathway/4-ways-you-can-level-up-as-a-developer-17ol 
 ngrx, brandon roberts video,  
+
+mi 10:29 31.07.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx: mike ryan github repo, https://github.com/MikeRyanDev/fluffy-memory.git
+ngrx: mike ryan github repo clone, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\mike-ryan-ngrx-team\fluffy-memory 
+irebase: auth, c:\Users\Folio\web\frontend\javascript\frameworks\angular-firebase\siddhart-ajmera-udemy-fb-auth 
+irebase auth ui, https://github.com/AnthonyNahas/ngx-auth-firebaseui 
+irebase auth ui, demo, https://ngx-auth-firebaseui.firebaseapp.com/home 
+ionic irebase ui, https://github.com/AnthonyNahas/ionic-auth-firebaseui 
+angularire auth, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\james-daniels-angularfire-team 
+https://github.com/LanderBeeuwsaert/snippets-node.git 
+irebase: irecast with doug stevenson, https://www.youtube.com/results?search_query=%23Firecasts 
+irebase: get to know irestore, https://www.youtube.com/playlist?list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ 
+irebase: google io or irebase , https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO 
+angular irebase: https://github.com/puf/zero-to-app-expenses.git 
+irebase: experts: david east, doug stevenson, rank van puelen, james daniels, anthony nahas, je delaney, ireship.io 
+
+r 10:11 02.08.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: book , denis stoyanov, https://xgrommx.github.io/rx-book/
+expert: typescript cypress, gleb brahmutov, https://glebbahmutov.com/blog/  
+expert: angular, oasis angular training teacher, cory rylan, https://coryrylan.com/blog/tree-shakeable-providers-and-services-in-angular  
+github: cory rylan, angular bootcamp trainer, https://github.com/coryrylan  
+github: flavio oliveira, angular apps with firebase udemy, https://github.com/wisespace-io  
+learn: angular apps with firebase, udemy course, flavio oliveira, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\flavio-oliveira-build-angular-apps-with-firebase\ngFire-Course  
+hp: keyboard order, https://www.laptopkeyboard.com/keyboards/hp/elitebook-folio/, 50$ 
+hp: aku elitebook 9470m, "https://www.accuswiss.ch/product_info.php?info=p22477_Akku-passend-fuer-HP-EliteBook-Folio-9470--9470m--9480--9480m-340.html&gclid=EAIaIQobChMI7-DFlvHj4wIVhdCyCh3JIwfuEAAYAiAAEgLSXfD_BwE" 
+hp: How to replace a keyboard on an HP Folio 9480m Elitebook 840 G3 laptop computer, https://www.youtube.com/watch?v=ocA-TQPj_gQ 
+ayurveda: books, E:\A10-projects\__learn\Ayurveda 
+ionic: google cloud vision, https://github.com/cbetz/my-stuff 
+ionic: google cloud vision, https://www.youtube.com/watch?v=taPczl94Eow 
+code:c:\Users\Folio\web\frontend\javascript\frameworks\angular-firebase\hans\fb-chat 
+code:c:\Users\Folio\web\frontend\javascript\frameworks\angular-firebase\hans\fb-chat, linked to test! 
+code: codelab, https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/#0 
+
+mo 09:28 05.08.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: snake with rxjs, https://blog.thoughtram.io/rxjs/2017/08/24/taming-snakes-with-reactive-streams.html 
+js: snake in js, https://www.youtube.com/watch?v=bRlvGoWz6Ig 
+rxjs: snake with rxjs, dominic elm, https://www.youtube.com/watch?v=j6WTrL_tHQk 
+rxjs: snake with rxjs, dominic elm, github, https://github.com/thoughtram/reactive-snake 
+rxjs: snake with rxjs, dominic elm, demo on stackblitz, https://stackblitz.com/edit/reactive-snake?file=main.ts 
+ngrx: tic-tac-toe, https://github.com/wizardnet972/tic-tac-toe 
+ngrx: memory game, https://github.com/wizardnet972/memory-game-ngrx 
+learn: rontend developer questions, https://github.com/wizardnet972/Front-end-Developer-Interview-Questions-And-Answers 
+code: snake game in vanilla js in twenty minutes, "https://www.youtube.com/watch?v=AVQKOz99Biw&list=PLdk2EmelRVLr928D0GDJvjsxYvrkPS79C&index=2" 
