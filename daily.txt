@@ -1945,3 +1945,35 @@ ngrx: tic-tac-toe, https://github.com/wizardnet972/tic-tac-toe
 ngrx: memory game, https://github.com/wizardnet972/memory-game-ngrx 
 learn: rontend developer questions, https://github.com/wizardnet972/Front-end-Developer-Interview-Questions-And-Answers 
 code: snake game in vanilla js in twenty minutes, "https://www.youtube.com/watch?v=AVQKOz99Biw&list=PLdk2EmelRVLr928D0GDJvjsxYvrkPS79C&index=2" 
+code: snake game in vanilla js, git clone, https://github.com/kriscfoster/Snake-Game.git 
+code: snake games in js, rxjs, c:\Users\Folio\web\frontend\typescript\hans 
+learn: canvas intro, yt, https://www.youtube.com/playlist?list=PLyuRouwmQCjlqieGcZgsDlGHtHFar-ZOp 
+learn: apache cordova, steve griffith, https://www.youtube.com/playlist?list=PLyuRouwmQCjkLnfGRHMosenaxPq9PqH0n 
+learn: js game dev, https://www.youtube.com/watch?v=3EMxBkqC4z0 
+code: Create a Platformer Game with JavaScript - Full Tutorial, https://www.youtube.com/watch?v=w-OKdSHRlfA 
+rxjs: snake game with ngrx, https://github.com/matteobarone/ngrx-snake 
+
+di 09:10 06.08.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+code: snake tutorial blog post, https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/ 
+code: snake game in unctional js, https://github.com/chrokh/fp-games/tree/master/001-snake 
+code: snake game in unctional js, yt, "https://www.youtube.com/watch?v=poVMBGe1THE&list=PLrhzvIcii6GOfRvsaVVdYSRjRhPWgAIKc" 
+code: snake game blog post, https://medium.com/free-code-camp/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e 
+code: snake , tetrix, https://www.youtube.com/watch?v=9TcU2C1AACw 
+
+mi 08:57 07.08.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+buy: BenQ Screenbar Lite Laptop USB Lamp, 120
+code: snake game, yt, 6minutes, https://github.com/Mohamedaitmiloud/Simple-snake-game.git 
+code: snake game, yt, 6minutes,https://www.youtube.com/watch?v=YvSajcvvrJ4 
+code: snake game functional javascript, "https://www.youtube.com/watch?v=poVMBGe1THE&t=67sfrom" 
+code: unctional snake, https://github.com/Gaya/functional-snake 
+code: snake with lodash, http://colbydehart.com/functional-javascript-with-lodash 
+code: snake with react hooks, https://codeburst.io/reactjs-build-a-drunken-snake-game-using-hooks-642cf31ef95e 
+code: tetris game, https://codeincomplete.com/posts/javascript-tetris/ 
+code: snake game in elm, https://theburningmonk.com/2014/10/elm-building-a-version-of-snake-in-under-100-lines-of-code/ 
+code: snake game in react, https://blog.education-ecosystem.com/upcoming-project-tutorial-create-snake-game-react/ 
+code: pong game in js, https://github.com/Empathic-Dev/Pong-Clone 
+code: rxjs snake game 
+code: rxjs snake game, https://github.com/gogakoreli/angular-7-rxjs-snake-game 
+learn: canvas game course, E:\_downloads\Udemy - How to Program Games Tile Classics in JS for HTML5 Canvas 
