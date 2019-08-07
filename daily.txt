@@ -1977,3 +1977,5 @@ code: pong game in js, https://github.com/Empathic-Dev/Pong-Clone
 code: rxjs snake game 
 code: rxjs snake game, https://github.com/gogakoreli/angular-7-rxjs-snake-game 
 learn: canvas game course, E:\_downloads\Udemy - How to Program Games Tile Classics in JS for HTML5 Canvas 
+learn: erik meijer, prog, https://github.com/fptudelft/FP101x-Content-2015 
+code: rxjs games, https://github.com/hermanbanken/RxJS-Games 
