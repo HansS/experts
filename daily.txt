@@ -1979,3 +1979,47 @@ code: rxjs snake game, https://github.com/gogakoreli/angular-7-rxjs-snake-game
 learn: canvas game course, E:\_downloads\Udemy - How to Program Games Tile Classics in JS for HTML5 Canvas 
 learn: erik meijer, prog, https://github.com/fptudelft/FP101x-Content-2015 
 code: rxjs games, https://github.com/hermanbanken/RxJS-Games 
+video: rxjs streams, dominic elm, https://www.youtube.com/watch?v=G3xji0IQW1Q 
+code: typescript snake, https://github.com/bytegames/bytes.git 
+learn: rxjs playul intro, erik meijer, "https://www.youtube.com/watch?v=WKore-AkisY&feature=youtu.be" 
+
+do 08:12 08.08.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ng-con: https://www.youtube.com/channel/UCbL5knlP-lZN5O3KxLDHoOA/videos
+rxjs: yt tutorial, https://www.youtube.com/playlist?list=PLXRpW8huT6RrPLGhyFCk3ksYb7OeEj9PN 
+rxjs: blog article taming snakes, dominic elm, https://blog.thoughtram.io/rxjs/2017/08/24/taming-snakes-with-reactive-streams.html 
+rxjs: snake in rxjs, https://github.com/mtuzinskiy/frp-snake.git 
+rxjs: snake in rxjs, https://www.youtube.com/watch?v=XRLBopMvmAQ 
+code: canvas methods, https://github.com/bit101/shapes 
+
+sa 11:50 10.08.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: run and jump game, https://github.com/albert-gonzalez/run-and-jump-rxjs
+rxjs: boddil stokke, rxjs game programming sample and video
+rxjs: bird game, https://www.learnrxjs.io/recipes/flappy-bird-game.html 
+rxjs: game loop, learnrx.io, brian troncone, https://www.learnrxjs.io/recipes/gameloop.html 
+rxjs: rxjs breakout, https://www.learnrxjs.io/recipes/gameloop.html 
+rxjs: rxjs breakout blog, https://manu.ninja/functional-reactive-game-programming-rxjs-breakout 
+rxjs: rxjs crossair blog serie, https://manu.ninja/functional-reactive-game-programming-rxjs-5-immutable-js-and-three-js 
+canvas: canvas platorm, https://core.telegram.org/bots/games 
+rxjs: game loop, https://www.barbarianmeetscoding.com/blog/2016/04/27/making-a-game-with-rx-dot-js-and-web-speech-at-active-dublin-2016 
+rxjs: snake game, Markel Tuzynskyi, https://github.com/mtuzinskiy/frp-snake.git 
+rxjs: game loop sample, https://github.com/garethwhittaker/rxjs-animation-loop 
+rxjs: boddil stokke, game dev with rxjs slides, https://bodil.lol/boogaloo/#0 
+rxjs: packtpub course, hands-on rxjs, https://github.com/PacktPublishing/Hands-on-RxJS-for-Web-development 
+rxjs: expert oleksander poshtaruk,https://blog.angularindepth.com/@alexanderposhtaruk 
+rxjs: udemy course, https://www.udemy.com/hands-on-rxjs-for-web-development/ 
+
+so 10:35 11.08.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: searchbar with rxjs, https://github.com/rajmayank/RxJS-Search-Bar
+rxjs: searchbar with rxjs, https://www.digitalocean.com/community/tutorials/how-to-build-a-search-bar-with-rxjs
+rxjs:practical rxjs in angular, github search, https://frontend.consulting/practical-rx-js-and-angular 
+rxjs: video course , kwinten pisman, https://blog.strongbrew.io/build-the-operators-from-rxjs-from-scratch/?lectureId=intro 
+rxjs: video course, kwinten pisman, github clone,https://github.com/KwintenP/rxjs-operators-from-scratch 
+rxjs: rxjs calendar, strongbrew, https://blog.strongbrew.io/thinking-reactively-in-angular-and-rxjs/ 
+ts: useul types in typescript, sindre sorhus, https://github.com/sindresorhus/type-fest/blob/master/source/basic.d.ts 
+ng: angular validators library, https://github.com/SamVerschueren/ngx-ow 
+rxjs: expert sam verschueren, https://github.com/SamVerschueren 
+rxjs: collect combine cache, deborah kurata, https://www.youtube.com/watch?v=e2KAn50QBBw 
+rxjs: collect combine cache, deborah kurata, github clone, https://github.com/deborahk/angular-dd 
