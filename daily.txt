@@ -2031,3 +2031,7 @@ state machine: https://learnstatemachines.com/
 state machine: xstate.js.org 
 state machine: book, Constructing the User Interface With Statecharts 
 canvas: canvas tutorial, E:\_downloads\Udemy - How to Program Games Tile Classics in JS for HTML5 Canvas 
+canvas: github canvas games, https://github.com/topics/html5-canvas-game 
+canvas: https://github.com/AnimeshPandey/How-To-Program-Games, udemy course code 
+snake: pure js, https://github.com/cscazorla/snake-pure-javascript 
+snake: in 90 lines o code, blog article, https://jordaneldredge.com/blog/the-game-snake-in-90-lines-of-javascript/ 
