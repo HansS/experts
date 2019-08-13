@@ -2035,3 +2035,30 @@ canvas: github canvas games, https://github.com/topics/html5-canvas-game
 canvas: https://github.com/AnimeshPandey/How-To-Program-Games, udemy course code 
 snake: pure js, https://github.com/cscazorla/snake-pure-javascript 
 snake: in 90 lines o code, blog article, https://jordaneldredge.com/blog/the-game-snake-in-90-lines-of-javascript/ 
+state machine: E:\_downloads\Building State Machines In .Net 
+
+di 06:28 13.08.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cypress: ui testing yt playlist, https://www.youtube.com/watch?v=jZ1p7VAPqYw&list=PLKM6-u_ADUYp9GrWifdlloYWCALSrwA1O
+rxjs: newseeed ben lesh, rxjs web animations, https://github.com/benlesh/add-features-with-rxjs.git 
+rxjs: web-animations lib, https://github.com/benlesh/rxjs-web-animation.git 
+ng: angular series, https://www.youtube.com/playlist?list=PL3vQyqzqjZ60ZrWeRL8dLXLgfz98acOwE 
+rxjs: ben lesh, rxworkshop, https://github.com/thisdot/rxworkshop.git 
+rxjs: ben lesh, rxworkshop, https://github.com/DerickBeckwith/rx-workshop-1-master.git 
+ionic: ionic 4 irebase, angularirebase.com, https://github.com/DerickBeckwith/IonicFirebaseTodo 
+ng: ng-atlanta workshop, https://github.com/DerickBeckwith/ngatlanta-workshop.git 
+rxjs: ben lesh, rxworkshop, https://github.com/benlesh/rxjs-workshop-angular.git 
+rxjs: kwinten pisman, rx-workshop, https://github.com/KwintenP/rx-workshop.git 
+rxjs: mobile car with rxjs, https://github.com/EnricoPicci/mobile-object-observables.git 
+rxjs: mobile car with rxjs, blog article, https://medium.com/free-code-camp/reactive-thinking-how-to-design-a-distributed-system-with-rxjs-websockets-and-node-57d772f89260 
+rxjs: web animations codecamp, https://www.freecodecamp.org/news/thinking-reactively-how-to-animate-with-movement-objects-using-rxjs-692518b6f2ac/ 
+rxjs: rxjs in node, https://www.freecodecamp.org/news/rxjs-and-node-8f4e0acebc7c/ 
+rxjs: rxjs webgl threejs, https://github.com/Lorti/corsair.git 
+rxjs: learnrx.io, rxjs tetris, https://www.learnrxjs.io/recipes/tetris-game.html 
+rxjs: tetris, dom based, https://github.com/bokuweb/rxjs-tetris 
+rxjs: heavily dynamic user interaces, michael hladky, https://www.youtube.com/watch?v=JIfxMHqU5xk 
+project-rxjs: 	Snake, manipulation: random movement (e.g. left) every 10 seconds. 
+		Tetris, manipulation: opposite movement of block (e.g. every 15th turn -- up/down/left/right action). 
+		Breakout, manipulation: delay of paddle with 1 second, then execute movement at 2x speed. 
+		Memory (e.g. 6x5), manipulation: every 8th draw, switch pictures with left or bottom tile. 
+
