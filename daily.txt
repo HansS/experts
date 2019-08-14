@@ -2062,3 +2062,39 @@ project-rxjs: 	Snake, manipulation: random movement (e.g. left) every 10 seconds
 		Breakout, manipulation: delay of paddle with 1 second, then execute movement at 2x speed. 
 		Memory (e.g. 6x5), manipulation: every 8th draw, switch pictures with left or bottom tile. 
 
+project:rxjs snake, https://github.com/mtuzinskiy/frp-snake.git , clone: c:\Users\Folio\web\frontend\typescript\hans\game-playground\snake
+
+rxjs: rxjs-playground local, c:\Users\Folio\web\frontend\typescript\hans\rxjs-playground 
+
+mi 07:10 14.08.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: pong rxjs game, https://gitlab.com/ntepluhina/rxjs-breakout
+rxjs: pong rxjs game, yt video, https://www.youtube.com/watch?v=vS1-jzngpmw 
+rxjs: pong rxjs game, local, c:\Users\Folio\web\frontend\typescript\hans\rxjs-breakout-Natalia-Tepluhina 
+rxjs: snake game, Markel Tuzynskyi, yt video, https://www.youtube.com/watch?v=XRLBopMvmAQ 
+rxjs: snake game, Markel Tuzynskyi, github repo, https://github.com/mtuzinskiy/frp-snake 
+rxjs: snake game, Markel Tuzynskyi, local, c:\Users\Folio\web\frontend\typescript\hans\frp-snake-Markel-Tuzynskyi 
+rxjs: tetris game, yt video, "https://www.youtube.com/watch?v=Tqnf48Ls7J4&t=188s" 
+rxjs: tetris game, local, E:\A10-projects\__learn\Rxjs\Html5-Games-With-RxJs 
+rxjs: yt yolo brolo, ben lesh with tracy lee hangout, https://www.youtube.com/watch?v=085dfsA8CUE 
+rxjs: yt videos, .git guillaume.unice@gmail.com, yt - echyzen, "https://www.youtube.com/watch?v=dBplQcY3cuo&list=PLXRpW8huT6RrPLGhyFCk3ksYb7OeEj9PN" 
+yt: https://de.filsh.net/ 
+rxjs: rxjs yt, codingwithstyle, Milosz Piechocki, https://www.youtube.com/playlist?list=PLMiKAaqRqsga46haWA1OARq5t6Db3G04j 
+rxjs: reactive js in angular, Milosz Piechocki, https://github.com/miloszpp/reactive-bands.git 
+js-un: https://codewithstyle.info/functional-javascript-app-scratch/ 
+rxjs: redux with rxjs, https://github.com/ryardley/rxjs-as-redux.git 
+rxjs: redux with rxjs, http://rudiyardley.com/redux-single-line-of-code-rxjs/ 
+rxjs: redux with rxjs, github repo, https://github.com/ryardley/rxjs-as-redux 
+rxjs: rxjs-toolbox, Oleksandr Poshtaruk, https://github.com/kievsash?tab=repositories 
+rxjs: hands-on rxjs, course, oleksandr poshtaruk, paktpub, E:\A10-projects\__learn\Rxjs\Hands-On-RxJs-Packtpub 
+rxjs: hands-on rxjs, course, oleksandr poshtaruk, github repo, https://github.com/PacktPublishing/Hands-on-RxJS-for-Web-development.git 
+rxjs: architecting angular with rxjs, chris noring, https://github.com/PacktPublishing/Architecting-Angular-Applications-with-Redux-RxJS-and-NgRx.git 
+rxjs: ngrx memory game. https://github.com/wizardnet972/memory-game-ngrx.git 
+rxjs: ngrx tic-tac-toe, https://github.com/wizardnet972/tic-tac-toe 
+rxjs: ryan chenkie, custom operator workshop, video, https://www.youtube.com/watch?v=UaTLlcS9klU 
+rxjs: ryan chenkie, custom operator workshop,githhub repor,https://github.com/chenkie/custom-operators-workshop.git 
+rxjs: reactive angular, angular-university, E:\A10-projects\__learn\Rxjs\[FreeTutorials.Us] rxjs-reactive-angular-course 
+rxjs: rxjs in action , book, E:\A10-projects\__learn\Rxjs\_books 
+rxjs: learn rxjs github repo brian troncone, look recipes, c:\Users\Folio\web\frontend\typescript\hans\learn-rxjs-brian-troncone 
+rxjs: kwinten pisman, rxjs recipes talk, https://github.com/KwintenP/rxjs-recipes-talk.git 
+rxjs: kwinten pisman, rxjs recipes video ,E:\A10-projects\__learn\Rxjs\RxJs-Streams-as-streams-of-data-not-streams-of-actions-kwinten-pisman 
