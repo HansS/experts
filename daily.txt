@@ -2098,3 +2098,23 @@ rxjs: rxjs in action , book, E:\A10-projects\__learn\Rxjs\_books
 rxjs: learn rxjs github repo brian troncone, look recipes, c:\Users\Folio\web\frontend\typescript\hans\learn-rxjs-brian-troncone 
 rxjs: kwinten pisman, rxjs recipes talk, https://github.com/KwintenP/rxjs-recipes-talk.git 
 rxjs: kwinten pisman, rxjs recipes video ,E:\A10-projects\__learn\Rxjs\RxJs-Streams-as-streams-of-data-not-streams-of-actions-kwinten-pisman 
+
+do 10:00 15.08.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ng: gh-search, blog article, https://frontend.consulting/practical-rx-js-and-angular
+rxjs: rxjs simple timer with settings time to elapse, pause (when paused:red, when run:gree), reset, show progress 
+hans: ts-webpack-starter, c:\Users\Folio\web\frontend\hans\ts-webpack-starter 
+html5-game: programmer Aarthi Elumalai, packtpub, udemy 
+html5-game: programmer ,Laurence Svekis 
+rxjs: https://github.com/mauricedb/master-rxjs-6-without-breaking-a-sweat.git 
+canvas: online book, https://joshondesign.com/p/books/canvasdeepdive/toc.html 
+rxjs: rxjs canvas , E:\A10-projects\__learn\Rxjs\Prag-Prog-Book Build Reactive Websites with RxJS\code\canvas\rxfighter-complete 
+rxjs: book, build reactive websites with rxjs, https://pragprog.com/book/rkrxjs/build-reactive-websites-with-rxjs 
+canvas: core html5 canvas book code, github repo, https://github.com/corehtml5canvas/code.git 
+canvas: core html5 canvas book, online, https://inspirit.net.in/books/html,%20css%20and%20javascript/Core%20HTML5%20Canvas%20-%20Graphics,%20Animation,%20and%20Game%20Development.pdf 
+canvas: canvas physics engine homebrew, https://developer.ibm.com/tutorials/wa-build2dphysicsengine/ 
+canvas: david geary, canvas game dev, https://vimeo.com/43529194 
+canvas: david geary, canvas game dev, https://www.youtube.com/https://www.youtube.com/watch?v=S256vAqGY6c 
+canvas: david geary, canvas game dev, book, Core HTML5 2D Game Programming,https://www.oreilly.com/library/view/core-html5-2d/9780133564280/ 
+canvas: david geary, canvas game dev, book, Core HTML5 2D Game Programming,https://github.com/claritysource/Core-HTML5-Game-Development-Video.git
+canvas: paddle game yt, https://youtu.be/3EMxBkqC4z0 
