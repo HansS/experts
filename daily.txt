@@ -2118,3 +2118,19 @@ canvas: david geary, canvas game dev, https://www.youtube.com/https://www.youtub
 canvas: david geary, canvas game dev, book, Core HTML5 2D Game Programming,https://www.oreilly.com/library/view/core-html5-2d/9780133564280/ 
 canvas: david geary, canvas game dev, book, Core HTML5 2D Game Programming,https://github.com/claritysource/Core-HTML5-Game-Development-Video.git
 canvas: paddle game yt, https://youtu.be/3EMxBkqC4z0 
+
+fr 09:55 16.08.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=tchjAe0udO0&t=4s
+rxjs: rxjs pomodoro, https://github.com/NettaB/reactive-pomodoro.git 
+ui: Mastering UIs with Finite State Machines, Rub‚n Sospedra, "https://www.youtube.com/watch?v=qouq0qkkIPM" 
+Markel Tuzynskyi, https://github.com/mtuzinskiy?tab=repositories 
+ng: markel tuzynski, fp programmer  ,https://github.com/mtuzinskiy/angular-fp-demo.git 
+p: james moore, https://github.com/knowthen/fpjs 
+p: james moore, programming or beginners, E:\_downloads\functional-programming-beginners-javascript 
+rxjs: divide and conquer in rxjs, kwinten pisman and dominic elm, https://www.youtube.com/watch?v=W8T3eqUEOSI 
+"game: paddle game, https://www.youtube.com/watch?v=3EMxBkqC4z0&t=37s game: paddle game, https://www.youtube.com/watch?v=3EMxBkqC4z0&t=37s" 
+game: paddle game, github repo chris perko, https://github.com/BaronVonPerko/Breakout-Game.git 
+rxjs: netta bondi 
+rxjs: paddle game, magic o rxjs, natalia tepluhina , https://www.youtube.com/watch?v=vS1-jzngpmw 
+rxjs: paddle game, natalia tepluhina, gitlab repo, https://gitlab.com/ntepluhina/rxjs-breakout.git 
