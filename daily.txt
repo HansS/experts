@@ -2134,3 +2134,16 @@ game: paddle game, github repo chris perko, https://github.com/BaronVonPerko/Bre
 rxjs: netta bondi 
 rxjs: paddle game, magic o rxjs, natalia tepluhina , https://www.youtube.com/watch?v=vS1-jzngpmw 
 rxjs: paddle game, natalia tepluhina, gitlab repo, https://gitlab.com/ntepluhina/rxjs-breakout.git 
+
+sa 09:41 17.08.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: space shuttle game, https://github.com/MartinNuc/space-shuttle.git
+rxjs: github search, https://frontend.consulting/practical-rx-js-and-angular 
+game: mario5 in typescript, orian rappl, https://github.com/FlorianRappl/Mario5TS.git 
+rxjs: rxjs yt, codingwithstyle, milosz piechocki, github repo, https://github.com/miloszpp/reactive-bands.git 
+rxjs, rxjs yt, codingwithstyle, milosz piechocki, local, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\coding-with-style-milosz-piechoki\reactive-bands 
+rxjs: star ighter game, https://github.com/artem-galas/star-fighter 
+tdd: tdd by example with ts and jest, https://github.com/artem-galas/tdd-by-example-ts 
+ngrx: ngrx workshop, artem galas, https://github.com/artem-galas/angular-zp-workshop.git 
+rxjs: rxjs website rxighter, c:\Users\Folio\web\frontend\typescript\hans\rxfighter 
+rxjs: rxjs website book, E:\A10-projects\__learn\Rxjs\Websites-with-Rxjs 
