@@ -2170,4 +2170,44 @@ do 11:03 22.08.2019
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 rxjs: stephan luin, https://www.youtube.com/watch?v=C0sEEww274Y
 angular-fire, chat, https://github.com/mandarini/fire-chat-demo.git 
-angular-ire: c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\mandarini-katarina-skroumpelou-psyber.city 
+angular-fire: c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\mandarini-katarina-skroumpelou-psyber.city 
+
+fr 11:12 23.08.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+bike: https://www.youtube.com/playlist?list=PLkuCq-pxKbpdjtWHfbiVHoIIN61R-Mlau
+rxjs: ultimateangular.com, brian troncone, rxjs basic und rxjs masterclass 79.-
+
+sa 17:35 24.08.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+vscode: https://scanlibs.com/visual-studio-code-debugging-web-developers/#download
+ng: angular enterprise, book, packtpub, https://rapidgator.net/file/b292b35c23907c1d625067e86941248e?referer=https://scanlibs.com/building-large-scale-web-applications-angular/ 
+
+so 14:02 25.08.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+health: yt talk, Barbara O'Neill,https://www.youtube.com/watch?v=gfmlKPOM9K0
+shealth: barbara o'neill, https://www.youtube.com/playlist?list=PLr61HXXxMuDwvCrPdVwjEzeHpwuW4Po_m 
+nx: manred steyer, https://www.youtube.com/watch?v=TUoS9Ro4KYI 
+sport:schwingen lehrgang videos on yt, https://www.youtube.com/playlist?list=PLm6t_PtSC7qsfeez0fE_V5MfDwSuPmlrx 
+
+mo 09:40 26.08.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: game loop, brian troncone, learnrxjs.io, https://www.learnrxjs.io/recipes/gameloop.html, bouncing rectangles,
+rxjs:games, rxjs games training, http://moumne.com/rx-training-games/#?title=slither-using-latest-from 
+rxjs:animation, ben lesh, web animation lib in alpha, https://github.com/benlesh/rxjs-web-animation.git 
+rxjs:animation, tween operator, ben lesh, https://github.com/benlesh/rxjs-tween 
+rxjs:ben lesh rxjs workshop, https://github.com/benlesh/rxjs-workshop-angular 
+yt: downloader, https://de.filsh.net/page/convert 
+gh:ts-webpack-starter, c:\Users\Folio\web\frontend\typescript\hans\ts-webpack-starter,https://github.com/HansS/ts-webpack-starter.git 
+
+di 14:50 27.08.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs:operators, michael hladky, ngindia 2019,https://www.youtube.com/watch?v=My6fBeYRKyA
+rxjs:concepts, jan niklas wortmann, https://www.youtube.com/watch?v=QHCjT3jRzB0
+
+code:me c:\Users\Folio\web\frontend\javascript\libraries\rxjs\hans\rxjs-playground 
+
+mi 08:25 28.08.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+yt: yt playlist, everyday javascript, https://www.youtube.com/channel/UC7hmN0oYPtp9urOVm7BdUKw/videos
+rxjs: havily dynamic ui with rxjs, michael hladky, https://github.com/BioPhoton/rxjs-operating-heavily-dynamic-uis.git 
+rxjs: havily dynamic ui with rxjs, michael hladky, yt, "https://www.youtube.com/watch?v=ZaUxIX_Q0R4&t=164s" 
