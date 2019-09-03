@@ -2271,3 +2271,51 @@ css: learn css transitions-and-transforms, https://thoughtbot.com/blog/transitio
 rxjs: reactive MobileObject, based on Ben Lesh Talk, Advanced RxJs in Animiations, https://www.freecodecamp.org/news/thinking-reactively-how-to-animate-with-movement-objects-using-rxjs-692518b6f2ac/ 
 rxjs: reactive MobileObject, github clone, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\enrico-picci\mobile-object-observables 
 rxjs: reactive MobileObject, gitub repo, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\enrico-picci\mobile-object-observables 
+gh: enrico picci, github repos, https://github.com/EnricoPicci?tab=repositories 
+css: animations book, https://scanlibs.com/css-animations-transitions-modern-web/#download 
+utmb: in 4 days around mont blanc:
+Itinerary
+ 
+DAY 1: Chamonix – Nant Borrant
+-------------------------------------------------------------------------------------
+36km, D +1653/-1256m
+8AM: Meeting at Chamonix, recovery of travel bags, then equipment check and briefing. 
+The first part of the course is rather rolling on a wide trail to the Houches. 
+After this warm-up, we tackle the first challenge to the Voza pass before descending 
+to the village of Saint Gervais and then Contamines. This first day is a warm-up before 
+tackling the alpine part of the tour. End of the stage at Nant Borrant.
+
+DAY 2: Nant Borrant - Courmayeur
+-------------------------------------------------------------------------------------
+43km, D +2762/-3019m
+This great stage is the longest of the trip. We cross magnificent and wild landscapes, 
+the opportunity to cross the famous Bonhomme, Seigne and Checrouit passes before 
+descending to Courmayeur, stage city of this physical day. Well deserved rest for everyone! 
+Then end of the stage in the village of Courmayeur.
+
+DAY 3: Courmayeur - Champex
+---------------------------------------------------------------------------------------
+45 km, D +2550/-2250m
+During the third day, we reach the Swiss part of the tour of Mont Blanc. Quickly, we move 
+on mountain trails to admire the “other side of Mont Blanc”. The Grandes Jorasses and 
+Aiguille de Triolet sit proudly above our heads. We reach the top of the Val Ferret at Arnuva 
+before starting the ascent to the Grand Ferret pass. A long descent through the pastures 
+then leads to Praz de Fort. A last effort and we are in Champex, beautiful little village 
+at the foot of a mountain lake. End of the stage in Champex.
+
+DAY 4: Champex - Chamonix
+--------------------------------------------------------------------------------------
+44 km, D +2476/-2907m
+Last step of our journey, we find the French border after crossing the Bovine pass and 
+we descend through the forest to the village of Trient. Two passes more to cross, 
+Catogne and La Tête au Vent, and the Chamonix valley is not far off. The circle is complete! 
+End of stay in Chamonix at 6PM, baggage retrieval and closing cocktail.
+utmb: mont blanc tour, https://www.montourdumontblanc.com/fr/index.aspx 
+rxjs: rxjs expert, manuel wiesner, github.com/lorti, https://manu.ninja/functional-reactive-game-programming-rxjs-breakout 
+rxjs: rxjs expert, manuel wiesner,https://github.com/Lorti/rxjs-breakout 
+css: css-transform-and-transition.txt 
+rxjs: ilter, https://blog.angulartraining.com/dynamic-filtering-with-rxjs-and-angular-forms-a-tutorial-6daa3c44076a 
+rxjs: ilter ,https://stackblitz.com/edit/angular-filtering-rxjs 
+rxjs 
+rxjs: rxjs in angular, deborah kurata, https://github.com/DeborahK/Angular-RxJS 
+rxjs: rxjs in angular, deborah kurata ,c:\Users\Folio\web\frontend\javascript\frameworks\angular-rxjs\deborah-kurata\Angular-RxJS\APM-Final 
