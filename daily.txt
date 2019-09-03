@@ -2258,3 +2258,16 @@ ngrx: ngrx yt playlist, angulardeveloper.io, c:\Users\Folio\web\frontend\javascr
 redux: dan abrahmov, egghead, https://egghead.io/lessons/react-redux-the-single-immutable-state-tree 
 game: udemy snake, https://github.com/bijoyandas/Javascript_Game_Development_Course 
 game: udemy snake video, https://www.udemy.com/course/javascript-game-development-step-by-step/learn/lecture/9638618#content 
+
+di 07:44 03.09.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: sander elias, https://github.com/SanderElias/Samples.git 
+rxjs: sander elias, https://www.youtube.com/watch?v=ku1NcxPBLtg 
+rxjs: reactive web animations, elena gencheva, https://www.youtube.com/watch?v=cXKnVJ_XPpg 
+rxjs: Advanced RxJS: State Management and Animations, ben lesh, https://www.youtube.com/watch?v=jKqWMvdTuE8 
+css:transorms, course, download, https://scanlibs.com/css-transforms-transitions/ 
+css:creative projecs, https://scanlibs.com/html-css-javascript-build-creative-projects/#download 
+css: learn css transitions-and-transforms, https://thoughtbot.com/blog/transitions-and-transforms 
+rxjs: reactive MobileObject, based on Ben Lesh Talk, Advanced RxJs in Animiations, https://www.freecodecamp.org/news/thinking-reactively-how-to-animate-with-movement-objects-using-rxjs-692518b6f2ac/ 
+rxjs: reactive MobileObject, github clone, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\enrico-picci\mobile-object-observables 
+rxjs: reactive MobileObject, gitub repo, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\enrico-picci\mobile-object-observables 
