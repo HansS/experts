@@ -2319,3 +2319,12 @@ rxjs: ilter ,https://stackblitz.com/edit/angular-filtering-rxjs
 rxjs 
 rxjs: rxjs in angular, deborah kurata, https://github.com/DeborahK/Angular-RxJS 
 rxjs: rxjs in angular, deborah kurata ,c:\Users\Folio\web\frontend\javascript\frameworks\angular-rxjs\deborah-kurata\Angular-RxJS\APM-Final 
+rxjs: deborah kurata, rxjs in angular, E:\A10-projects\__learn\Angular\Deborah-Kurata-RxJs-in-Angular-2019\[ FreeCourseWeb.com ] PluralSight - RxJS in Angular- Reactive Development\01. Introduction 
+
+mi 09:32 04.09.2019
+----------------------------------------------------------------------------------------------
+ts: ts unctional programming style, https://dev.to/deepu105/easy-functional-programming-techniques-in-typescript-for-everyone-1bl2?utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_108&utm_medium=email
+api: random user data, https://randomuser.me/ 
+tuts: https://freecourseweb.com 
+rxjs: observable viewmodel, sander elias, https://github.com/SanderElias/Samples/blob/master/src/app/view-model/vm-home-vm/vm-home-vm.component.ts 
+rxjs:learn, E:\A10-projects\__learn\Angular\Deborah-Kurata-RxJs-in-Angular-2019\[ FreeCourseWeb.com ] PluralSight - RxJS in Angular- Reactive Development\06. Combining Streams 
