@@ -2328,3 +2328,13 @@ api: random user data, https://randomuser.me/
 tuts: https://freecourseweb.com 
 rxjs: observable viewmodel, sander elias, https://github.com/SanderElias/Samples/blob/master/src/app/view-model/vm-home-vm/vm-home-vm.component.ts 
 rxjs:learn, E:\A10-projects\__learn\Angular\Deborah-Kurata-RxJs-in-Angular-2019\[ FreeCourseWeb.com ] PluralSight - RxJS in Angular- Reactive Development\06. Combining Streams 
+
+do 10:47 05.09.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: elias sander, observable viewmodel, https://www.youtube.com/watch?v=cjdKanhckXU
+rxjs: observable viewmodel, npm library, @se-ng/observable-utils,
+rxjs: error handling, be careul,https://medium.com/better-programming/rxjs-error-handling-with-forkjoin-3d4027df70fc
+rxjs: rxjs caching,https://www.prestonlamb.com/blog/rxjs-cache-and-refresh-in-angular?utm_campaign=Angular%20Weekly&utm_medium=email&utm_source=Revue%20newsletterng: ng template streams, dominic elm, https://github.com/typebytes/ngx-template-streams 
+expert: kwinten pisman and dominic elm company, https://github.com/typebytes/ 
+download:https://forcoder.su/flutter-10-firebase-cloud-firestore/ 
+api: jsonplaceholderapi.com 
