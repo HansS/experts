@@ -2338,3 +2338,6 @@ rxjs: rxjs caching,https://www.prestonlamb.com/blog/rxjs-cache-and-refresh-in-an
 expert: kwinten pisman and dominic elm company, https://github.com/typebytes/ 
 download:https://forcoder.su/flutter-10-firebase-cloud-firestore/ 
 api: jsonplaceholderapi.com 
+philosophy: richard david precht, on zd, https://www.zdf.de/gesellschaft/precht/ist-die-erde-noch-zu-retten-100.html 
+rxjs: all operators with marble diagram, E:\A10-projects\__learn\Rxjs\David-Mann-RxJs-Operators-Pluralsight\Good\Pluralsight Learning RxJS Operators by Example Playbook 
+angular: blog with angular on irestore, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\ankit-sharma-angular-connect-2019-09\blogging-app-with-Angular-CloudFirestore 
