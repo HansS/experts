@@ -2341,3 +2341,15 @@ api: jsonplaceholderapi.com
 philosophy: richard david precht, on zd, https://www.zdf.de/gesellschaft/precht/ist-die-erde-noch-zu-retten-100.html 
 rxjs: all operators with marble diagram, E:\A10-projects\__learn\Rxjs\David-Mann-RxJs-Operators-Pluralsight\Good\Pluralsight Learning RxJS Operators by Example Playbook 
 angular: blog with angular on irestore, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\ankit-sharma-angular-connect-2019-09\blogging-app-with-Angular-CloudFirestore 
+conerence: angular connect, https://angularconnect.com 
+
+r 09:43 06.09.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: expert, Chris Trzesniewski, https://github.com/ktrz?tab=repositoriesrxjs: chris trzesniewski, github clone, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\Chris-Trzesniewski\coffee-shop 
+rxjs: chris trzesniewski, yt video, https://www.youtube.com/watch?v=MwM5T9dWNqw 
+fb ,E:\A10-projects\__learn\Firebase\_config 
+rxjs: auth with rxjs, kim maida, https://www.youtube.com/watch?v=nMRrEYkb5IQ 
+rxjs: auth and state, kim maida, https://github.com/kmaida/space-state 
+rxjs: auth and state, kim maida, https://www.youtube.com/watch?v=XuRpn8KXw6g 
+rxjs: auth and state, kim maida, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\kim-maida\space-state 
+learn:rxjs , E:\_downloads\[FreeCourseLab.com] Udemy - RxJs 6 In Practice (with FREE E-Book), lecture 19 
