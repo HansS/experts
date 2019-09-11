@@ -2384,8 +2384,8 @@ rxjs: simple state management, aslan vatsaev,https://dev.to/avatsaev/simple-stat
 
 di 06:47 10.09.2019
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-angular irebase: expert aldo caamal, https://github.com/AldoHub?tab=repositories
-ionic irebase: expert aldo caamal, https://github.com/AldoHub?tab=repositories
+angular firebase: expert aldo caamal, https://github.com/AldoHub?tab=repositories
+ionic firebase: expert aldo caamal, https://github.com/AldoHub?tab=repositories
 js: game tutorial breakout game, mozilla dev network,  mdn, https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript 
 rxjs: tutorial tutsplus, https://github.com/tutsplus/learn-reactive-programming-with-rxjs.git 
 rxjs: matt podwysocki, rxjs live, https://github.com/mattpodwysocki/rxjs-live-2019.git 
@@ -2399,3 +2399,11 @@ angular: angular services, E:\A10-projects\__learn\Angular\Angular-Services
 rxjs: state management, State management in Angular with observable store services,https://jurebajt.com/state-management-in-angular-with-observable-store-services/ 
 angular: scalable app architecture, https://jurebajt.com/scalable-angular-app-architecture/ 
 npm:https://www.npmjs.com/package/rxjs-observable-store 
+
+mi 13:02 11.09.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: reactive angular,E:\_downloads\[DesireCourse.Com] Udemy - Angular 4 RxJs Reactive Programming 
+browser: camara, https://davidwalsh.name/browser-camera 
+js: game tile style classics, E:\_downloads\Udemy - How to Program Games Tile Classics in JS for HTML5 Canvas 
+ionic: camera, camera photo upload, simon grimm, "https://www.youtube.com/watch?v=4XiBXFDXesg&t=247s" 
+canvas:printart with canvas, "E:\_downloads\Creative Coding with Canvas & WebGL\2. Print Art with Canvas" 
