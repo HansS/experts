@@ -2407,3 +2407,26 @@ browser: camara, https://davidwalsh.name/browser-camera
 js: game tile style classics, E:\_downloads\Udemy - How to Program Games Tile Classics in JS for HTML5 Canvas 
 ionic: camera, camera photo upload, simon grimm, "https://www.youtube.com/watch?v=4XiBXFDXesg&t=247s" 
 canvas:printart with canvas, "E:\_downloads\Creative Coding with Canvas & WebGL\2. Print Art with Canvas" 
+
+do 09:41 12.09.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+ionic: ionic app templates seller, https://www.ionicfirebaseapp.com/
+health: flohsamen fuer darmreinigung 
+ionic: aldo caamal, https://github.com/AldoHub/Ionic-4-Angular-Firebase.git
+	
+r 08:54 13.09.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+rxjs: kim maida, state management with behaviorsubject, https://github.com/kmaida/space-state
+rxjs: kim maida, state management with behaviorsubject, https://www.youtube.com/watch?v=XuRpn8KXw6g
+ivy: deep dive, ng-de, https://www.youtube.com/watch?v=Ptmp6wJyuDc 
+ivy: tsconig: {"angularCompilerOptions": {"enableIvy": true}}
+ngrx: auth with ngrx, michael herman, https://mherman.org/blog/authentication-in-angular-with-ngrx/ 
+cypress: intro to cypress, brian man, creator o cypress, https://www.youtube.com/watch?v=pJ349YntoIs 
+angular: expert michael herman, mherman.org, https://www.youtube.com/channel/UCt7yOnL7bI7yCa1Xe_GTjJQ 
+angular: expert michael herman, thinkul mentor, https://github.com/mjhea0/thinkful-mentor/tree/master/angular/projects 
+angular: michael herman, teacher at galvanize, gschool on github, https://github.com/gSchool/ngshop 
+ngrx: abian gosebrink, todo-ngrx, https://github.com/FabianGosebrink/angular-ngrx-todo 
+ngrx: abian gosebrink, https://entwickler.de/online/development/angular-state-management-ngrx-579902447.html 
+ngrx: nx state with ngrx, https://nx.dev/angular/guides/misc-ngrx#command 
+angular: nx course,, E:\A10-projects\__learn\Angular\Nrwl-Connect\Reactive-orms 
+ngrx: createAction,  nx cookbook, https://connect.nrwl.io/app/cookbook/15bT40HpQDlsvwpdbcjtiw 
