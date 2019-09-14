@@ -2430,3 +2430,24 @@ ngrx: abian gosebrink, https://entwickler.de/online/development/angular-state-ma
 ngrx: nx state with ngrx, https://nx.dev/angular/guides/misc-ngrx#command 
 angular: nx course,, E:\A10-projects\__learn\Angular\Nrwl-Connect\Reactive-orms 
 ngrx: createAction,  nx cookbook, https://connect.nrwl.io/app/cookbook/15bT40HpQDlsvwpdbcjtiw 
+rxjs: memory-game , zack derose, nx-team, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\zack-derose-nx-team\card-games 
+nx: nx ullstack app tutorial , nestjs and cypress, https://nx.dev/angular/tutorial/01-create-application 
+rxjs: state, kim maida, state with behaviorsubject 
+monorepo: victor savkin on monorepo, https://devchat.tv/adv-in-angular/aia-256-debunking-monorepo-myths-with-victor-savkin/ 
+ironman: https://www.facebook.com/IRONMANnow 
+ultra: https://tv.search.ch/sfinfo/2019-09-15T17:05:00-nzz-format 
+
+sa 10:23 14.09.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx: undo action, https://nils-mehlhorn.de/posts/angular-undo-redo-ngrx-redux
+learn: packtpub, mo 9.-,yr 108.-
+learn: umdemy, ngrx the complete guide, with ngrx-data,https://www.udemy.com/ngrx-course/learn/lecture/15498858#overview
+learn: user stories, E:\_downloads\Pluralsight - Creating Effective User Stories 
+ngrx: rom user stories to ngrx actiions 
+irebase: ire chat, https://github.com/mandarini/fire-chat-demo.git 
+irebase: riedly webchaat, https://github.com/mandarini/friendlychat-web.git 
+people: katarina skorumbelou, github.com/mandarini, angular expert 
+people: nicholas jamieson, github.com/cartant, rxjs team 
+ngrx: undo action, kimm maida, https://github.com/kmaida/space-state,  
+ionic: ionic on yt, https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw/videos 
+wim ho thirty time breathing with hold breath two to three minutes 
