@@ -2451,3 +2451,33 @@ people: nicholas jamieson, github.com/cartant, rxjs team
 ngrx: undo action, kimm maida, https://github.com/kmaida/space-state,  
 ionic: ionic on yt, https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw/videos 
 wim ho thirty time breathing with hold breath two to three minutes 
+
+mo 11:28 16.09.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+learn: ngrx complete guide, with ngrx data,angularuniversity, https://www.udemy.com/ngrx-course/learn/lecture/15513580?start=15#overview
+ ngrx: complete guide, github repo, https://github.com/angular-university/ngrx-course.git 
+ts: ts tips and tricks, "https://www.youtube.com/watch?v=v_EIy7jc-aU&t=4s" 
+trunk based  dev 
+learn:E:\_downloads\Coury F., Lerner A., Murray N., Taborda C. - NG-Book 2. The Complete Book on AngularJS 2 - 2016 
+health: rote beeren, polyphenole, antioxidantien 
+nx: udemy nx angular enterprise, https://github.com/mbaljeetsingh?tab=repositories 
+nestjs: https://github.com/mbaljeetsingh?tab=repositories 
+ionic4:https://github.com/mbaljeetsingh/ionic4-angular-news-udemy 
+nx: angular nx enterprise apps, https://github.com/mbaljeetsingh/Building-Enterprise-Angular-Apps-with-Nx 
+mobile: xplad or ionic, nativescript,https://github.com/mbaljeetsingh/Building-Enterprise-Angular-Apps-with-Nx 
+mobile: xplad or ionic, nativescript,https://github.com/mbaljeetsingh/xplat 
+mobile:xplad, angularair talk, https://www.youtube.com/watch?v=0I8D25nab5c 
+mobile:xplad online, https://nstudio.io/xplat 
+nestjs: nx tutorial, https://nx.dev/angular/tutorial/01-create-application 
+auth: ngrx irebase, https://mherman.org/blog/authentication-in-angular-with-ngrx/ 
+auth: ngrx auth, https://auth0.com/blog/ngrx-authentication-tutorial/ 
+auth: ngrx auth github repo, https://github.com/auth0-blog/ngrx-auth 
+security: logitech security webcam circle , https://www.logitech.com/de-ch/product/circle-2-home-security-camera 
+security: logitech kabellose kamera circle , https://www.anibis.ch/de/advertlist.aspx?fts=logitech+circle+2  
+
+di 08:18 17.09.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx: expert, chris hardin, https://github.com/starjumper30/ngrx8-601.git
+learn: oasis digitial ocean, https://github.com/AngularBootCamp 
+learn: angularbootcamp content list, https://github.com/AngularBootCamp/abc 
+learn: angularbootcamp content list, local, c:\Users\Folio\web\frontend\javascript\frameworks\angular\angularbootcamp-oasis-digital-ocean\abc 
