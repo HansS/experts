@@ -2481,3 +2481,26 @@ ngrx: expert, chris hardin, https://github.com/starjumper30/ngrx8-601.git
 learn: oasis digitial ocean, https://github.com/AngularBootCamp 
 learn: angularbootcamp content list, https://github.com/AngularBootCamp/abc 
 learn: angularbootcamp content list, local, c:\Users\Folio\web\frontend\javascript\frameworks\angular\angularbootcamp-oasis-digital-ocean\abc 
+learn: galvanize project, C:\Users\Folio\web\backend\node\galvanize-gschool\capstone-g63 
+js: javascript testing, kent c dodds, E:\_downloads\Testing Practices and Principles 
+download: test with jest, https://forcoder.su/testing-react-applications-jest/ 
+nest: angular nest ullstack, https://www.udemy.com/course/angular-nestjs-the-modern-mean-stack-guide/ 
+ngrx: auth, brandon roberts, ngrx-team,https://www.youtube.com/watch?v=46IRQgNtCGw 
+ngrx: handling sub-states, brandon roberts, https://www.youtube.com/watch?v=RXuSDiLmcN0 
+nx: brandon roberts, c:\Users\Folio\web\frontend\javascript\frameworks\angular-nx\brandon-roberts-nx-team\bookish-engine-ngrx 
+ngrx:optimistic update rollback, strongbrew, https://blog.strongbrew.io/Cancellable-optimistic-updates-in-Angular2-and-Redux/ 
+ngrx: optimistic update rollback, alex okrushko, https://blog.angularindepth.com/5-tips-to-improve-user-experience-of-your-angular-app-with-ngrx-6e849ca99529 
+ngrx: workshop alex okrushko, https://github.com/alex-okrushko/ngrx-workshop 
+ngrx: workshop alex okrushko, jun , https://github.com/alex-okrushko/aid-workshop.git 
+ngrx: 5 tips alex okrushko, https://www.youtube.com/watch?v=_062y2W3TiI 
+b auth, https://github.com/how-to-firebase/firelist-angular 
+ngrx: Angular CRUD with NgRx and Firebase, https://hashnode.com/post/angular-crud-with-ngrx-and-firebase-cjt8cvxcu003ep1s20tsce9fm 
+ngrx: Angular CRUD with NgRx and Firebasehttps://github.com/mdbootstrap/Angular-Bootstrap-Boilerplate 
+ngrx: Angular CRUD with NgRx and Firebase,https://github.com/AngularFirebase/60-ngrx-entity-demo.git 
+learn: angularire, https://blog.angularindepth.com/how-the-angular-fire-library-makes-firebase-feel-like-magic-1fda375966bb 
+angularire-redux, https://github.com/davideast/angularfire-redux 
+ngrx: v8, todo app, tomas trajan, https://github.com/tomastrajan/ngrx-test 
+schematics: workshop, tomas trajan, https://github.com/tomastrajan/workshop-angular-schematics 
+deploy to irebase with circleci, andrew evans, https://devchat.tv/adv-in-angular/aia-229-deploying-to-firebase-with-circleci-with-andrew-evans/ 
+ngrx: sample, andrew evans, https://github.com/andrewevans0102/goose-weather.git 
+run: sage-running training plan 12.50$ , https://www.sagerunning.com/checkout-3/ 
