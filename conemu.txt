@@ -123,7 +123,7 @@ alias ngws=ng new $* --create-application=false directory=$*-ws
 alias ngo=ng serve -o
 alias ngn=ng new $* --routing --style scss --prefix hs --minimal --spec false && dir && cd $* && ng g c home && ng g c page-not-found && cd $* && code . && ng serve -o
 alias ngc=ng g c $*
-alias ngma=ng g m auth --routing && ng g c auth -m=auth && ng g c auth/signin -m=auth && ng g c auth/signup -m=auth && ng g s auth/auth && ng g guard auth/auth
+alias ngma=ng g m auth --routing && ng g c auth -m=auth && ng g c auth/components/signin -m=auth && ng g c auth/components/signup -m=auth && ng g s auth/auth && ng g guard auth/auth
  
 ngrx
 -------------------------

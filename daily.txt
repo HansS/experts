@@ -2504,3 +2504,47 @@ schematics: workshop, tomas trajan, https://github.com/tomastrajan/workshop-angu
 deploy to irebase with circleci, andrew evans, https://devchat.tv/adv-in-angular/aia-229-deploying-to-firebase-with-circleci-with-andrew-evans/ 
 ngrx: sample, andrew evans, https://github.com/andrewevans0102/goose-weather.git 
 run: sage-running training plan 12.50$ , https://www.sagerunning.com/checkout-3/ 
+
+mi 08:47 18.09.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------
+health: icebad zh, https://icetherapy.ch/eissauna/preise/ 80.- hal/hour
+health: https://upgradelabs.com/blog/ 
+health: https://resetacademy.drmindypelz.com/bundles/reset-academy 
+health: kaeltekammer zh , zwanzig , https://www.med-ath-letics.ch/kaeltekammer/
+learn: oasis digital ocean, code:David Moore: @vandermore
+learn: oasis digital ocean, Elvis Mahmutovic: @elvis_mm
+learn: oasis digital ocean, Bill Odom: @wnodom
+learn: oasis digital ocean, John Baur: @johnrbaur
+learn: oasis digital ocean, Jack Balbes: @balbesoverrun
+learn: oasis digital ocean, Paul Spears: @theevergreendev
+learn: oasis digital ocean, 
+ 
+nest: "https://www.youtube.com/watch?v=TZ5R7hi9rlA&t=15s,18.09.19" 
+angular: angularconnect, angular mini workshop: angular blog, https://github.com/AnkitSharma-007/blogsite.git 
+tutorial: angularconnect, angular mini workshop: angular blog, https://github.com/AnkitSharma-007/blogsite.git 
+tutorial: angularconnect, angular mini workshop advanced with google signin, https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore.git 
+angular: angular universal with angular-prerender, baljeet singh, baljeetsing.in, https://www.youtube.com/watch?v=W41vpzcMgTA 
+angular: blog, https://www.baljeetsingh.in/blog/ 
+angular: ssr with nestjs, https://www.baljeetsingh.in/blog/adding-server-side-rendering-ssr-to-angular-app-using-nestjs/ 
+angular:training, alain chautard, https://github.com/alcfeoh/ng2-training.git 
+ionic: irebase ngrx, uj cheng, C:\Users\Folio\web\mobile\ionic\fu-cheng-ionic-firebase\Build-Mobile-Apps-Ionic4-Firebase 
+
+do 11:23 19.09.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+angular: angularconnect 2019
+
+fr 12:01 20.09.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------
+ngair: rxjs use cases:scroll, poll, flaky site, niklas wortmann
+angularconnect: day 2, Kara Erickson - Ivy, Mike Ryan - NgRx, Sam Julien - NgRx
+code:c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\fb-auth-four 
+
+so
+------------------------------------------------------------------------------------------------------------------------------------------------------
+health: https://resetacademy.drmindypelz.com/bundles/reset-academy
+
+mo 09:53 23.09.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+ng:schematics, angela venditto, https://github.com/anfibiacreativa/frontendddevlove-angular-schematics.git 
+ng:schematics, manred steyer, npm angular-crud 
+ng: add new project, ng-create-project-commands.txt 

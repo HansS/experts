@@ -27,7 +27,7 @@ UPDATE src/app/links/links.module.ts (342 bytes)
 
 generate ngrx feature with api and create functions
 ----------------------------------------------------------------------------
-ng g feature links/state/links -a -c -m links -r=../../app-store/index.ts --spec=false
+ng g feature links/state/links -a -c -m links -r=../../app-store/index.ts
 
 options:
   --api (-a)
