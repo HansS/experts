@@ -2573,3 +2573,8 @@ angular: ngindia, ivy, https://www.youtube.com/watch?v=_Z_XMhNzLCQ
 angular: questions, E:\A10-projects\__learn\Angular\Angular-Questions\_clips 
 angular: questions, angular-questions.txt 
 learn: fireship.io subscription, end o sept to end o oct 
+learn: windows movie maker, https://www.youtube.com/watch?v=fkXW28_Q3K4 
+download: windows movie maker, https://www.topwin-movie-maker.com/ 
+learn: windows movie maker, movie-zilla, https://www.movie-zilla.org/Window-Movie-Maker-Manual/full-feature-mode-quick-start.html?lang=de 
+learn: nebula , css ramework, ui-bakery 
+learn: angular, tic-tac-toe 
