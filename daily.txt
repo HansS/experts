@@ -2548,3 +2548,28 @@ mo 09:53 23.09.2019
 ng:schematics, angela venditto, https://github.com/anfibiacreativa/frontendddevlove-angular-schematics.git 
 ng:schematics, manred steyer, npm angular-crud 
 ng: add new project, ng-create-project-commands.txt 
+
+di 14:15 24.09.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------
+martin hochel, angular vs react,
+code:c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\hans\fb-links 
+learn: nestjs, baljeet singh, udemy, https://www.udemy.com/course/angular-nestjs-the-modern-mean-stack-guide/ 
+learn: jestjs, unit test with node express, https://www.udemy.com/course/nodejs-unit-testing-and-integration-testing-with-express-and-jest/ 
+learn: storybook, udemy, maurice de beijer, https://www.udemy.com/course/building-react-components-with-storybook/ 
+learn: angular , https://www.youtube.com/c/blackboxtech 
+learn: angular storybook, https://www.youtube.com/watch?v=OxFkS7oOeWc 
+
+mi 12:42 25.09.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------
+css: does the layout work, rachel andrew, https://noti.st/rachelandrew/lDqTZ7/does-it-work-using-the-new-css-layout?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_217
+css: https://thecssworkshop.com/, rachel andrew 
+learn: https://github.com/codediodeio/angular-firestarter.git 
+sport: elektrostimulanz ger„t, 50euro, https://www.amazon.de/51944-Nat%C3%BCrliche-chronische-Schmerzen-Muskelaufbau/dp/B075SYN51D/ 
+sport: elektorstimulanz geraet, 55.-, galaxus online, "https://www.galaxus.ch/de/s6/product/prorelax-duocomfort-massagegeraet-10037474" 
+nx: briebug, "https://www.youtube.com/watch?v=LN_LWzioYM4&feature=em-lbcastemail" 
+video: screenvideo, abellsot, https://www.abelssoft.de/de/windows/multimedia/screenvideo#features 
+angular: deep dive into angular compiler, alex rickabaugh, https://www.youtube.com/watch?v=isb5Ef6yI48 
+angular: ngindia, ivy, https://www.youtube.com/watch?v=_Z_XMhNzLCQ 
+angular: questions, E:\A10-projects\__learn\Angular\Angular-Questions\_clips 
+angular: questions, angular-questions.txt 
+learn: fireship.io subscription, end o sept to end o oct 
