@@ -2578,3 +2578,22 @@ download: windows movie maker, https://www.topwin-movie-maker.com/
 learn: windows movie maker, movie-zilla, https://www.movie-zilla.org/Window-Movie-Maker-Manual/full-feature-mode-quick-start.html?lang=de 
 learn: nebula , css ramework, ui-bakery 
 learn: angular, tic-tac-toe 
+
+do 03:54 26.09.2019
+------------------------------------------------------------------------------------------------------------------------------------------------
+stenciljs: stefan nieuwenhuis, 
+angular: blog, ultimateangular, ultimatecourses
+angular: animations, elena gencheva, yt - frontend developer love 2019angular: frontend love 2019, https://www.youtube.com/playlist?list=PL02pdjMT4gWzhniCNr2hxmLvMZ2RUpEaz 
+rxjs: expert adam lubek, https://github.com/adamlubek/rxjs-examples 
+rxjs: expert adam lubek, on learn-rxjs , brian troncone 
+game: snake in js, https://github.com/adamlubek/snake.git 
+rxjs: expert adam lubek on stackblitz, https://stackblitz.com/@adamlubek 
+rxjs: expert adam lubek on https://www.learnrxjs.io 
+learn: angular, angular glossary, https://angular.io/guide/glossary 
+buy: angular templates, 30$ ,https://angular-templates.io/product/angular-admin-template 
+learn: javascript.ino, c:\Users\Folio\web\frontend\javascript\javascriptino 
+angular: Angular = Microsoft Technologies (Typescript, RxJs) + Google Engineering Skils! 
+rxjs: yt rxjslive 
+git: git aliases, http://www.gitalias.com/ 
+material: angular material design palette generator, http://mcg.mbitson.com/#!?mcgpalette0=%233f51b5 
+code:angular, material shared,fireship.io, angular course, c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\minimal-test 
