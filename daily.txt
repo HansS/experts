@@ -2597,3 +2597,9 @@ rxjs: yt rxjslive
 git: git aliases, http://www.gitalias.com/ 
 material: angular material design palette generator, http://mcg.mbitson.com/#!?mcgpalette0=%233f51b5 
 code:angular, material shared,fireship.io, angular course, c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\minimal-test 
+
+r 04:46 27.09.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------
+schematics: schematics authoring, https://next.angular.io/guide/schematics-authoring
+schematics: search schematics, https://ngx.tools/#/search 
+rxjs: filter sample, https://stackblitz.com/edit/rxjs-filtering-in-an-angular-orm 
