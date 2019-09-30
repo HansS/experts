@@ -2603,3 +2603,32 @@ r 04:46 27.09.2019
 schematics: schematics authoring, https://next.angular.io/guide/schematics-authoring
 schematics: search schematics, https://ngx.tools/#/search 
 rxjs: filter sample, https://stackblitz.com/edit/rxjs-filtering-in-an-angular-orm 
+material: lynda, robby millsap, c:\Users\Folio\web\frontend\javascript\frameworks\angular-material\robby-millsap-lynda\carrots 
+material: lynda, robby millsap,E:\A10-projects\__learn\Angular-Material\_videos 
+material: hans, npm package , material-ui 
+npm: npm enterprise, E:\A10-projects\__learn\workflow\Npm 
+angular library:https://medium.com/@nikolasleblanc/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e 
+mat:0be2343a-c4a6-4a81-9e76-499e5ca9dff9 
+npm publish: https://medium.com/faun/automate-your-npm-publish-with-github-actions-dfe8059645dd 
+
+sa 07:18 28.09.2019
+------------------------------------------------------------------------------------------------------------------------------------------
+angular: angularconnect, https://www.youtube.com/playlist?list=PLAw7NFdKKYpE-f-yMhP2WVmvTH2kBs00s
+angular: publish angular lib to npm, https://medium.com/@esanjiv/complete-beginner-guide-to-publish-an-angular-library-to-npm-d42343801660 
+npm: publish package, yt, https://www.youtube.com/watch?v=rTsz09zRuTU 
+ngrx: mike ryan, angularconnect, c:\Users\Folio\web\frontend\javascript\libraries\rxjs\mike-ryan-ngrx-team\rethinking-reactivity-angularconnect2019 
+ngrx: mike ryan, angularconnect,"https://www.youtube.com/watch?time_continue=4&v=rz-rcaGXhGk" 
+angular: libraries, blog series, https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5 
+git: learn git actions,  
+gt: e32cd83032e9a161655cb1f11b7d7fe8eb5fe932 
+git: git work, course, E:\_downloads\Pluralsight GitHub Fundamentals 
+book: composing sw, eric elliot, E:\_downloads\Elliot E. - Composing Software - 2019 
+angular: angular routing, pluralsight, deborah kurata, E:\_downloads\Angular Routing 31 mar 2017 
+
+personel: achtung vaeter, sr, https://www.srf.ch/feed/podcast/hd/56c82269-d616-45e8-8a4a-bae2342dc1b6.xml
+
+mo 10:41 30.09.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------
+angular: angular material firebase, fireship.io, c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\minimal-test 
+ireship: angular irebase material, https://github.com/codediodeio/angular-firestarter.git 
+nt: c539a6bc-547e-45ef-ab7f-ce0067761e74 
