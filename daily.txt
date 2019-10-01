@@ -2632,3 +2632,15 @@ mo 10:41 30.09.2019
 angular: angular material firebase, fireship.io, c:\Users\Folio\web\frontend\javascript\frameworks\angular\hans\minimal-test 
 ireship: angular irebase material, https://github.com/codediodeio/angular-firestarter.git 
 nt: c539a6bc-547e-45ef-ab7f-ce0067761e74 
+
+di 08:49 01.10.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+angular: tetris game, blog, https://blog.angularindepth.com/game-development-tetris-in-angular-64ef96ce56f7
+angular: tetris game, https://github.com/melcor76/ng-tetris
+angular: angular animations in canvas, https://blog.angularindepth.com/how-to-get-started-with-canvas-animations-in-angular-2f797257e5b4 
+work: angular workspace, C:\Users\Folio\web\frontend\javascript\frameworks\angular-workspaces\netxpert-ws 
+nrwl: isaac mann, new nx course, connect.nrwl.io 
+angular: angular components patterns, egghead.io 
+angular: animations, mike brocchi and justin schwartzenberger, on yt, https://www.youtube.com/channel/UC4xih_tw1_o1bLCetUMvD1w
+
+work: install material, mat-nav with fireship.io, auth with fireship.io 
