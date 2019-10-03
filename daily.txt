@@ -2644,3 +2644,17 @@ angular: angular components patterns, egghead.io
 angular: animations, mike brocchi and justin schwartzenberger, on yt, https://www.youtube.com/channel/UC4xih_tw1_o1bLCetUMvD1w
 
 work: install material, mat-nav with fireship.io, auth with fireship.io 
+work: renew oauth on github with new token 
+
+mi 08:49 02.10.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------
+angular: enrique oriol, udemy teacher, https://github.com/kaikcreator/angular-school-c6/tree/master/src/app 
+
+do 08:48 03.10.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------
+angular: Fernando herrera,udemy teacher, angular, ionic, ngrx, Firebase, https://www.youtube.com/channel/UCuaPTYj15JSkETGnEseaFFg/playlists
+mind: high perormance habits, Brendon Burchard, "https://www.youtube.com/watch?v=ugT5VkFl4Xo&list=WL&index=3&t=0s" 
+ngrx: ngrx day abio bondi , "https://www.youtube.com/watch?v=s8QybQiYwRg&t=3s" 
+work: angular material irebase, ireship,  
+work: angular material irebase, ireship ,E:\A10-projects\__learn\Angular\Angular-Fire\Fireship.io\_docs 
+work: angular workspace, C:\Users\Folio\web\frontend\javascript\frameworks\angular-workspaces\netxpert-ws 
