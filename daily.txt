@@ -2658,3 +2658,21 @@ ngrx: ngrx day abio bondi , "https://www.youtube.com/watch?v=s8QybQiYwRg&t=3s"
 work: angular material irebase, ireship,  
 work: angular material irebase, ireship ,E:\A10-projects\__learn\Angular\Angular-Fire\Fireship.io\_docs 
 work: angular workspace, C:\Users\Folio\web\frontend\javascript\frameworks\angular-workspaces\netxpert-ws 
+bike: https://www.169k.net/ 
+work: E:\A10-projects\__learn\Angular\Angular-Fire\Fireship.io\_docs 
+
+r 08:51 04.10.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------
+vscode: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/playlists
+vscode: web template studio
+github: on yt, https://www.youtube.com/user/github/videos
+expert: simo edwin, vscode extensions, https://github.com/DevEdwin?tab=repositories 
+js animations: "https://www.youtube.com/watch?v=bfaPnlYE8Jo&list=PLDyQo7g0_nsXEOxGlAgccV8fu-cHZnI5B" 
+ts: c:\Users\Folio\web\frontend\typescript\functional-refactoring-kata-ts 
+ts: https://medium.com/@sunnysun_5694/path-to-functional-style-a-typescript-refactoring-example-f5f052fe4d84 
+ng-lib: https://medium.com/@sunnysun_5694/share-angular-6-library-between-multiple-apps-275c11757ffc 
+ECHO ist eingeschaltet (ON).
+expert: angular, Giancarlo Buomprisco , https://blog.bitsrc.io/@.gc
+
+expert: ngrx, giancarlo buomprisco, https://frontend.consulting/articles 
+rxjs: countdown timer, https://frontend.consulting/a-simple-countdown-with-rx-js 
