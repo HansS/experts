@@ -2711,3 +2711,4 @@ angular: github search with pagination, aldo camal
 circleci: download, https://scanlibs.com/version-control-git-github-video/#download
 web dev complete: E:\_downloads\[FreeCourseSite.com] Udemy - The Complete Junior to Senior Web Developer Roadmap (2019) 
 angular: routing, deborah kurata, E:\_downloads\Angular Routing 31 mar 2017 
+git: invitation to hansschenker (gian) rom hanss(windowslive) 
