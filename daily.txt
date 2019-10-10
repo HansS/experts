@@ -2712,3 +2712,16 @@ circleci: download, https://scanlibs.com/version-control-git-github-video/#downl
 web dev complete: E:\_downloads\[FreeCourseSite.com] Udemy - The Complete Junior to Senior Web Developer Roadmap (2019) 
 angular: routing, deborah kurata, E:\_downloads\Angular Routing 31 mar 2017 
 git: invitation to hansschenker (gian) rom hanss(windowslive) 
+angular: anitmations, https://github.com/fireship-io/165-angular-router-animations 
+
+mi 16:57 09.10.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------
+angular: essentials with justin schwartzenberger, 
+angular: attribute directive workshop, https://github.com/KylerJohnson26/ng-attribute-directives-workshop.git
+angular: attribute directive workshop, https://medium.com/@kylerjohnson26/angular-attribute-directives-a-practical-approach-c0ff0d096510
+angular: animation, blog, https://medium.com/@aleixsuau/angular-animations-bring-life-to-your-apps-ca122e5db647 
+
+do 09:12 10.10.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------
+angular: compiler, hacking angular compiler, dominic elm and kwinten pisman, js romania 2019
+schematics: json-server schematics, https://github.com/bniedermeyer/json-server-schematics, ng add json-server-schematics 
