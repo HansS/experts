@@ -2725,3 +2725,4 @@ do 09:12 10.10.2019
 -----------------------------------------------------------------------------------------------------------------------------------------------
 angular: compiler, hacking angular compiler, dominic elm and kwinten pisman, js romania 2019
 schematics: json-server schematics, https://github.com/bniedermeyer/json-server-schematics, ng add json-server-schematics 
+test 
