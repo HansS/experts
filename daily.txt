@@ -2727,3 +2727,14 @@ angular: compiler, hacking angular compiler, dominic elm and kwinten pisman, js 
 schematics: json-server schematics, https://github.com/bniedermeyer/json-server-schematics, ng add json-server-schematics 
 test 
 git: https://github.com/hansschenker/fb-auth, local: c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\fb-auth 
+
+mi 09:31 16.10.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------
+typescript: download course, https://scanlibs.com/typescript-complete-developers-guide/
+work: auth with material shell,hs-mat-shell, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\fb-auth 
+material: angular material library, shell, hs-mat-shell,C:\Users\Folio\web\frontend\javascript\frameworks\angular-workspaces\netxpert-ws\dist\hs-mat-shell  
+material: angular library, material navigation, hs-mat-shell, C:\Users\Folio\web\frontend\javascript\frameworks\angular-workspaces\netxpert-ws\dist\hs-mat-shell 
+angular-ire: b-auth, git: https://github.com/hansschenker/fb-auth, local: c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\fb-auth 
+typescript: advanced talk with daniel rosenwasser, https://www.youtube.com/watch?v=IIKSqFdgC8c 
+typescript: typesccriopt conereence, anders hejlsberg, daniel rosenwaser, Ryan Cavanaugh 
+angular: library , material modules import, C:\Users\Folio\web\frontend\javascript\frameworks\angular-workspaces\netxpert-ws\projects\hs-material 
