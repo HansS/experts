@@ -2738,3 +2738,24 @@ angular-ire: b-auth, git: https://github.com/hansschenker/fb-auth, local: c:\Use
 typescript: advanced talk with daniel rosenwasser, https://www.youtube.com/watch?v=IIKSqFdgC8c 
 typescript: typesccriopt conereence, anders hejlsberg, daniel rosenwaser, Ryan Cavanaugh 
 angular: library , material modules import, C:\Users\Folio\web\frontend\javascript\frameworks\angular-workspaces\netxpert-ws\projects\hs-material 
+
+do 08:39 17.10.2019
+----------------------------------------------------------------------------------------------------------------------------------------------
+typescript: download course, https://scanlibs.com/typescript-complete-developers-guide/
+ionic: ionicthemes, ionic templates, https://ionicthemes.com/product/ionic4-full-starter-app-pro-version?utm_source=IONIC%2BTHEMES&utm_medium=email&utm_campaign=807dbd592d-EMAIL_CAMPAIGN_2019_10&utm_term=0_814b21bde1-807dbd592d-184795913
+angular: reactive, michael hladkey, https://dev.to/michael_hladky/how-to-avoid-observables-in-angular-273h 
+angular: upgrade angularjs to angular, sam julien, https://www.upgradingangularjs.com/ 
+angular: reactive, series on medium, https://medium.com/shot-code/reactive-programming-with-rxjs-9a34d77e758 
+typescript: complete guide, course, E:\A10-projects\__learn\Typescript\Typescript-Developer-Complete-Guide 
+typescript: keyo , https://www.youtube.com/watch?v=IIKSqFdgC8c 
+ngrx: selectors, metareducesers, https://www.youtube.com/playlist?list=PL9b-Li-LE61dyhSjMtGSKRJDUQSXElQ6k 
+ionic: ionic masterclass, ireship, https://github.com/codediodeio/ionic4-master-course, C:\Users\Folio\web\mobile\ionic\fireship\ionic4-master-course
+
+ionic: app low, https://dashboard.ionicframework.com/personal/hub 
+ionic: ionic pwa toolkit , hosted on github , https://github.com/ionic-team/ionic-pwa-toolkit
+
+ionic: tutorial, social app, ytl, https://www.youtube.com/playlist?list=PLYxzS__5yYQnpK36-GJjm7IEAuHR7IExa 
+ionic: tutorial, social app, github: https://github.com/codedamn/social-media-app-ionic4 
+ionic: tutorial, social app, local: C:\Users\Folio\web\mobile\ionic\codedamm\social-media-app-ionic4 
+work: auth with material shell,hs-mat-shell, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\fb-auth 
+github: Fb-auth project, kanban basic 
