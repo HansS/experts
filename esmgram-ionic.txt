@@ -1,0 +1,7 @@
+github: gian.schenker@gmail.com
+
+> git remote -v
+ionic   git@git.ionicjs.com:hansschenker/esmgram-ionic.git (fetch)
+ionic   git@git.ionicjs.com:hansschenker/esmgram-ionic.git (push)
+origin  https://github.com/hansschenker/esmgram-ionic.git (fetch)
+origin  https://github.com/hansschenker/esmgram-ionic.git (push)

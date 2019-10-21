@@ -2759,3 +2759,54 @@ ionic: tutorial, social app, github: https://github.com/codedamn/social-media-ap
 ionic: tutorial, social app, local: C:\Users\Folio\web\mobile\ionic\codedamm\social-media-app-ionic4 
 work: auth with material shell,hs-mat-shell, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\fb-auth 
 github: Fb-auth project, kanban basic 
+base:mm7t18qk 
+health: superfoods, https://www.bodysport.ch/de/395/Superfoods.html 
+
+fr 09:05 18.10.2019
+---------------------------------------------------------------------------------------------------------------------------------------------
+javascript: funcional, https://github.com/StevanCakic/js-foundations
+javascript: functional blog, https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d 
+typescript: complete ts course, zehn erste videos, E:\A10-projects\__learn\Typescript\Complete-Developers-Guide 
+typescript: complete ts course,gc, c:\Users\Folio\web\frontend\typescript\stephen-grider-udemy-typescript-complete\typescriptcasts
+github: github complete course, E:\_downloads\Bibhash Roy - Git Complete Mastery and GitHub - 100% Hands-on Git geek Guide 
+javascript: the hard parts, E:\_downloads\JavaScript - The New Hard Parts 
+docker: docker complete, udemy, https://rutracker.org/forum/viewtopic.php?t=5606597 
+esmgram: c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\esmgram 
+esmgram: github, https://github.com/hansschenker/esmgram 
+esmgram: github, https://github.com/hansschenker/esmgram, local, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\esmgram 
+capacitar: expert, https://github.com/rdlabo?tab=repositories 
+irebase: storage, notes app with image upload, ytl, "https://www.youtube.com/playlist?list=PLdHg5T0SNpN2NimxW3piNqEVBWtXcraz-" 
+ire: docu, https://firebaseopensource.com/projects/angular/angularfire2/ 
+
+sa 10:25 19.10.2019
+------------------------------------------------------------------------------------------------------------------------------------------------
+training:zwölf wochen trainingsplan ttc, triathlin trainining coln,https://www.trainingpeaks.com/training-plans/triathlon/tp-158220/tcc-feat-dan-lorang-12-wochen-base-advanced
+training: ttc training, ytl, https://www.youtube.com/playlist?list=PLdo7hHiMpg_OVT7HLuvSUCYlayh2qs2ro 
+ngrx: wesley grimes, https://github.com/wesleygrimes/angular-ngrx-chuck-norris 
+ngrx: wesley grimes, local, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\wesley-grimes\angular-ngrx-chuck-norris 
+training: triathlon, dan lorang, anne haug, jan frodeno
+work: esmgram: github, https://github.com/hansschenker/esmgram, local, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\esmgram 
+cwe: c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\esmgram 
+bash: cwe: c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\esmgram 
+bash: cww, C:\Users\Folio\web\frontend\javascript\frameworks\angular-workspaces\netxpert-ws 
+json-server: https://medium.com/@kaustubhtalathi/mock-data-for-angular-5-applications-with-json-server-part-2-final-427bd68005bb 
+json-server: part one, https://medium.com/@kaustubhtalathi/mock-data-for-angular-5-applications-with-json-server-part-1-d377eced223b 
+ionic: expert simon grimm, github, https://github.com/saimon24 
+
+so 08:55 20.10.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------
+ionic: mike hartington, ngspain 2019, ionic workshop, https://github.com/mhartington/ngspain-workshop.git
+angular: angular google maps, katerina skeroupula, https://github.com/mandarini/ng-gmap.git 
+ionic: mike hartington, ngspain 2019, ionic workshop, https://github.com/mhartington/ngspain-workshop.git
+angular: angular google maps, katerina skeroupula,, https://www.youtube.com/watch?v=MbPPTzO2w58
+ire: angular ire shop, katarina skorumpula, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\katarina-skorumpula\shop 
+ire: angular ire shop, katarina skorumpula ,https://github.com/mandarini/shop 
+google cloud: be notiyied when ad is published, katarian skeroupelou, https://github.com/mandarini/parser 
+ire: ire chat, katarian skorumpelou, https://github.com/mandarini/chat-workshop-steps.git 
+ire: ire chat, katarian skorumpelou,c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\katarina-skorumpula\chat-workshop-steps 
+ire: ire chat, katarian skorumpelou,docs,https://github.com/mandarini/chat-workshop-docs 
+angular: How to Avoid Observables in Angular, https://dev.to/angular/how-to-avoid-observables-in-angular-273h 
+
+mo 09:52 21.10.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------
+jamstack: https://jamstack.org/, javascript apinetlify: netlify.com, sarah drasner 
