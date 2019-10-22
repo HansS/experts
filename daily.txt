@@ -2821,3 +2821,9 @@ ngrx: wesley grimes, ngrx sample video, https://www.youtube.com/watch?v=QZhDZYlh
 ngrx: best practices, wesley grimes,https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7
 angular: b storage uplaod image, https://www.youtube.com/watch?v=SZlt8VdWAIE 
 angular: image upload, https://github.com/CodAffection/Angular-Image-Gallery-with-Firebase 
+ionic: image upload, https://github.com/ionicthemes/ionic-firebase-image-upload 
+ionic: image upload, blog post, https://ionicthemes.com/tutorials/about/ionic-firebase-image-upload 
+ionic: image-picker, https://ionicframework.com/docs/native/image-picker/ 
+ionic: crop, https://ionicframework.com/docs/native/crop/ 
+ionic: social app,tutorial, https://docs.ionicfirebaseapp.com/ionicsocialapp/ 
+ionic: starter providers, ionicthemes, ionicfirebaseapps, enappd 
