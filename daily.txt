@@ -2799,14 +2799,25 @@ ionic: mike hartington, ngspain 2019, ionic workshop, https://github.com/mhartin
 angular: angular google maps, katerina skeroupula, https://github.com/mandarini/ng-gmap.git 
 ionic: mike hartington, ngspain 2019, ionic workshop, https://github.com/mhartington/ngspain-workshop.git
 angular: angular google maps, katerina skeroupula,, https://www.youtube.com/watch?v=MbPPTzO2w58
-ire: angular ire shop, katarina skorumpula, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\katarina-skorumpula\shop 
-ire: angular ire shop, katarina skorumpula ,https://github.com/mandarini/shop 
+fire: angular fire shop, katarina skorumpula, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\katarina-skorumpula\shop 
+fire: angular fire shop, katarina skorumpula ,https://github.com/mandarini/shop 
 google cloud: be notiyied when ad is published, katarian skeroupelou, https://github.com/mandarini/parser 
-ire: ire chat, katarian skorumpelou, https://github.com/mandarini/chat-workshop-steps.git 
-ire: ire chat, katarian skorumpelou,c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\katarina-skorumpula\chat-workshop-steps 
-ire: ire chat, katarian skorumpelou,docs,https://github.com/mandarini/chat-workshop-docs 
+fire: fire chat, katarian skorumpelou, https://github.com/mandarini/chat-workshop-steps.git 
+fire: fire chat, katarian skorumpelou,c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\katarina-skorumpula\chat-workshop-steps 
+fire: fire chat, katarian skorumpelou,docs,https://github.com/mandarini/chat-workshop-docs 
 angular: How to Avoid Observables in Angular, https://dev.to/angular/how-to-avoid-observables-in-angular-273h 
 
 mo 09:52 21.10.2019
 --------------------------------------------------------------------------------------------------------------------------------------------------
 jamstack: https://jamstack.org/, javascript apinetlify: netlify.com, sarah drasner 
+rxjs: alexander poshtaruk, hands on rxjs in web development, packtpub, E:\A10-projects\__learn\Rxjs\Hands-On-RxJs-Packtpub 
+angular: conference, ngspain, october,  
+ayurveda: liestyle, https://www.youtube.com/channel/UCX_ZpyxxZxVxCJv_eG4wgtg/videos 
+
+di 09:44 22.10.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx: workshop nrwl, brandon roberts, https://github.com/nrwl/ngrx-workshop-app.git
+ngrx: wesley grimes, ngrx sample video, https://www.youtube.com/watch?v=QZhDZYlhvKs&feature=youtu.be
+ngrx: best practices, wesley grimes,https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7
+angular: b storage uplaod image, https://www.youtube.com/watch?v=SZlt8VdWAIE 
+angular: image upload, https://github.com/CodAffection/Angular-Image-Gallery-with-Firebase 
