@@ -2827,3 +2827,8 @@ ionic: image-picker, https://ionicframework.com/docs/native/image-picker/
 ionic: crop, https://ionicframework.com/docs/native/crop/ 
 ionic: social app,tutorial, https://docs.ionicfirebaseapp.com/ionicsocialapp/ 
 ionic: starter providers, ionicthemes, ionicfirebaseapps, enappd 
+ire: docs, https://firebaseopensource.com/projects/angular/angularfire2/ 
+ionic: ionic menu with submenu entries, yt, simon grimm, https://www.youtube.com/watch?v=_yFoStldYLI 
+ionic: sidemenu as a component, https://github.com/PurpleEdge2214/Ionic4-Side-Menu-as-a-Component---Example 
+ionic: async validation with json server, https://github.com/PurpleEdge2214/gwbIonic4AsyncValidation 
+ionic: async validation with json server,https://www.comformark.com.au/news/post/ionic4-custom-async-validation 
