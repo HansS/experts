@@ -2832,3 +2832,21 @@ ionic: ionic menu with submenu entries, yt, simon grimm, https://www.youtube.com
 ionic: sidemenu as a component, https://github.com/PurpleEdge2214/Ionic4-Side-Menu-as-a-Component---Example 
 ionic: async validation with json server, https://github.com/PurpleEdge2214/gwbIonic4AsyncValidation 
 ionic: async validation with json server,https://www.comformark.com.au/news/post/ionic4-custom-async-validation 
+
+mi 09:10 23.10.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------
+ionic: udemy, max schwarzmueller
+ionic: submenu clips, E:\A10-projects\__learn\Mobile\Ionic\simon-grim-ioni-sidemenu-submenu 
+
+do 09:18 24.10.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------
+angular: ng-content, https://github.com/mbeckenbach/ng-content-projection.git
+angular: blog post sample, matt vaughn 
+
+r 14:09 25.10.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ionic: sani yusu, ionic essential, E:\A10-projects\__learn\Mobile\Ionic\ionic-4-essentials
+bike: veloclick.ch, https://www.veloclick.ch/occasion-velo/wheeler-desenzano-vpvss_dvn4e?locale=de
+rxjs: alexander poshtaruk, rxjs testing, E:\A10-projects\__learn\Rxjs\Alex-Okrushko, udemy course, https://www.udemy.com/course/rxjs-unit-testing-in-angular-application-the-whole-picture/learn/lecture/16429786?start=0#overview 
+ionic: sani yusu ionic sample.  C:\Users\Folio\web\mobile\ionic\sani-yusuf\ticket-hack-st-helens 
+json: json to typescript converter, jsontots.com 

@@ -1,79 +1,55 @@
-<ion-list>
-<ion-menu-toggle auto-hide="false" *ngfor="let p of appPages">
+public appPages = [
+    {
+      title: 'Card',
+      url: '/home',
+      icon: 'paper'
+    },
+    {
+      title: 'Category',
+      url: '/list',
+      icon: 'walk',
+      subPages: [
+      { title: 'subtest1', url: '' },
+      { title: 'subtest2', url: '' },
+      { title: 'subtest3', url: '' },
+      { title: 'subtest4', url: '' },
+      { title: 'subtest5', url: '' },
+      { title: 'subtest6', url: '' },
+      { title: 'subtest7', url: '' },
+      { title: 'subtest8', url: '' }
+     ]
+    }   
+  ];
+And use this code to load the pages dynamically:
 
-<ion-item *ngif="p.subpages==undefined || p.subpages.length==0" [routerdirection]="'root'" [routerlink]="[p.url]">
-<ion-icon slot="start" [name]="p.icon"></ion-icon>
-<ion-label>
-{{ p.title | translate }}
-</ion-label>
-</ion-item>
-
-
-<ion-item button="" *ngif="p.subpages?.length &gt; 0" (click)="p.open = !p.open" [class.menu-parent-active]="p.open" detail="false">
-<ion-icon slot="start" name="arrow-forward" *ngif="!p.open"></ion-icon>
-<ion-icon slot="start" name="arrow-down" *ngif="p.open"></ion-icon>
-<ion-label>{{ p.title | translate }}</ion-label>
-</ion-item>
-
-<ion-list *ngif="p.open">
-
-<ion-item *ngfor="let sub of p.subpages" class="menu-sub-item" [routerlink]="sub.url" routerdirection="root" routerlinkactive="active">
-<ion-icon [name]="sub.icon" slot="start"></ion-icon>
-<ion-label>
-{{ sub.title | translate }}
-</ion-label>
-</ion-item>
-
-</ion-list>
-
-</ion-menu-toggle>
-</ion-list>
-
-//////////////////////////////////////////////////////////// sample gist
-<ion-menu contentId="content" auto-hide="false" persistent="true" >
-  <ion-header>
-    <ion-toolbar color="dark">
-      <ion-title>Menu</ion-title>
-    </ion-toolbar>
-  </ion-header>
- 
-  <ion-content>
- 
-    <div *ngFor="let p of pages">
- 
-      <!-- Standard Menu Item -->
-      <ion-menu-toggle *ngIf="p.url">
-        <ion-item [routerLink]="p.url" routerDirection="root" routerLinkActive="active">
-          <ion-icon [name]="p.icon" slot="start"></ion-icon>
-          <ion-label>
-            {{ p.title }}
-          </ion-label>
-        </ion-item>
-      </ion-menu-toggle>
-      <!-- Item with Children -->
- 
-      <ion-item button *ngIf="p.children?.length > 0" (click)="p.open = !p.open" [class.parent-active]="p.open" detail="false">
-        <ion-icon slot="start" name="arrow-forward" *ngIf="!p.open"></ion-icon>
-        <ion-icon slot="start" name="arrow-down" *ngIf="p.open"></ion-icon>
-        <ion-label>{{ p.title }}</ion-label>
-      </ion-item>
- 
-      <!-- Children List for clicked Item -->
-      <ion-list *ngIf="p.open">
-        <ion-menu-toggle>
-          <ion-item *ngFor="let sub of p.children" class="sub-item" [routerLink]="sub.url" routerDirection="root"
-            routerLinkActive="active">
-            <ion-icon [name]="sub.icon" slot="start"></ion-icon>
+<ion-app>
+  <ion-menu contentId="content" side="start">
+    <ion-header>
+      <ion-toolbar>
+        <ion-title>Categorie</ion-title>
+      </ion-toolbar>
+    </ion-header>
+    <ion-content>
+      <ion-list>
+        <ion-menu-toggle auto-hide="false" *ngFor="let p of appPages">
+          <ion-item [routerDirection]="'root'" [routerLink]="[p.url]">
+            <ion-icon slot="start" [name]="p.icon"></ion-icon>
             <ion-label>
-              {{ sub.title }}
+              {{p.title}}
             </ion-label>
           </ion-item>
+          <ion-list>
+            <ion-menu-toggle auto-hide="false" *ngFor="let s of p.subPages">
+              <ion-item [routerDirection]="'root'" [routerLink]="[s.url]">
+                <ion-label>
+                  {{s.title}}
+                </ion-label>
+              </ion-item>
+            </ion-menu-toggle>
+          </ion-list>
         </ion-menu-toggle>
       </ion-list>
- 
-    </div>
-  </ion-content>
- 
-</ion-menu>
- 
-<ion-router-outlet id="content" main></ion-router-outlet>
+    </ion-content>
+  </ion-menu>
+  <ion-router-outlet id="content" main></ion-router-outlet>
+</ion-app>
