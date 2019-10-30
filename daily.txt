@@ -33,6 +33,7 @@ regular physical exercise (1 strength training + 2-aerobic (1-2 hours), 1 HIT = 
 regular intermittent fasting ( 1 day in week no food only water, eat only 2 meals a day, eat in a 8 hours window, 16 hours no eating
 regular daily time only for you (10 to 15min), sit in meditation or do some breating techniques (pranayama)
 
+
 Do 11:43 03.01.2019
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 briebug, ng schematics with brian love, kevin schuchard
@@ -2850,3 +2851,30 @@ bike: veloclick.ch, https://www.veloclick.ch/occasion-velo/wheeler-desenzano-vpv
 rxjs: alexander poshtaruk, rxjs testing, E:\A10-projects\__learn\Rxjs\Alex-Okrushko, udemy course, https://www.udemy.com/course/rxjs-unit-testing-in-angular-application-the-whole-picture/learn/lecture/16429786?start=0#overview 
 ionic: sani yusu ionic sample.  C:\Users\Folio\web\mobile\ionic\sani-yusuf\ticket-hack-st-helens 
 json: json to typescript converter, jsontots.com 
+
+mo 10:25 28.10.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------
+vscode: browser preview extension,
+
+
+ionic: learn course, E:\A10-projects\__learn\Mobile\Ionic\jellene-khoh-packpub-ionic-projects\ 
+ionic: template app, E:\A10-projects\__learn\Mobile\Ionic\ionic-template-sellers\Ionicfirebaseapp\social_app 
+ionic: template app, C:\Users\Folio\web\mobile\ionic\ionicfirebaseapp\social_app 
+
+di 09:43 29.10.2019
+------------------------------------------------------------------------------------------------------------------------------------------------
+typescript: anders hejlsberg, on typescript .7
+typescript: travis isher, unctional typescript, https://github.com/transitive-bullshit/functional-typescript
+typescript: ts-morph, work with ast typescript 
+ionic: learn ionic course,  E:\A10-projects\__learn\Mobile\Ionic\jellene-khoh-packpub-ionic-projects\ 
+vision: computer vision projects, https://scanlibs.com/advanced-computer-vision-projects-video/#download 
+irebase: ucntions, samples and quickstarts, https://github.com/firebase/functions-samples/tree/master/quickstarts 
+irebase: angular instagram clone, https://gist.github.com/runtimeZero/65e249d8410dc21e9fd0fef020698d6e 
+irebase: angular instagram clone, https://github.com/runtimeZero/firebase-functions-demogram.git 
+irebase: angular instagram clone, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\shreya-vakil-udemy-instagram-clone\instagram-angular4-firebase 
+irebase: angular instagram clone, https://www.udemy.com/course/live-coding-going-serverless-with-firebase-3-and-angular/learn/lecture/7886728#overview 
+
+mi 08:57 30.10.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------
+health: pro sven voelpel, altern ist kopsache, https://www.youtube.com/channel/UCstxXkfkCUvyksVb-jG9CDQ/
+health: k”rperliche und mentale itness, sven voelpel, buch, au kindle, https://lesen.amazon.de/?asin=B00T2YXNO0 
