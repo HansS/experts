@@ -2886,3 +2886,12 @@ health: ey alter, ausstellung alter, sven voelpel, http://www.eyalter.com/de/par
 angular: angular material layout module sample, https://github.com/tarlepp/angular-cli-frontend 
 angular-ire: angular ire material starter sample, https://github.com/tarlepp/angular-firebase-material-demo#demo 
 health: human physilogy lessons on youtube, https://www.youtube.com/user/renhartung/playlists 
+
+do 10:26 31.10.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------
+material: material sidenav, max schwarzmueller, https://www.youtube.com/watch?v=Q6qhzG7mObU 
+material: material sidenav with dynamic submenu, https://stackblitz.com/edit/angular-material-sidenav-menu-nested 
+screenvideo: app data, C:\Users\Folio\Videos\ScreenVideo 
+angular: advanced course, todd motto, ultimatecourses.com, https://ultimatecourses.com/course/angular-pro 
+angular: reactive orms, nrwl connect, zack derose, https://connect.nrwl.io/app/courses/reactive-forms/lesson-0-0-course-objectives-and-structure 
+material: material-playground, material-modules library, mat-appshell library, C:\Users\Folio\web\frontend\javascript\frameworks\angular-material\hans\material-playground 
