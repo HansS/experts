@@ -2895,3 +2895,39 @@ screenvideo: app data, C:\Users\Folio\Videos\ScreenVideo
 angular: advanced course, todd motto, ultimatecourses.com, https://ultimatecourses.com/course/angular-pro 
 angular: reactive orms, nrwl connect, zack derose, https://connect.nrwl.io/app/courses/reactive-forms/lesson-0-0-course-objectives-and-structure 
 material: material-playground, material-modules library, mat-appshell library, C:\Users\Folio\web\frontend\javascript\frameworks\angular-material\hans\material-playground 
+angular: nrwl angular reactive orms 
+
+fr 05:43 01.11.2019
+------------------------------------------------------------------------------------------------------------------------------------------------
+health: hunger ist urlaub für den körper, gerd reuther, die kunst möglichst lange zu leben
+health: der körper ist wie ein korallenriff für die bakterien, gerd reuther
+health: der körper heilt sich selbst
+health: antibiotika tötet die gutne bakterien, und gibt den schlechten die oberhand
+health: schmerzmittel erhöhen das risiko für herzkrankheiten um 50%
+health: der patient ist für seine gesundheit selbst verantwortlich,der arzt ist ein berater für den patienten
+patient alle möglichkeiten der behandlung und nicht behandlung aufzeigt.
+health: wo gesundheit draufsteht ist nicht gesundheit drin
+
+typescript: eric potter, expert 
+typescript: eric potter, advanced types, https://github.com/pottereric/TypeScriptBeyondTheBasics 
+typescript: eric potter, advanced types,https://github.com/pottereric/TypeScriptErrorHandling 
+typescript: eric potter, site, http://humbletoolsmith.com/ 
+material: navigation , blog article, codingthesmartway, https://medium.com/codingthesmartway-com-blog/angular-material-part-3-navigation-menus-sidenavs-and-toolbars-49d9873fb54a 
+health: gehirn, https://3d.dasgehirn.info/ ds
+
+sa 15:00 02.11.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------
+angular: reactive forms, controlvalueaccessor, c:\Users\Folio\web\frontend\javascript\frameworks\angular-forms\reactive\galaxy-rating-app
+angular: reactive forms, controlvalueaccessor,https://www.youtube.com/watch?v=iqXiic6hE9U
+angular: reactive forms, Jennifer Wadella, https://www.youtube.com/watch?v=jqEvu3IvxlA
+
+angular: ultimatecourses, angular pro github, https://github.com/UltimateAngular/angular-pro-app-seed 
+
+mo 12:56 04.11.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+angular: juri strumpflohner, expert, juristr.com, github.com/juristr
+verdaccio: team membber, Juan Picado 
+pnpm: https://pnpm.js.org/, ast, disk space efficient package manager 
+pnpm: use pnpm instead o npm, pnpmjs.org, npm install -g pnpm 
+pnpm: website, https://pnpm.js.org/ 
+verdacccio: use verdaccio and pnpm together, https://www.youtube.com/watch?v=hDIFKzmoCaA, minutes 16 and later 

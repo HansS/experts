@@ -1,13 +1,8 @@
-work: esm-chat, C:\Users\Folio\web\mobile\ionic\angularfirebase\esm-chat  
-work: ionic angular firebase post app, ionicacademy,  C:\Users\Folio\web\mobile\ionic\ionicacademy\firebaseApp  
-work: firebase functions fb project, c:\Users\Folio\web\firebase\functions\doug-stevenson-fb-team\fb-functions  
-work: ionic firstore uploadcare, esmpix, C:\Users\Folio\web\mobile\ionic\hans\esmpix  
-work: ionic firestore uploadcare, codedamn, C:\Users\Folio\web\mobile\ionic\codedamn-github  
-work: firebase firestore firestorage posts, c:\Users\Folio\web\frontend\javascript\frameworks\angular-fire\hans\fb-posts  
-add posts lazy module
-add firebase-storage module
-add firebae-firestore module
-add angular-material module
-git init
-git push hanss/fb-posts
+ultimatecourses, reactive forms, formbuilder api, formgroup, formarray, formcontrol
+ultimatecourses, reactive forms, formcontrol.valuechanges, .reset (set to initial values, reset validation classes, ngtoched, ngdirty, ngpristinge)
+ultimatecourses, reactive forms, formcontrol.setValue (set all values programmatically)
+ultimatecourses, reactive forms, formcontrol.patchValue (set single value programmatically)
+
+material navigtion, material ui module, material-shell module (hs-material-schell)
+verdaccio, local npm registry
 
