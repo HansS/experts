@@ -2931,3 +2931,37 @@ pnpm: https://pnpm.js.org/, ast, disk space efficient package manager
 pnpm: use pnpm instead o npm, pnpmjs.org, npm install -g pnpm 
 pnpm: website, https://pnpm.js.org/ 
 verdacccio: use verdaccio and pnpm together, https://www.youtube.com/watch?v=hDIFKzmoCaA, minutes 16 and later 
+
+di 09:36 05.11.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------
+angular: orms with material design, https://github.com/CodeMazeBlog/angular-material-series.git
+angular:material orms, c:\Users\Folio\web\frontend\javascript\frameworks\angular-forms\angular-material-series\finished project with update and delete functionalities\ang-material-OwnerAccount 
+node_modules: list all node_modules, FOR /d /r . %d in (node_modules) DO @IF EXIST "%d" echo %d"
+node_modules: delete all node_modules,  FOR /d /r . %d in (node_modules) DO @IF EXIST "%d" rm -rf "%d"
+node_modules: delete all node_modules,powershell: Get-ChildItem -Path "." -Include "node_modules" -Recurse -Directory | Remove-Item -Recurse -Force 
+pnpm: use pnpm instead o npm, do npm cache clean
+material: material series blog, https://code-maze.com/angular-material-series/ 
+angular: set package manager, ng set --global packageManager=yarn 
+pnpm: pnpm install --shamefully-flatten 
+angular: forms, in model driven you use template variables (html), 
+angular: forms, in reactive you use formcontrolName to reference control in code, create control in code and reference it in template with  formcontrolName 
+
+mi 07:41 06.11.2019
+--------------------------------------------------------------------------------------------------------------------------------------------
+angular: ten best practices, https://christianlydemann.com/the-ten-commandments-of-angular-development/#six
+material: material course, dan wellman, E:\A10-projects\__learn\Angular\Angular-Material-Dan-Wellman 
+angular: angular routing course, E:\A10-projects\__learn\Angular\Hans-on-Angular-Packtpub 
+angular: expert loiane, https://github.com/loiane/curso-angular 
+angular: travis ci, https://github.com/loiane/angular-travisci-firebase 
+angular: course, ytl, loiane, https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G 
+material: import css material style, @import "~@angular/material/prebuilt-themes/indigo-pink.css"; 
+
+do 07:42 07.11.2019
+---------------------------------------------------------------------------------------------------------------------------------------------
+angular: expert isaac maan, https://medium.com/@isaacplmann
+angular: directives, blog, https://www.jeffryhouser.com/index.cfm/2019/5/9/Creating-Angular-Directives-Part-1--A-simple-Directive-to-Toggle-State 
+angular: directives, alex rickabaugh, video ab minute thirty, https://www.youtube.com/watch?v=EoSn8qASqQA 
+angular: nav and carousel directives, with alex rickabaugh, twitter: synalx, https://www.youtube.com/watch?v=rKbY1t39dHU 
+angular: alex rickabaugh, on stackblitz, https://stackblitz.com/@alxhub 
+ionic: capacitor explained by mike hartington, https://blog.angular.io/announcing-the-capacitor-ngadd-schematic-732fd90f40fa 
+angular: prototyping, https://blog.angular.io/prototyping-with-angular-a83fbf0533ef 
