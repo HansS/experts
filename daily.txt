@@ -2965,3 +2965,61 @@ angular: nav and carousel directives, with alex rickabaugh, twitter: synalx, htt
 angular: alex rickabaugh, on stackblitz, https://stackblitz.com/@alxhub 
 ionic: capacitor explained by mike hartington, https://blog.angular.io/announcing-the-capacitor-ngadd-schematic-732fd90f40fa 
 angular: prototyping, https://blog.angular.io/prototyping-with-angular-a83fbf0533ef 
+
+r 08:10 08.11.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------
+css: toggle switch, https://medium.com/front-end-weekly/creating-a-toggle-switch-in-css-2d23e496d035
+angular: Jeremy Elbourn, angular8, "https://www.youtube.com/watch?v=B8P3Ose25e8&list=WL&index=3&t=0s" 
+angular: microsyntax, https://www.youtube.com/watch?v=W3cQLj0lwKw 
+angular: microsyntax,https://www.youtube.com/watch?v=TBcAXgsVFtM 
+angular: dynamic css, https://ultimatecourses.com/blog/using-ngstyle-in-angular-for-dynamic-styling 
+ngrx: auth with sam julien, on twitch, https://www.twitch.tv/videos/499463534 
+irebase: build an api with irebase, https://medium.com/@andrew_evans/building-an-api-with-firebase-6ec9623eae3 
+angular: template microsyntax grammar, https://gist.github.com/mhevery/d3530294cff2e4a1b3fe15ff75d08855 
+angular: template microsyntax ,https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a 
+angular: template microsyntax,carousel sample ,https://netbasal.com/understanding-angular-structural-directives-659acd0f67e 
+angular: template microsyntax,multi-step wizard, alex rickabaugh presentation,  
+angular: template microsyntax,carousel sample ,https://github.com/zetsnotdead/ng-carousel 
+angular: template microsyntax,carousel sample ,with alex rickabaugh, twitter: synalx, " https://www.youtube.com/watch?v=rKbY1t39dHU" 
+angular: components like a pro, udemy, https://www.udemy.com/course/angular-components-like-a-pro/ 
+angular: content projection, ultimatecourses, https://ultimatecourses.com/course/angular-pro/contentchild-and-ngaftercontentinit 
+
+sa 07:59 09.11.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------
+angular: pwa, angulartraining.com, alain chautard, https://angulartraining.teachable.com/courses/376760/lectures/5830695
+angular: component lazy loading with angular elements, https://www.youtube.com/watch?v=UhJuVN5KIFk 
+angular: component lazy loading with angular elements,,https://juristr.com/blog/2019/11/lazy-loading-angular-ngx-lazy-el/ 
+angular: behavioral components, Netanel Basal, blog article, https://netbasal.com/creating-behavioral-components-in-angular-8db6080f0cc4 
+angular: structural directives, Netanel Basal, https://netbasal.com/create-modular-components-with-angular-structural-directives-1a5198d9ab7d 
+angular: understandig structural directives,carousel sample, https://netbasal.com/understanding-angular-structural-directives-659acd0f67e 
+angular: understandig structural directives,carousel sample,https://github.com/zetsnotdead/ng-carousel 
+angular: understandig structural directives,carousel sample,alex rickabaugh, video ab minute thirty, https://www.youtube.com/watch?v=EoSn8qASqQA 
+material: stepper, https://material.angular.io/components/stepper/overview 
+material: stepper,  blog article, https://dev.to/mokkapps/how-i-built-a-custom-stepperwizard-component-using-the-angular-material-cdk-4f34 
+angular: irebase deploy, blog article, techiediaries, https://www.techiediaries.com/deployment-to-firebase-using-angular-cli/ 
+work: angular template syntax , quizz-app, analog angularuniversity, angular core deeep dive, c:\Users\Folio\web\frontend\javascript\frameworks\angular-hans\quizz-app 
+work: angular template syntax , quizz-app, analog angularuniversity, angular core deeep dive ,https://github.com/angular-university/angular-course 
+
+so 11:17 10.11.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------
+angular: web design, https://www.youtube.com/watch?v=kgIl9qrD0Mc, Peter Smith, James Gibson, AngularNYC on yt
+angular: expert, Eliran Eliassy, https://www.youtube.com/watch?v=TnPbtkNSS7M, https://eliassy.dev/ 
+health: broccoli keimen, https://www.sulforaphan.org/brokkolisprossen-herstellen/ 
+health: https://www.youtube.com/user/FoundMyFitness/videos 
+health: sulforaphane ,https://www.youtube.com/watch?v=zz4YVJ4aRfg 
+
+mo 07:48 11.11.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+computer: ind your ip, https://ipinfo.io/ip
+angular: expert, ole ersoy, https://medium.com/@ole.ersoy 
+angular: talks 2019, achttps://nitayneeman.com/posts/all-talks-from-angular-connect-2019/ 
+material: erin coughlan, ac-2019 , material sample with star comp, https://github.com/ErinCoughlan/material-coffee-app.git 
+angular: erin coughlan, angular elements, https://www.youtube.com/watch?v=6KCnV72vrXY 
+angular: ac 15, victor savkin, tobias bosch , explain angular concept, viewchild, contentchild, ng-content, templateRef
+
+angular: expert, tomaz kula, ng-carousel, https://medium.com/@realTomaszKula 
+angular:carousel sample, gc,  c:\Users\Folio\web\frontend\javascript\frameworks\angular-directive\netanel-basal\ng-carousel 
+angular: advanced dom manipulations, max koretskyi, https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02 
+angular: dom manipulation concepts, ElementRef, TemplateRef, ViewRef, ComponentRef and ViewContainerRef 
+angular: dom queries, viewchild, viewchildren, contentchild, contentchildren, querylist 
+angular: dom workshop, maxim koretskyi, https://github.com/maximusk/dom-manipulation-workshop 
