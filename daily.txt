@@ -3023,3 +3023,15 @@ angular: advanced dom manipulations, max koretskyi, https://blog.angularindepth.
 angular: dom manipulation concepts, ElementRef, TemplateRef, ViewRef, ComponentRef and ViewContainerRef 
 angular: dom queries, viewchild, viewchildren, contentchild, contentchildren, querylist 
 angular: dom workshop, maxim koretskyi, https://github.com/maximusk/dom-manipulation-workshop 
+
+di 09:15 12.11.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------
+computer: ind your ip, https://ipinfo.io/ip: 
+angular: directive, form control validation directive, netanel basal, https://netbasal.com/attribute-directives-angular-forms-b40503643089
+hans: directive playground, c:\Users\Folio\web\frontend\javascript\frameworks\angular-directive\hans\directives-playground 
+angular: form validaation directive, blog article, https://netbasal.com/attribute-directives-angular-forms-b40503643089
+angular: form validation directive, tomasz kula, https://github.com/zetsnotdead/ng-validation-border.git 
+angular: expert, tomasz kula, tomaszkulawebdev@gmail.com, github: https://github.com/zetsnotdead 
+pnpm: https://twitter.com/pnpmjs 
+json: http://docs.jsonata.org/overview.html, SONata is a lightweight query and transformation language for JSON data 
+json: jsonata, short video, "https://www.youtube.com/watch?time_continue=5&v=ZBaK40rtIBM&feature=emb_logo" 
