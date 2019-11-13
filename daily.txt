@@ -3035,3 +3035,28 @@ angular: expert, tomasz kula, tomaszkulawebdev@gmail.com, github: https://github
 pnpm: https://twitter.com/pnpmjs 
 json: http://docs.jsonata.org/overview.html, SONata is a lightweight query and transformation language for JSON data 
 json: jsonata, short video, "https://www.youtube.com/watch?time_continue=5&v=ZBaK40rtIBM&feature=emb_logo" 
+hans: c:\Users\Folio\web\frontend\javascript\frameworks\angular-hans\quizz-app 
+
+mi 09:55 13.11.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+angular: templateoutlet talk, stephen cooper, https://github.com/StephenCooper/ngTemplateOutlets.git
+angular: templateoutlet talk, stephen cooper, https://www.youtube.com/watch?v=2SnVxPeJdwE&list=WL&index=2&t=0s
+angular: templateoutlet talk, stephen cooper, c:\Users\Folio\web\frontend\javascript\frameworks\angular-directive\stephen-cooper-templateoutlet-talk\ngTemplateOutletsangular: book, https://leanpub.com/developing-with-angular, ten dollars min prize, 
+angular: book, https://github.com/DenysVuika?tab=repositoriesecd angular: book, https://leanpub.com/developing-with-angular, ten dollars min prize, 
+angular: expert, michael homann, https://github.com/mokkapps 
+angular: structural directive expander, https://alexzuza.github.io/ng-structural-directive-expander/ 
+angular: ivy, jit preview, alexy zueva, https://alexzuza.github.io/ivy-jit-preview/ 
+angular: universal irebase unctions, "https://www.youtube.com/watch?time_continue=12&v=VS0zsXvDJ08&feature=emb_logo" 
+angular: generic template library, https://blog.angularindepth.com/agnostic-components-in-angular-2427923b742d 
+angular: everything ngtemplateoutput, https://www.freecodecamp.org/news/author/patrick1729/ 
+material: cdk ngtemplateoutput samples, jeremy elbourn, cdkDrag 
+angular: expert, alex linkin, https://stackblitz.com/@waterplea 
+angular: template, autocomplete, netanel basal, c:\Users\Folio\web\frontend\javascript\frameworks\angular-templates\netanel-basal-autocomplete\ng-autocomplete 
+angular: template, autocomplete, netanel basal, https://netbasal.com/create-a-custom-select-component-in-angular-complete-with-virtual-scrolling-c29e24f72006 
+angular: template, autocomplete, netanel basal,https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5 
+angular: searchable templates, netanel basal, https://netbasal.com/creating-searchable-templates-in-angular-20ba70ce4e21 
+angular: injector tree, alex zuev, https://blog.angularindepth.com/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d 
+angular: modular components with structural directives, netanel basal, https://netbasal.com/create-modular-components-with-angular-structural-directives-1a5198d9ab7d 
+angular: power o structural directives, netanel basal, https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1 
+angular: understanding structural directives, tomasz kula, https://netbasal.com/understanding-angular-structural-directives-659acd0f67e 
+angular: understanding structural directives, tomasz kula,https://github.com/zetsnotdead/ng-carousel 
