@@ -3060,3 +3060,51 @@ angular: modular components with structural directives, netanel basal, https://n
 angular: power o structural directives, netanel basal, https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1 
 angular: understanding structural directives, tomasz kula, https://netbasal.com/understanding-angular-structural-directives-659acd0f67e 
 angular: understanding structural directives, tomasz kula,https://github.com/zetsnotdead/ng-carousel 
+angular: template expert, stephen cooper, "https://www.youtube.com/watch?v=2SnVxPeJdwE&t=1s" 
+hans: carousel-directive tomasz kula, selctor-component stephen cooper, ng-select netanel-basal 
+
+do 08:29 14.11.2019
+---------------------------------------------------------------------------------------------------------------------------------------------
+angular: nrwl connect live, https://www.youtube.com/watch?v=lN9F4bNsR0c
+downloadœ: typescript three, https://scanlibs.com/mastering-typescript-enterprise-industrial-apps-3rd/#download 
+angular: expert, adrian faciu, https://stackblitz.com/@adrianfaciu, github.com/adrianfaciu , https://medium.com/@adrianfaciu
+
+cdk: expert, adrian faciu,,https://blog.angularindepth.com/creating-a-toast-service-with-angular-cdk-a0d35fd8cc12 
+ngrx: v8 syntax,adrian faciu , "https://www.youtube.com/watch?v=giR8nUtM_mw&t=6s" 
+angular: comchat angular sample, adrian faciu, https://github.com/adrianfaciu/Angular-group-chat 
+hans: angular templates, c:\Users\Folio\web\frontend\javascript\frameworks\angular-templates\hans\template-playground 
+training: dario cologna, davos it videos, publish on instagram, jugi pontresina 
+rxjs: expert hannah howard, https://github.com/hannahhoward?tab=repositories 
+hannah howardecd rxjs: expert hannah howarde, rxjs: expert,https://www.youtube.com/watch?v=zz_o7A0HET8 
+hannah howard, https://www.youtube.com/watch?v=GqAsNFFpNHQ 
+
+r 09:40 15.11.2019
+---------------------------------------------------------------------------------------------------------------------------------------------
+typescript: advanced types = algebraic data types, https://www.typescriptlang.org/docs/handbook/advanced-types.html
+
+unctional: scott wlaschin, ndc , railway oriented programming 
+typescript: intro to advanced types, https://blog.carbonfive.com/2018/01/08/an-introduction-to-adts-and-structural-pattern-matching-in-typescript/ 
+unctional: structural pattern matching, http://blog.higher-order.com/blog/2009/08/21/structural-pattern-matching-in-java/ 
+typescript: algebraic data types, giulio canti, https://www.youtube.com/watch?v=rs8rzYmKzVE 
+typescript: Algebraic data types for fun and profit by Cl‚ment Delafargue, https://www.youtube.com/watch?v=EPxi546vVHI 
+typescript: structural patttern matching, algebraic data types, https://blog.carbonfive.com/2018/01/08/an-introduction-to-adts-and-structural-pattern-matching-in-typescript/ 
+svelte: https://blog.carbonfive.com/category/development/ 
+typescript: best practices, https://blog.carbonfive.com/2019/06/17/adjusting-to-typescript-101/ 
+unctional: https://blog.carbonfive.com/2017/12/20/easy-pipeline-debugging-with-curried-console-log/ 
+svelte: expert, https://github.com/will-wow?tab=repositories 
+typescript: expert, https://github.com/will-wow?tab=repositories 
+angular:directives, image directive, https://blog.carbonfive.com/2017/09/14/using-host-instead-of-replace-true-in-angular-4/ 
+rxjs: reactive programming, hannah howard, "https://www.youtube.com/watch?v=GqAsNFFpNHQ&t=1s" 
+typescript: adt, remotedata, https://github.com/devexperts/remote-data-ts 
+typescript: adt, giulio canti, https://medium.com/@gcanti/slaying-a-ui-antipattern-with-flow-5eed0cfb627b 
+typscript: adt, giulio canti, https://dev.to/gcanti/interoperability-with-non-functional-code-using-fp-ts-432e 
+typescript: adt, https://github.com/sutarmin, anton surtamin, https://www.youtube.com/watch?v=8fWK2iYgsz8 
+typescript: adt, https://www.youtube.com/watch?v=65yPyFqt7vE 
+typescript: advanced types, https://mariusschulz.com/blog 
+typescript: https://mariusschulz.com/blog/read-only-array-and-tuple-types-in-typescript 
+typescript: unctional programming, https://gcanti.github.io/fp-ts/ 
+typescript: anders hejlsberg, Typescript Introduction, https://www.youtube.com/watch?v=g48K9LEhHWs 
+angular: started ten yeaars ago: google: misko hevery,https://www.youtube.com/watch?v=acjvKJiOvXw, microsot: anders hejlsberg, , https://www.youtube.com/watch?v=g48K9LEhHWs 
+learn: oreilly trial, hs.netxpert@gmail.com 
+angulara: reusable components with ngtemplateoutlet, https://alligator.io/angular/reusable-components-ngtemplateoutlet/ 
+angular: ngTemplateOutlet, card or list, https://alligator.io/angular/reusable-components-ngtemplateoutlet/ 
