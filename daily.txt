@@ -3082,15 +3082,15 @@ r 09:40 15.11.2019
 ---------------------------------------------------------------------------------------------------------------------------------------------
 typescript: advanced types = algebraic data types, https://www.typescriptlang.org/docs/handbook/advanced-types.html
 
-unctional: scott wlaschin, ndc , railway oriented programming 
+functional: scott wlaschin, ndc , railway oriented programming 
 typescript: intro to advanced types, https://blog.carbonfive.com/2018/01/08/an-introduction-to-adts-and-structural-pattern-matching-in-typescript/ 
-unctional: structural pattern matching, http://blog.higher-order.com/blog/2009/08/21/structural-pattern-matching-in-java/ 
+functional: structural pattern matching, http://blog.higher-order.com/blog/2009/08/21/structural-pattern-matching-in-java/ 
 typescript: algebraic data types, giulio canti, https://www.youtube.com/watch?v=rs8rzYmKzVE 
 typescript: Algebraic data types for fun and profit by Cl‚ment Delafargue, https://www.youtube.com/watch?v=EPxi546vVHI 
 typescript: structural patttern matching, algebraic data types, https://blog.carbonfive.com/2018/01/08/an-introduction-to-adts-and-structural-pattern-matching-in-typescript/ 
 svelte: https://blog.carbonfive.com/category/development/ 
 typescript: best practices, https://blog.carbonfive.com/2019/06/17/adjusting-to-typescript-101/ 
-unctional: https://blog.carbonfive.com/2017/12/20/easy-pipeline-debugging-with-curried-console-log/ 
+functional: https://blog.carbonfive.com/2017/12/20/easy-pipeline-debugging-with-curried-console-log/ 
 svelte: expert, https://github.com/will-wow?tab=repositories 
 typescript: expert, https://github.com/will-wow?tab=repositories 
 angular:directives, image directive, https://blog.carbonfive.com/2017/09/14/using-host-instead-of-replace-true-in-angular-4/ 
@@ -3102,9 +3102,21 @@ typescript: adt, https://github.com/sutarmin, anton surtamin, https://www.youtub
 typescript: adt, https://www.youtube.com/watch?v=65yPyFqt7vE 
 typescript: advanced types, https://mariusschulz.com/blog 
 typescript: https://mariusschulz.com/blog/read-only-array-and-tuple-types-in-typescript 
-typescript: unctional programming, https://gcanti.github.io/fp-ts/ 
+typescript: functional programming, https://gcanti.github.io/fp-ts/ 
 typescript: anders hejlsberg, Typescript Introduction, https://www.youtube.com/watch?v=g48K9LEhHWs 
-angular: started ten yeaars ago: google: misko hevery,https://www.youtube.com/watch?v=acjvKJiOvXw, microsot: anders hejlsberg, , https://www.youtube.com/watch?v=g48K9LEhHWs 
+angular:roots started ten yeaars ago: 
+google: Misko Hevery, Angular, https://www.youtube.com/watch?v=acjvKJiOvXw, 
+microsoft: Anders Hejlsberg, Typescript, https://www.youtube.com/watch?v=g48K9LEhHWs
+microsoft: Erik Meijer, Reactive Extensions, https://www.youtube.com/watch?v=FWNTgBpltWA
 learn: oreilly trial, hs.netxpert@gmail.com 
 angulara: reusable components with ngtemplateoutlet, https://alligator.io/angular/reusable-components-ngtemplateoutlet/ 
 angular: ngTemplateOutlet, card or list, https://alligator.io/angular/reusable-components-ngtemplateoutlet/ 
+
+sa 09:00 16.11.2019
+----------------------------------------------------------------------------------------------------------------------------------------------------
+javascript: adt abstract data types,set house, lambdaconf_2018-06-05, https://github.com/whiteinge/presentations/tree/master/lambdaconf_2018-06-05_js-adts
+javascript: functional programming, giulio canti, https://github.com/gcanti/functional-programming.git
+es6 unctional, https://www.youtube.com/watch?v=5iDwYK2frNQ 
+unctional tic-tac-toe part one, https://www.youtube.com/watch?v=gCVMkKgs3uQ 
+unctional tic-tac-toe part two,https://www.youtube.com/watch?v=VxLvaHpAK-U 
+unctional tic-tac-toe part twogithub,https://github.com/tsoding/profun 
