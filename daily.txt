@@ -3120,3 +3120,19 @@ es6 unctional, https://www.youtube.com/watch?v=5iDwYK2frNQ
 unctional tic-tac-toe part one, https://www.youtube.com/watch?v=gCVMkKgs3uQ 
 unctional tic-tac-toe part two,https://www.youtube.com/watch?v=VxLvaHpAK-U 
 unctional tic-tac-toe part twogithub,https://github.com/tsoding/profun 
+
+so 12:25 17.11.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+download:https://scanlibs.com/functional-programming-javascript-practical/
+
+mo 09:20 18.11.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------------javascript: snake game, marcin wadon, https://github.com/marcinwadon/snake-javascript 
+typescript: advanced typescript, todd motto, https://www.youtube.com/watch?v=gL6w7QkrA0c 
+typescript: generic uncional programming, https://github.com/lostintime/fp-to-the-max 
+typescript: pattern matching, https://lostintime.dev/2017/09/06/typematcher-pattern-matching-library-for-typescript.html 
+typescript: expert, Vadim Vasciuc, lostintime.dev, github.com/lostintime 
+typescript: expert, Marcin Wadon, abstract data types in typescript, "https://www.youtube.com/watch?v=H6jTbqnk4Ao&list=PLw5h0DiJ-9PBfduTeli4I3B2zfwY6QZka&index=1" 
+typescript: expert, Deepu K Sasidharan, https://www.youtube.com/playlist?list=PLxayiD7e52nPpb-sSaoOPc-zXGhmOaNHK 
+javascript: unctional expert, reginald braithwaite, https://vimeo.com/search?q=reginald+braithwaite 
+angular: carousel npm package, https://github.com/joselcvarela/ng2-carouselamos 
+web: intro to web, brian holt, https://btholt.github.io/intro-to-web-dev-v2/ 
