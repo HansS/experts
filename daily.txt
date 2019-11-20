@@ -3159,7 +3159,22 @@ angular: advanced components, enrique oriol,https://github.com/kaikcreator/Angul
 angular: push strategy with immutable data, input based, observable based, async 
 angular: component, prpgress-bar, progress-circle, progress-radial with ngTemplateOutlet based on Udemy enrique oriol, angular pro components, 
 angular: component, isaac mann, on egghead 
-angular: component, isaac mann, on connect.nrwl, 200$ 
+angular: component, isaac mann, on connect.nrwl, 200$ ,https://nxplaybook.com/p/advanced-nx-workspaces
 angular: Milosz Piechocki - How to use Functional Programming with Angular 
 angular: reactive , milosz piechocki, codingwithstyle.info,https://codewithstyle.info/tags/video/ 
 angular: reactive , milosz piechocki,https://github.com/miloszpp 
+milosz piechocki, yt, https://www.youtube.com/channel/UC_DEBDpgRyBZAT85tJ1QZBw/playlists 
+angular:reactive, milosz piechocki,reactive programming in angular with rxjs,"https://www.youtube.com/watch?v=G_GTbcRvxnM&list=PLMiKAaqRqsga46haWA1OARq5t6Db3G04j" 
+angular:quizz, https://github.com/haydenbr/react-patterns-in-angular-land 
+angular:quizz,,c:\Users\Folio\web\frontend\javascript\frameworks\angular-samples\hans\angular-quizz\react-patterns-in-angular-land\angular-quiz 
+angular:quizz, https://github.com/haydenbr/react-patterns-in-angular-land,https://www.youtube.com/watch?v=vAehW0ta5Bk 
+angular:compound components,slider sample, david leitner, https://www.youtube.com/watch?v=sxQ8RnvLFPc 
+angular:compound components,slider sample,https://github.com/duffleit/ngTraining-content-projection 
+angular:compound components, isaac mann, blog articles, https://blog.angularindepth.com/write-compound-components-1001449c67f0 
+angular:compound components, isaac mann, egghead, https://blog.angularindepth.com/write-compound-components-1001449c67f0 
+angular:compound components, isaac mann, egghead, https://egghead.io/courses/advanced-angular-component-patterns 
+angular:mvp, tours o heroes in mvp style, https://github.com/LayZeeDK/ngx-tour-of-heroes-mvp?source=post_page-----3a4dbffe49bb---------------------- 
+nrwl:training, https://nxplaybook.com/p/advanced-nx-workspaces, isaac mann,200$ 
+angular:component, tooltip, netanel basal, https://netbasal.com/create-advanced-components-in-angular-e0655df5dde6 
+angular:compound component,https://github.com/chihab/angular-advanced-components.git 
+ionic: juri strumplohner, https://github.com/juristr/ionic4-experiments.git 
