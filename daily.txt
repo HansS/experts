@@ -3136,3 +3136,30 @@ typescript: expert, Deepu K Sasidharan, https://www.youtube.com/playlist?list=PL
 javascript: unctional expert, reginald braithwaite, https://vimeo.com/search?q=reginald+braithwaite 
 angular: carousel npm package, https://github.com/joselcvarela/ng2-carouselamos 
 web: intro to web, brian holt, https://btholt.github.io/intro-to-web-dev-v2/ 
+
+di 10:04 19.11.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+ngrx: chris hardin, oasis, https://github.com/starjumper30/ngrx8-601.git
+angular: patterns, react patterns in angularland, https://github.com/haydenbr/react-patterns-in-angular-land 
+ngrx: chris hardin, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\chris-hardin-oasis 
+docker: in javascriptland, https://www.youtube.com/watch?v=cwrjzzDAEnk 
+rxjs: ninja, https://github.com/pburgmer/rx-ninja 
+javascript_ 
+javascript: es6 unctional, jeremy airebank, https://github.com/jfairbank/fp-basics-in-es6.git 
+javascript: es6 unctional, jeremy airebank, c:\Users\Folio\web\frontend\javascript\functional\jeremy-fairbank-es6\fp-basics-in-es6 
+hans: quizz template, https://github.com/haydenbr/react-patterns-in-angular-land 
+hans: quizz template, https://github.com/haydenbr/react-patterns-in-angular-land,https://www.youtube.com/watch?v=vAehW0ta5Bk 
+
+mi 08:39 20.11.2019
+------------------------------------------------------------------------------------------------------------------------------------------
+nx: nrwhl course, on creating an nx workspace,https://www.youtube.com/playlist?list=PLakNactNC1dH38AfqmwabvOszDmKriGco
+
+angular: advanced components, enrique oriol, github.com\kaikcreator, c:\Users\Folio\web\frontend\javascript\frameworks\angular-components\enriue-oriol-udemy\AngularComponentsAdvanced 
+angular: advanced components, enrique oriol,https://github.com/kaikcreator/AngularComponentsAdvanced 
+angular: push strategy with immutable data, input based, observable based, async 
+angular: component, prpgress-bar, progress-circle, progress-radial with ngTemplateOutlet based on Udemy enrique oriol, angular pro components, 
+angular: component, isaac mann, on egghead 
+angular: component, isaac mann, on connect.nrwl, 200$ 
+angular: Milosz Piechocki - How to use Functional Programming with Angular 
+angular: reactive , milosz piechocki, codingwithstyle.info,https://codewithstyle.info/tags/video/ 
+angular: reactive , milosz piechocki,https://github.com/miloszpp 
