@@ -3178,3 +3178,16 @@ nrwl:training, https://nxplaybook.com/p/advanced-nx-workspaces, isaac mann,200$
 angular:component, tooltip, netanel basal, https://netbasal.com/create-advanced-components-in-angular-e0655df5dde6 
 angular:compound component,https://github.com/chihab/angular-advanced-components.git 
 ionic: juri strumplohner, https://github.com/juristr/ionic4-experiments.git 
+
+do 12:58 21.11.2019
+--------------------------------------------------------------------------------------------------------------------------------------------------
+react: carousel, with react hooks, ryan lorence, https://github.com/ryanflorence/react-conf-2018.git
+react: carousel, with react hooks, ryan lorence,https://www.youtube.com/watch?v=wXLf18DsV-I&list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ&index=2
+react: video course, react hooks, max schwarzmueller,E:\_downloads\React - The Complete Guide (incl Hooks, React Router, Redux)\26. React Hooks
+react: intro , oliver sturm, todo react with hooks, https://www.youtube.com/watch?v=l3RlMF6VClU&t=158s, oliversturm.com,
+
+
+ngrx: nrwl ticket sample, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ngrx\nrwl\nrwl-coding-assignment-2018-nbei7x 
+hans:C:\Users\Folio\web\frontend\javascript\frameworks\angular-content-projection\content-projection-ws 
+hans:c:\Users\Folio\web\frontend\javascript\frameworks\angular-components\enriue-oriol-udemy\AngularComponentsAdvanced 
+react: hans react app, c:\Users\Folio\web\frontend\javascript\libraries\react\my-app 
