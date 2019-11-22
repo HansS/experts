@@ -3191,3 +3191,30 @@ ngrx: nrwl ticket sample, c:\Users\Folio\web\frontend\javascript\frameworks\angu
 hans:C:\Users\Folio\web\frontend\javascript\frameworks\angular-content-projection\content-projection-ws 
 hans:c:\Users\Folio\web\frontend\javascript\frameworks\angular-components\enriue-oriol-udemy\AngularComponentsAdvanced 
 react: hans react app, c:\Users\Folio\web\frontend\javascript\libraries\react\my-app 
+
+r 11:01 22.11.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------
+remote-data: angular remotedata, https://github.com/joanllenas/ngx-remotedata#some-examples
+remote-data: typescript,
+remotedata: https://github.com/joanllenas/ngx-remotedata#some-examples 
+remotedata: react , https://dev.to/margaretkrutikova/modelling-remote-data-in-reasonreact-4mpf 
+remotedata: typescript, https://bendyworks.com/blog/slaying-a-ui-antipattern-with-web-components-and-typescript 
+remotedata: typescript,https://github.com/smaccoun/ts-remotedata 
+remotedata: yt, https://www.youtube.com/watch?v=jscPbqy-W-M 
+remotedata: christian janker, https://github.com/yanxch/fun-with-functional-concepts 
+remote-data: typescript, https://matiasklemola.com/typescript-union-types 
+remote-data: typescript, https://matiasklemola.com/typescript-union-types,https://github.com/klemola/matiasklemola.com/tree/master/content/code/typescript-union-types 
+remote-data: react, http://www.javiercasas.com/articles/constructing-generic-loader-component 
+remote-data: vuejs, bernhard mayr,https://github.com/bemayr/talk.remotedata 
+remote-data: typescript, giulio canti, https://medium.com/@gcanti/slaying-a-ui-antipattern-with-flow-5eed0cfb627b 
+typescript: course, giulio canti, https://github.com/gcanti/typescript-course.git 
+typescript: course, giulio canti,,c:\Users\Folio\web\frontend\typescript\giulio-canti\typescript-course 
+typescript: astexploerer, https://astexplorer.net/ 
+typescript: typed unctional programming, https://gcanti.github.io/fp-ts/ 
+angular: ng-book 8, c:\Users\Folio\web\frontend\javascript\frameworks\angular-ng-books\ng-book-8\ng-book-8 
+download: https://scanlibs.com/git-in-depth/#download 
+react:course, brian holt, https://btholt.github.io/complete-intro-to-react-v5/ 
+hans:c:\Users\Folio\web\frontend\javascript\frameworks\angular-components\hans\components-playground-ws 
+hub:install, git commandline tool,  
+sourcetree:install, git tool, show commits 
+Fira Code:install, vs code, liga Font, 
