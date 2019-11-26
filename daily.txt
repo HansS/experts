@@ -3218,3 +3218,56 @@ hans:c:\Users\Folio\web\frontend\javascript\frameworks\angular-components\hans\c
 hub:install, git commandline tool,  
 sourcetree:install, git tool, show commits 
 Fira Code:install, vs code, liga Font, 
+hans: pet-component, ract course 
+
+sa 11:32 23.11.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+so 15:32 24.11.2019
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+react:react hooks, techsmith, "https://www.youtube.com/watch?v=-9MvABBFdlw&list=PL7pEw9n3GkoWKbs-9UGRyne-NlrMTQuzQ" 
+react:react typescript, https://www.youtube.com/watch?v=nCoQg5qbLcY 
+haskel:thinking with types, https://www.youtube.com/playlist?list=PLW_sOzxD_4gQok1m4uH05zI993SV-uXsI 
+haskell:thinking with types, site, https://thinkingwithtypes.com/ 
+haskell:thinking with types,,https://github.com/isovector 
+haskell:thinking with types,https://www.youtube.com/watch?v=-dHFOjcK6pA 
+download, javascript testing, book, "https://scanlibs.com/javascript-testing-best-practices-video/#download" 
+download: Thinking with Types: Type-Level Programming in Haskell, book, https://scanlibs.com/thinking-types-programming-haskell/#download 
+haskell: Functional Programming Fundamentals - Dr. Erik Meijer, https://www.youtube.com/playlist?list=PLX15ZXZzrWp5l1WkN5VkhmrbVp_ybNFRZ 
+functional programming: philipp wadler, Monads for functional programming, https://www.youtube.com/watch?v=KGJLeHhsZBo 
+functional programming:download, https://scanlibs.com/functional-light-javascript-v3/ 
+
+mo 08:16 25.11.2019
+------------------------------------------------------------------------------------------------------------------------------------------------------
+haskell: haskell or dummies, ytl, https://www.youtube.com/playlist?list=PLE-CSy3N6yEd_WTossnDB7pK9wb4eJD9r 
+haskell: learn you a Haskell, ytl, https://www.youtube.com/playlist?list=PLwiOlW12BuPZUxA2gISnWV32mp26gNq56 
+haskell: learn you a Haskell, book, http://learnyouahaskell.com/ 
+haskell: !!!! Haskell Domain Modelling, https://www.youtube.com/watch?v=BskNvfNjU_8 
+haskell: nptel online course, https://nptel.ac.in/courses/106/106/106106137/ 
+haskell: programming in haskell, graham hutton, https://www.youtube.com/watch?v=t1e8gqXLbsU 
+typescript: typescript evolution, mariuz schultz , 40 blog articles, https://mariusschulz.com/blog/series/typescript-evolution 
+typescript: lenses, with shades library, james mcnamara, https://itnext.io/type-yoga-typing-flexible-functions-with-typescripts-advanced-features-6bb3292732bb 
+typescript: advanced types, https://github.com/jamesmcnamara 
+
+di 09:01 26.11.2019
+.......................................................................................................................................................
+ivy: angular new compiler, manfred steyer, https://www.youtube.com/watch?v=wWQeMD38n2k
+react: functional with hooks, oliver sturm, https://javascript-conference.com/category/blog/, https://javascript-conference.com/blog/react-hooks-react-more-functional-than-ever/
+javascript: unctional js, zaiste, yt, https://www.youtube.com/playlist?list=PLhXZp00uXBk4ejkUZiDnv3R0AERA7Z4xp 
+lambda: category theory or beginners, ytl, https://www.youtube.com/playlist?list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l 
+material: material components beginners, https://www.youtube.com/playlist?list=PLV1euzd9ziJIoUUMMA_u_kSQ-k3Q913e- 
+material:download, material compoents course download, https://scanlibs.com/angular-material-design-video/ 
+hans: yt videos on irebase, c:\Users\Folio\web\frontend\javascript\frameworks\angular-samples\hans\fb-yt-videos 
+yt:api samples on github, https://github.com/youtube/api-samples 
+express:oauth, blog article, https://medium.com/@bogna.ka/integrating-google-oauth-with-express-application-f8a4a2cf3fee 
+express:oauth,https://github.com/jaredhanson/passport-google-oauth2 
+oauth:passport intro, blog article, https://www.freecodecamp.org/news/a-quick-introduction-to-oauth-using-passport-js-65ea5b621a/ 
+oauth:passport intro,ytv,https://www.youtube.com/watch?v=Xv8FtSTSMwc 
+oauth,https://github.com/fus-marcom/bulletin-react 
+surface:word, dictate in word, dayly.docx 
+freecodecamp.org:learning resource, blog articles, ytv, tutorials,  
+material: video course, E:\A10-projects\__learn\Angular\Angular-Material\Angular-Material-Design 
+oauth:udemy course, https://www.udemy.com/course/learn-oauth-2/learn/lecture/3357582#overview 
+oauth:google oauth playground, https://developers.google.com/oauthplayground/ 
+node:auth, ytl,https://www.youtube.com/playlist?list=PLSpJkDDmpFZ7GowbJE-mvX09zY9zfYatI 
+node:auth ecd node:auth,github,https://github.com/eXtremeXR/APIAuthenticationWithNode 
