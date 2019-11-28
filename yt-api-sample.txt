@@ -1,12 +1,111 @@
+OAuth Worksheet for Google
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Documentation:
+
+https://developers.google.com/accounts/docs/OAuth2
+
+https://developers.google.com/oauthplayground/
+
+
+
+Prerequisites:
+
+Google Account
+curl
+
+
+
+---------------------------------------------------------------
+Registration:
+--------------------------------------------------------------------
+https://console.developers.google.com
+
+What you need from registration:
+
+redirectURI =
+URLENCODE(redirectURI) =
+clientId =
+clientSecret =
+
+
+
+
+Authorization Endpoint (Browser):
+-----------------------------------------
+https://accounts.google.com/o/oauth2/
+
+auth?redirect...URLENCODE(redirectURI)
+&response_type=code&client_id=clientId
+&scope=https%3A%2F%2Fmail.google.com%2F
+&approval_prompt=force
+
+What you need:
+
+code =
+
+
+
+
+Token Endpoint:
+-------------------
+curl -X POST -H "content-type: application/x-www-form-urlencoded" -d 
+"grant_type=authorization_code
+&code=code
+&redirect_uri=URLENCODE(redirectURI)
+&client_id=clientId
+&client_secret=clientSecret" "https://accounts.google.com/o/oauth2/token"
+
+What you need:
+
+access_token =
+
+
+
+
+Resource Access:
+
+curl -H "Authorization: Bearer access_token" "https://www.googleapis.com/gmail/v1/users/eMailAddress/messages"
+--------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+google oauth playground youtube playlist
+--------------------------------------
+https://developers.google.com/oauthplayground/#step3&apisSelect=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube&scopes=list&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fplaylists%3Fpart%3Dsnippet%252CcontentDetails%26mine%3Dtrue&content_type=application%2Fjson&http_method=GET&useDefaultOauthCred=unchecked&oauthEndpointSelect=Google&oauthAuthEndpointValue=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth&oauthTokenEndpointValue=https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken&includeCredentials=unchecked&accessTokenType=bearer&autoRefreshToken=unchecked&accessType=offline&prompt=consent&response_type=code&wrapLines=on
+
+oauth settings:
+----------------
+auth endpoint        https://accounts.google.com/o/oauth2/v2/auth
+token endpoint:      https://www.googleapis.com/oauth2/v4/token
+
+
+
+
+
+GET https://www.googleapis.com/youtube/v3/playlists?part=snippet%2CcontentDetails&mine=true&key=AIzaSyC53OmgjbbJsljtZ03HO6cSBi5EvlJTdrI HTTP/1.1
+--------------------------------------------------
+
+GET /youtube/v3/playlists?part=snippet%2CcontentDetails&mine=true HTTP/1.1
+Host: www.googleapis.com
+Content-length: 0
+Authorization: Bearer ya29.Il-yB4MBOSj7J1ZF38ezK4JgF33wMpF9GE6oD7n9Y8gJAUoeqSH6bQqSv858pGY3TtxZ3C8ZAE27IAnxfqXtgcdLI3kJy6hmkG8KRkrIbf_duPm5Uksgh_xNf9zqLDc7-g
+---------------------------------------------------------
+
+Authorization: Bearer [YOUR_ACCESS_TOKEN]
+Accept: application/json
+
+
 1 2 3 # @  * + 	 ""Ff
 114465590
 23.04.1957
 2019-2020,
-
+http://localhost:8081/
 google project 
 yt-videos-202009
 --------------------------------------------------------------
-yt-videos-api-key, AIzaSyCZqzcrO9scFbjGuOzf8msJLs4ENTYOJ2M
+yt-videos-api-key, AIzaSyC53OmgjbbJsljtZ03HO6cSBi5EvlJTdrI
+                   
+
 yt channel id, UCYlW9EuQnlNRtEYqVtpfbDw
 
 // YOU WILL NEED TO ADD YOUR OWN API KEY IN QUOTES ON LINE 5, EVEN FOR THE PREVIEW TO WORK.
@@ -1289,7 +1388,7 @@ interface PageInfo {
 ///////////////// query
 curl \
   'https://www.googleapis.com/youtube/v3/playlists?part=snippet%2CcontentDetails&maxResults=25&mine=true&key=AIzaSyCZqzcrO9scFbjGuOzf8msJLs4ENTYOJ2M' \
-  --header 'Authorization: Bearer [YOUR_ACCESS_TOKEN]' \
+  --header 'Authorization: Bearer ya29.Il-yB1cKZvLyx-Fc6ypFm9FYF-jENw_VAxtfwFBujysipehGwawFzF3XSTQvaQl7Gyzlu04WUTRKfWhdae08WsJxlxgRem-PSmSpwfVxOhAdzTQCa0oEO-t3CrDJ6_lfRA' \
   --header 'Accept: application/json' \
   --compressed
 
@@ -1339,3 +1438,78 @@ Content-type: application/json; charset=utf-8
   "expires_in": 3600, 
   "refresh_token": "1//04yR6czdtEmq5CgYIARAAGAQSNwF-L9IrVb901_W6O-zh-ZusaMbXPYyZas2g6oJwYZp8B5iFnTxjO-wRqb0ueOqi-HhTbBCRoT8"
 }
+
+/////////// javascript youtube api access
+<script src="https://apis.google.com/js/api.js"></script>
+<script>
+  /**
+   * Sample JavaScript code for youtube.playlists.list
+   * See instructions for running APIs Explorer code samples locally:
+   * https://developers.google.com/explorer-help/guides/code_samples#javascript
+   */
+
+  function authenticate() {
+    return gapi.auth2.getAuthInstance()
+        .signIn({scope: "https://www.googleapis.com/auth/youtube.readonly"})
+        .then(function() { console.log("Sign-in successful"); },
+              function(err) { console.error("Error signing in", err); });
+  }
+  function loadClient() {
+    gapi.client.setApiKey("YOUR_API_KEY");
+    return gapi.client.load("https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest")
+        .then(function() { console.log("GAPI client loaded for API"); },
+              function(err) { console.error("Error loading GAPI client for API", err); });
+  }
+  // Make sure the client is loaded and sign-in is complete before calling this method.
+  function execute() {
+    return gapi.client.youtube.playlists.list({
+      "part": "snippet,contentDetails",
+      "mine": true
+    })
+        .then(function(response) {
+                // Handle the results here (response.result has the parsed body).
+                console.log("Response", response);
+              },
+              function(err) { console.error("Execute error", err); });
+  }
+  gapi.load("client:auth2", function() {
+    gapi.auth2.init({client_id: "YOUR_CLIENT_ID"});
+  });
+</script>
+<button onclick="authenticate().then(loadClient)">authorize and load</button>
+<button onclick="execute()">execute</button>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+
+  var firebaseConfig = {
+    apiKey: "AIzaSyBxD4OJd34mJYNSagOI9df--cd2DUPsgUk",
+    authDomain: "netxpert-cb9e4.firebaseapp.com",
+    databaseURL: "https://netxpert-cb9e4.firebaseio.com",
+    projectId: "netxpert-cb9e4",
+    storageBucket: "netxpert-cb9e4.appspot.com",
+    messagingSenderId: "995782541848",
+    appId: "1:995782541848:web:2cab9b89e99b213e06796d",
+    measurementId: "G-C0YP8WYHZH"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+
+const firebaseConfig = {
+  apiKey: "AIzaSyBxD4OJd34mJYNSagOI9df--cd2DUPsgUk",
+  authDomain: "netxpert-cb9e4.firebaseapp.com",
+  databaseURL: "https://netxpert-cb9e4.firebaseio.com",
+  projectId: "netxpert-cb9e4",
+  storageBucket: "netxpert-cb9e4.appspot.com",
+  messagingSenderId: "995782541848",
+  appId: "1:995782541848:web:2cab9b89e99b213e06796d",
+  measurementId: "G-C0YP8WYHZH"
+};

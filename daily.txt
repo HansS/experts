@@ -3271,3 +3271,56 @@ oauth:udemy course, https://www.udemy.com/course/learn-oauth-2/learn/lecture/335
 oauth:google oauth playground, https://developers.google.com/oauthplayground/ 
 node:auth, ytl,https://www.youtube.com/playlist?list=PLSpJkDDmpFZ7GowbJE-mvX09zY9zfYatI 
 node:auth ecd node:auth,github,https://github.com/eXtremeXR/APIAuthenticationWithNode 
+ytl:codeworkr, oauth, node, react, https://www.youtube.com/channel/UCfYTu_qAO5T7a-8rC_74Ypw/playlists 
+
+mi 08:45 27.11.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------
+egghead: 40$/mo
+vuejs: vue academy, download, https://scanlibs.com/vuejs-2-academy-learn-vue-step-video/#download 
+success:ray dalio principles audiobook, yt, https://www.youtube.com/watch?v=MlJ-B8kRH3s 
+success:ray dalio principles,https://www.youtube.com/watch?v=B9XGUpQZY38 
+success:ray dalio principles,https://www.youtube.com/playlist?list=PLykIL_1_MFWnDnFu7GgeF5rBSPts-7wOS 
+hans: yt-videos, oauth google, youtube data api 
+oauth:node, https://github.com/eXtremeXR/APIAuthenticationWithNode 
+oauth:node,https://www.youtube.com/playlist?list=PLSpJkDDmpFZ7GowbJE-mvX09zY9zfYatI 
+oauth: oauth debugger online, https://oauthdebugger.com/ 
+oicd:https://www.youtube.com/watch?v=996OiexHze0 
+jwt:https://www.jsonwebtoken.io/ 
+oauth:matthias biehl, udemy oauth, https://github.com/surfer190/fixes 
+yt-api:blog article, http://dorodnic.com/blog/2018/03/24/getting-started-with-youtube-javascript-api/ 
+yt-api:blog article,,https://github.com/dorodnic/youtube-shuffle.git 
+cialis:http://onlinemedsstore.top/order-viagra-online-de.html 
+yt-api: ts gabi client youtube lib, https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/gapi.client.youtube 
+yt-api: google apps script, gist, https://gist.github.com/mhawksey/42625e5ea3dcd4cb85cc63eb421f06db 
+typescript:download, typescript complete dev guide, https://scanlibs.com/typescript-complete-developers-guide/ 
+yt-channel:UCYlW9EuQnlNRtEYqVtpfbDw 
+
+do 07:50 28.11.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------
+angular:auth, ytl, https://www.youtube.com/playlist?list=PLC3y8-rFHvwg2RBz6UplKTGIXREj9dV0G 
+angular:auth, ytl,github,https://github.com/gopinav/Angular-Authentication-Tutorial 
+nestjs:expert, kelvin may, "https://www.youtube.com/watch?v=s33_LCPrrGc&list=PLBeQxJQNprbiykCyVNcSExTgytMMjSjnQ&index=4" 
+node: node complete dev course, andrew mead, https://www.youtube.com/playlist?list=PLjTsdWerYoeVMM_13kmZv4Ki8QZqknM3c 
+typescript: typescript complete dev, stephen grider, E:\A10-projects\__learn\Typescript\Typescript - Complete Typescript 
+node: node complete dev course, andrew mead,https://www.youtube.com/playlist?list=PLjTsdWerYoeVMM_13kmZv4Ki8QZqknM3c 
+postman:learn api, E:\A10-projects\__learn\workflow\Postman-Api 
+postman:learn, intro, E:\A10-projects\__learn\workflow\Postman-Intro 
+learn:typescript , course, rontendmasters, mike north,E:\_downloads\_fe\_ts\[FreeCoursesOnline.Me] [FrontendMasters] TypeScript 3 Fundamentals, v2 [FCO] 
+learn:typescript, course, packtpub, dimitris loukas, E:\_downloads\_fe\_ts\Design Patterns in TypeScript [Video] 
+learn:typescript, book, rozentals, E:\_downloads\_fe\_ts\Rozentals N. - Mastering TypeScript - 2017 
+learn:typescript, course, rontendmasters, typescript undamentals, mike north, E:\_downloads\_fe\_ts\TypeScript Fundamentals 
+learn:typescript, course, udemy, typescript understanding, max schwarzmueller, E:\_downloads\_fe\_ts\Udemy - Understanding TypeScript-Max-Schwarzmueller 
+learn:typescript, course, pluralsight, advanced typescript, brice wilson, E:\A10-projects\__learn\Typescript\Advanced-Typescript-Brice-Wilson\Advanced TypeScript 
+learn:typescript, videos, tarun sharma, E:\A10-projects\__learn\Typescript\Advanced-Typescript-Tarun-Sharma-2018 
+learn:typescript, book, unctional typescript, E:\A10-projects\__learn\Typescript\Hands-On-Ts-Functional 
+learn:typescript, course, advanced typescript, james henri, E:\A10-projects\__learn\Typescript\James-Henry\Typescript Advanced 
+learn:typescript, ytl, E:\A10-projects\__learn\Typescript\Learn TypeScript - YouTube 
+learn:typescript, course, packtpub,advanced typescript, david sherret, E:\A10-projects\__learn\Typescript\Mastering TypeScript - Second Edition [Video] 
+learn:typescript, course, pluralsight, typescript compiler, E:\A10-projects\__learn\Typescript\Pluralsight - Getting the Most from the TypeScript's Compiler 
+learn:typescript, course, pluralsight, typescript in depth, brice wilson, E:\A10-projects\__learn\Typescript\Pluralsight - TypeScript In-depth 
+learn:typescript, course, packtpub, E:\A10-projects\__learn\Typescript\Typescript-3-Web-Frontend 
+learn:typescript, course, typescript in node, E:\A10-projects\__learn\Typescript\Typescript-Nodejs 
+learn:typescript, book, oreilly, boris cherny, typescript programming applications, E:\A10-projects\__learn\Typescript\Typescript-Programming-Making-Applications 
+learn:typescript, course, ultimatecourses.com, E:\A10-projects\__learn\Typescript\UltimateCourses-Typescript-Masterclass-90$ 
+turbobit:8yg3tqkf2zjz9p6 
+learn: rontent architecture, https://www.youtube.com/playlist?list=PLw5h0DiJ-9PB_JA0GMbXSIOXugw_P_Vrd 
