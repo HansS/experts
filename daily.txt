@@ -3324,3 +3324,23 @@ learn:typescript, book, oreilly, boris cherny, typescript programming applicatio
 learn:typescript, course, ultimatecourses.com, E:\A10-projects\__learn\Typescript\UltimateCourses-Typescript-Masterclass-90$ 
 turbobit:8yg3tqkf2zjz9p6 
 learn: rontent architecture, https://www.youtube.com/playlist?list=PLw5h0DiJ-9PB_JA0GMbXSIOXugw_P_Vrd 
+yt-api:code, search yt playlists, https://www.youtube.com/playlist?list=PL3CDD0Jz5nVHmuDCw0xESAD3fg4Ng_WuG 
+github:search, javascript, youtube data api, "https://github.com/search?l=JavaScript&q=youtube%20data%20api+in%3Aname&type=Repositories" 
+
+r 08:48 29.11.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------
+learn:nx, nx monorepo, nrwl, isaac mann, ytl, https://www.youtube.com/playlist?list=PLakNactNC1dH38AfqmwabvOszDmKriGco
+code:javascript , quiz app, ytl, https://www.youtube.com/playlist?list=PL7cV3PwjgB55dcZ_cgXBSgjKctKnW5fp2 
+yt-api: quickstart, https://developers.google.com/youtube/v3/quickstart/js 
+oauth: google oauth demo, https://github.com/ionelh/google-oauth-demo-app 
+oauth: google oauth demo,https://medium.com/better-programming/log-in-with-the-google-oauth-demo-app-9e7d0e801c29 
+oauth:goole youtube api with node, https://github.com/googleapis/google-api-nodejs-client/tree/master/samples/youtube 
+oauth: google oauth demo,C:\Users\Folio\web\backend\google\google-oauth-demo-app 
+oauth: google oauth demo,Ionel Hindorean, works in zurich, https://twitter.com/ionelh
+
+cloud:google cloud, irebase is little google cloud 
+cloud:google cloud shell, terminal in the cloud 
+oauth:google, oauth with web server, https://developers.google.com/identity/protocols/OAuth2WebServer 
+oauth:google,oauth with web client app,https://developers.google.com/identity/protocols/OAuth2UserAgent 
+oauth:google,oauth,oauth mobile client app,https://developers.google.com/identity/protocols/OAuth2InstalledApp 
+oauth:google,scopes, https://developers.google.com/identity/protocols/googlescopes 
