@@ -3337,10 +3337,26 @@ oauth: google oauth demo,https://medium.com/better-programming/log-in-with-the-g
 oauth:goole youtube api with node, https://github.com/googleapis/google-api-nodejs-client/tree/master/samples/youtube 
 oauth: google oauth demo,C:\Users\Folio\web\backend\google\google-oauth-demo-app 
 oauth: google oauth demo,Ionel Hindorean, works in zurich, https://twitter.com/ionelh
-
 cloud:google cloud, irebase is little google cloud 
 cloud:google cloud shell, terminal in the cloud 
 oauth:google, oauth with web server, https://developers.google.com/identity/protocols/OAuth2WebServer 
 oauth:google,oauth with web client app,https://developers.google.com/identity/protocols/OAuth2UserAgent 
 oauth:google,oauth,oauth mobile client app,https://developers.google.com/identity/protocols/OAuth2InstalledApp 
 oauth:google,scopes, https://developers.google.com/identity/protocols/googlescopes 
+
+sa 10:32 30.11.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------
+learn schematics:kevin schuchard, briebug, https://www.kevinschuchard.com/, https://github.com/schuchard?tab=repositories
+code:schematics, prettier, kevin schuchard, https://github.com/schuchard/prettier-schematic, ng add @schuchard/prettier
+schematics:prettier,ng add @schuchard/prettier,  ng g @schuchard/prettier:add
+schematics:schematic-starter,kevin schuchard, https://www.kevinschuchard.com/blog/2018-11-20-schematic-sandbox/
+schematics:schematic-starter,https://github.com/schuchard/schematic-starter
+schematics:workshop, kevin schuchard, https://github.com/schuchard/ng-crash-course-201909
+angular:reactive orms, briebug, https://briebug.gitbook.io/angular-fundamentals/reactive-forms
+schematics:jest, kevin schuchard, https://github.com/briebug/jest-schematic
+schematics:cypress, kevin schuchard, https://github.com/briebug/cypress-schematic
+schematics:resources, kevin schuchard, https://www.kevinschuchard.com/blog/2019-11-21-schematic-resources/
+schematics:interpolation, kevin schuchard, https://www.kevinschuchard.com/blog/2019-05-17-iterpolating-schematics/
+schematics:testing, kevin schuchard, https://www.kevinschuchard.com/blog/2018-11-20-schematic-sandbox/
+typescript: mapped types and conditional types, practical sample in validation, https://www.youtube.com/watch?v=fv1eLnTJLU0&list=WL&index=3&t=0s
+oauth:yt-oauth sample, C:\Users\Folio\web\backend\google\google-oauth-demo-app 
