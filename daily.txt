@@ -3329,8 +3329,8 @@ github:search, javascript, youtube data api, "https://github.com/search?l=JavaSc
 
 r 08:48 29.11.2019
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-learn:nx, nx monorepo, nrwl, isaac mann, ytl, https://www.youtube.com/playlist?list=PLakNactNC1dH38AfqmwabvOszDmKriGco
-code:javascript , quiz app, ytl, https://www.youtube.com/playlist?list=PL7cV3PwjgB55dcZ_cgXBSgjKctKnW5fp2 
+learn:nx, nx monorepo, nrwl, isaac mann, ytl
+code:javascript , quiz app, yt
 yt-api: quickstart, https://developers.google.com/youtube/v3/quickstart/js 
 oauth: google oauth demo, https://github.com/ionelh/google-oauth-demo-app 
 oauth: google oauth demo,https://medium.com/better-programming/log-in-with-the-google-oauth-demo-app-9e7d0e801c29 
@@ -3360,3 +3360,24 @@ schematics:interpolation, kevin schuchard, https://www.kevinschuchard.com/blog/2
 schematics:testing, kevin schuchard, https://www.kevinschuchard.com/blog/2018-11-20-schematic-sandbox/
 typescript: mapped types and conditional types, practical sample in validation, https://www.youtube.com/watch?v=fv1eLnTJLU0&list=WL&index=3&t=0s
 oauth:yt-oauth sample, C:\Users\Folio\web\backend\google\google-oauth-demo-app 
+nzz-ormat: yt, https://www.youtube.com/user/NZZFormat/videos 
+
+mo 08:47 02.12.2019
+-------------------------------------------------------------------------------------------------------------------------------------------------
+angular:depenency injection
+angular:3D, Directives, Data Binding, Dependency Injection
+angular:Fullstack angular node mongodb, ytl, rupesh tiwari, https://www.youtube.com/playlist?list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD 
+angular:Fullstack angular node mongodb,https://github.com/rupeshtiwari/product-mart/tree/master 
+angular:Fullstack angular node mongodb,https://gist.github.com/rupeshtiwari/533ae85655816b58386f7bd1e94df8a9 
+jwt:learn token baed authentication, ytl, rupesh tiwari, https://www.youtube.com/playlist?list=PLZed_adPqIJp9M8sXttDmlCzWzat44GRi 
+mean:Fullstack master, rupesh tiwari, https://rupeshtiwari.com/, https://github.com/rupeshtiwari, https://www.youtube.com/channel/UCfjBZHutgAYon-T8sqt1rwg 
+hans:learn token baed authentication, ytl, rupesh tiwari, https://www.youtube.com/playlist?list=PLZed_adPqIJp9M8sXttDmlCzWzat44GRi 
+jwt: angular jwt sample, https://github.com/AldoHub/Angular8-JWT-Client 
+jwt: angular jwt sample,https://www.youtube.com/watch?v=1I2GgymzqNY 
+jwt: intro, minute 09 40, https://www.youtube.com/watch?v=2PPSXonhIck 
+jwt:ryan chenkie 
+angular:oauth, ryan chenkie, kim maida 
+jwt:angular, ryan chenkie, "C:\Users\Folio\Downloads\Secure Authentication for Web Apps & APIs Using JWTs" 
+jwt:angular, ryan chenkiehttps://github.com/chenkie/user-authentication-api 
+jwt:angular, ryan chenkie,https://github.com/chenkie/angular2-user-authentication 
+training:http://www.trainuntamed.com/ 
