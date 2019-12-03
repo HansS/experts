@@ -3381,3 +3381,12 @@ jwt:angular, ryan chenkie, "C:\Users\Folio\Downloads\Secure Authentication for W
 jwt:angular, ryan chenkiehttps://github.com/chenkie/user-authentication-api 
 jwt:angular, ryan chenkie,https://github.com/chenkie/angular2-user-authentication 
 training:http://www.trainuntamed.com/ 
+
+di 10:53 03.12.2019
+---------------------------------------------------------------------------------------------------------------------------------------------------
+oauth:javascript google sign sdk 
+hans:learn,video course, oauth,"C:\Users\Folio\Downloads\Secure Authentication for Web Apps & APIs Using JWTs" 
+jwt:angular, api, c:\Users\Folio\web\frontend\javascript\frameworks\angular-oauth\ryan-chenkie\user-authentication-api 
+training:https://www.fitfatherproject.com/ 
+nestjs:jwt, https://www.bhaidar.dev/ 
+traininng:https://www.boneandmuscle.com/pages/videos-presentations 
